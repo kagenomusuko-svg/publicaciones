@@ -134,7 +134,7 @@ def title_page(root: Path) -> str:
     author = lines[3] if len(lines)>3 else 'Miguel Hilario Olvera Aguilar'
     collection = next((x for x in lines if x.lower().startswith('colección:')), 'Colección: Reivindicación ontológica del ego')
     publisher = next((x for x in lines if 'Centro Multidisciplinario' in x), PUBLISHER)
-    year_match = re.search(r'(20\\d{2})', publisher)
+    year_match = re.search(r'(20\d{2})', publisher)
     year = year_match.group(1) if year_match else '2026'
     publisher = publisher.replace(' · 2026', '').strip()
     esc = html.escape
