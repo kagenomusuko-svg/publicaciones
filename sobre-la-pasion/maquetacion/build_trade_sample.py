@@ -41,19 +41,20 @@ CSS = r'''
   margin: 17mm 16.5mm 19mm 20mm;
   counter-increment: bodyPage;
   @top-left {
-    content: "AFRODITA AREIA · I";
-    font: 7.6pt "EB Garamond";
-    color: #1E4C45;
-    letter-spacing: .04em;
+    content: element(bookleft);
     border-bottom: .45pt solid #D4D4D4;
     padding-bottom: 1.6mm;
+    vertical-align: bottom;
+  }
+  @top-center {
+    content: " ";
+    border-bottom: .45pt solid #D4D4D4;
   }
   @top-right {
-    content: "SOBRE LA PASIÓN";
-    font: 7.4pt "EB Garamond";
-    color: #666;
+    content: element(bookright);
     border-bottom: .45pt solid #D4D4D4;
     padding-bottom: 1.6mm;
+    vertical-align: bottom;
   }
   @bottom-right {
     content: counter(bodyPage);
@@ -65,19 +66,20 @@ CSS = r'''
   margin: 17mm 20mm 19mm 16.5mm;
   counter-increment: bodyPage;
   @top-left {
-    content: "SOBRE LA PASIÓN";
-    font: 7.4pt "EB Garamond";
-    color: #666;
+    content: element(bookleft);
     border-bottom: .45pt solid #D4D4D4;
     padding-bottom: 1.6mm;
+    vertical-align: bottom;
+  }
+  @top-center {
+    content: " ";
+    border-bottom: .45pt solid #D4D4D4;
   }
   @top-right {
-    content: "AFRODITA AREIA · I";
-    font: 7.6pt "EB Garamond";
-    color: #1E4C45;
-    letter-spacing: .04em;
+    content: element(bookright);
     border-bottom: .45pt solid #D4D4D4;
     padding-bottom: 1.6mm;
+    vertical-align: bottom;
   }
   @bottom-left {
     content: counter(bodyPage);
@@ -94,6 +96,30 @@ html, body {
   padding: 0;
   font-family: "EB Garamond", Garamond, serif;
   color: #262626;
+}
+.running-header-left {
+  position: running(bookleft);
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+.running-header-left img {
+  width: 6.5mm;
+  height: 6.5mm;
+  object-fit: contain;
+  margin-right: 2.2mm;
+}
+.running-header-left .book {
+  font: 700 7.6pt "EB Garamond";
+  color: #1E4C45;
+  letter-spacing: .04em;
+}
+.running-header-right {
+  position: running(bookright);
+  white-space: nowrap;
+  text-align: right;
+  font: 7.4pt "EB Garamond";
+  color: #666;
 }
 
 .part-page {
@@ -270,6 +296,8 @@ def build(root: Path, output: Path) -> None:
     doc = (
         '<!doctype html><html lang="es"><head><meta charset="utf-8">'
         f'<style>{CSS}</style></head><body>'
+        + '<div class="running-header-left"><img src="assets/logo-green.png"><span class="book">AFRODITA AREIA · I</span></div>'
+        + '<div class="running-header-right">SOBRE LA PASIÓN</div>'
         + part_html(root)
         + chapter_html(root)
         + '</body></html>'
