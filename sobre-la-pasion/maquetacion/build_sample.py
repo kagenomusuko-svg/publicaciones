@@ -25,7 +25,7 @@ CSS = r'''
   margin: 27.5mm 20.5mm 22mm;
   @top-center { content: element(bookheader); }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
-  @bottom-right { content: counter(page, lower-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-right { content: counter(page, upper-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
 @page body {
   margin: 27.5mm 20.5mm 22mm;
