@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import argparse, html, re
+import argparse, base64, html, io, re
 from pathlib import Path
 from markdown_it import MarkdownIt
+from PIL import Image
 from weasyprint import HTML
 
 GREEN = '#1E4C45'
@@ -86,6 +87,34 @@ th { background: #F5F5F2; }
 
 md = MarkdownIt('commonmark', {'html': True}).enable('table')
 
+def ensure_seal(root: Path) -> Path:
+    """Replica la máscara/tinte de dialogos-eleatas/src/lib/seal.ts."""
+    svg_path = root / 'assets' / 'logo.svg'
+    output = root / 'assets' / 'logo-green.png'
+    svg = svg_path.read_text(encoding='utf-8')
+    match = re.search(r'data:image/png;base64,([A-Za-z0-9+/=]+)', svg)
+    if not match:
+        raise RuntimeError('El logo institucional no contiene la máscara PNG esperada.')
+
+    source = Image.open(io.BytesIO(base64.b64decode(match.group(1)))).convert('RGBA')
+    padding = max(1, round(max(source.size) * 0.06))
+    target = Image.new('RGBA', (source.width + padding * 2, source.height + padding * 2), (0, 0, 0, 0))
+    src = source.load()
+    dst = target.load()
+    green = (30, 76, 69)
+
+    for y in range(source.height):
+        for x in range(source.width):
+            r, g, b, a = src[x, y]
+            luminance = 0.2126 * r + 0.7152 * g + 0.0722 * b
+            mask_alpha = round((255 - luminance) * (a / 255))
+            if mask_alpha:
+                dst[x + padding, y + padding] = (*green, mask_alpha)
+
+    output.parent.mkdir(parents=True, exist_ok=True)
+    target.save(output)
+    return output
+
 def clean_lines(raw: str):
     return [re.sub(r'[*#>`_]', '', x).strip() for x in raw.splitlines() if x.strip()]
 
@@ -99,7 +128,7 @@ def title_page(root: Path) -> str:
     publisher = next((x for x in lines if 'Centro Multidisciplinario' in x), PUBLISHER)
     year = next((x for x in reversed(lines) if re.fullmatch(r'20\d{2}', x)), '2026')
     esc = html.escape
-    return f'''<section class="title-page"><img class="seal" src="assets/logo.svg"><div class="institution">Centro Multidisciplinario Meriadock</div><div class="rule"></div><div class="org">Formación y Asesoría A.C.</div><div class="motto">“{esc(MOTTO)}”</div><div class="main">{esc(title.upper())}</div><div class="subtitle">{esc(subtitle)}</div><div class="volume">{esc(volume)}</div><div class="author">{esc(author)}</div><div class="bottom"><div class="collection">{esc(collection)}</div><div>{esc(publisher.replace(' ·','').strip())}</div><div>{esc(year)}</div></div></section>'''
+    return f'''<section class="title-page"><img class="seal" src="assets/logo-green.png"><div class="institution">Centro Multidisciplinario Meriadock</div><div class="rule"></div><div class="org">Formación y Asesoría A.C.</div><div class="motto">“{esc(MOTTO)}”</div><div class="main">{esc(title.upper())}</div><div class="subtitle">{esc(subtitle)}</div><div class="volume">{esc(volume)}</div><div class="author">{esc(author)}</div><div class="bottom"><div class="collection">{esc(collection)}</div><div>{esc(publisher.replace(' ·','').strip())}</div><div>{esc(year)}</div></div></section>'''
 
 def epigraph(root: Path) -> str:
     return '<section class="epigraph-page">' + md.render((root/'03.md').read_text(encoding='utf-8')) + '</section>'
@@ -109,14 +138,15 @@ def part_page(root: Path) -> str:
     m = re.search(r'(Parte\s+[IVXLCDM]+)\s*[—:-]?\s*(.*)', text, re.I)
     part = m.group(1) if m else 'Parte I'
     subtitle = m.group(2) if m else text
-    return f'''<section class="part-page"><img src="assets/logo.svg"><div class="series">AFRODITA AREIA · I</div><div class="rule"></div><h1>{html.escape(part)}</h1><h2>{html.escape(subtitle)}</h2></section>'''
+    return f'''<section class="part-page"><img src="assets/logo-green.png"><div class="series">AFRODITA AREIA · I</div><div class="rule"></div><h1>{html.escape(part)}</h1><h2>{html.escape(subtitle)}</h2></section>'''
 
 def render_piece(root: Path, stem: str, cls: str) -> str:
     return f'<section class="{cls}">' + md.render((root/f'{stem}.md').read_text(encoding='utf-8')) + '</section>'
 
 def build(root: Path, output: Path):
+    ensure_seal(root)
     cover = html.escape((root/'Portada Vol I.png').as_uri())
-    header = '''<header class="running-header"><img src="assets/logo.svg"><span class="book">AFRODITA AREIA · I</span><span class="sub">SOBRE LA PASIÓN</span></header>'''
+    header = '''<header class="running-header"><img src="assets/logo-green.png"><span class="book">AFRODITA AREIA · I</span><span class="sub">SOBRE LA PASIÓN</span></header>'''
     sections = [f'<section class="cover-page"><img src="{cover}"></section>', title_page(root)]
     sections.append(render_piece(root, '02', 'legal-page'))
     sections.append(epigraph(root))
