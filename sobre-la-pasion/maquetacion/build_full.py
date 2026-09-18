@@ -298,8 +298,8 @@ def document_html(
     *,
     markers: bool = False,
 ) -> str:
-    cover = html.escape((root/'Portada Vol I.png').as_uri())
-    back = html.escape((root/'Contraportada Vol I.png').as_uri())
+    cover = html.escape((root/'Portada Vol I red.png').as_uri())
+    back = html.escape((root/'Contra portada Vol I.png').as_uri())
     header = (
         '<div class="running-header-left"><img src="assets/logo-green.png">'
         '<span class="book">AFRODITA AREIA · I</span></div>'
