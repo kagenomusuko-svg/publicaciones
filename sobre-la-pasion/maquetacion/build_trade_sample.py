@@ -194,9 +194,9 @@ html, body {
 .chapter > h2:first-of-type:after {
   content: "";
   display: block;
-  width: 33mm;
-  margin: 4.5mm auto 0;
-  border-top: .75pt solid #1E4C45;
+  width: 42mm;
+  margin: 5mm auto 0;
+  border-top: .8pt solid #1E4C45;
 }
 .chapter > blockquote:first-of-type {
   max-width: 93mm;
