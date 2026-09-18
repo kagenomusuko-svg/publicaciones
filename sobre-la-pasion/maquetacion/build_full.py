@@ -26,20 +26,20 @@ CSS = r'''
 @page front {
   margin: 32mm 28mm 32mm 29mm;
   @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
-  @top-center { content: ""; border-bottom: .6pt solid #CFCFCF; }
+  @top-center { content: " "; border-bottom: .6pt solid #CFCFCF; }
   @top-right { content: element(bookright); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
-  @bottom-center { content: ""; border-top: .5pt solid #D8D8D8; }
+  @bottom-center { content: " "; border-top: .5pt solid #D8D8D8; }
   @bottom-right { content: counter(page, upper-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
 @page body {
   margin: 32mm 28mm 32mm 29mm;
   counter-increment: bodyPage;
   @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
-  @top-center { content: ""; border-bottom: .6pt solid #CFCFCF; }
+  @top-center { content: " "; border-bottom: .6pt solid #CFCFCF; }
   @top-right { content: element(bookright); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
-  @bottom-center { content: ""; border-top: .5pt solid #D8D8D8; }
+  @bottom-center { content: " "; border-top: .5pt solid #D8D8D8; }
   @bottom-right { content: counter(bodyPage); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
 html { counter-reset: bodyPage 0; }
@@ -104,11 +104,14 @@ li { margin-bottom: 1.5mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
 th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
 th { background: #F5F5F2; }
-.toc-table { width: 100%; border-collapse: collapse; table-layout: auto; margin: 0; font-size: 10pt; }
+.toc-table { width: 100%; border-collapse: collapse; table-layout: fixed; margin: 0; font-size: 10pt; }
+.toc-table .col-label { width: 72%; }
+.toc-table .col-leader { width: 18%; }
+.toc-table .col-page { width: 10%; }
 .toc-table td { border: 0; padding: 0 0 2.1mm; vertical-align: bottom; background: transparent; }
-.toc-table .toc-label { width: auto; }
-.toc-table .toc-leader { width: 100%; border-bottom: .5pt dotted #BEBEBE; padding-left: 2mm; padding-right: 2mm; }
-.toc-table .toc-page { width: 10mm; text-align: right; white-space: nowrap; color: #1E4C45; font-weight: 600; }
+.toc-table .toc-label { padding-right: 2mm; }
+.toc-table .toc-leader { border-bottom: .5pt dotted #BEBEBE; }
+.toc-table .toc-page { text-align: right; white-space: nowrap; color: #1E4C45; font-weight: 600; }
 .toc-table tr.toc-part .toc-label,
 .toc-table tr.toc-part .toc-page { color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; padding-top: 2.8mm; }
 .toc-table tr.toc-chapter .toc-label { padding-left: 5mm; }
@@ -179,7 +182,9 @@ def toc_page(numbers: dict[str, str] | None = None) -> str:
         )
     return (
         '<section class="toc"><h1>ÍNDICE</h1>'
-        '<table class="toc-table"><tbody>'
+        '<table class="toc-table">'
+        '<colgroup><col class="col-label"><col class="col-leader"><col class="col-page"></colgroup>'
+        '<tbody>'
         + ''.join(rows)
         + '</tbody></table></section>'
     )
