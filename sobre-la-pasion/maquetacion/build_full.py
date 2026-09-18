@@ -6,6 +6,7 @@ from pathlib import Path
 from markdown_it import MarkdownIt
 from PIL import Image
 from weasyprint import HTML
+from pypdf import PdfReader
 
 GREEN = '#1E4C45'
 TEXT = '#262626'
@@ -18,17 +19,18 @@ CSS = r'''
 @page { size: A4; }
 @page cover { margin: 0; }
 @page title { margin: 0; }
-@page legal { margin: 22mm 23mm; }
+@page legal { margin: 32mm 28mm 32mm 29mm; }
 @page epigraph { margin: 0; }
 @page part { margin: 0; }
+@page part-body { margin: 0; counter-increment: bodyPage; }
 @page front {
-  margin: 27.5mm 20.5mm 22mm;
+  margin: 32mm 28mm 32mm 29mm;
   @top-center { content: element(bookheader); }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
   @bottom-right { content: counter(page, upper-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
 @page body {
-  margin: 27.5mm 20.5mm 22mm;
+  margin: 32mm 28mm 32mm 29mm;
   counter-increment: bodyPage;
   @top-center { content: element(bookheader); }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
@@ -36,7 +38,7 @@ CSS = r'''
 }
 html { counter-reset: bodyPage 0; }
 html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif; color: #262626; }
-.running-header { position: running(bookheader); width: 169mm; height: 13mm; display: flex; align-items: center; border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; }
+.running-header { position: running(bookheader); width: 153mm; height: 13mm; display: flex; align-items: center; border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; }
 .running-header img { width: 8mm; height: 8mm; object-fit: contain; margin-right: 3mm; }
 .running-header .book { font: 700 8pt "EB Garamond"; color: #1E4C45; letter-spacing: .04em; }
 .running-header .sub { margin-left: auto; font: 7.5pt "EB Garamond"; color: #666; }
@@ -60,6 +62,7 @@ html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif;
 .epigraph-page blockquote { border: 0; margin: 0; color: #444; font-size: 14pt; line-height: 1.5; font-style: italic; }
 .frontmatter { page: front; break-before: page; }
 .part-page { page: part; break-before: page; break-after: page; height: 297mm; box-sizing: border-box; text-align: center; padding-top: 62mm; }
+.part-page.counted { page: part-body; }
 .part-page img { width: 28mm; height: 28mm; object-fit: contain; }
 .part-page .series { margin-top: 5mm; color: #1E4C45; font-size: 14pt; font-variant: small-caps; letter-spacing: .08em; }
 .part-page .rule { width: 75mm; border-top: .7pt solid #1E4C45; margin: 5mm auto 14mm; }
@@ -89,12 +92,84 @@ li { margin-bottom: 1.5mm; }
 .chapter > h2:first-of-type { text-align: center; font-size: 24pt; line-height: 1.1; margin: 2mm 0 6mm; }
 .chapter > h2:first-of-type:after { content: ""; display: block; width: 42mm; margin: 5mm auto 0; border-top: .8pt solid #1E4C45; }
 .chapter > blockquote:first-of-type { max-width: 120mm; margin: 6mm auto 9mm; }
+.pdf-marker { position: absolute; left: 1mm; top: 1mm; color: #fff; font-size: 1pt; line-height: 1; }
+.toc { page: front; break-before: page; }
+.toc h1 { font-size: 25pt; margin: 5mm 0 8mm; }
+.toc-entry { display: flex; align-items: baseline; gap: 2mm; margin: 0 0 2.2mm; font-size: 10pt; }
+.toc-entry .label { white-space: nowrap; }
+.toc-entry .leader { flex: 1; border-bottom: .5pt dotted #BEBEBE; transform: translateY(-1.2mm); }
+.toc-entry .page-no { min-width: 9mm; text-align: right; color: #1E4C45; font-weight: 600; }
+.toc-entry.part { margin-top: 4mm; color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
+.toc-entry.chapter { padding-left: 5mm; }
+.toc-entry.appendix { margin-top: 2.5mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
 th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
 th { background: #F5F5F2; }
 '''
 
 md = MarkdownIt('commonmark', {'html': True}).enable('table')
+
+TOC_ENTRIES = [
+    ('prefacio', 'Prefacio · El día que el caos llegó al Olimpo', 'front'),
+    ('prologo', 'Prólogo · Por qué la voluntad necesita un nuevo comienzo', 'front'),
+    ('parte-i', 'Parte I · El caos y la posibilidad', 'part'),
+    ('cap-1', 'Capítulo 1 · El caos no es desorden', 'chapter'),
+    ('cap-2', 'Capítulo 2 · Determinación y colapso', 'chapter'),
+    ('cap-3', 'Capítulo 3 · Habitar el caos', 'chapter'),
+    ('parte-ii', 'Parte II · La pasión como fuerza ontológica', 'part'),
+    ('cap-4', 'Capítulo 4 · Qué es la pasión', 'chapter'),
+    ('cap-5', 'Capítulo 5 · La pasión en los objetos', 'chapter'),
+    ('cap-6', 'Capítulo 6 · La pasión en los organismos', 'chapter'),
+    ('cap-7', 'Capítulo 7 · Las dos direcciones de la pasión', 'chapter'),
+    ('parte-iii', 'Parte III · Las mediaciones', 'part'),
+    ('cap-8', 'Capítulo 8 · La mediación prima', 'chapter'),
+    ('cap-9', 'Capítulo 9 · La identidad como dimensión del ser', 'chapter'),
+    ('cap-10', 'Capítulo 10 · La mediación fanes', 'chapter'),
+    ('cap-11', 'Capítulo 11 · La mediación bis', 'chapter'),
+    ('parte-iv', 'Parte IV · El ego como integral', 'part'),
+    ('cap-12', 'Capítulo 12 · Las tres fórmulas: mapa del sistema', 'chapter'),
+    ('cap-13', 'Capítulo 13 · El ego como proceso', 'chapter'),
+    ('cap-14', 'Capítulo 14 · Las posibilidades negadas', 'chapter'),
+    ('parte-v', 'Parte V · La pasión y el sujeto', 'part'),
+    ('cap-15', 'Capítulo 15 · Antes del pensamiento, la pasión', 'chapter'),
+    ('ap-a', 'Apéndice A · El aego. Afasia volitiva y singularidad ontológica', 'appendix'),
+    ('ap-b', 'Apéndice B · Zagreo o la soberanía no consentida', 'appendix'),
+    ('ap-c', 'Apéndice C · Narciso o la víctima indistinguible', 'appendix'),
+    ('glosario', 'Glosario de términos', 'appendix'),
+]
+
+def roman(value: int) -> str:
+    pairs = (
+        (1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'),
+        (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'),
+        (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I'),
+    )
+    n = max(1, int(value))
+    result = []
+    for amount, symbol in pairs:
+        while n >= amount:
+            result.append(symbol)
+            n -= amount
+    return ''.join(result)
+
+def marker(key: str, enabled: bool) -> str:
+    if not enabled:
+        return ''
+    return f'<span class="pdf-marker">[[IDX:{html.escape(key)}]]</span>'
+
+def toc_page(numbers: dict[str, str] | None = None) -> str:
+    numbers = numbers or {}
+    rows = []
+    for key, label, kind in TOC_ENTRIES:
+        page_no = numbers.get(key, '000')
+        rows.append(
+            f'<div class="toc-entry {kind}">'
+            f'<span class="label">{html.escape(label)}</span>'
+            f'<span class="leader"></span>'
+            f'<span class="page-no">{html.escape(page_no)}</span>'
+            f'</div>'
+        )
+    return '<section class="toc"><h1>ÍNDICE</h1>' + ''.join(rows) + '</section>'
 
 def ensure_seal(root: Path) -> Path:
     """Replica la máscara/tinte de dialogos-eleatas/src/lib/seal.ts."""
@@ -144,77 +219,190 @@ def title_page(root: Path) -> str:
 def epigraph(root: Path) -> str:
     return '<section class="epigraph-page">' + md.render((root/'03.md').read_text(encoding='utf-8')) + '</section>'
 
-def part_page_from_text(part: str, subtitle: str, epigraph: str = '') -> str:
-    return f'''<section class="part-page"><img src="assets/logo-green.png"><div class="series">AFRODITA AREIA · I</div><div class="rule"></div><h1>{html.escape(part)}</h1><h2>{html.escape(subtitle)}</h2><div class="epigraph">{html.escape(epigraph)}</div></section>'''
+def part_page_from_text(
+    part: str,
+    subtitle: str,
+    epigraph: str = '',
+    *,
+    marker_key: str = '',
+    markers: bool = False,
+    counted: bool = False,
+) -> str:
+    cls = 'part-page counted' if counted else 'part-page'
+    return (
+        f'<section class="{cls}">{marker(marker_key, markers)}'
+        f'<img src="assets/logo-green.png"><div class="series">AFRODITA AREIA · I</div>'
+        f'<div class="rule"></div><h1>{html.escape(part)}</h1>'
+        f'<h2>{html.escape(subtitle)}</h2><div class="epigraph">{html.escape(epigraph)}</div></section>'
+    )
 
-def part_page(root: Path) -> str:
+def part_page(root: Path, markers: bool = False) -> str:
     lines = clean_lines((root/'08.md').read_text(encoding='utf-8'))
     return part_page_from_text(
         lines[0] if lines else 'Parte I',
         lines[1] if len(lines) > 1 else '',
         lines[2] if len(lines) > 2 else '',
+        marker_key='parte-i',
+        markers=markers,
+        counted=False,
     )
 
 def strip_part_marker(raw: str) -> str:
     return re.sub(r'^\s*\*Parte\s+[IVXLCDM]+\s+[—-]\s+[^*]+\*\s*\n+', '', raw, count=1, flags=re.I)
 
-def chapter_piece(root: Path, stem: str, first: bool = False) -> str:
+def chapter_piece(root: Path, stem: str, marker_key: str, markers: bool = False) -> str:
     raw = strip_part_marker((root/f'{stem}.md').read_text(encoding='utf-8'))
-    cls = 'chapter body-start' if first else 'chapter'
-    return f'<section class="{cls}">' + md.render(raw) + '</section>'
+    return f'<section class="chapter">{marker(marker_key, markers)}' + md.render(raw) + '</section>'
 
-def appendix_piece(root: Path, stem: str) -> str:
-    return f'<section class="appendix">' + md.render((root/f'{stem}.md').read_text(encoding='utf-8')) + '</section>'
+def appendix_piece(root: Path, stem: str, marker_key: str, markers: bool = False) -> str:
+    return (
+        f'<section class="appendix">{marker(marker_key, markers)}'
+        + md.render((root/f'{stem}.md').read_text(encoding='utf-8'))
+        + '</section>'
+    )
 
-def render_piece(root: Path, stem: str, cls: str) -> str:
-    return f'<section class="{cls}">' + md.render((root/f'{stem}.md').read_text(encoding='utf-8')) + '</section>'
+def render_piece(
+    root: Path,
+    stem: str,
+    cls: str,
+    marker_key: str = '',
+    markers: bool = False,
+) -> str:
+    return (
+        f'<section class="{cls}">{marker(marker_key, markers)}'
+        + md.render((root/f'{stem}.md').read_text(encoding='utf-8'))
+        + '</section>'
+    )
 
-def build(root: Path, output: Path):
-    ensure_seal(root)
+def document_html(
+    root: Path,
+    toc_numbers: dict[str, str] | None = None,
+    *,
+    markers: bool = False,
+) -> str:
     cover = html.escape((root/'Portada Vol I.png').as_uri())
     back = html.escape((root/'Contraportada Vol I.png').as_uri())
-    header = '''<header class="running-header"><img src="assets/logo-green.png"><span class="book">AFRODITA AREIA · I</span><span class="sub">SOBRE LA PASIÓN</span></header>'''
+    header = (
+        '<header class="running-header"><img src="assets/logo-green.png">'
+        '<span class="book">AFRODITA AREIA · I</span>'
+        '<span class="sub">SOBRE LA PASIÓN</span></header>'
+    )
 
     sections = [
         f'<section class="cover-page"><img src="{cover}"></section>',
         title_page(root),
         render_piece(root, '02', 'legal-page'),
         epigraph(root),
+        toc_page(toc_numbers),
+        render_piece(root, '05', 'frontmatter'),
+        render_piece(root, '06', 'frontmatter', 'prefacio', markers),
+        render_piece(root, '07', 'frontmatter', 'prologo', markers),
+        part_page(root, markers),
+        chapter_piece(root, '09', 'cap-1', markers),
+        chapter_piece(root, '10', 'cap-2', markers),
+        chapter_piece(root, '11', 'cap-3', markers),
+        part_page_from_text(
+            'Parte II', 'La pasión como fuerza ontológica',
+            marker_key='parte-ii', markers=markers, counted=True,
+        ),
     ]
 
-    for stem in ('04', '05', '06', '07'):
-        sections.append(render_piece(root, stem, 'frontmatter'))
+    for stem, key in (
+        ('12', 'cap-4'), ('13', 'cap-5'), ('14', 'cap-6'),
+        ('15', 'cap-7'), ('16', 'cap-8'), ('17', 'cap-9'),
+    ):
+        sections.append(chapter_piece(root, stem, key, markers))
 
-    sections.append(part_page(root))
-    sections.append(chapter_piece(root, '09', first=True))
-    sections.append(chapter_piece(root, '10'))
-    sections.append(chapter_piece(root, '11'))
+    sections.append(part_page_from_text(
+        'Parte III', 'Las mediaciones',
+        marker_key='parte-iii', markers=markers, counted=True,
+    ))
+    for stem, key in (('18', 'cap-10'), ('19', 'cap-11')):
+        sections.append(chapter_piece(root, stem, key, markers))
 
-    sections.append(part_page_from_text('Parte II', 'La pasión como fuerza ontológica'))
-    for stem in ('12', '13', '14', '15', '16', '17'):
-        sections.append(chapter_piece(root, stem))
+    sections.append(part_page_from_text(
+        'Parte IV', 'El ego como integral',
+        marker_key='parte-iv', markers=markers, counted=True,
+    ))
+    for stem, key in (('20', 'cap-12'), ('21', 'cap-13'), ('22', 'cap-14')):
+        sections.append(chapter_piece(root, stem, key, markers))
 
-    sections.append(part_page_from_text('Parte III', 'Las mediaciones'))
-    for stem in ('18', '19'):
-        sections.append(chapter_piece(root, stem))
-
-    sections.append(part_page_from_text('Parte IV', 'El ego como integral'))
-    for stem in ('20', '21', '22'):
-        sections.append(chapter_piece(root, stem))
-
-    sections.append(part_page_from_text('Parte V', 'La pasión y el sujeto'))
-    sections.append(chapter_piece(root, '23'))
+    sections.append(part_page_from_text(
+        'Parte V', 'La pasión y el sujeto',
+        marker_key='parte-v', markers=markers, counted=True,
+    ))
+    sections.append(chapter_piece(root, '23', 'cap-15', markers))
 
     sections.append(render_piece(root, '25', 'warning-page'))
-    for stem in ('26', '27', '28'):
-        sections.append(appendix_piece(root, stem))
-    sections.append(render_piece(root, '29', 'glossary'))
-
+    sections.append(appendix_piece(root, '26', 'ap-a', markers))
+    sections.append(appendix_piece(root, '27', 'ap-b', markers))
+    sections.append(appendix_piece(root, '28', 'ap-c', markers))
+    sections.append(render_piece(root, '29', 'glossary', 'glosario', markers))
     sections.append(f'<section class="cover-page"><img src="{back}"></section>')
 
-    doc = f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><style>{CSS}</style></head><body>{header}{''.join(sections)}</body></html>'''
+    return (
+        '<!doctype html><html lang="es"><head><meta charset="utf-8">'
+        f'<style>{CSS}</style></head><body>{header}'
+        + ''.join(sections)
+        + '</body></html>'
+    )
+
+def render_pdf(
+    root: Path,
+    output: Path,
+    toc_numbers: dict[str, str] | None = None,
+    *,
+    markers: bool = False,
+) -> None:
+    HTML(
+        string=document_html(root, toc_numbers, markers=markers),
+        base_url=str(root),
+    ).write_pdf(str(output), presentational_hints=True)
+
+def marker_pages(pdf_path: Path) -> dict[str, int]:
+    reader = PdfReader(str(pdf_path))
+    found: dict[str, int] = {}
+    for page_no, page in enumerate(reader.pages, 1):
+        text = page.extract_text() or ''
+        for key, _, _ in TOC_ENTRIES:
+            if key in found:
+                continue
+            if f'[[IDX:{key}]]' in text:
+                found[key] = page_no
+    missing = [key for key, _, _ in TOC_ENTRIES if key not in found]
+    if missing:
+        raise RuntimeError(f'No fue posible localizar marcadores del índice: {missing}')
+    return found
+
+def compute_toc_numbers(pages: dict[str, int]) -> dict[str, str]:
+    body_start = pages['cap-1']
+    result: dict[str, str] = {}
+    for key, _, kind in TOC_ENTRIES:
+        physical = pages[key]
+        if kind == 'front':
+            result[key] = roman(physical)
+        elif key == 'parte-i':
+            result[key] = '1'
+        else:
+            result[key] = str(physical - body_start + 1)
+    return result
+
+def build(root: Path, output: Path):
+    ensure_seal(root)
     output.parent.mkdir(parents=True, exist_ok=True)
-    HTML(string=doc, base_url=str(root)).write_pdf(str(output), presentational_hints=True)
+    pass1 = output.with_name(output.stem + '.pass1.pdf')
+    pass2 = output.with_name(output.stem + '.pass2.pdf')
+
+    render_pdf(root, pass1, None, markers=True)
+    numbers1 = compute_toc_numbers(marker_pages(pass1))
+
+    render_pdf(root, pass2, numbers1, markers=True)
+    numbers2 = compute_toc_numbers(marker_pages(pass2))
+
+    render_pdf(root, output, numbers2, markers=False)
+
+    pass1.unlink(missing_ok=True)
+    pass2.unlink(missing_ok=True)
     print(output)
 
 def main():
