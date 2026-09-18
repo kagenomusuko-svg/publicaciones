@@ -21,3 +21,5 @@ El sello se obtiene de la misma fuente utilizada por `dialogos-eleatas/src/lib/s
 ## Muestra actual
 
 `build_sample.py` genera una prueba desde portada hasta `09.md` para validar portadilla, legales, epígrafe, índice, preliminares, apertura de parte y primer capítulo antes de extender la maquetación a todo el volumen.
+
+La muestra `01–09` se genera automáticamente en CI para revisión visual antes de extender el diseño al volumen completo.
