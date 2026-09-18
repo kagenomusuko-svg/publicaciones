@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { BASE_PATH, getPublicacion, publicaciones } from '../../../lib/catalogo';
+import PdfReader from '../../../components/PdfReader';
+import { getPublicacion, publicaciones } from '../../../lib/catalogo';
 
 export function generateStaticParams() {
   return publicaciones.map((publicacion) => ({
@@ -63,13 +64,12 @@ export default async function LibroPage({ params }) {
         </aside>
 
         <section className="publication-reader-viewer" aria-label="Lector PDF">
-          <iframe
+          <PdfReader
             src={publicacion.pdf}
             title={`Lectura de ${publicacion.title}: ${publicacion.subtitle}`}
-            className="publication-reader-frame"
           />
           <p className="publication-reader-fallback">
-            Si tu dispositivo no muestra el PDF aquí,
+            Si tu dispositivo no muestra el lector aquí,
             <a href={publicacion.pdf}>ábrelo directamente</a>.
           </p>
         </section>
