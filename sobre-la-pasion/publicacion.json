@@ -9,5 +9,6 @@
   "cover": "sobre-la-pasion/Portada Vol I red.png",
   "pdf": "sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf",
   "format": "PDF",
-  "sortOrder": 100
+  "sortOrder": 100,
+  "slug": "afrodita-areia/vol-i"
 }
