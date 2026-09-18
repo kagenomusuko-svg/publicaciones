@@ -308,8 +308,7 @@ def document_html(
     ]
 
     for stem, key in (
-        ('12', 'cap-4'), ('13', 'cap-5'), ('14', 'cap-6'),
-        ('15', 'cap-7'), ('16', 'cap-8'), ('17', 'cap-9'),
+        ('12', 'cap-4'), ('13', 'cap-5'), ('14', 'cap-6'), ('15', 'cap-7'),
     ):
         sections.append(chapter_piece(root, stem, key, markers))
 
@@ -317,7 +316,9 @@ def document_html(
         'Parte III', 'Las mediaciones',
         marker_key='parte-iii', markers=markers, counted=True,
     ))
-    for stem, key in (('18', 'cap-10'), ('19', 'cap-11')):
+    for stem, key in (
+        ('16', 'cap-8'), ('17', 'cap-9'), ('18', 'cap-10'), ('19', 'cap-11'),
+    ):
         sections.append(chapter_piece(root, stem, key, markers))
 
     sections.append(part_page_from_text(
