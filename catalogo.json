@@ -11,6 +11,7 @@
     "pdf": "sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf",
     "format": "PDF",
     "sortOrder": 100,
+    "slug": "afrodita-areia/vol-i",
     "_manifest": "sobre-la-pasion/publicacion.json"
   }
 ]
