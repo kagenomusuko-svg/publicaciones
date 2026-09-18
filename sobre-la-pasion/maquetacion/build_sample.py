@@ -1,0 +1,140 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse, html, re
+from pathlib import Path
+from markdown_it import MarkdownIt
+from weasyprint import HTML
+
+GREEN = '#1E4C45'
+TEXT = '#262626'
+MUTED = '#666666'
+RULE = '#D8D8D8'
+PUBLISHER = 'Centro Multidisciplinario Meriadock Formación y Asesoría A.C.'
+MOTTO = 'La fuerza interior nos impulsa, un pequeño apoyo de los demás nos bendice'
+
+CSS = r'''
+@page { size: A4; }
+@page cover { margin: 0; }
+@page title { margin: 0; }
+@page legal { margin: 22mm 23mm; }
+@page epigraph { margin: 0; }
+@page part { margin: 0; }
+@page front {
+  margin: 27.5mm 20.5mm 22mm;
+  @top-center { content: element(bookheader); }
+  @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-right { content: counter(page, lower-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+}
+@page body {
+  margin: 27.5mm 20.5mm 22mm;
+  @top-center { content: element(bookheader); }
+  @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-right { content: counter(page); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+}
+html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif; color: #262626; }
+.running-header { position: running(bookheader); width: 169mm; height: 13mm; display: flex; align-items: center; border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; }
+.running-header img { width: 8mm; height: 8mm; object-fit: contain; margin-right: 3mm; }
+.running-header .book { font: 700 8pt "EB Garamond"; color: #1E4C45; letter-spacing: .04em; }
+.running-header .sub { margin-left: auto; font: 7.5pt "EB Garamond"; color: #666; }
+.cover-page { page: cover; break-after: page; width: 210mm; height: 297mm; }
+.cover-page img { width: 210mm; height: 297mm; object-fit: fill; display: block; }
+.title-page { page: title; break-after: page; height: 297mm; box-sizing: border-box; text-align: center; padding: 24mm 20mm 22mm; position: relative; }
+.title-page .seal { width: 34mm; height: 34mm; object-fit: contain; }
+.title-page .institution { margin-top: 5mm; color: #1E4C45; font: 600 13pt "EB Garamond"; letter-spacing: .07em; text-transform: uppercase; }
+.title-page .rule { width: 70mm; margin: 3mm auto 2mm; border-top: .7pt solid #1E4C45; }
+.title-page .org { color: #666; font-size: 9.5pt; }
+.title-page .motto { color: #1E4C45; font-size: 8.5pt; font-style: italic; margin-top: 2.5mm; }
+.title-page .main { margin-top: 33mm; font-size: 31pt; font-weight: 700; letter-spacing: .02em; }
+.title-page .subtitle { margin-top: 6mm; color: #1E4C45; font-size: 21pt; font-style: italic; }
+.title-page .volume { color: #666; font-size: 11pt; margin-top: 3mm; }
+.title-page .author { margin-top: 26mm; font-size: 16pt; }
+.title-page .bottom { position: absolute; left: 20mm; right: 20mm; bottom: 20mm; color: #666; font-size: 9.5pt; line-height: 1.5; }
+.title-page .collection { font-style: italic; }
+.legal-page { page: legal; break-after: page; font-size: 9pt; line-height: 1.45; color: #555; }
+.legal-page h1, .legal-page h2 { color: #262626; font-size: 15pt; margin: 0 0 8mm; }
+.epigraph-page { page: epigraph; break-after: page; height: 297mm; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0 45mm; box-sizing: border-box; }
+.epigraph-page blockquote { border: 0; margin: 0; color: #444; font-size: 14pt; line-height: 1.5; font-style: italic; }
+.frontmatter { page: front; break-before: page; }
+.part-page { page: part; break-before: page; break-after: page; height: 297mm; box-sizing: border-box; text-align: center; padding-top: 62mm; }
+.part-page img { width: 28mm; height: 28mm; object-fit: contain; }
+.part-page .series { margin-top: 5mm; color: #1E4C45; font-size: 14pt; font-variant: small-caps; letter-spacing: .08em; }
+.part-page .rule { width: 75mm; border-top: .7pt solid #1E4C45; margin: 5mm auto 14mm; }
+.part-page h1 { font-size: 27pt; margin: 0; }
+.part-page h2 { font-size: 17pt; font-style: italic; color: #666; font-weight: 400; margin-top: 5mm; }
+.chapter { page: body; break-before: page; counter-reset: page 0; }
+.frontmatter, .chapter { font-size: 10.5pt; line-height: 1.33; }
+p { margin: 0 0 3.2mm; text-align: justify; }
+h1, h2, h3 { line-height: 1.25; color: #222; }
+h1 { font-size: 17pt; margin: 8mm 0 3mm; }
+h2 { font-size: 14pt; margin: 7mm 0 2.8mm; }
+h3 { font-size: 11.5pt; color: #1E4C45; margin: 6mm 0 2.3mm; }
+blockquote { margin: 5mm 0; padding: 1mm 0 1mm 5mm; border-left: 1.6pt solid #1E4C45; color: #555; font-style: italic; }
+hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
+ul, ol { margin: 0 0 4mm 6mm; padding-left: 5mm; }
+li { margin-bottom: 1.5mm; }
+.frontmatter > h1:first-child { font-size: 25pt; margin-top: 5mm; }
+.chapter > p:first-child { text-align: center; color: #1E4C45; font-variant: small-caps; letter-spacing: .04em; }
+.chapter > h1:first-of-type { text-align: center; font-size: 13pt; font-weight: 400; color: #666; margin-top: 6mm; }
+.chapter > h2:first-of-type { text-align: center; font-size: 24pt; line-height: 1.1; margin: 2mm 0 6mm; }
+.chapter > h2:first-of-type:after { content: ""; display: block; width: 42mm; margin: 5mm auto 0; border-top: .8pt solid #1E4C45; }
+.chapter > blockquote:first-of-type { max-width: 120mm; margin: 6mm auto 9mm; }
+table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
+th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
+th { background: #F5F5F2; }
+'''
+
+md = MarkdownIt('commonmark', {'html': True}).enable('table')
+
+def clean_lines(raw: str):
+    return [re.sub(r'[*#>`_]', '', x).strip() for x in raw.splitlines() if x.strip()]
+
+def title_page(root: Path) -> str:
+    lines = clean_lines((root/'01.md').read_text(encoding='utf-8'))
+    title = lines[0] if lines else 'Afrodita Areia'
+    subtitle = lines[1] if len(lines)>1 else 'Sobre la pasión'
+    volume = lines[2] if len(lines)>2 else 'Volumen I'
+    author = lines[3] if len(lines)>3 else 'Miguel Hilario Olvera Aguilar'
+    collection = next((x for x in lines if x.lower().startswith('colección:')), 'Colección: Reivindicación ontológica del ego')
+    publisher = next((x for x in lines if 'Centro Multidisciplinario' in x), PUBLISHER)
+    year = next((x for x in reversed(lines) if re.fullmatch(r'20\d{2}', x)), '2026')
+    esc = html.escape
+    return f'''<section class="title-page"><img class="seal" src="assets/logo.svg"><div class="institution">Centro Multidisciplinario Meriadock</div><div class="rule"></div><div class="org">Formación y Asesoría A.C.</div><div class="motto">“{esc(MOTTO)}”</div><div class="main">{esc(title.upper())}</div><div class="subtitle">{esc(subtitle)}</div><div class="volume">{esc(volume)}</div><div class="author">{esc(author)}</div><div class="bottom"><div class="collection">{esc(collection)}</div><div>{esc(publisher.replace(' ·','').strip())}</div><div>{esc(year)}</div></div></section>'''
+
+def epigraph(root: Path) -> str:
+    return '<section class="epigraph-page">' + md.render((root/'03.md').read_text(encoding='utf-8')) + '</section>'
+
+def part_page(root: Path) -> str:
+    text = ' '.join(clean_lines((root/'08.md').read_text(encoding='utf-8')))
+    m = re.search(r'(Parte\s+[IVXLCDM]+)\s*[—:-]?\s*(.*)', text, re.I)
+    part = m.group(1) if m else 'Parte I'
+    subtitle = m.group(2) if m else text
+    return f'''<section class="part-page"><img src="assets/logo.svg"><div class="series">AFRODITA AREIA · I</div><div class="rule"></div><h1>{html.escape(part)}</h1><h2>{html.escape(subtitle)}</h2></section>'''
+
+def render_piece(root: Path, stem: str, cls: str) -> str:
+    return f'<section class="{cls}">' + md.render((root/f'{stem}.md').read_text(encoding='utf-8')) + '</section>'
+
+def build(root: Path, output: Path):
+    cover = html.escape((root/'Portada Vol I.png').as_uri())
+    header = '''<header class="running-header"><img src="assets/logo.svg"><span class="book">AFRODITA AREIA · I</span><span class="sub">SOBRE LA PASIÓN</span></header>'''
+    sections = [f'<section class="cover-page"><img src="{cover}"></section>', title_page(root)]
+    sections.append(render_piece(root, '02', 'legal-page'))
+    sections.append(epigraph(root))
+    for stem in ('04','05','06','07'):
+        sections.append(render_piece(root, stem, 'frontmatter'))
+    sections.append(part_page(root))
+    sections.append(render_piece(root, '09', 'chapter'))
+    doc = f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><style>{CSS}</style></head><body>{header}{''.join(sections)}</body></html>'''
+    output.parent.mkdir(parents=True, exist_ok=True)
+    HTML(string=doc, base_url=str(root)).write_pdf(str(output), presentational_hints=True)
+    print(output)
+
+def main():
+    p = argparse.ArgumentParser()
+    p.add_argument('--root', default=str(Path(__file__).resolve().parents[1]))
+    p.add_argument('--output', default='sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf')
+    a = p.parse_args()
+    build(Path(a.root).resolve(), Path(a.output).resolve())
+
+if __name__ == '__main__':
+    main()
