@@ -62,7 +62,8 @@ html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif;
 .part-page .series { margin-top: 5mm; color: #1E4C45; font-size: 14pt; font-variant: small-caps; letter-spacing: .08em; }
 .part-page .rule { width: 75mm; border-top: .7pt solid #1E4C45; margin: 5mm auto 14mm; }
 .part-page h1 { font-size: 27pt; margin: 0; }
-.part-page h2 { font-size: 17pt; font-style: italic; color: #666; font-weight: 400; margin-top: 5mm; }
+.part-page h2 { font-size: 17pt; color: #262626; font-weight: 400; margin-top: 5mm; }
+.part-page .epigraph { margin-top: 8mm; color: #666; font-size: 11pt; font-style: italic; }
 .chapter { page: body; break-before: page; counter-reset: page 0; }
 .frontmatter, .chapter { font-size: 10.5pt; line-height: 1.33; }
 p { margin: 0 0 3.2mm; text-align: justify; }
