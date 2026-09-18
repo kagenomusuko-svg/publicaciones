@@ -5,8 +5,8 @@ on:
     branches: [main]
     paths:
       - 'sobre-la-pasion/*.md'
-      - 'sobre-la-pasion/Portada Vol I.png'
-      - 'sobre-la-pasion/Contraportada Vol I.png'
+      - 'sobre-la-pasion/Portada Vol I red.png'
+      - 'sobre-la-pasion/Contra portada Vol I.png'
       - 'sobre-la-pasion/maquetacion/build_full.py'
       - '.github/workflows/sobre-la-pasion-full.yml'
   workflow_dispatch:
