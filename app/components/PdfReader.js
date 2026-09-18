@@ -2,77 +2,27 @@
 
 import { useEffect, useRef, useState } from 'react';
 
-export default function PdfReader({ src, title }) {
+function PdfPage({ pdf, pageNumber, scale, aspectRatio }) {
+  const pageRef = useRef(null);
   const canvasRef = useRef(null);
-  const pdfRef = useRef(null);
-  const loadingTaskRef = useRef(null);
-  const [pageNumber, setPageNumber] = useState(1);
-  const [numPages, setNumPages] = useState(0);
-  const [scale, setScale] = useState(1.15);
-  const [status, setStatus] = useState('Cargando lector…');
-  const [error, setError] = useState('');
+  const [status, setStatus] = useState('Cargando…');
 
   useEffect(() => {
     let cancelled = false;
-
-    async function loadDocument() {
-      setStatus('Cargando PDF…');
-      setError('');
-      setNumPages(0);
-      setPageNumber(1);
-
-      try {
-        const pdfjs = await import('pdfjs-dist/legacy/build/pdf.mjs');
-        pdfjs.GlobalWorkerOptions.workerSrc =
-          'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs';
-        const loadingTask = pdfjs.getDocument({ url: src });
-        loadingTaskRef.current = loadingTask;
-
-        const pdf = await loadingTask.promise;
-        if (cancelled) {
-          await pdf.destroy();
-          return;
-        }
-
-        pdfRef.current = pdf;
-        setNumPages(pdf.numPages);
-        setStatus('');
-      } catch (loadError) {
-        if (!cancelled) {
-          setStatus('');
-          setError('No se pudo cargar el lector interno.');
-        }
-      }
-    }
-
-    loadDocument();
-
-    return () => {
-      cancelled = true;
-      loadingTaskRef.current?.destroy();
-      loadingTaskRef.current = null;
-      pdfRef.current?.destroy();
-      pdfRef.current = null;
-    };
-  }, [src]);
-
-  useEffect(() => {
-    let cancelled = false;
+    let observer;
 
     async function renderPage() {
-      const pdf = pdfRef.current;
-      const canvas = canvasRef.current;
-
-      if (!pdf || !canvas || !numPages) return;
-
       try {
-        setStatus('Preparando página…');
+        setStatus('Cargando…');
         const page = await pdf.getPage(pageNumber);
         if (cancelled) return;
 
         const viewport = page.getViewport({ scale });
         const deviceScale = window.devicePixelRatio || 1;
-        const context = canvas.getContext('2d');
+        const canvas = canvasRef.current;
+        const context = canvas?.getContext('2d');
+
+        if (!canvas || !context) return;
 
         canvas.width = Math.floor(viewport.width * deviceScale);
         canvas.height = Math.floor(viewport.height * deviceScale);
@@ -89,43 +39,127 @@ export default function PdfReader({ src, title }) {
 
         if (!cancelled) setStatus('');
       } catch (renderError) {
-        if (!cancelled) setError('No se pudo mostrar esta página.');
+        if (!cancelled) setStatus('No se pudo mostrar esta página.');
       }
     }
 
-    renderPage();
+    const element = pageRef.current;
+    if (!element) return undefined;
+
+    if ('IntersectionObserver' in window) {
+      observer = new IntersectionObserver(
+        (entries) => {
+          if (entries.some((entry) => entry.isIntersecting)) {
+            observer.disconnect();
+            renderPage();
+          }
+        },
+        { rootMargin: '900px 0px' }
+      );
+      observer.observe(element);
+    } else {
+      renderPage();
+    }
 
     return () => {
       cancelled = true;
+      observer?.disconnect();
     };
-  }, [numPages, pageNumber, scale]);
+  }, [pdf, pageNumber, scale]);
 
-  function previousPage() {
-    setPageNumber((current) => Math.max(1, current - 1));
-  }
+  return (
+    <figure
+      ref={pageRef}
+      className="pdf-reader-page"
+      style={{ aspectRatio }}
+    >
+      {status && <span className="pdf-reader-page-status">{status}</span>}
+      <canvas
+        ref={canvasRef}
+        aria-label={`Página ${pageNumber}`}
+      />
+      <figcaption>Página {pageNumber}</figcaption>
+    </figure>
+  );
+}
 
-  function nextPage() {
-    setPageNumber((current) => Math.min(numPages, current + 1));
-  }
+export default function PdfReader({ src, title }) {
+  const loadingTaskRef = useRef(null);
+  const [pdf, setPdf] = useState(null);
+  const [numPages, setNumPages] = useState(0);
+  const [scale, setScale] = useState(1.15);
+  const [aspectRatio, setAspectRatio] = useState('0.707 / 1');
+  const [status, setStatus] = useState('Cargando lector…');
+  const [error, setError] = useState('');
+
+  useEffect(() => {
+    let cancelled = false;
+
+    async function loadDocument() {
+      setStatus('Cargando PDF…');
+      setError('');
+      setPdf(null);
+      setNumPages(0);
+
+      try {
+        const pdfjs = await import('pdfjs-dist/legacy/build/pdf.mjs');
+        pdfjs.GlobalWorkerOptions.workerSrc =
+          'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs';
+
+        const loadingTask = pdfjs.getDocument({ url: src });
+        loadingTaskRef.current = loadingTask;
+        const loadedPdf = await loadingTask.promise;
+
+        if (cancelled) {
+          await loadedPdf.destroy();
+          return;
+        }
+
+        const firstPage = await loadedPdf.getPage(1);
+        const firstViewport = firstPage.getViewport({ scale: 1 });
+        firstPage.cleanup();
+
+        setAspectRatio(`${firstViewport.width} / ${firstViewport.height}`);
+        setPdf(loadedPdf);
+        setNumPages(loadedPdf.numPages);
+        setStatus('');
+      } catch (loadError) {
+        if (!cancelled) {
+          setStatus('');
+          setError('No se pudo cargar el lector interno.');
+        }
+      }
+    }
+
+    loadDocument();
+
+    return () => {
+      cancelled = true;
+      loadingTaskRef.current?.destroy();
+      loadingTaskRef.current = null;
+      pdf?.destroy();
+    };
+  }, [src]);
 
   return (
     <div className="pdf-reader" aria-label={title}>
       <div className="pdf-reader-toolbar">
-        <button type="button" onClick={previousPage} disabled={pageNumber <= 1}>
-          ‹
-        </button>
-        <span>
-          Página {numPages ? pageNumber : '—'} de {numPages || '—'}
-        </span>
-        <button type="button" onClick={nextPage} disabled={!numPages || pageNumber >= numPages}>
-          ›
-        </button>
+        <span>{numPages ? `${numPages} páginas` : 'Cargando páginas…'}</span>
+        <span className="pdf-reader-toolbar-hint">Desplázate para leer</span>
         <span className="pdf-reader-toolbar-spacer" />
-        <button type="button" onClick={() => setScale((current) => Math.max(0.8, current - 0.15))}>
+        <button
+          type="button"
+          onClick={() => setScale((current) => Math.max(0.8, current - 0.15))}
+          aria-label="Reducir zoom"
+        >
           −
         </button>
         <span>{Math.round(scale * 100)}%</span>
-        <button type="button" onClick={() => setScale((current) => Math.min(2, current + 0.15))}>
+        <button
+          type="button"
+          onClick={() => setScale((current) => Math.min(2, current + 0.15))}
+          aria-label="Aumentar zoom"
+        >
           +
         </button>
       </div>
@@ -140,7 +174,20 @@ export default function PdfReader({ src, title }) {
             </a>
           </p>
         )}
-        <canvas ref={canvasRef} aria-label={`Página de ${title}`} />
+
+        {pdf && (
+          <div className="pdf-reader-document">
+            {Array.from({ length: numPages }, (_, index) => (
+              <PdfPage
+                key={index + 1}
+                pdf={pdf}
+                pageNumber={index + 1}
+                scale={scale}
+                aspectRatio={aspectRatio}
+              />
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );
