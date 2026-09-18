@@ -7,7 +7,7 @@ on:
       - 'afrodita-areia/sobre-la-pasion/08.md'
       - 'afrodita-areia/sobre-la-pasion/09.md'
       - 'afrodita-areia/sobre-la-pasion/maquetacion/build_trade_sample.py'
-      - '.github/workflows/sobre-la-pasion-trade-sample.yml'
+      - '.github/workflows/afrodita-areia/sobre-la-pasion-trade-sample.yml'
   workflow_dispatch:
 
 permissions:
@@ -43,7 +43,7 @@ jobs:
       - name: Generar muestra 6x9
         run: |
           python afrodita-areia/sobre-la-pasion/maquetacion/build_trade_sample.py \
-            --root sobre-la-pasion \
+            --root afrodita-areia/sobre-la-pasion \
             --output afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf
 
       - name: Preflight
@@ -82,7 +82,7 @@ jobs:
       - name: Publicar artefacto
         uses: actions/upload-artifact@v4
         with:
-          name: sobre-la-pasion-muestra-6x9
+          name: afrodita-areia/sobre-la-pasion-muestra-6x9
           path: |
             afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf
             afrodita-areia/sobre-la-pasion/build/muestra-6x9.txt

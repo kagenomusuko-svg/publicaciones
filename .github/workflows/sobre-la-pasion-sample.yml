@@ -8,7 +8,7 @@ on:
       - 'afrodita-areia/sobre-la-pasion/Portada Vol I.png'
       - 'afrodita-areia/sobre-la-pasion/Contraportada Vol I.png'
       - 'afrodita-areia/sobre-la-pasion/maquetacion/**'
-      - '.github/workflows/sobre-la-pasion-sample.yml'
+      - '.github/workflows/afrodita-areia/sobre-la-pasion-sample.yml'
   workflow_dispatch:
 
 permissions:
@@ -43,18 +43,18 @@ jobs:
 
       - name: Generar muestra PDF
         run: |
-          python afrodita-areia/sobre-la-pasion/maquetacion/build_sample.py --root sobre-la-pasion --output afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
+          python afrodita-areia/sobre-la-pasion/maquetacion/build_sample.py --root afrodita-areia/sobre-la-pasion --output afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09.pdf
 
       - name: Preflight básico
         run: |
-          pdfinfo afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
-          pdftotext afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf - | head -120
+          pdfinfo afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09.pdf
+          pdftotext afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09.pdf - | head -120
 
       - name: Render de control
         run: |
           rm -rf afrodita-areia/sobre-la-pasion/build/preview
           mkdir -p afrodita-areia/sobre-la-pasion/build/preview
-          pdftoppm -png -r 100 -f 1 -l 14 afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf afrodita-areia/sobre-la-pasion/build/preview/page >/dev/null 2>&1
+          pdftoppm -png -r 100 -f 1 -l 14 afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09.pdf afrodita-areia/sobre-la-pasion/build/preview/page >/dev/null 2>&1
 
       - name: Hoja de contacto
         run: |
@@ -76,7 +76,7 @@ jobs:
           sheet = Image.new('RGB', (cols*280, rows*405), '#eeeeee')
           for i, im in enumerate(thumbs):
               sheet.paste(im, ((i%cols)*280, (i//cols)*405))
-          sheet.save('afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg', quality=86, optimize=True)
+          sheet.save('afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09-contacto.jpg', quality=86, optimize=True)
 
           # Hoja mini para inspección rápida fuera de Actions.
           mini_cards = []
@@ -93,7 +93,7 @@ jobs:
           mini = Image.new('RGB', (mini_cols*120, mini_rows*172), '#eeeeee')
           for i, im in enumerate(mini_cards):
               mini.paste(im, ((i%mini_cols)*120, (i//mini_cols)*172))
-          mini.save('afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg', quality=42, optimize=True)
+          mini.save('afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09-contacto-mini.jpg', quality=42, optimize=True)
 
           # Páginas clave en tamaño de revisión: portadilla, apertura de parte y capítulo.
           review = Path('afrodita-areia/sobre-la-pasion/build/review')
@@ -111,10 +111,10 @@ jobs:
       - name: Publicar artefacto de revisión
         uses: actions/upload-artifact@v4
         with:
-          name: sobre-la-pasion-muestra-01-09
+          name: afrodita-areia/sobre-la-pasion-muestra-01-09
           path: |
-            afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
-            afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
+            afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09.pdf
+            afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09-contacto.jpg
             afrodita-areia/sobre-la-pasion/build/review/page-02.jpg
             afrodita-areia/sobre-la-pasion/build/review/page-12.jpg
             afrodita-areia/sobre-la-pasion/build/review/page-13.jpg
@@ -125,9 +125,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
-          git add afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
-          git add afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg
+          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09.pdf
+          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09-contacto.jpg
+          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia/sobre-la-pasion-muestra-01-09-contacto-mini.jpg
           git add afrodita-areia/sobre-la-pasion/build/review/page-02.jpg
           git add afrodita-areia/sobre-la-pasion/build/review/page-12.jpg
           git add afrodita-areia/sobre-la-pasion/build/review/page-13.jpg

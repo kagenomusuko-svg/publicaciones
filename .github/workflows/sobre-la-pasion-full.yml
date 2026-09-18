@@ -8,7 +8,7 @@ on:
       - 'afrodita-areia/sobre-la-pasion/Portada Vol I red.png'
       - 'afrodita-areia/sobre-la-pasion/Contra portada Vol I.png'
       - 'afrodita-areia/sobre-la-pasion/maquetacion/build_full.py'
-      - '.github/workflows/sobre-la-pasion-full.yml'
+      - '.github/workflows/afrodita-areia/sobre-la-pasion-full.yml'
   workflow_dispatch:
 
 permissions:
@@ -44,17 +44,17 @@ jobs:
       - name: Generar libro completo
         run: |
           python afrodita-areia/sobre-la-pasion/maquetacion/build_full.py \
-            --root sobre-la-pasion \
-            --output afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+            --root afrodita-areia/sobre-la-pasion \
+            --output afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.pdf
 
       - name: Preflight textual y estructural
         run: |
-          pdfinfo afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
-          pdftotext afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "AFRODITA AREIA" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Capítulo 15" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Apéndice C" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Glosario de términos" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          pdfinfo afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.pdf
+          pdftotext afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.pdf afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.txt
+          grep -q "AFRODITA AREIA" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.txt
+          grep -q "Capítulo 15" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.txt
+          grep -q "Apéndice C" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.txt
+          grep -q "Glosario de términos" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.txt
 
       - name: Seleccionar y renderizar páginas de control
         run: |
@@ -65,7 +65,7 @@ jobs:
           import subprocess
           from pypdf import PdfReader
 
-          pdf = Path('afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf')
+          pdf = Path('afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.pdf')
           reader = PdfReader(str(pdf))
           targets = [
               ('portada', 1),
@@ -132,9 +132,9 @@ jobs:
       - name: Publicar artefacto
         uses: actions/upload-artifact@v4
         with:
-          name: afrodita-areia-vol-i-sobre-la-pasion
+          name: afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion
           path: |
-            afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+            afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.pdf
             afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
             afrodita-areia/sobre-la-pasion/build/review-full/manifest.txt
             afrodita-areia/sobre-la-pasion/build/review-full/*.jpg
@@ -145,7 +145,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-afrodita-areia/sobre-la-pasion.pdf
           git add afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. I completo"
