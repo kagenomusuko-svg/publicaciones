@@ -8,6 +8,9 @@ on:
       - 'afrodita-areia/sobre-la-pasion/Portada Vol I red.png'
       - 'afrodita-areia/sobre-la-pasion/Contra portada Vol I.png'
       - 'afrodita-areia/sobre-la-pasion/maquetacion/build_full.py'
+      - 'afrodita-areia/sobre-la-pasion/maquetacion.json'
+      - 'maquetacion/build_book.py'
+      - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/sobre-la-pasion-full.yml'
   workflow_dispatch:
 
@@ -43,7 +46,7 @@ jobs:
 
       - name: Generar libro completo
         run: |
-          python afrodita-areia/sobre-la-pasion/maquetacion/build_full.py \
+          python maquetacion/build_book.py \
             --root afrodita-areia/sobre-la-pasion \
             --output afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
 

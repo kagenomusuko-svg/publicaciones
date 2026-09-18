@@ -57,10 +57,12 @@ Este estándar debe ser el punto de partida de todos los libros del repositorio.
 
 ## Referencia autoritativa
 
-La implementación de referencia es:
+La implementación autoritativa y reutilizable es:
 
-`sobre-la-pasion/maquetacion/build_full.py`
+`maquetacion/build_book.py`
 
-El CSS reutilizable se conserva en:
+El CSS compartido se conserva en:
 
 `maquetacion/estilo-libro-6x9.css`
+
+Cada libro declara únicamente sus activos, encabezados, preliminares y orden de archivos en un `maquetacion.json` situado en la raíz de su carpeta. Los constructores locales sólo pueden conservarse como adaptadores de compatibilidad; no deben duplicar la plantilla.

@@ -1,0 +1,40 @@
+{
+  "series_header": "AFRODITA AREIA · II",
+  "short_title": "ÁGAPE",
+  "cover": "portada.png",
+  "back_cover": "contraportada.png",
+  "frontmatter": [
+    "05",
+    "06",
+    "07"
+  ],
+  "frontmatter_toc": {
+    "06": {
+      "key": "prefacio",
+      "label": "Prefacio · El útero que no recuerda haber parido"
+    },
+    "07": {
+      "key": "prologo",
+      "label": "Prólogo · Por qué la voluntad tiene formas"
+    }
+  },
+  "body": [
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ]
+}

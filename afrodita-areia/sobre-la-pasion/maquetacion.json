@@ -1,0 +1,50 @@
+{
+  "series_header": "AFRODITA AREIA · I",
+  "short_title": "SOBRE LA PASIÓN",
+  "cover": "Portada Vol I red.png",
+  "back_cover": "Contra portada Vol I.png",
+  "frontmatter": [
+    "05",
+    "06",
+    "07"
+  ],
+  "frontmatter_toc": {
+    "06": {
+      "key": "prefacio",
+      "label": "Prefacio · El día que el caos llegó al Olimpo"
+    },
+    "07": {
+      "key": "prologo",
+      "label": "Prólogo · Por qué la voluntad necesita un nuevo comienzo"
+    }
+  },
+  "body": [
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+  ],
+  "parts_before": {
+    "16": {
+      "part": "Parte III",
+      "subtitle": "Las mediaciones"
+    }
+  }
+}

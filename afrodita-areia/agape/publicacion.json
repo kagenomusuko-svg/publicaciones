@@ -1,0 +1,14 @@
+{
+  "id": "afrodita-areia-vol-ii-agape",
+  "title": "Afrodita Areia",
+  "subtitle": "Ágape",
+  "volume": "Volumen II",
+  "author": "Miguel Hilario Olvera Aguilar",
+  "year": 2026,
+  "description": "Una ontología de las formas que adopta la voluntad al orientarse hacia la alteridad: Eros, Deimos, Anteros, Fobos, Potós y Harmonía.",
+  "cover": "afrodita-areia/agape/portada.png",
+  "pdf": "afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf",
+  "format": "PDF",
+  "sortOrder": 110,
+  "slug": "afrodita-areia/vol-ii"
+}

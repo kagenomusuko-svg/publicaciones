@@ -113,3 +113,15 @@ hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
 .toc-table tr.toc-part .toc-label,
 .toc-table tr.toc-part .toc-page { color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; padding-top: 2.8mm; }
 .toc-table tr.toc-chapter .toc-label { padding-left: 5mm; }
+
+
+/* Componentes compartidos del constructor multipublicación. */
+.pdf-marker { position: absolute; left: 1mm; top: 1mm; color: #fff; font-size: 1pt; line-height: 1; }
+ul, ol { margin: 0 0 4mm 6mm; padding-left: 5mm; }
+li { margin-bottom: 1.5mm; }
+table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
+th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
+th { background: #F5F5F2; }
+.toc-table .col-label { width: 72%; }
+.toc-table .col-leader { width: 18%; }
+.toc-table .col-page { width: 10%; }
