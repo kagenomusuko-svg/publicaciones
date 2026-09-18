@@ -25,23 +25,29 @@ CSS = r'''
 @page part-body { margin: 0; counter-increment: bodyPage; }
 @page front {
   margin: 32mm 28mm 32mm 29mm;
-  @top-center { content: element(bookheader); }
+  @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
+  @top-center { content: ""; border-bottom: .6pt solid #CFCFCF; }
+  @top-right { content: element(bookright); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-center { content: ""; border-top: .5pt solid #D8D8D8; }
   @bottom-right { content: counter(page, upper-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
 @page body {
   margin: 32mm 28mm 32mm 29mm;
   counter-increment: bodyPage;
-  @top-center { content: element(bookheader); }
+  @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
+  @top-center { content: ""; border-bottom: .6pt solid #CFCFCF; }
+  @top-right { content: element(bookright); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-center { content: ""; border-top: .5pt solid #D8D8D8; }
   @bottom-right { content: counter(bodyPage); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
 html { counter-reset: bodyPage 0; }
 html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif; color: #262626; }
-.running-header { position: running(bookheader); width: 153mm; height: 13mm; display: flex; align-items: center; border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; }
-.running-header img { width: 8mm; height: 8mm; object-fit: contain; margin-right: 3mm; }
-.running-header .book { font: 700 8pt "EB Garamond"; color: #1E4C45; letter-spacing: .04em; }
-.running-header .sub { margin-left: auto; font: 7.5pt "EB Garamond"; color: #666; }
+.running-header-left { position: running(bookleft); display: flex; align-items: center; white-space: nowrap; }
+.running-header-left img { width: 8mm; height: 8mm; object-fit: contain; margin-right: 3mm; }
+.running-header-left .book { font: 700 8pt "EB Garamond"; color: #1E4C45; letter-spacing: .04em; }
+.running-header-right { position: running(bookright); white-space: nowrap; text-align: right; font: 7.5pt "EB Garamond"; color: #666; }
 .cover-page { page: cover; break-after: page; width: 210mm; height: 297mm; }
 .cover-page img { width: 210mm; height: 297mm; object-fit: fill; display: block; }
 .title-page { page: title; break-after: page; height: 297mm; box-sizing: border-box; text-align: center; padding: 24mm 20mm 22mm; position: relative; }
@@ -95,16 +101,18 @@ li { margin-bottom: 1.5mm; }
 .pdf-marker { position: absolute; left: 1mm; top: 1mm; color: #fff; font-size: 1pt; line-height: 1; }
 .toc { page: front; break-before: page; }
 .toc h1 { font-size: 25pt; margin: 5mm 0 8mm; }
-.toc-entry { display: flex; align-items: baseline; gap: 2mm; margin: 0 0 2.2mm; font-size: 10pt; }
-.toc-entry .label { white-space: nowrap; }
-.toc-entry .leader { flex: 1; border-bottom: .5pt dotted #BEBEBE; transform: translateY(-1.2mm); }
-.toc-entry .page-no { min-width: 9mm; text-align: right; color: #1E4C45; font-weight: 600; }
-.toc-entry.toc-part { margin-top: 4mm; color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
-.toc-entry.toc-chapter { padding-left: 5mm; }
-.toc-entry.toc-appendix { margin-top: 2.5mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
 th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
 th { background: #F5F5F2; }
+.toc-table { width: 100%; border-collapse: collapse; table-layout: auto; margin: 0; font-size: 10pt; }
+.toc-table td { border: 0; padding: 0 0 2.1mm; vertical-align: bottom; background: transparent; }
+.toc-table .toc-label { width: auto; }
+.toc-table .toc-leader { width: 100%; border-bottom: .5pt dotted #BEBEBE; padding-left: 2mm; padding-right: 2mm; }
+.toc-table .toc-page { width: 10mm; text-align: right; white-space: nowrap; color: #1E4C45; font-weight: 600; }
+.toc-table tr.toc-part .toc-label,
+.toc-table tr.toc-part .toc-page { color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; padding-top: 2.8mm; }
+.toc-table tr.toc-chapter .toc-label { padding-left: 5mm; }
+.toc-table tr.toc-appendix .toc-label { padding-top: 1.4mm; }
 '''
 
 md = MarkdownIt('commonmark', {'html': True}).enable('table')
@@ -163,13 +171,18 @@ def toc_page(numbers: dict[str, str] | None = None) -> str:
     for key, label, kind in TOC_ENTRIES:
         page_no = numbers.get(key, '000')
         rows.append(
-            f'<div class="toc-entry toc-{kind}">'
-            f'<span class="label">{html.escape(label)}</span>'
-            f'<span class="leader"></span>'
-            f'<span class="page-no">{html.escape(page_no)}</span>'
-            f'</div>'
+            f'<tr class="toc-{kind}">'
+            f'<td class="toc-label">{html.escape(label)}</td>'
+            f'<td class="toc-leader"></td>'
+            f'<td class="toc-page">{html.escape(page_no)}</td>'
+            f'</tr>'
         )
-    return '<section class="toc"><h1>ÍNDICE</h1>' + ''.join(rows) + '</section>'
+    return (
+        '<section class="toc"><h1>ÍNDICE</h1>'
+        '<table class="toc-table"><tbody>'
+        + ''.join(rows)
+        + '</tbody></table></section>'
+    )
 
 def ensure_seal(root: Path) -> Path:
     """Replica la máscara/tinte de dialogos-eleatas/src/lib/seal.ts."""
@@ -283,9 +296,9 @@ def document_html(
     cover = html.escape((root/'Portada Vol I.png').as_uri())
     back = html.escape((root/'Contraportada Vol I.png').as_uri())
     header = (
-        '<header class="running-header"><img src="assets/logo-green.png">'
-        '<span class="book">AFRODITA AREIA · I</span>'
-        '<span class="sub">SOBRE LA PASIÓN</span></header>'
+        '<div class="running-header-left"><img src="assets/logo-green.png">'
+        '<span class="book">AFRODITA AREIA · I</span></div>'
+        '<div class="running-header-right">SOBRE LA PASIÓN</div>'
     )
 
     sections = [
