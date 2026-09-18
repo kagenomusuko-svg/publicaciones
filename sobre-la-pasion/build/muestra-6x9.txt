@@ -2,4 +2,4 @@ Transición de Parte I: página fuente 1
 Apertura de Capítulo 1: página fuente 2
 Página corrida 1: página fuente 3
 Página corrida 2: página fuente 4
-Página con notas: página fuente 9
+Página con notas: página fuente 10
