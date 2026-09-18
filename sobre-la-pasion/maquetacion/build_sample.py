@@ -127,7 +127,9 @@ def title_page(root: Path) -> str:
     author = lines[3] if len(lines)>3 else 'Miguel Hilario Olvera Aguilar'
     collection = next((x for x in lines if x.lower().startswith('colección:')), 'Colección: Reivindicación ontológica del ego')
     publisher = next((x for x in lines if 'Centro Multidisciplinario' in x), PUBLISHER)
-    year = next((x for x in reversed(lines) if re.fullmatch(r'20\d{2}', x)), '2026')
+    year_match = re.search(r'(20\\d{2})', publisher)
+    year = year_match.group(1) if year_match else '2026'
+    publisher = publisher.replace(' · 2026', '').strip()
     esc = html.escape
     return f'''<section class="title-page"><img class="seal" src="assets/logo-green.png"><div class="institution">Centro Multidisciplinario Meriadock</div><div class="rule"></div><div class="org">Formación y Asesoría A.C.</div><div class="motto">“{esc(MOTTO)}”</div><div class="main">{esc(title.upper())}</div><div class="subtitle">{esc(subtitle)}</div><div class="volume">{esc(volume)}</div><div class="author">{esc(author)}</div><div class="bottom"><div class="collection">{esc(collection)}</div><div>{esc(publisher.replace(' ·','').strip())}</div><div>{esc(year)}</div></div></section>'''
 
@@ -135,11 +137,11 @@ def epigraph(root: Path) -> str:
     return '<section class="epigraph-page">' + md.render((root/'03.md').read_text(encoding='utf-8')) + '</section>'
 
 def part_page(root: Path) -> str:
-    text = ' '.join(clean_lines((root/'08.md').read_text(encoding='utf-8')))
-    m = re.search(r'(Parte\s+[IVXLCDM]+)\s*[—:-]?\s*(.*)', text, re.I)
-    part = m.group(1) if m else 'Parte I'
-    subtitle = m.group(2) if m else text
-    return f'''<section class="part-page"><img src="assets/logo-green.png"><div class="series">AFRODITA AREIA · I</div><div class="rule"></div><h1>{html.escape(part)}</h1><h2>{html.escape(subtitle)}</h2></section>'''
+    lines = clean_lines((root/'08.md').read_text(encoding='utf-8'))
+    part = lines[0] if lines else 'Parte I'
+    subtitle = lines[1] if len(lines) > 1 else ''
+    epigraph = lines[2] if len(lines) > 2 else ''
+    return f'''<section class="part-page"><img src="assets/logo-green.png"><div class="series">AFRODITA AREIA · I</div><div class="rule"></div><h1>{html.escape(part)}</h1><h2>{html.escape(subtitle)}</h2><div class="epigraph">{html.escape(epigraph)}</div></section>'''
 
 def render_piece(root: Path, stem: str, cls: str) -> str:
     return f'<section class="{cls}">' + md.render((root/f'{stem}.md').read_text(encoding='utf-8')) + '</section>'
