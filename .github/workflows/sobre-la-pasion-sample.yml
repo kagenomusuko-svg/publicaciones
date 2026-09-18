@@ -107,6 +107,20 @@ jobs:
               im.save(review / f'page-{page_no:02d}.jpg', quality=58, optimize=True)
           PY
 
+
+      - name: Publicar artefacto de revisión
+        uses: actions/upload-artifact@v4
+        with:
+          name: sobre-la-pasion-muestra-01-09
+          path: |
+            sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
+            sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
+            sobre-la-pasion/build/review/page-02.jpg
+            sobre-la-pasion/build/review/page-12.jpg
+            sobre-la-pasion/build/review/page-13.jpg
+          if-no-files-found: error
+          retention-days: 7
+
       - name: Guardar muestra en el repositorio
         run: |
           git config user.name "github-actions[bot]"
