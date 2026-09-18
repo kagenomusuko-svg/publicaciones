@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { BASE_PATH } from './lib/catalogo';
 
 export default function Home() {
   return (
@@ -13,7 +12,7 @@ export default function Home() {
         </p>
       </header>
       <p>
-        <Link className="libro-action" href={`${BASE_PATH}/libros`}>
+        <Link className="libro-action" href="/libros">
           Explorar libros →
         </Link>
       </p>
