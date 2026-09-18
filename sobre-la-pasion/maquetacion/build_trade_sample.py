@@ -150,9 +150,7 @@ html, body {
   widows: 3;
 }
 .chapter > h1:first-of-type {
-  page: opening;
-  break-before: page;
-  margin: 5mm 0 1.5mm;
+  margin: 8mm 0 1.5mm;
   text-align: center;
   font-size: 11pt;
   font-weight: 400;
