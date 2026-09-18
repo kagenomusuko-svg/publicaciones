@@ -149,5 +149,6 @@ jobs:
           git add sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. I completo"
+            git pull --rebase origin main
             git push
           fi
