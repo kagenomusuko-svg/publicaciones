@@ -14,89 +14,55 @@ from build_full import ensure_seal, md, strip_part_marker
 CSS = r'''
 @page { size: 152.4mm 228.6mm; }
 
-@page part {
-  margin: 0;
-}
+@page part { margin: 0; }
 
-@page opening:right {
-  margin: 23mm 16.5mm 19mm 20mm;
-  counter-increment: bodyPage;
-  @bottom-right {
-    content: counter(bodyPage);
-    font: 8pt "EB Garamond";
-    color: #666;
-  }
-}
-@page opening:left {
-  margin: 23mm 20mm 19mm 16.5mm;
-  counter-increment: bodyPage;
-  @bottom-left {
-    content: counter(bodyPage);
-    font: 8pt "EB Garamond";
-    color: #666;
-  }
-}
-
-@page body:right {
-  margin: 17mm 16.5mm 19mm 20mm;
+@page body {
+  margin: 19mm 16.5mm 19mm 20mm;
   counter-increment: bodyPage;
   @top-left {
     content: element(bookleft);
-    border-bottom: .45pt solid #D4D4D4;
-    padding-bottom: 1.6mm;
+    border-bottom: .6pt solid #CFCFCF;
+    padding-bottom: 2mm;
     vertical-align: bottom;
   }
   @top-center {
     content: " ";
-    border-bottom: .45pt solid #D4D4D4;
+    border-bottom: .6pt solid #CFCFCF;
   }
   @top-right {
     content: element(bookright);
-    border-bottom: .45pt solid #D4D4D4;
-    padding-bottom: 1.6mm;
-    vertical-align: bottom;
-  }
-  @bottom-right {
-    content: counter(bodyPage);
-    font: 8pt "EB Garamond";
-    color: #666;
-  }
-}
-@page body:left {
-  margin: 17mm 20mm 19mm 16.5mm;
-  counter-increment: bodyPage;
-  @top-left {
-    content: element(bookleft);
-    border-bottom: .45pt solid #D4D4D4;
-    padding-bottom: 1.6mm;
-    vertical-align: bottom;
-  }
-  @top-center {
-    content: " ";
-    border-bottom: .45pt solid #D4D4D4;
-  }
-  @top-right {
-    content: element(bookright);
-    border-bottom: .45pt solid #D4D4D4;
-    padding-bottom: 1.6mm;
+    border-bottom: .6pt solid #CFCFCF;
+    padding-bottom: 2mm;
     vertical-align: bottom;
   }
   @bottom-left {
-    content: counter(bodyPage);
-    font: 8pt "EB Garamond";
+    content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C.";
+    font: 7.2pt "EB Garamond";
     color: #666;
+    border-top: .5pt solid #D8D8D8;
+    padding-top: 2mm;
+  }
+  @bottom-center {
+    content: " ";
+    border-top: .5pt solid #D8D8D8;
+  }
+  @bottom-right {
+    content: counter(bodyPage);
+    font: 7.2pt "EB Garamond";
+    color: #666;
+    border-top: .5pt solid #D8D8D8;
+    padding-top: 2mm;
   }
 }
 
-html {
-  counter-reset: bodyPage 0;
-}
+html { counter-reset: bodyPage 0; }
 html, body {
   margin: 0;
   padding: 0;
   font-family: "EB Garamond", Garamond, serif;
   color: #262626;
 }
+
 .running-header-left {
   position: running(bookleft);
   display: flex;
@@ -104,13 +70,13 @@ html, body {
   white-space: nowrap;
 }
 .running-header-left img {
-  width: 6.5mm;
-  height: 6.5mm;
+  width: 8mm;
+  height: 8mm;
   object-fit: contain;
-  margin-right: 2.2mm;
+  margin-right: 3mm;
 }
 .running-header-left .book {
-  font: 700 7.6pt "EB Garamond";
+  font: 700 8pt "EB Garamond";
   color: #1E4C45;
   letter-spacing: .04em;
 }
@@ -118,7 +84,7 @@ html, body {
   position: running(bookright);
   white-space: nowrap;
   text-align: right;
-  font: 7.4pt "EB Garamond";
+  font: 7.5pt "EB Garamond";
   color: #666;
 }
 
@@ -128,68 +94,105 @@ html, body {
   height: 228.6mm;
   box-sizing: border-box;
   text-align: center;
-  padding: 44mm 18mm 20mm;
+  padding-top: 46mm;
 }
 .part-page img {
-  width: 24mm;
-  height: 24mm;
+  width: 28mm;
+  height: 28mm;
   object-fit: contain;
 }
 .part-page .series {
-  margin-top: 4mm;
+  margin-top: 5mm;
   color: #1E4C45;
-  font-size: 11pt;
+  font-size: 14pt;
   font-variant: small-caps;
   letter-spacing: .08em;
 }
 .part-page .rule {
-  width: 58mm;
-  border-top: .65pt solid #1E4C45;
-  margin: 4mm auto 12mm;
+  width: 75mm;
+  border-top: .7pt solid #1E4C45;
+  margin: 5mm auto 14mm;
 }
 .part-page h1 {
+  font-size: 27pt;
   margin: 0;
-  font-size: 23pt;
-  font-weight: 600;
-  line-height: 1.1;
 }
 .part-page h2 {
-  margin: 4mm 0 0;
-  font-size: 15pt;
+  font-size: 17pt;
+  color: #262626;
   font-weight: 400;
-  line-height: 1.2;
+  margin-top: 5mm;
 }
 .part-page .epigraph {
-  margin-top: 7mm;
+  margin-top: 8mm;
   color: #666;
-  font-size: 10.5pt;
-  line-height: 1.35;
+  font-size: 11pt;
   font-style: italic;
 }
 
 .chapter {
   page: body;
+  break-before: page;
   font-size: 11.3pt;
-  line-height: 1.39;
-  hyphens: auto;
-  orphans: 3;
-  widows: 3;
+  line-height: 1.36;
+}
+p {
+  margin: 0 0 3.2mm;
+  text-align: justify;
+}
+h1, h2, h3 {
+  line-height: 1.25;
+  color: #222;
+}
+h1 {
+  font-size: 17pt;
+  margin: 8mm 0 3mm;
+}
+h2 {
+  font-size: 14pt;
+  margin: 7mm 0 2.8mm;
+}
+h3 {
+  font-size: 12pt;
+  color: #1E4C45;
+  margin: 6mm 0 2.3mm;
+}
+blockquote {
+  margin: 5mm 0;
+  padding: 1mm 0 1mm 5mm;
+  border-left: 1.6pt solid #1E4C45;
+  color: #555;
+  font-style: italic;
+}
+hr {
+  border: 0;
+  border-top: .5pt solid #D8D8D8;
+  margin: 6mm 0;
+}
+ul, ol {
+  margin: 0 0 4mm 6mm;
+  padding-left: 5mm;
+}
+li { margin-bottom: 1.5mm; }
+
+.chapter > p:first-child {
+  text-align: center;
+  color: #1E4C45;
+  font-variant: small-caps;
+  letter-spacing: .04em;
 }
 .chapter > h1:first-of-type {
-  margin: 8mm 0 1.5mm;
   text-align: center;
-  font-size: 11pt;
+  font-size: 13pt;
   font-weight: 400;
-  color: #777;
-  letter-spacing: .045em;
-  text-transform: uppercase;
+  color: #666;
+  margin-top: 6mm;
 }
 .chapter > h2:first-of-type {
   text-align: center;
-  font-size: 22pt;
-  line-height: 1.08;
-  font-weight: 600;
-  margin: 0 0 5mm;
+  font-size: 24pt;
+  line-height: 1.1;
+  margin: 2mm 0 6mm;
 }
 .chapter > h2:first-of-type:after {
   content: "";
@@ -200,60 +203,19 @@ html, body {
 }
 .chapter > blockquote:first-of-type {
   max-width: 93mm;
-  margin: 5.5mm auto 8mm;
-  padding: 0;
-  border: 0;
-  text-align: center;
-  color: #555;
-  font-size: 10.5pt;
-  line-height: 1.38;
-  font-style: italic;
+  margin: 6mm auto 9mm;
 }
-.chapter p {
-  margin: 0;
-  text-align: justify;
-  text-indent: 1.15em;
-}
-.chapter h3 + p,
-.chapter blockquote + p,
-.chapter hr + p,
-.chapter > h2 + p,
-.chapter > h1 + p {
-  text-indent: 0;
-}
-.chapter h3 {
-  break-after: avoid;
-  margin: 5.4mm 0 2.2mm;
-  color: #1E4C45;
-  font-size: 12.2pt;
-  line-height: 1.18;
-  font-weight: 600;
-}
-.chapter blockquote:not(:first-of-type) {
-  margin: 4.5mm 3mm;
-  padding: 1.3mm 0 1.3mm 4mm;
-  border-left: 1.4pt solid #1E4C45;
-  color: #555;
-  font-size: 10.7pt;
-  line-height: 1.36;
-  font-style: italic;
-}
-.chapter hr {
-  border: 0;
-  border-top: .45pt solid #D7D7D7;
-  margin: 5mm 0;
-}
+
 .notes-title {
   margin-top: 7mm !important;
 }
 .notes {
-  font-size: 9.5pt;
-  line-height: 1.34;
+  font-size: 9.8pt;
+  line-height: 1.35;
   color: #444;
 }
 .notes p {
-  margin: 0 0 2.2mm;
-  text-indent: 0;
+  margin: 0 0 2.3mm;
   text-align: justify;
 }
 '''
