@@ -116,7 +116,7 @@ hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
 
 
 /* Componentes compartidos del constructor multipublicación. */
-.pdf-marker { position: absolute; left: 1mm; top: 1mm; color: #fff; font-size: 1pt; line-height: 1; }
+.pdf-marker { display: block; height: 0; overflow: hidden; color: #fff; font-size: 1pt; line-height: 0; }
 ul, ol { margin: 0 0 4mm 6mm; padding-left: 5mm; }
 li { margin-bottom: 1.5mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
