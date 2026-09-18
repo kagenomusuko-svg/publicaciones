@@ -16,15 +16,15 @@ PUBLISHER = 'Centro Multidisciplinario Meriadock Formación y Asesoría A.C.'
 MOTTO = 'La fuerza interior nos impulsa, un pequeño apoyo de los demás nos bendice'
 
 CSS = r'''
-@page { size: A4; }
+@page { size: 152.4mm 228.6mm; }
 @page cover { margin: 0; }
 @page title { margin: 0; }
-@page legal { margin: 32mm 28mm 32mm 29mm; }
+@page legal { margin: 22mm 16.5mm 22mm 20mm; }
 @page epigraph { margin: 0; }
 @page part { margin: 0; }
 @page part-body { margin: 0; counter-increment: bodyPage; }
 @page front {
-  margin: 32mm 28mm 32mm 29mm;
+  margin: 19mm 16.5mm 19mm 20mm;
   @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
   @top-center { content: " "; border-bottom: .6pt solid #CFCFCF; }
   @top-right { content: element(bookright); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
@@ -33,7 +33,7 @@ CSS = r'''
   @bottom-right { content: counter(page, upper-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
 @page body {
-  margin: 32mm 28mm 32mm 29mm;
+  margin: 19mm 16.5mm 19mm 20mm;
   counter-increment: bodyPage;
   @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
   @top-center { content: " "; border-bottom: .6pt solid #CFCFCF; }
@@ -48,26 +48,26 @@ html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif;
 .running-header-left img { width: 8mm; height: 8mm; object-fit: contain; margin-right: 3mm; }
 .running-header-left .book { font: 700 8pt "EB Garamond"; color: #1E4C45; letter-spacing: .04em; }
 .running-header-right { position: running(bookright); white-space: nowrap; text-align: right; font: 7.5pt "EB Garamond"; color: #666; }
-.cover-page { page: cover; break-after: page; width: 210mm; height: 297mm; }
-.cover-page img { width: 210mm; height: 297mm; object-fit: fill; display: block; }
-.title-page { page: title; break-after: page; height: 297mm; box-sizing: border-box; text-align: center; padding: 24mm 20mm 22mm; position: relative; }
-.title-page .seal { width: 34mm; height: 34mm; object-fit: contain; }
+.cover-page { page: cover; break-after: page; width: 152.4mm; height: 228.6mm; }
+.cover-page img { width: 152.4mm; height: 228.6mm; object-fit: fill; display: block; }
+.title-page { page: title; break-after: page; height: 228.6mm; box-sizing: border-box; text-align: center; padding: 18mm 15mm 17mm; position: relative; }
+.title-page .seal { width: 28mm; height: 28mm; object-fit: contain; }
 .title-page .institution { margin-top: 5mm; color: #1E4C45; font: 600 13pt "EB Garamond"; letter-spacing: .07em; text-transform: uppercase; }
 .title-page .rule { width: 70mm; margin: 3mm auto 2mm; border-top: .7pt solid #1E4C45; }
 .title-page .org { color: #666; font-size: 9.5pt; }
 .title-page .motto { color: #1E4C45; font-size: 8.5pt; font-style: italic; margin-top: 2.5mm; }
-.title-page .main { margin-top: 33mm; font-size: 31pt; font-weight: 700; letter-spacing: .02em; }
+.title-page .main { margin-top: 24mm; font-size: 29pt; font-weight: 700; letter-spacing: .02em; }
 .title-page .subtitle { margin-top: 6mm; color: #1E4C45; font-size: 21pt; font-style: italic; }
 .title-page .volume { color: #666; font-size: 11pt; margin-top: 3mm; }
-.title-page .author { margin-top: 26mm; font-size: 16pt; }
-.title-page .bottom { position: absolute; left: 20mm; right: 20mm; bottom: 20mm; color: #666; font-size: 9.5pt; line-height: 1.5; }
+.title-page .author { margin-top: 19mm; font-size: 16pt; }
+.title-page .bottom { position: absolute; left: 15mm; right: 15mm; bottom: 15mm; color: #666; font-size: 9.5pt; line-height: 1.5; }
 .title-page .collection { font-style: italic; }
 .legal-page { page: legal; break-after: page; font-size: 9pt; line-height: 1.45; color: #555; }
 .legal-page h1, .legal-page h2 { color: #262626; font-size: 15pt; margin: 0 0 8mm; }
-.epigraph-page { page: epigraph; break-after: page; height: 297mm; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0 45mm; box-sizing: border-box; }
+.epigraph-page { page: epigraph; break-after: page; height: 228.6mm; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0 28mm; box-sizing: border-box; }
 .epigraph-page blockquote { border: 0; margin: 0; color: #444; font-size: 14pt; line-height: 1.5; font-style: italic; }
 .frontmatter { page: front; break-before: page; }
-.part-page { page: part; break-before: page; break-after: page; height: 297mm; box-sizing: border-box; text-align: center; padding-top: 62mm; }
+.part-page { page: part; break-before: page; break-after: page; height: 228.6mm; box-sizing: border-box; text-align: center; padding-top: 46mm; }
 .part-page.counted { page: part-body; }
 .part-page img { width: 28mm; height: 28mm; object-fit: contain; }
 .part-page .series { margin-top: 5mm; color: #1E4C45; font-size: 14pt; font-variant: small-caps; letter-spacing: .08em; }
@@ -76,7 +76,7 @@ html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif;
 .part-page h2 { font-size: 17pt; color: #262626; font-weight: 400; margin-top: 5mm; }
 .part-page .epigraph { margin-top: 8mm; color: #666; font-size: 11pt; font-style: italic; }
 .chapter, .appendix, .glossary, .warning-page { page: body; break-before: page; }
-.frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 10.5pt; line-height: 1.33; }
+.frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 11.3pt; line-height: 1.36; }
 .appendix > h1:first-of-type, .glossary > h1:first-of-type, .warning-page > h1:first-of-type { text-align: center; font-size: 22pt; margin: 8mm 0 5mm; }
 .appendix > h2:first-of-type { text-align: center; font-size: 18pt; margin: 2mm 0 3mm; }
 .appendix > h3:first-of-type { text-align: center; font-size: 12pt; font-weight: 400; color: #666; margin: 0 0 7mm; }
@@ -97,14 +97,14 @@ li { margin-bottom: 1.5mm; }
 .chapter > h1:first-of-type { text-align: center; font-size: 13pt; font-weight: 400; color: #666; margin-top: 6mm; }
 .chapter > h2:first-of-type { text-align: center; font-size: 24pt; line-height: 1.1; margin: 2mm 0 6mm; }
 .chapter > h2:first-of-type:after { content: ""; display: block; width: 42mm; margin: 5mm auto 0; border-top: .8pt solid #1E4C45; }
-.chapter > blockquote:first-of-type { max-width: 120mm; margin: 6mm auto 9mm; }
+.chapter > blockquote:first-of-type { max-width: 93mm; margin: 6mm auto 9mm; }
 .pdf-marker { position: absolute; left: 1mm; top: 1mm; color: #fff; font-size: 1pt; line-height: 1; }
 .toc { page: front; break-before: page; }
 .toc h1 { font-size: 25pt; margin: 5mm 0 8mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
 th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
 th { background: #F5F5F2; }
-.toc-table { width: 100%; border-collapse: collapse; table-layout: fixed; margin: 0; font-size: 10pt; }
+.toc-table { width: 100%; border-collapse: collapse; table-layout: fixed; margin: 0; font-size: 9.7pt; }
 .toc-table .col-label { width: 72%; }
 .toc-table .col-leader { width: 18%; }
 .toc-table .col-page { width: 10%; }
