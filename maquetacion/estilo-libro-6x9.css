@@ -1,0 +1,115 @@
+/* Estándar editorial Meriadock / Publicaciones
+   Base: Afrodita Areia I — Sobre la pasión
+   Formato maestro para libros: 6 × 9 pulgadas (152.4 × 228.6 mm)
+*/
+
+@page { size: 152.4mm 228.6mm; }
+@page cover { margin: 0; }
+@page title { margin: 0; }
+@page legal { margin: 22mm 16.5mm 22mm 20mm; }
+@page epigraph { margin: 0; }
+@page part { margin: 0; }
+@page part-body { margin: 0; counter-increment: bodyPage; }
+
+@page front {
+  margin: 19mm 16.5mm 19mm 20mm;
+  @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
+  @top-center { content: " "; border-bottom: .6pt solid #CFCFCF; }
+  @top-right { content: element(bookright); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
+  @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-center { content: " "; border-top: .5pt solid #D8D8D8; }
+  @bottom-right { content: counter(page, upper-roman); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+}
+
+@page body {
+  margin: 19mm 16.5mm 19mm 20mm;
+  counter-increment: bodyPage;
+  @top-left { content: element(bookleft); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
+  @top-center { content: " "; border-bottom: .6pt solid #CFCFCF; }
+  @top-right { content: element(bookright); border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; vertical-align: bottom; }
+  @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-center { content: " "; border-top: .5pt solid #D8D8D8; }
+  @bottom-right { content: counter(bodyPage); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+}
+
+html { counter-reset: bodyPage 0; }
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "EB Garamond", Garamond, serif;
+  color: #262626;
+}
+
+.running-header-left { position: running(bookleft); display: flex; align-items: center; white-space: nowrap; }
+.running-header-left img { width: 8mm; height: 8mm; object-fit: contain; margin-right: 3mm; }
+.running-header-left .book { font: 700 8pt "EB Garamond"; color: #1E4C45; letter-spacing: .04em; }
+.running-header-right { position: running(bookright); white-space: nowrap; text-align: right; font: 7.5pt "EB Garamond"; color: #666; }
+
+.cover-page { page: cover; break-after: page; width: 152.4mm; height: 228.6mm; }
+.cover-page img { width: 152.4mm; height: 228.6mm; object-fit: fill; display: block; }
+
+.title-page { page: title; break-after: page; height: 228.6mm; box-sizing: border-box; text-align: center; padding: 18mm 15mm 17mm; position: relative; }
+.title-page .seal { width: 28mm; height: 28mm; object-fit: contain; }
+.title-page .institution { margin-top: 5mm; color: #1E4C45; font: 600 13pt "EB Garamond"; letter-spacing: .07em; text-transform: uppercase; }
+.title-page .rule { width: 70mm; margin: 3mm auto 2mm; border-top: .7pt solid #1E4C45; }
+.title-page .org { color: #666; font-size: 9.5pt; }
+.title-page .motto { color: #1E4C45; font-size: 8.5pt; font-style: italic; margin-top: 2.5mm; }
+.title-page .main { margin-top: 24mm; font-size: 29pt; font-weight: 700; letter-spacing: .02em; }
+.title-page .subtitle { margin-top: 6mm; color: #1E4C45; font-size: 21pt; font-style: italic; }
+.title-page .volume { color: #666; font-size: 11pt; margin-top: 3mm; }
+.title-page .author { margin-top: 19mm; font-size: 16pt; }
+.title-page .bottom { position: absolute; left: 15mm; right: 15mm; bottom: 15mm; color: #666; font-size: 9.5pt; line-height: 1.5; }
+.title-page .collection { font-style: italic; }
+
+.legal-page { page: legal; break-after: page; font-size: 9pt; line-height: 1.45; color: #555; }
+.legal-page h1, .legal-page h2 { color: #262626; font-size: 15pt; margin: 0 0 8mm; }
+
+.epigraph-page { page: epigraph; break-after: page; height: 228.6mm; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0 28mm; box-sizing: border-box; }
+.epigraph-page blockquote { border: 0; margin: 0; color: #444; font-size: 14pt; line-height: 1.5; font-style: italic; }
+
+.frontmatter { page: front; break-before: page; }
+.part-page { page: part; break-before: page; break-after: page; height: 228.6mm; box-sizing: border-box; text-align: center; padding-top: 46mm; }
+.part-page.counted { page: part-body; }
+.part-page img { width: 28mm; height: 28mm; object-fit: contain; }
+.part-page .series { margin-top: 5mm; color: #1E4C45; font-size: 14pt; font-variant: small-caps; letter-spacing: .08em; }
+.part-page .rule { width: 75mm; border-top: .7pt solid #1E4C45; margin: 5mm auto 14mm; }
+.part-page h1 { font-size: 27pt; margin: 0; }
+.part-page h2 { font-size: 17pt; color: #262626; font-weight: 400; margin-top: 5mm; }
+.part-page .epigraph { margin-top: 8mm; color: #666; font-size: 11pt; font-style: italic; }
+
+.chapter, .appendix, .glossary, .warning-page { page: body; break-before: page; }
+.frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 11.3pt; line-height: 1.33; }
+
+p { margin: 0 0 3.2mm; text-align: justify; }
+h1, h2, h3 { line-height: 1.25; color: #222; }
+h1 { font-size: 17pt; margin: 8mm 0 3mm; }
+h2 { font-size: 14pt; margin: 7mm 0 2.8mm; }
+h3 { font-size: 11.5pt; color: #1E4C45; margin: 6mm 0 2.3mm; }
+
+blockquote { margin: 5mm 0; padding: 1mm 0 1mm 5mm; border-left: 1.6pt solid #1E4C45; color: #555; font-style: italic; }
+hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
+
+.frontmatter > h1:first-child { font-size: 25pt; margin-top: 5mm; }
+.chapter > p:first-child { text-align: center; color: #1E4C45; font-variant: small-caps; letter-spacing: .04em; }
+.chapter > h1:first-of-type { text-align: center; font-size: 13pt; font-weight: 400; color: #666; margin-top: 6mm; }
+.chapter > h2:first-of-type { text-align: center; font-size: 24pt; line-height: 1.1; margin: 2mm 0 6mm; }
+.chapter > h2:first-of-type:after { content: ""; display: block; width: 42mm; margin: 5mm auto 0; border-top: .8pt solid #1E4C45; }
+.chapter > blockquote:first-of-type { max-width: 93mm; margin: 6mm auto 9mm; }
+
+.appendix > h1:first-of-type, .glossary > h1:first-of-type, .warning-page > h1:first-of-type { text-align: center; font-size: 22pt; margin: 8mm 0 5mm; }
+.appendix > h2:first-of-type { text-align: center; font-size: 18pt; margin: 2mm 0 3mm; }
+.appendix > h3:first-of-type { text-align: center; font-size: 12pt; font-weight: 400; color: #666; margin: 0 0 7mm; }
+.warning-page { padding-top: 18mm; }
+.warning-page:before { content: ""; display:block; width: 48mm; margin: 0 auto 8mm; border-top: .8pt solid #1E4C45; }
+.glossary h2 { break-after: avoid; color: #1E4C45; }
+
+.toc { page: front; break-before: page; }
+.toc h1 { font-size: 25pt; margin: 5mm 0 8mm; }
+.toc-table { width: 100%; border-collapse: collapse; table-layout: fixed; margin: 0; font-size: 10pt; }
+.toc-table td { border: 0; padding: 0 0 2.1mm; vertical-align: bottom; background: transparent; }
+.toc-table .toc-label { padding-right: 2mm; }
+.toc-table .toc-leader { border-bottom: .5pt dotted #BEBEBE; }
+.toc-table .toc-page { text-align: right; white-space: nowrap; color: #1E4C45; font-weight: 600; }
+.toc-table tr.toc-part .toc-label,
+.toc-table tr.toc-part .toc-page { color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; padding-top: 2.8mm; }
+.toc-table tr.toc-chapter .toc-label { padding-left: 5mm; }
