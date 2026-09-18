@@ -136,6 +136,8 @@ a { color: inherit; }
 .publication-reader-meta h2 { font-size: 23px; font-weight: 400; font-style: italic; margin: 0 0 14px; }
 .publication-reader-author,
 .publication-reader-year { color: var(--muted); margin: 3px 0; }
+.publication-reader-doi { color: var(--muted); margin: 7px 0; font-size: 14px; }
+.publication-reader-doi a { color: var(--meriadock-bg); font-weight: 600; }
 .publication-reader-description { color: #555; line-height: 1.65; margin: 16px 0; }
 
 .publication-reader-viewer {

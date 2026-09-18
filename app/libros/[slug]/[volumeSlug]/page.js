@@ -51,6 +51,18 @@ export default async function LibroPage({ params }) {
             <h2>{publicacion.subtitle}</h2>
             <p className="publication-reader-author">{publicacion.author}</p>
             <p className="publication-reader-year">{publicacion.year}</p>
+            {publicacion.doi && (
+              <p className="publication-reader-doi">
+                DOI:{' '}
+                <a
+                  href={`https://doi.org/${publicacion.doi}`}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {publicacion.doi}
+                </a>
+              </p>
+            )}
             <p className="publication-reader-description">{publicacion.description}</p>
             <a
               href={publicacion.pdf}
