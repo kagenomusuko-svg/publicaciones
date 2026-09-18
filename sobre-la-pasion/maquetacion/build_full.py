@@ -76,7 +76,7 @@ html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif;
 .part-page h2 { font-size: 17pt; color: #262626; font-weight: 400; margin-top: 5mm; }
 .part-page .epigraph { margin-top: 8mm; color: #666; font-size: 11pt; font-style: italic; }
 .chapter, .appendix, .glossary, .warning-page { page: body; break-before: page; }
-.frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 11.3pt; line-height: 1.36; }
+.frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 11.3pt; line-height: 1.33; }
 .appendix > h1:first-of-type, .glossary > h1:first-of-type, .warning-page > h1:first-of-type { text-align: center; font-size: 22pt; margin: 8mm 0 5mm; }
 .appendix > h2:first-of-type { text-align: center; font-size: 18pt; margin: 2mm 0 3mm; }
 .appendix > h3:first-of-type { text-align: center; font-size: 12pt; font-weight: 400; color: #666; margin: 0 0 7mm; }
@@ -104,7 +104,7 @@ li { margin-bottom: 1.5mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
 th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
 th { background: #F5F5F2; }
-.toc-table { width: 100%; border-collapse: collapse; table-layout: fixed; margin: 0; font-size: 9.7pt; }
+.toc-table { width: 100%; border-collapse: collapse; table-layout: fixed; margin: 0; font-size: 10pt; }
 .toc-table .col-label { width: 72%; }
 .toc-table .col-leader { width: 18%; }
 .toc-table .col-page { width: 10%; }
