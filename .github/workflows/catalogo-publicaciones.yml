@@ -1,0 +1,60 @@
+name: Actualizar catálogo de publicaciones
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/publicacion.json'
+      - '.github/workflows/catalogo-publicaciones.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  catalogo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Construir catálogo
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          items = []
+          for path in sorted(Path('.').glob('**/publicacion.json')):
+              if '.git' in path.parts:
+                  continue
+              data = json.loads(path.read_text(encoding='utf-8'))
+              data['_manifest'] = path.as_posix()
+              items.append(data)
+
+          items.sort(
+              key=lambda x: (
+                  int(x.get('sortOrder', 0)),
+                  int(x.get('year', 0)),
+                  str(x.get('title', '')).lower(),
+              ),
+              reverse=True,
+          )
+
+          Path('catalogo.json').write_text(
+              json.dumps(items, ensure_ascii=False, indent=2) + '\n',
+              encoding='utf-8',
+          )
+          print(f'{len(items)} publicaciones indexadas')
+          PY
+
+      - name: Guardar catálogo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalogo.json
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Actualiza catálogo de publicaciones"
+            git pull --rebase origin main
+            git push
+          fi
