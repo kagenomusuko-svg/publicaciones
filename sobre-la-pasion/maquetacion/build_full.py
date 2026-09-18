@@ -29,10 +29,12 @@ CSS = r'''
 }
 @page body {
   margin: 27.5mm 20.5mm 22mm;
+  counter-increment: bodyPage;
   @top-center { content: element(bookheader); }
   @bottom-left { content: "Centro Multidisciplinario Meriadock Formación y Asesoría A.C."; font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
-  @bottom-right { content: counter(page); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
+  @bottom-right { content: counter(bodyPage); font: 7.2pt "EB Garamond"; color: #666; border-top: .5pt solid #D8D8D8; padding-top: 2mm; }
 }
+html { counter-reset: bodyPage 0; }
 html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif; color: #262626; }
 .running-header { position: running(bookheader); width: 169mm; height: 13mm; display: flex; align-items: center; border-bottom: .6pt solid #CFCFCF; padding-bottom: 2mm; }
 .running-header img { width: 8mm; height: 8mm; object-fit: contain; margin-right: 3mm; }
@@ -65,7 +67,6 @@ html, body { margin: 0; padding: 0; font-family: "EB Garamond", Garamond, serif;
 .part-page h2 { font-size: 17pt; color: #262626; font-weight: 400; margin-top: 5mm; }
 .part-page .epigraph { margin-top: 8mm; color: #666; font-size: 11pt; font-style: italic; }
 .chapter, .appendix, .glossary, .warning-page { page: body; break-before: page; }
-.body-start { counter-reset: page 0; }
 .frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 10.5pt; line-height: 1.33; }
 .appendix > h1:first-of-type, .glossary > h1:first-of-type, .warning-page > h1:first-of-type { text-align: center; font-size: 22pt; margin: 8mm 0 5mm; }
 .appendix > h2:first-of-type { text-align: center; font-size: 18pt; margin: 2mm 0 3mm; }
