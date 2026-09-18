@@ -23,10 +23,9 @@ export default function PdfReader({ src, title }) {
 
       try {
         const pdfjs = await import('pdfjs-dist/legacy/build/pdf.mjs');
-        const loadingTask = pdfjs.getDocument({
-          url: src,
-          disableWorker: true,
-        });
+        pdfjs.GlobalWorkerOptions.workerSrc =
+          'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs';
+        const loadingTask = pdfjs.getDocument({ url: src });
         loadingTaskRef.current = loadingTask;
 
         const pdf = await loadingTask.promise;
