@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&display=swap');
+
+:root {
+  --meriadock-bg: #1E4C45;
+  --meriadock-silver: #D9D9D9;
+  --text: #262626;
+  --muted: #666;
+  --line: #e0e0e0;
+  --paper: #f4f4f2;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  background: #fff;
+  color: var(--text);
+  font-family: "EB Garamond", Garamond, "Times New Roman", serif;
+}
+
+a { color: inherit; }
+
+.publicaciones-page,
+.publication-reader-page {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 40px 24px 64px;
+}
+
+.publicaciones-hero {
+  max-width: 720px;
+  margin-bottom: 36px;
+}
+
+.eyebrow {
+  color: #777;
+  font-size: 12px;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+
+.publicaciones-hero h1 {
+  color: var(--meriadock-bg);
+  font-size: clamp(38px, 6vw, 64px);
+  line-height: 1;
+  margin: 10px 0 16px;
+}
+
+.publicaciones-hero p,
+.libro-card p {
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+.publicaciones-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 24px;
+}
+
+.libro-card-link { text-decoration: none; }
+
+.libro-card {
+  height: 100%;
+  border: 1px solid var(--line);
+  background: #fff;
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+
+.libro-card:hover {
+  border-color: var(--meriadock-bg);
+  box-shadow: 0 8px 22px rgba(30, 76, 69, .10);
+  transform: translateY(-2px);
+}
+
+.libro-cover-wrap {
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  background: #f2f0eb;
+  border-bottom: 1px solid var(--line);
+}
+
+.libro-cover-wrap img,
+.publication-reader-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.libro-card-content { padding: 16px; }
+.libro-card h2 { color: var(--meriadock-bg); margin: 8px 0 2px; font-size: 25px; }
+.libro-subtitle { font-style: italic; margin: 0 0 12px; }
+.libro-action,
+.publication-reader-direct { color: var(--meriadock-bg); font-weight: 600; }
+
+.publicaciones-back { margin-top: 36px; color: var(--meriadock-bg); }
+
+.publication-reader-breadcrumb {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+  color: #777;
+  font-size: 14px;
+}
+
+.publication-reader-breadcrumb a { color: var(--meriadock-bg); text-decoration: none; }
+
+.publication-reader-layout {
+  display: grid;
+  grid-template-columns: minmax(250px, 300px) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+}
+
+.publication-reader-header {
+  position: sticky;
+  top: 20px;
+}
+
+.publication-reader-cover-wrap {
+  width: 100%;
+  max-width: 260px;
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: #f2f0eb;
+  box-shadow: 0 8px 24px rgba(0,0,0,.10);
+}
+
+.publication-reader-meta { padding-top: 18px; max-width: 280px; }
+.publication-reader-meta h1 { color: var(--meriadock-bg); font-size: 34px; line-height: 1.1; margin: 4px 0; }
+.publication-reader-meta h2 { font-size: 23px; font-weight: 400; font-style: italic; margin: 0 0 14px; }
+.publication-reader-author,
+.publication-reader-year { color: var(--muted); margin: 3px 0; }
+.publication-reader-description { color: #555; line-height: 1.65; margin: 16px 0; }
+
+.publication-reader-viewer {
+  min-width: 0;
+  min-height: 82vh;
+  border: 1px solid #dcdcdc;
+  background: var(--paper);
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0,0,0,.06);
+}
+
+.publication-reader-frame {
+  width: 100%;
+  height: 82vh;
+  min-height: 720px;
+  border: 0;
+  display: block;
+  background: #fff;
+}
+
+.publication-reader-fallback {
+  padding: 14px 20px;
+  color: #666;
+  text-align: center;
+}
+
+.publication-reader-fallback a { color: var(--meriadock-bg); font-weight: 600; }
+
+@media (max-width: 768px) {
+  .publicaciones-page,
+  .publication-reader-page { padding: 24px 16px 40px; }
+
+  .publication-reader-layout { grid-template-columns: 1fr; gap: 24px; }
+  .publication-reader-header { position: static; }
+  .publication-reader-cover-wrap { width: min(72vw, 240px); margin: 0 auto; }
+  .publication-reader-meta { max-width: 640px; }
+  .publication-reader-frame { height: 74vh; min-height: 560px; }
+}
