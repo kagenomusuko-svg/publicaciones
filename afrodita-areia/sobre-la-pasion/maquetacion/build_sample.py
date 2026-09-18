@@ -165,7 +165,7 @@ def build(root: Path, output: Path):
 def main():
     p = argparse.ArgumentParser()
     p.add_argument('--root', default=str(Path(__file__).resolve().parents[1]))
-    p.add_argument('--output', default='sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf')
+    p.add_argument('--output', default='afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf')
     a = p.parse_args()
     build(Path(a.root).resolve(), Path(a.output).resolve())
 

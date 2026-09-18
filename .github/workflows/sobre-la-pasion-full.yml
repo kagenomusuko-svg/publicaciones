@@ -4,10 +4,10 @@ on:
   push:
     branches: [main]
     paths:
-      - 'sobre-la-pasion/*.md'
-      - 'sobre-la-pasion/Portada Vol I red.png'
-      - 'sobre-la-pasion/Contra portada Vol I.png'
-      - 'sobre-la-pasion/maquetacion/build_full.py'
+      - 'afrodita-areia/sobre-la-pasion/*.md'
+      - 'afrodita-areia/sobre-la-pasion/Portada Vol I red.png'
+      - 'afrodita-areia/sobre-la-pasion/Contra portada Vol I.png'
+      - 'afrodita-areia/sobre-la-pasion/maquetacion/build_full.py'
       - '.github/workflows/sobre-la-pasion-full.yml'
   workflow_dispatch:
 
@@ -38,34 +38,34 @@ jobs:
 
       - name: Obtener sello institucional
         run: |
-          mkdir -p sobre-la-pasion/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output sobre-la-pasion/assets/logo.svg
+          mkdir -p afrodita-areia/sobre-la-pasion/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output afrodita-areia/sobre-la-pasion/assets/logo.svg
 
       - name: Generar libro completo
         run: |
-          python sobre-la-pasion/maquetacion/build_full.py \
+          python afrodita-areia/sobre-la-pasion/maquetacion/build_full.py \
             --root sobre-la-pasion \
-            --output sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+            --output afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
 
       - name: Preflight textual y estructural
         run: |
-          pdfinfo sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
-          pdftotext sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "AFRODITA AREIA" sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Capítulo 15" sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Apéndice C" sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Glosario de términos" sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          pdfinfo afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+          pdftotext afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "AFRODITA AREIA" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "Capítulo 15" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "Apéndice C" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "Glosario de términos" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
 
       - name: Seleccionar y renderizar páginas de control
         run: |
-          rm -rf sobre-la-pasion/build/review-full
-          mkdir -p sobre-la-pasion/build/review-full
+          rm -rf afrodita-areia/sobre-la-pasion/build/review-full
+          mkdir -p afrodita-areia/sobre-la-pasion/build/review-full
           python - <<'PY'
           from pathlib import Path
           import subprocess
           from pypdf import PdfReader
 
-          pdf = Path('sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf')
+          pdf = Path('afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf')
           reader = PdfReader(str(pdf))
           targets = [
               ('portada', 1),
@@ -94,13 +94,13 @@ jobs:
           targets.append(('contraportada', len(reader.pages)))
 
           for label, page_no in targets:
-              out = Path('sobre-la-pasion/build/review-full') / label
+              out = Path('afrodita-areia/sobre-la-pasion/build/review-full') / label
               subprocess.run([
                   'pdftoppm','-jpeg','-r','105','-f',str(page_no),'-l',str(page_no),
                   str(pdf), str(out)
               ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
-          manifest = Path('sobre-la-pasion/build/review-full/manifest.txt')
+          manifest = Path('afrodita-areia/sobre-la-pasion/build/review-full/manifest.txt')
           manifest.write_text('\n'.join(f'{label}: {page}' for label, page in targets), encoding='utf-8')
           PY
 
@@ -110,7 +110,7 @@ jobs:
           from pathlib import Path
           from PIL import Image, ImageDraw
 
-          root = Path('sobre-la-pasion/build/review-full')
+          root = Path('afrodita-areia/sobre-la-pasion/build/review-full')
           files = sorted(root.glob('*.jpg'))
           cards = []
           for p in files:
@@ -126,7 +126,7 @@ jobs:
           sheet = Image.new('RGB', (cols*260, rows*375), '#eeeeee')
           for i, card in enumerate(cards):
               sheet.paste(card, ((i%cols)*260, (i//cols)*375))
-          sheet.save('sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg', quality=86, optimize=True)
+          sheet.save('afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg', quality=86, optimize=True)
           PY
 
       - name: Publicar artefacto
@@ -134,10 +134,10 @@ jobs:
         with:
           name: afrodita-areia-vol-i-sobre-la-pasion
           path: |
-            sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
-            sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
-            sobre-la-pasion/build/review-full/manifest.txt
-            sobre-la-pasion/build/review-full/*.jpg
+            afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+            afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
+            afrodita-areia/sobre-la-pasion/build/review-full/manifest.txt
+            afrodita-areia/sobre-la-pasion/build/review-full/*.jpg
           if-no-files-found: error
           retention-days: 14
 
@@ -145,8 +145,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
-          git add sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
+          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. I completo"
             git pull --rebase origin main

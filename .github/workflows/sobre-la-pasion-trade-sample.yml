@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'sobre-la-pasion/08.md'
-      - 'sobre-la-pasion/09.md'
-      - 'sobre-la-pasion/maquetacion/build_trade_sample.py'
+      - 'afrodita-areia/sobre-la-pasion/08.md'
+      - 'afrodita-areia/sobre-la-pasion/09.md'
+      - 'afrodita-areia/sobre-la-pasion/maquetacion/build_trade_sample.py'
       - '.github/workflows/sobre-la-pasion-trade-sample.yml'
   workflow_dispatch:
 
@@ -37,25 +37,25 @@ jobs:
 
       - name: Obtener sello institucional
         run: |
-          mkdir -p sobre-la-pasion/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output sobre-la-pasion/assets/logo.svg
+          mkdir -p afrodita-areia/sobre-la-pasion/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output afrodita-areia/sobre-la-pasion/assets/logo.svg
 
       - name: Generar muestra 6x9
         run: |
-          python sobre-la-pasion/maquetacion/build_trade_sample.py \
+          python afrodita-areia/sobre-la-pasion/maquetacion/build_trade_sample.py \
             --root sobre-la-pasion \
-            --output sobre-la-pasion/build/muestra-6x9.pdf
+            --output afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf
 
       - name: Preflight
         run: |
-          pdfinfo sobre-la-pasion/build/muestra-6x9.pdf
-          pdftotext sobre-la-pasion/build/muestra-6x9.pdf - | head -120
+          pdfinfo afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf
+          pdftotext afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf - | head -120
 
       - name: Render de revisión
         run: |
-          rm -rf sobre-la-pasion/build/muestra-6x9-render
-          mkdir -p sobre-la-pasion/build/muestra-6x9-render
-          pdftoppm -png -r 150 sobre-la-pasion/build/muestra-6x9.pdf sobre-la-pasion/build/muestra-6x9-render/page >/dev/null 2>&1
+          rm -rf afrodita-areia/sobre-la-pasion/build/muestra-6x9-render
+          mkdir -p afrodita-areia/sobre-la-pasion/build/muestra-6x9-render
+          pdftoppm -png -r 150 afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf afrodita-areia/sobre-la-pasion/build/muestra-6x9-render/page >/dev/null 2>&1
 
       - name: Hoja de contacto
         run: |
@@ -63,7 +63,7 @@ jobs:
           from pathlib import Path
           from PIL import Image, ImageDraw
 
-          files = sorted(Path('sobre-la-pasion/build/muestra-6x9-render').glob('page-*.png'))
+          files = sorted(Path('afrodita-areia/sobre-la-pasion/build/muestra-6x9-render').glob('page-*.png'))
           cards = []
           for i, p in enumerate(files, 1):
               im = Image.open(p).convert('RGB')
@@ -76,7 +76,7 @@ jobs:
           sheet = Image.new('RGB', (len(cards)*325, 495), '#eeeeee')
           for i, card in enumerate(cards):
               sheet.paste(card, (i*325, 0))
-          sheet.save('sobre-la-pasion/build/muestra-6x9-contacto.jpg', quality=88, optimize=True)
+          sheet.save('afrodita-areia/sobre-la-pasion/build/muestra-6x9-contacto.jpg', quality=88, optimize=True)
           PY
 
       - name: Publicar artefacto
@@ -84,10 +84,10 @@ jobs:
         with:
           name: sobre-la-pasion-muestra-6x9
           path: |
-            sobre-la-pasion/build/muestra-6x9.pdf
-            sobre-la-pasion/build/muestra-6x9.txt
-            sobre-la-pasion/build/muestra-6x9-contacto.jpg
-            sobre-la-pasion/build/muestra-6x9-render/*.png
+            afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf
+            afrodita-areia/sobre-la-pasion/build/muestra-6x9.txt
+            afrodita-areia/sobre-la-pasion/build/muestra-6x9-contacto.jpg
+            afrodita-areia/sobre-la-pasion/build/muestra-6x9-render/*.png
           if-no-files-found: error
           retention-days: 14
 
@@ -95,9 +95,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sobre-la-pasion/build/muestra-6x9.pdf
-          git add sobre-la-pasion/build/muestra-6x9.txt
-          git add sobre-la-pasion/build/muestra-6x9-contacto.jpg
+          git add afrodita-areia/sobre-la-pasion/build/muestra-6x9.pdf
+          git add afrodita-areia/sobre-la-pasion/build/muestra-6x9.txt
+          git add afrodita-areia/sobre-la-pasion/build/muestra-6x9-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera muestra editorial 6x9"
             git pull --rebase origin main

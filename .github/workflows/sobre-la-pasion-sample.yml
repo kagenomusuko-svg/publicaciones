@@ -4,10 +4,10 @@ on:
   push:
     branches: [main]
     paths:
-      - 'sobre-la-pasion/*.md'
-      - 'sobre-la-pasion/Portada Vol I.png'
-      - 'sobre-la-pasion/Contraportada Vol I.png'
-      - 'sobre-la-pasion/maquetacion/**'
+      - 'afrodita-areia/sobre-la-pasion/*.md'
+      - 'afrodita-areia/sobre-la-pasion/Portada Vol I.png'
+      - 'afrodita-areia/sobre-la-pasion/Contraportada Vol I.png'
+      - 'afrodita-areia/sobre-la-pasion/maquetacion/**'
       - '.github/workflows/sobre-la-pasion-sample.yml'
   workflow_dispatch:
 
@@ -38,30 +38,30 @@ jobs:
 
       - name: Obtener sello institucional usado por Diálogos Eleatas
         run: |
-          mkdir -p sobre-la-pasion/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output sobre-la-pasion/assets/logo.svg
+          mkdir -p afrodita-areia/sobre-la-pasion/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output afrodita-areia/sobre-la-pasion/assets/logo.svg
 
       - name: Generar muestra PDF
         run: |
-          python sobre-la-pasion/maquetacion/build_sample.py --root sobre-la-pasion --output sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
+          python afrodita-areia/sobre-la-pasion/maquetacion/build_sample.py --root sobre-la-pasion --output afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
 
       - name: Preflight básico
         run: |
-          pdfinfo sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
-          pdftotext sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf - | head -120
+          pdfinfo afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
+          pdftotext afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf - | head -120
 
       - name: Render de control
         run: |
-          rm -rf sobre-la-pasion/build/preview
-          mkdir -p sobre-la-pasion/build/preview
-          pdftoppm -png -r 100 -f 1 -l 14 sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf sobre-la-pasion/build/preview/page >/dev/null 2>&1
+          rm -rf afrodita-areia/sobre-la-pasion/build/preview
+          mkdir -p afrodita-areia/sobre-la-pasion/build/preview
+          pdftoppm -png -r 100 -f 1 -l 14 afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf afrodita-areia/sobre-la-pasion/build/preview/page >/dev/null 2>&1
 
       - name: Hoja de contacto
         run: |
           python - <<'PY'
           from pathlib import Path
           from PIL import Image, ImageOps, ImageDraw
-          files = sorted(Path('sobre-la-pasion/build/preview').glob('page-*.png'))
+          files = sorted(Path('afrodita-areia/sobre-la-pasion/build/preview').glob('page-*.png'))
           thumbs = []
           for i, p in enumerate(files, 1):
               im = Image.open(p).convert('RGB')
@@ -76,7 +76,7 @@ jobs:
           sheet = Image.new('RGB', (cols*280, rows*405), '#eeeeee')
           for i, im in enumerate(thumbs):
               sheet.paste(im, ((i%cols)*280, (i//cols)*405))
-          sheet.save('sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg', quality=86, optimize=True)
+          sheet.save('afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg', quality=86, optimize=True)
 
           # Hoja mini para inspección rápida fuera de Actions.
           mini_cards = []
@@ -93,15 +93,15 @@ jobs:
           mini = Image.new('RGB', (mini_cols*120, mini_rows*172), '#eeeeee')
           for i, im in enumerate(mini_cards):
               mini.paste(im, ((i%mini_cols)*120, (i//mini_cols)*172))
-          mini.save('sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg', quality=42, optimize=True)
+          mini.save('afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg', quality=42, optimize=True)
 
           # Páginas clave en tamaño de revisión: portadilla, apertura de parte y capítulo.
-          review = Path('sobre-la-pasion/build/review')
+          review = Path('afrodita-areia/sobre-la-pasion/build/review')
           review.mkdir(parents=True, exist_ok=True)
           for page_no in (2, 12, 13):
-              p = Path('sobre-la-pasion/build/preview') / f'page-{page_no:02d}.png'
+              p = Path('afrodita-areia/sobre-la-pasion/build/preview') / f'page-{page_no:02d}.png'
               if not p.exists():
-                  p = Path('sobre-la-pasion/build/preview') / f'page-{page_no}.png'
+                  p = Path('afrodita-areia/sobre-la-pasion/build/preview') / f'page-{page_no}.png'
               im = Image.open(p).convert('RGB')
               im.thumbnail((420, 594))
               im.save(review / f'page-{page_no:02d}.jpg', quality=58, optimize=True)
@@ -113,11 +113,11 @@ jobs:
         with:
           name: sobre-la-pasion-muestra-01-09
           path: |
-            sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
-            sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
-            sobre-la-pasion/build/review/page-02.jpg
-            sobre-la-pasion/build/review/page-12.jpg
-            sobre-la-pasion/build/review/page-13.jpg
+            afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
+            afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
+            afrodita-areia/sobre-la-pasion/build/review/page-02.jpg
+            afrodita-areia/sobre-la-pasion/build/review/page-12.jpg
+            afrodita-areia/sobre-la-pasion/build/review/page-13.jpg
           if-no-files-found: error
           retention-days: 7
 
@@ -125,12 +125,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
-          git add sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
-          git add sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg
-          git add sobre-la-pasion/build/review/page-02.jpg
-          git add sobre-la-pasion/build/review/page-12.jpg
-          git add sobre-la-pasion/build/review/page-13.jpg
+          git add afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
+          git add afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
+          git add afrodita-areia/sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg
+          git add afrodita-areia/sobre-la-pasion/build/review/page-02.jpg
+          git add afrodita-areia/sobre-la-pasion/build/review/page-12.jpg
+          git add afrodita-areia/sobre-la-pasion/build/review/page-13.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Actualiza muestra maquetada 01-09"
             git push

@@ -7,11 +7,11 @@
     "author": "Miguel Hilario Olvera Aguilar",
     "year": 2026,
     "description": "Una ontología materialista de la determinación que piensa la pasión como fuerza anterior al sujeto consciente y recorre su desarrollo desde el caos hasta el ego.",
-    "cover": "sobre-la-pasion/Portada Vol I red.png",
-    "pdf": "sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf",
+    "cover": "afrodita-areia/sobre-la-pasion/Portada Vol I red.png",
+    "pdf": "afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf",
     "format": "PDF",
     "sortOrder": 100,
     "slug": "afrodita-areia/vol-i",
-    "_manifest": "sobre-la-pasion/publicacion.json"
+    "_manifest": "afrodita-areia/sobre-la-pasion/publicacion.json"
   }
 ]
