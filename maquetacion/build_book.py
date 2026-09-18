@@ -398,8 +398,27 @@ def build(root: Path, output: Path, stylesheet: Path) -> None:
     render_pdf(root, config, css, pieces, toc_entries, pass1, None, True)
     numbers1 = compute_toc_numbers(marker_pages(pass1, toc_entries), toc_entries)
     render_pdf(root, config, css, pieces, toc_entries, pass2, numbers1, True)
-    numbers2 = compute_toc_numbers(marker_pages(pass2, toc_entries), toc_entries)
+    physical_pages = marker_pages(pass2, toc_entries)
+    numbers2 = compute_toc_numbers(physical_pages, toc_entries)
     render_pdf(root, config, css, pieces, toc_entries, output, numbers2, False)
+    audit = {
+        "pdf": output.name,
+        "total_pages": len(PdfReader(str(output)).pages),
+        "contents": [
+            {
+                "key": entry.key,
+                "label": entry.label,
+                "kind": entry.kind,
+                "physical_page": physical_pages[entry.key],
+                "printed_page": numbers2[entry.key],
+            }
+            for entry in toc_entries
+        ],
+    }
+    output.with_suffix(".pages.json").write_text(
+        json.dumps(audit, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
     pass1.unlink(missing_ok=True)
     pass2.unlink(missing_ok=True)
     print(output)

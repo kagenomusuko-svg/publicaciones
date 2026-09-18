@@ -64,27 +64,32 @@ jobs:
           mkdir -p afrodita-areia/agape/build/review-full
           python - <<'PY'
           from pathlib import Path
+          import json
           import subprocess
-          from pypdf import PdfReader
 
           pdf = Path('afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf')
-          reader = PdfReader(str(pdf))
-          targets = [('portada', 1), ('portadilla', 2)]
-          needles = [
-              ('indice', 'ÍNDICE'),
-              ('parte-i', 'Parte I'),
-              ('capitulo-1', 'Capítulo 1'),
-              ('parte-v', 'Parte V'),
-              ('capitulo-15', 'Capítulo 15'),
-              ('apendice', 'Apéndice'),
-              ('glosario', 'Glosario de términos'),
+          audit = json.loads(pdf.with_suffix('.pages.json').read_text(encoding='utf-8'))
+          contents = audit['contents']
+
+          def page_for(heading, kind):
+              for item in contents:
+                  base = item['label'].split('·', 1)[0].strip()
+                  if item['kind'] == kind and base.casefold() == heading.casefold():
+                      return item['physical_page']
+              raise RuntimeError(f'No se encontró {kind}: {heading}')
+
+          targets = [
+              ('portada', 1),
+              ('portadilla', 2),
+              ('indice', 5),
+              ('parte-i', page_for('Parte I', 'part')),
+              ('capitulo-1', page_for('Capítulo 1', 'chapter')),
+              ('parte-v', page_for('Parte V', 'part')),
+              ('capitulo-15', page_for('Capítulo 15', 'chapter')),
+              ('apendice', page_for('Apéndice', 'appendix')),
+              ('glosario', page_for('Glosario de términos', 'glossary')),
+              ('contraportada', audit['total_pages']),
           ]
-          for label, needle in needles:
-              for index, page in enumerate(reader.pages, 1):
-                  if needle in (page.extract_text() or ''):
-                      targets.append((label, index))
-                      break
-          targets.append(('contraportada', len(reader.pages)))
           for label, page_no in targets:
               out = Path('afrodita-areia/agape/build/review-full') / label
               subprocess.run([
@@ -126,6 +131,7 @@ jobs:
           name: afrodita-areia-vol-ii-agape
           path: |
             afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
+            afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pages.json
             afrodita-areia/agape/build/afrodita-areia-vol-ii-contacto.jpg
             afrodita-areia/agape/build/review-full/manifest.txt
             afrodita-areia/agape/build/review-full/*.jpg
