@@ -92,7 +92,7 @@ jobs:
               ('apendice-a', page_for('Apéndice A', 'appendix')),
               ('apendice-b', page_for('Apéndice B', 'appendix')),
               ('apendice-c', page_for('Apéndice C', 'appendix')),
-              ('glosario', page_for('Glosario de términos', 'glossary')),
+              ('glosario', page_for('Glosario de términos', 'appendix')),
               ('contraportada', audit['total_pages']),
           ]
 

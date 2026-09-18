@@ -87,7 +87,7 @@ jobs:
               ('parte-v', page_for('Parte V', 'part')),
               ('capitulo-15', page_for('Capítulo 15', 'chapter')),
               ('apendice', page_for('Apéndice', 'appendix')),
-              ('glosario', page_for('Glosario de términos', 'glossary')),
+              ('glosario', page_for('Glosario de términos', 'appendix')),
               ('contraportada', audit['total_pages']),
           ]
           for label, page_no in targets:
