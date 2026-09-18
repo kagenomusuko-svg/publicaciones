@@ -1,0 +1,105 @@
+name: Sobre la pasión - muestra 6x9
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sobre-la-pasion/08.md'
+      - 'sobre-la-pasion/09.md'
+      - 'sobre-la-pasion/maquetacion/build_trade_sample.py'
+      - '.github/workflows/sobre-la-pasion-trade-sample.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dependencias del sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-ebgaramond poppler-utils libpango-1.0-0 libpangoft2-1.0-0
+
+      - name: Dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint markdown-it-py pillow pypdf
+
+      - name: Obtener sello institucional
+        run: |
+          mkdir -p sobre-la-pasion/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output sobre-la-pasion/assets/logo.svg
+
+      - name: Generar muestra 6x9
+        run: |
+          python sobre-la-pasion/maquetacion/build_trade_sample.py \
+            --root sobre-la-pasion \
+            --output sobre-la-pasion/build/muestra-6x9.pdf
+
+      - name: Preflight
+        run: |
+          pdfinfo sobre-la-pasion/build/muestra-6x9.pdf
+          pdftotext sobre-la-pasion/build/muestra-6x9.pdf - | head -120
+
+      - name: Render de revisión
+        run: |
+          rm -rf sobre-la-pasion/build/muestra-6x9-render
+          mkdir -p sobre-la-pasion/build/muestra-6x9-render
+          pdftoppm -png -r 150 sobre-la-pasion/build/muestra-6x9.pdf sobre-la-pasion/build/muestra-6x9-render/page >/dev/null 2>&1
+
+      - name: Hoja de contacto
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageDraw
+
+          files = sorted(Path('sobre-la-pasion/build/muestra-6x9-render').glob('page-*.png'))
+          cards = []
+          for i, p in enumerate(files, 1):
+              im = Image.open(p).convert('RGB')
+              im.thumbnail((305, 458))
+              card = Image.new('RGB', (325, 495), 'white')
+              card.paste(im, ((325-im.width)//2, 8))
+              d = ImageDraw.Draw(card)
+              d.text((10, 473), f'Muestra {i}', fill='black')
+              cards.append(card)
+          sheet = Image.new('RGB', (len(cards)*325, 495), '#eeeeee')
+          for i, card in enumerate(cards):
+              sheet.paste(card, (i*325, 0))
+          sheet.save('sobre-la-pasion/build/muestra-6x9-contacto.jpg', quality=88, optimize=True)
+          PY
+
+      - name: Publicar artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: sobre-la-pasion-muestra-6x9
+          path: |
+            sobre-la-pasion/build/muestra-6x9.pdf
+            sobre-la-pasion/build/muestra-6x9.txt
+            sobre-la-pasion/build/muestra-6x9-contacto.jpg
+            sobre-la-pasion/build/muestra-6x9-render/*.png
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Guardar muestra en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sobre-la-pasion/build/muestra-6x9.pdf
+          git add sobre-la-pasion/build/muestra-6x9.txt
+          git add sobre-la-pasion/build/muestra-6x9-contacto.jpg
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Genera muestra editorial 6x9"
+            git pull --rebase origin main
+            git push
+          fi
