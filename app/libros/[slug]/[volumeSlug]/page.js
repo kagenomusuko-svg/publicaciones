@@ -9,13 +9,17 @@ export function generateStaticParams() {
 }
 
 export default async function LibroPage({ params }) {
-  const publicacion = getPublicacion(params.slug, params.volumeSlug);
+  const resolvedParams = await params;
+  const publicacion = getPublicacion(
+    resolvedParams.slug,
+    resolvedParams.volumeSlug
+  );
 
   if (!publicacion) {
     return (
       <main className="publicaciones-page">
         <h1>Publicación no encontrada</h1>
-        <Link href={`${BASE_PATH}/libros`}>Volver a libros</Link>
+        <Link href="/libros">Volver a libros</Link>
       </main>
     );
   }
@@ -23,9 +27,9 @@ export default async function LibroPage({ params }) {
   return (
     <main className="publication-reader-page">
       <nav className="publication-reader-breadcrumb" aria-label="Ruta">
-        <Link href={BASE_PATH}>Publicaciones</Link>
+        <Link href="/">Publicaciones</Link>
         <span>›</span>
-        <Link href={`${BASE_PATH}/libros`}>Libros</Link>
+        <Link href="/libros">Libros</Link>
         <span>›</span>
         <span>{publicacion.title}</span>
       </nav>
