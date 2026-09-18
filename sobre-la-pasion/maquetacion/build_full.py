@@ -99,9 +99,9 @@ li { margin-bottom: 1.5mm; }
 .toc-entry .label { white-space: nowrap; }
 .toc-entry .leader { flex: 1; border-bottom: .5pt dotted #BEBEBE; transform: translateY(-1.2mm); }
 .toc-entry .page-no { min-width: 9mm; text-align: right; color: #1E4C45; font-weight: 600; }
-.toc-entry.part { margin-top: 4mm; color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
-.toc-entry.chapter { padding-left: 5mm; }
-.toc-entry.appendix { margin-top: 2.5mm; }
+.toc-entry.toc-part { margin-top: 4mm; color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
+.toc-entry.toc-chapter { padding-left: 5mm; }
+.toc-entry.toc-appendix { margin-top: 2.5mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
 th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
 th { background: #F5F5F2; }
@@ -163,7 +163,7 @@ def toc_page(numbers: dict[str, str] | None = None) -> str:
     for key, label, kind in TOC_ENTRIES:
         page_no = numbers.get(key, '000')
         rows.append(
-            f'<div class="toc-entry {kind}">'
+            f'<div class="toc-entry toc-{kind}">'
             f'<span class="label">{html.escape(label)}</span>'
             f'<span class="leader"></span>'
             f'<span class="page-no">{html.escape(page_no)}</span>'
