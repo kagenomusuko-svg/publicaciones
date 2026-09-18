@@ -133,5 +133,6 @@ jobs:
           git add afrodita-areia/sobre-la-pasion/build/review/page-13.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Actualiza muestra maquetada 01-09"
+            git pull --rebase origin main
             git push
           fi
