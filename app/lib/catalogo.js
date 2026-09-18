@@ -14,7 +14,7 @@ export const publicaciones = [
       'Una ontología materialista de la determinación que piensa la pasión como fuerza anterior al sujeto consciente y recorre su desarrollo desde el caos hasta el ego.',
     cover: `${BASE_PATH}/libros/afrodita-areia/portada.png`,
     pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-I.pdf`,
-    href: `${BASE_PATH}/libros/afrodita-areia/volumen-I`,
+    href: '/libros/afrodita-areia/volumen-I',
   },
 ];
 
