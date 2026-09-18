@@ -1,6 +1,8 @@
+import './globals.css';
+
 export const metadata = {
-  title: 'Publicaciones',
-  description: 'Repositorio de publicaciones de Meriadock',
+  title: 'Publicaciones | Meriadock',
+  description: 'Libros y publicaciones de Meriadock',
 };
 
 export default function RootLayout({ children }) {
