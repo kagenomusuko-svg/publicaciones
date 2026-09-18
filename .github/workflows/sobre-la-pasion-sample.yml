@@ -94,6 +94,17 @@ jobs:
           for i, im in enumerate(mini_cards):
               mini.paste(im, ((i%mini_cols)*120, (i//mini_cols)*172))
           mini.save('sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg', quality=42, optimize=True)
+
+          # Páginas clave en tamaño de revisión: portadilla, apertura de parte y capítulo.
+          review = Path('sobre-la-pasion/build/review')
+          review.mkdir(parents=True, exist_ok=True)
+          for page_no in (2, 12, 13):
+              p = Path('sobre-la-pasion/build/preview') / f'page-{page_no:02d}.png'
+              if not p.exists():
+                  p = Path('sobre-la-pasion/build/preview') / f'page-{page_no}.png'
+              im = Image.open(p).convert('RGB')
+              im.thumbnail((420, 594))
+              im.save(review / f'page-{page_no:02d}.jpg', quality=58, optimize=True)
           PY
 
       - name: Guardar muestra en el repositorio
@@ -103,6 +114,9 @@ jobs:
           git add sobre-la-pasion/build/sobre-la-pasion-muestra-01-09.pdf
           git add sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto.jpg
           git add sobre-la-pasion/build/sobre-la-pasion-muestra-01-09-contacto-mini.jpg
+          git add sobre-la-pasion/build/review/page-02.jpg
+          git add sobre-la-pasion/build/review/page-12.jpg
+          git add sobre-la-pasion/build/review/page-13.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Actualiza muestra maquetada 01-09"
             git push
