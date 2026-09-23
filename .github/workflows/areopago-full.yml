@@ -147,7 +147,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/afrodita-areia
           cp afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf public/libros/afrodita-areia/volumen-IV.pdf
-          cp afrodita-areia/areopago/Portada.png public/libros/afrodita-areia/portada-volumen-IV.png
+          cp afrodita-areia/areopago/portada.png public/libros/afrodita-areia/portada-volumen-IV.png
           git add afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
           git add public/libros/afrodita-areia/volumen-IV.pdf
           git add public/libros/afrodita-areia/portada-volumen-IV.png
