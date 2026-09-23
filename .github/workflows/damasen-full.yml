@@ -9,7 +9,7 @@ on:
       - 'afrodita-areia/damasen/maquetacion.json'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
-      - '.github/workflows/agape-full.yml'
+      - '.github/workflows/damasen-full.yml'
   workflow_dispatch:
 
 permissions:
