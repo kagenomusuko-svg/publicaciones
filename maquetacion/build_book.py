@@ -328,9 +328,12 @@ def document_html(
         f'<section class="cover-page"><img src="{cover}"></section>',
         title_page(root),
         f'<section class="legal-page">{md.render((root / "02.md").read_text(encoding="utf-8"))}</section>',
-        f'<section class="epigraph-page">{md.render((root / "03.md").read_text(encoding="utf-8"))}</section>',
-        toc_page(toc_entries, toc_numbers),
     ]
+    pre_toc_stems = config["pre_toc"] if "pre_toc" in config else ["03"]
+    for stem in pre_toc_stems:
+        raw = (root / f"{stem}.md").read_text(encoding="utf-8")
+        sections.append(f'<section class="epigraph-page">{md.render(raw)}</section>')
+    sections.append(toc_page(toc_entries, toc_numbers))
     part_seen = 0
     for piece in pieces:
         if piece.kind == "part":

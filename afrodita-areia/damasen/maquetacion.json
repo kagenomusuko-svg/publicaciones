@@ -1,0 +1,50 @@
+{
+  "series_header": "AFRODITA AREIA · III",
+  "short_title": "DAMASÉN",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "pre_toc": [],
+  "frontmatter": [
+    "04",
+    "05",
+    "06"
+  ],
+  "frontmatter_toc": {
+    "05": {
+      "key": "prefacio",
+      "label": "Prefacio · El que doma no puede ya ser domado"
+    },
+    "06": {
+      "key": "prologo",
+      "label": "Prólogo · Lo que la voluntad no puede hacer con su propio límite"
+    }
+  },
+  "body": [
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32"
+  ]
+}
