@@ -1,5 +1,21 @@
 [
   {
+    "id": "afrodita-areia-vol-iv-areopago",
+    "title": "Afrodita Areia",
+    "subtitle": "Areópago",
+    "volume": "Volumen IV",
+    "author": "Miguel Hilario Olvera Aguilar",
+    "year": 2026,
+    "doi": "10.5281/zenodo.19601192",
+    "description": "Una ontología de la imputación causal, la jerarquía entre diseño y ejecución y el daño que el dolo deja sin autor visible.",
+    "cover": "afrodita-areia/areopago/Portada.png",
+    "pdf": "afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf",
+    "format": "PDF",
+    "sortOrder": 130,
+    "slug": "afrodita-areia/vol-iv",
+    "_manifest": "afrodita-areia/areopago/publicacion.json"
+  },
+  {
     "id": "afrodita-areia-vol-iii-damasen",
     "title": "Afrodita Areia",
     "subtitle": "Damasén",
@@ -47,3 +63,4 @@
     "_manifest": "afrodita-areia/sobre-la-pasion/publicacion.json"
   }
 ]
+

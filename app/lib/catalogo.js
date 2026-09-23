@@ -2,6 +2,22 @@ export const BASE_PATH = '/publicaciones';
 
 export const publicaciones = [
   {
+    id: 'afrodita-areia-volumen-IV',
+    slug: 'afrodita-areia',
+    volumeSlug: 'volumen-IV',
+    title: 'Afrodita Areia',
+    subtitle: 'Areópago',
+    volume: 'Volumen IV',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    doi: '10.5281/zenodo.19601192',
+    description:
+      'Una ontología de la imputación causal, la jerarquía entre diseño y ejecución y el daño que el dolo deja sin autor visible.',
+    cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-IV.png`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-IV.pdf`,
+    href: '/libros/afrodita-areia/volumen-IV',
+  },
+  {
     id: 'afrodita-areia-volumen-III',
     slug: 'afrodita-areia',
     volumeSlug: 'volumen-III',
@@ -56,3 +72,4 @@ export function getPublicacion(slug, volumeSlug) {
       publicacion.slug === slug && publicacion.volumeSlug === volumeSlug
   );
 }
+

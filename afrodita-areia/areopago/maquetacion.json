@@ -1,0 +1,63 @@
+{
+  "series_header": "AFRODITA AREIA · IV",
+  "short_title": "AREÓPAGO",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "pre_toc": [],
+  "frontmatter": [
+    "04",
+    "05"
+  ],
+  "frontmatter_toc": {
+    "04": {
+      "key": "notas-autor",
+      "label": "Notas del autor"
+    },
+    "05": {
+      "key": "prologo",
+      "label": "Prólogo · La escena sin nombre"
+    }
+  },
+  "parts_before": {
+    "11": {
+      "part": "Parte III",
+      "subtitle": "La inversión causal"
+    },
+    "14": {
+      "part": "Parte IV",
+      "subtitle": "El dolo como herramienta"
+    },
+    "17": {
+      "part": "Parte V",
+      "subtitle": "Consecuencias"
+    },
+    "06": {
+      "part": "Parte I",
+      "subtitle": "El problema"
+    },
+    "08": {
+      "part": "Parte II",
+      "subtitle": "Los fundamentos"
+    }
+  },
+  "body": [
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+  ]
+}
+

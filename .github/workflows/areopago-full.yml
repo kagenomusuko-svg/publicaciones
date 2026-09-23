@@ -1,0 +1,159 @@
+name: Areópago - libro completo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'afrodita-areia/areopago/*.md'
+      - 'afrodita-areia/areopago/*.png'
+      - 'afrodita-areia/areopago/maquetacion.json'
+      - 'maquetacion/build_book.py'
+      - 'maquetacion/estilo-libro-6x9.css'
+      - '.github/workflows/areopago-full.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dependencias del sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-ebgaramond poppler-utils libpango-1.0-0 libpangoft2-1.0-0
+
+      - name: Dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint markdown-it-py pillow pypdf
+
+      - name: Obtener sello institucional
+        run: |
+          mkdir -p afrodita-areia/areopago/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output afrodita-areia/areopago/assets/logo.svg
+
+      - name: Generar libro completo
+        run: |
+          python maquetacion/build_book.py \
+            --root afrodita-areia/areopago \
+            --output afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+
+      - name: Preflight textual y estructural
+        run: |
+          pdfinfo afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+          pdftotext afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "AFRODITA AREIA" afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "AREÓPAGO" afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "Capítulo 13" afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "fraude annona" afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "Glosario" afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+
+      - name: Render de páginas de control
+        run: |
+          rm -rf afrodita-areia/areopago/build/review-full
+          mkdir -p afrodita-areia/areopago/build/review-full
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          import subprocess
+
+          pdf = Path('afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf')
+          audit = json.loads(pdf.with_suffix('.pages.json').read_text(encoding='utf-8'))
+          contents = audit['contents']
+
+          def page_for(heading, kind):
+              for item in contents:
+                  base = item['label'].split('·', 1)[0].strip()
+                  if item['kind'] == kind and base.casefold() == heading.casefold():
+                      return item['physical_page']
+              raise RuntimeError(f'No se encontró {kind}: {heading}')
+
+          targets = [
+              ('portada', 1),
+              ('portadilla', 2),
+              ('indice', 5),
+              ('parte-i', page_for('Parte I', 'part')),
+              ('capitulo-1', page_for('Capítulo 1', 'chapter')),
+              ('parte-v', page_for('Parte V', 'part')),
+              ('capitulo-13', page_for('Capítulo 13', 'chapter')),
+              ('apendice-i', page_for('Apéndice I', 'appendix')),
+              ('apendice-ii', page_for('Apéndice II', 'appendix')),
+              ('apendice-iii', page_for('Apéndice III', 'appendix')),
+              ('glosario', page_for('Glosario', 'appendix')),
+              ('contraportada', audit['total_pages']),
+          ]
+          for label, page_no in targets:
+              out = Path('afrodita-areia/areopago/build/review-full') / label
+              subprocess.run([
+                  'pdftoppm', '-jpeg', '-r', '110', '-f', str(page_no), '-l', str(page_no),
+                  str(pdf), str(out)
+              ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+          Path('afrodita-areia/areopago/build/review-full/manifest.txt').write_text(
+              '\n'.join(f'{label}: {page}' for label, page in targets),
+              encoding='utf-8',
+          )
+          PY
+
+      - name: Hoja de contacto
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageDraw
+
+          root = Path('afrodita-areia/areopago/build/review-full')
+          cards = []
+          for path in sorted(root.glob('*.jpg')):
+              image = Image.open(path).convert('RGB')
+              image.thumbnail((240, 360))
+              card = Image.new('RGB', (260, 395), 'white')
+              card.paste(image, ((260 - image.width) // 2, 8))
+              ImageDraw.Draw(card).text((8, 372), path.stem.rsplit('-', 1)[0], fill='black')
+              cards.append(card)
+          cols = 4
+          rows = (len(cards) + cols - 1) // cols
+          sheet = Image.new('RGB', (cols * 260, rows * 395), '#eeeeee')
+          for index, card in enumerate(cards):
+              sheet.paste(card, ((index % cols) * 260, (index // cols) * 395))
+          sheet.save('afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg', quality=88, optimize=True)
+          PY
+
+      - name: Publicar artefacto
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: afrodita-areia-vol-iv-areopago
+          path: |
+            afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+            afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pages.json
+            afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg
+            afrodita-areia/areopago/build/review-full/manifest.txt
+            afrodita-areia/areopago/build/review-full/*.jpg
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Guardar PDF y hoja de contacto
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p public/libros/afrodita-areia
+          cp afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf public/libros/afrodita-areia/volumen-IV.pdf
+          cp afrodita-areia/areopago/Portada.png public/libros/afrodita-areia/portada-volumen-IV.png
+          git add afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+          git add public/libros/afrodita-areia/volumen-IV.pdf
+          git add public/libros/afrodita-areia/portada-volumen-IV.png
+          git add afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Genera Afrodita Areia Vol. IV completo"
+            git pull --rebase origin main
+            git push
+          fi
