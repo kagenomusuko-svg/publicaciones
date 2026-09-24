@@ -1,0 +1,16 @@
+{
+  "id": "afrodita-areia-vol-vi-nikomachos",
+  "title": "Afrodita Areia",
+  "subtitle": "Nikomachos",
+  "volume": "Volumen VI",
+  "author": "Miguel Hilario Olvera Aguilar",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22931825",
+  "description": "Una ontología del ser, la dignidad y la responsabilidad: el límite de la predicación cuando el juicio pretende agotar al agente.",
+  "cover": "afrodita-areia/nikomachos/Portada.png",
+  "pdf": "afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf",
+  "format": "PDF",
+  "sortOrder": 150,
+  "slug": "afrodita-areia/vol-vi",
+  "_manifest": "afrodita-areia/nikomachos/publicacion.json"
+}

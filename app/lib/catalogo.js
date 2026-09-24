@@ -2,6 +2,23 @@ export const BASE_PATH = '/publicaciones';
 
 export const publicaciones = [
   {
+    id: 'afrodita-areia-volumen-VI',
+    slug: 'afrodita-areia',
+    volumeSlug: 'volumen-VI',
+    title: 'Afrodita Areia',
+    subtitle: 'Nikomachos',
+    volume: 'Volumen VI',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    doi: '10.5281/zenodo.22931825',
+    description:
+      'Una ontología del ser, la dignidad y la responsabilidad: el límite de la predicación cuando el juicio pretende agotar al agente.',
+    cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-VI.png`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-VI.pdf`,
+    href: '/libros/afrodita-areia/volumen-VI',
+  },
+
+  {
     id: 'afrodita-areia-volumen-V',
     slug: 'afrodita-areia',
     volumeSlug: 'volumen-V',
