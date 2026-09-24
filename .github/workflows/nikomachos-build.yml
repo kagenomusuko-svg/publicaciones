@@ -1,4 +1,4 @@
-name: Nikomachos - maquetación Zenodo
+name: Nikomachos - maquetación con DOI
 
 on:
   push:
@@ -51,6 +51,7 @@ jobs:
           pdfinfo afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf
           pdftotext afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
           grep -q "NIKOMACHOS" afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          grep -q "10.5281/zenodo.22931825" afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
           grep -q "La pregunta antes del hombre" afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
           grep -q "El acto soy yo" afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
           grep -q "Responsabilidad sin juicio ontológico" afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
@@ -102,7 +103,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add afrodita-areia/nikomachos/build
           if ! git diff --cached --quiet; then
-            git commit -m "[skip ci] Genera maquetación de Nikomachos sin DOI"
+            git commit -m "[skip ci] Genera maquetación de Nikomachos con DOI"
             git pull --rebase origin main
             git push
           fi
