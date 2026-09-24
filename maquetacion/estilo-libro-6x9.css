@@ -96,6 +96,8 @@ hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
 .chapter > h2:first-of-type:after { content: ""; display: block; width: 42mm; margin: 5mm auto 0; border-top: .8pt solid #1E4C45; }
 .chapter > blockquote:first-of-type { max-width: 93mm; margin: 6mm auto 9mm; }
 
+.appendix .formula { margin: 4mm auto; max-width: 118mm; text-align: center; font-size: 12pt; line-height: 1.42; break-inside: avoid; page-break-inside: avoid; }
+.appendix .formula + p { margin-top: 2mm; }
 .appendix > h1:first-of-type, .glossary > h1:first-of-type, .warning-page > h1:first-of-type { text-align: center; font-size: 22pt; margin: 8mm 0 5mm; }
 .appendix > h2:first-of-type { text-align: center; font-size: 18pt; margin: 2mm 0 3mm; }
 .appendix > h3:first-of-type { text-align: center; font-size: 12pt; font-weight: 400; color: #666; margin: 0 0 7mm; }
