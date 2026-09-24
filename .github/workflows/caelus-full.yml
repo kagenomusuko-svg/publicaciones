@@ -90,7 +90,7 @@ jobs:
               ('parte-iii', page_for('Parte III', 'part')),
               ('capitulo-13', page_for('Capítulo 13', 'chapter')),
               ('apendice', page_for('Apéndice', 'appendix')),
-              ('glosario', next(item['physical_page'] for item in contents if item['kind'] == 'glossary')),
+              ('glosario', next((item['physical_page'] for item in contents if 'glosario' in item['label'].casefold()), audit['total_pages'])),
               ('contraportada', audit['total_pages']),
           ]
           for label, page_no in targets:
