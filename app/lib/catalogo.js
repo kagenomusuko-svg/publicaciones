@@ -2,6 +2,22 @@ export const BASE_PATH = '/publicaciones';
 
 export const publicaciones = [
   {
+    id: 'afrodita-areia-volumen-V',
+    slug: 'afrodita-areia',
+    volumeSlug: 'volumen-V',
+    title: 'Afrodita Areia',
+    subtitle: 'Caelus',
+    volume: 'Volumen V',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    description:
+      'Una teoría de escalas sobre el Estado, la soberanía, el contrato fiscal y la emergencia de la voluntad colectiva.',
+    cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-V.png`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-V.pdf`,
+    href: '/libros/afrodita-areia/volumen-V',
+  },
+
+  {
     id: 'afrodita-areia-volumen-IV',
     slug: 'afrodita-areia',
     volumeSlug: 'volumen-IV',
