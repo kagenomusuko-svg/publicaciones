@@ -1,0 +1,15 @@
+{
+  "series_header": "AFRODITA AREIA · VI",
+  "short_title": "NIKOMACHOS",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "pre_toc": [],
+  "frontmatter": ["04"],
+  "frontmatter_toc": {
+    "04": {
+      "key": "prologo",
+      "label": "Prólogo · La pregunta antes del hombre"
+    }
+  },
+  "body": ["05","06","07","08","09","10","11","12","13","14","15","16","17"]
+}
