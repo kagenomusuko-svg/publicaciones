@@ -1,0 +1,97 @@
+{
+  "pdf": "afrodita-areia-vol-vi-nikomachos.pdf",
+  "total_pages": 243,
+  "contents": [
+    {
+      "key": "prologo",
+      "label": "Prólogo · La pregunta antes del hombre",
+      "kind": "front",
+      "physical_page": 5,
+      "printed_page": "V"
+    },
+    {
+      "key": "cap-1",
+      "label": "Capítulo 1 · Antes de la determinación",
+      "kind": "chapter",
+      "physical_page": 14,
+      "printed_page": "1"
+    },
+    {
+      "key": "cap-2",
+      "label": "Capítulo 2 · El ser es en tanto está",
+      "kind": "chapter",
+      "physical_page": 29,
+      "printed_page": "16"
+    },
+    {
+      "key": "cap-3",
+      "label": "Capítulo 3 · Lo que es es digno de ser lo que es",
+      "kind": "chapter",
+      "physical_page": 48,
+      "printed_page": "35"
+    },
+    {
+      "key": "cap-4",
+      "label": "Capítulo 4 · La dignidad no compara",
+      "kind": "chapter",
+      "physical_page": 66,
+      "printed_page": "53"
+    },
+    {
+      "key": "cap-5",
+      "label": "Capítulo 5 · Predicar sin agotar",
+      "kind": "chapter",
+      "physical_page": 83,
+      "printed_page": "70"
+    },
+    {
+      "key": "cap-6",
+      "label": "Capítulo 6 · ¿Qué hay en la flecha?",
+      "kind": "chapter",
+      "physical_page": 102,
+      "printed_page": "89"
+    },
+    {
+      "key": "cap-7",
+      "label": "Capítulo 7 · Conocer siendo",
+      "kind": "chapter",
+      "physical_page": 121,
+      "printed_page": "108"
+    },
+    {
+      "key": "cap-8",
+      "label": "Capítulo 8 · La frontera de la razón",
+      "kind": "chapter",
+      "physical_page": 142,
+      "printed_page": "129"
+    },
+    {
+      "key": "cap-9",
+      "label": "Capítulo 9 · El acto soy yo",
+      "kind": "chapter",
+      "physical_page": 161,
+      "printed_page": "148"
+    },
+    {
+      "key": "cap-10",
+      "label": "Capítulo 10 · Criticar sin sentenciar el ser",
+      "kind": "chapter",
+      "physical_page": 179,
+      "printed_page": "166"
+    },
+    {
+      "key": "cap-11",
+      "label": "Capítulo 11 · La ley no manda al tornado",
+      "kind": "chapter",
+      "physical_page": 197,
+      "printed_page": "184"
+    },
+    {
+      "key": "cap-12",
+      "label": "Capítulo 12 · Responsabilidad sin juicio ontológico",
+      "kind": "chapter",
+      "physical_page": 215,
+      "printed_page": "202"
+    }
+  ]
+}
