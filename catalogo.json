@@ -1,5 +1,20 @@
 [
   {
+    "id": "afrodita-areia-vol-v-caelus",
+    "title": "Afrodita Areia",
+    "subtitle": "Caelus",
+    "volume": "Volumen V",
+    "author": "Miguel Hilario Olvera Aguilar",
+    "year": 2026,
+    "description": "Una teoría de escalas sobre el Estado, la soberanía, el contrato fiscal y la emergencia de la voluntad colectiva.",
+    "cover": "afrodita-areia/caelus/Portada.png",
+    "pdf": "afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf",
+    "format": "PDF",
+    "sortOrder": 140,
+    "slug": "afrodita-areia/vol-v",
+    "_manifest": "afrodita-areia/caelus/publicacion.json"
+  },
+  {
     "id": "afrodita-areia-vol-iv-areopago",
     "title": "Afrodita Areia",
     "subtitle": "Areópago",
