@@ -1,0 +1,160 @@
+name: Caelus - libro completo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'afrodita-areia/caelus/*.md'
+      - 'afrodita-areia/caelus/*.png'
+      - 'afrodita-areia/caelus/maquetacion.json'
+      - 'afrodita-areia/caelus/publicacion.json'
+      - 'maquetacion/build_book.py'
+      - 'maquetacion/estilo-libro-6x9.css'
+      - '.github/workflows/caelus-full.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dependencias del sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-ebgaramond poppler-utils libpango-1.0-0 libpangoft2-1.0-0
+
+      - name: Dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint markdown-it-py pillow pypdf
+
+      - name: Obtener sello institucional
+        run: |
+          mkdir -p afrodita-areia/caelus/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output afrodita-areia/caelus/assets/logo.svg
+
+      - name: Generar libro completo
+        run: |
+          python maquetacion/build_book.py \
+            --root afrodita-areia/caelus \
+            --output afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf
+
+      - name: Preflight textual y estructural
+        run: |
+          pdfinfo afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf
+          pdftotext afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.txt
+          grep -q "AFRODITA AREIA" afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.txt
+          grep -q "CAELUS" afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.txt
+          grep -q "KRATOS" afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.txt
+          grep -q "ERIS" afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.txt
+          grep -q "Capítulo 13" afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.txt
+          grep -q "Glosario" afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.txt
+
+      - name: Render de páginas de control
+        run: |
+          rm -rf afrodita-areia/caelus/build/review-full
+          mkdir -p afrodita-areia/caelus/build/review-full
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          import subprocess
+
+          pdf = Path('afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf')
+          audit = json.loads(pdf.with_suffix('.pages.json').read_text(encoding='utf-8'))
+          contents = audit['contents']
+
+          def page_for(heading, kind):
+              for item in contents:
+                  base = item['label'].split('·', 1)[0].strip()
+                  if item['kind'] == kind and base.casefold() == heading.casefold():
+                      return item['physical_page']
+              raise RuntimeError(f'No se encontró {kind}: {heading}')
+
+          targets = [
+              ('portada', 1),
+              ('portadilla', 2),
+              ('epigrafe', 4),
+              ('indice', 5),
+              ('parte-i', page_for('Parte I', 'part')),
+              ('capitulo-1', page_for('Capítulo 1', 'chapter')),
+              ('parte-iii', page_for('Parte III', 'part')),
+              ('capitulo-13', page_for('Capítulo 13', 'chapter')),
+              ('apendice', page_for('Apéndice', 'appendix')),
+              ('glosario', page_for('Glosario', 'glossary')),
+              ('contraportada', audit['total_pages']),
+          ]
+          for label, page_no in targets:
+              out = Path('afrodita-areia/caelus/build/review-full') / label
+              subprocess.run([
+                  'pdftoppm', '-jpeg', '-r', '110', '-f', str(page_no), '-l', str(page_no),
+                  str(pdf), str(out)
+              ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+          Path('afrodita-areia/caelus/build/review-full/manifest.txt').write_text(
+              '\n'.join(f'{label}: {page}' for label, page in targets),
+              encoding='utf-8',
+          )
+          PY
+
+      - name: Hoja de contacto
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageDraw
+
+          root = Path('afrodita-areia/caelus/build/review-full')
+          cards = []
+          for path in sorted(root.glob('*.jpg')):
+              image = Image.open(path).convert('RGB')
+              image.thumbnail((240, 360))
+              card = Image.new('RGB', (260, 395), 'white')
+              card.paste(image, ((260 - image.width) // 2, 8))
+              ImageDraw.Draw(card).text((8, 372), path.stem.rsplit('-', 1)[0], fill='black')
+              cards.append(card)
+          cols = 4
+          rows = (len(cards) + cols - 1) // cols
+          sheet = Image.new('RGB', (cols * 260, rows * 395), '#eeeeee')
+          for index, card in enumerate(cards):
+              sheet.paste(card, ((index % cols) * 260, (index // cols) * 395))
+          sheet.save('afrodita-areia/caelus/build/afrodita-areia-vol-v-contacto.jpg', quality=88, optimize=True)
+          PY
+
+      - name: Publicar artefacto
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: afrodita-areia-vol-v-caelus
+          path: |
+            afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf
+            afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pages.json
+            afrodita-areia/caelus/build/afrodita-areia-vol-v-contacto.jpg
+            afrodita-areia/caelus/build/review-full/manifest.txt
+            afrodita-areia/caelus/build/review-full/*.jpg
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Guardar PDF y hoja de contacto
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p public/libros/afrodita-areia
+          cp afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf public/libros/afrodita-areia/volumen-V.pdf
+          cp afrodita-areia/caelus/Portada.png public/libros/afrodita-areia/portada-volumen-V.png
+          git add afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf
+          git add public/libros/afrodita-areia/volumen-V.pdf
+          git add public/libros/afrodita-areia/portada-volumen-V.png
+          git add afrodita-areia/caelus/build/afrodita-areia-vol-v-contacto.jpg
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Genera Afrodita Areia Vol. V completo"
+            git pull --rebase origin main
+            git push
+          fi
