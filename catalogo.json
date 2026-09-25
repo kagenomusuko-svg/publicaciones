@@ -28,7 +28,7 @@
     "format": "PDF",
     "sortOrder": 150,
     "slug": "afrodita-areia/vol-vi",
-    "_manifest": "afrodita-areia/nikomachos/publicacion.json"
+    "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/publicacion.json"
   },
   {
     "id": "afrodita-areia-vol-v-caelus",
@@ -43,7 +43,7 @@
     "format": "PDF",
     "sortOrder": 140,
     "slug": "afrodita-areia/vol-v",
-    "_manifest": "afrodita-areia/caelus/publicacion.json"
+    "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/caelus/publicacion.json"
   },
   {
     "id": "afrodita-areia-vol-iv-areopago",
@@ -59,7 +59,7 @@
     "format": "PDF",
     "sortOrder": 130,
     "slug": "afrodita-areia/vol-iv",
-    "_manifest": "afrodita-areia/areopago/publicacion.json"
+    "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/areopago/publicacion.json"
   },
   {
     "id": "afrodita-areia-vol-iii-damasen",
@@ -75,7 +75,7 @@
     "format": "PDF",
     "sortOrder": 120,
     "slug": "afrodita-areia/vol-iii",
-    "_manifest": "afrodita-areia/damasen/publicacion.json"
+    "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/damasen/publicacion.json"
   },
   {
     "id": "afrodita-areia-vol-ii-agape",
@@ -91,7 +91,7 @@
     "format": "PDF",
     "sortOrder": 110,
     "slug": "afrodita-areia/vol-ii",
-    "_manifest": "afrodita-areia/agape/publicacion.json"
+    "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/agape/publicacion.json"
   },
   {
     "id": "afrodita-areia-vol-i-sobre-la-pasion",
@@ -106,6 +106,6 @@
     "format": "PDF",
     "sortOrder": 100,
     "slug": "afrodita-areia/vol-i",
-    "_manifest": "afrodita-areia/sobre-la-pasion/publicacion.json"
+    "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/publicacion.json"
   }
 ]
