@@ -1,0 +1,12 @@
+{
+  "series_header": "REIVINDICACIÓN ONTOLÓGICA DEL EGO",
+  "short_title": "ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "pre_toc": [],
+  "frontmatter": ["03"],
+  "frontmatter_toc": {
+    "03": {"key": "notas-del-autor", "label": "Notas del autor"}
+  },
+  "body": ["04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29"]
+}
