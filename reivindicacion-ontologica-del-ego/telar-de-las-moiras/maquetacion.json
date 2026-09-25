@@ -1,0 +1,13 @@
+{
+  "series_header": "REIVINDICACIÓN ONTOLÓGICA DEL EGO",
+  "short_title": "TELAR DE LAS MOIRAS",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "pre_toc": ["03"],
+  "frontmatter": ["05", "06"],
+  "frontmatter_toc": {
+    "05": {"key": "nota-sobre-este-libro", "label": "Nota sobre este libro"},
+    "06": {"key": "presentacion", "label": "Presentación · Autodeterminación causal"}
+  },
+  "body": ["07","08","09","10","11","12","13","14","15","16","17","18","19"]
+}
