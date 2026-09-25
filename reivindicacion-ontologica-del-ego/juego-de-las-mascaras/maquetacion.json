@@ -1,0 +1,37 @@
+{
+  "series_header": "REIVINDICACIÓN ONTOLÓGICA DEL EGO",
+  "short_title": "MÁSCARAS",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "pre_toc": [
+    "03"
+  ],
+  "frontmatter": [
+    "05",
+    "06"
+  ],
+  "frontmatter_toc": {
+    "05": {
+      "key": "notas-autor",
+      "label": "Notas del autor"
+    },
+    "06": {
+      "key": "prologo",
+      "label": "Prólogo · El mundo es una mascarada"
+    }
+  },
+  "body": [
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ]
+}
