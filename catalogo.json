@@ -1,5 +1,20 @@
 [
   {
+    "id": "reivindicacion-ontologica-del-ego-juego-de-las-mascaras",
+    "title": "El juego de las máscaras",
+    "subtitle": "O la disforia de la identidad",
+    "volume": "Libro independiente",
+    "author": "Miguel Hilario Olvera Aguilar",
+    "year": 2026,
+    "description": "Una ontología de la máscara, la disforia de la identidad, el duelo, la rendición y la recuperación del ego genuino.",
+    "cover": "reivindicacion-ontologica-del-ego/juego-de-las-mascaras/Portada.png",
+    "pdf": "reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf",
+    "format": "PDF",
+    "sortOrder": 220,
+    "slug": "juego-de-las-mascaras",
+    "_manifest": "reivindicacion-ontologica-del-ego/juego-de-las-mascaras/publicacion.json"
+  },
+  {
     "id": "reivindicacion-ontologica-del-ego-dilema-de-aquiles",
     "title": "El dilema de Aquiles",
     "subtitle": "O la disociación del ego",
