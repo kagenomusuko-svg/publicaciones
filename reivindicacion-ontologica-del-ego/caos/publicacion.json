@@ -1,0 +1,14 @@
+{
+  "id": "reivindicacion-ontologica-del-ego-caos",
+  "title": "Caos",
+  "subtitle": "El abismo del ego y la doble mediación",
+  "volume": "Libro independiente",
+  "author": "Miguel Hilario Olvera Aguilar",
+  "year": 2026,
+  "description": "Una ontología del ego como acontecimiento de determinación: el colapso de la posibilidad, la doble mediación y la responsabilidad.",
+  "cover": "reivindicacion-ontologica-del-ego/caos/Portada.png",
+  "pdf": "reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf",
+  "format": "PDF",
+  "sortOrder": 200,
+  "slug": "caos"
+}
