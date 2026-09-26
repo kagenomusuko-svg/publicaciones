@@ -1,0 +1,83 @@
+{
+  "pdf": "caos-el-abismo-del-ego-y-la-doble-mediacion.pdf",
+  "total_pages": 277,
+  "contents": [
+    {
+      "key": "notas-autor",
+      "label": "Notas del autor",
+      "kind": "front",
+      "physical_page": 6,
+      "printed_page": "VI"
+    },
+    {
+      "key": "cap-Capítulo I",
+      "label": "Capítulo I · La trampa del origen",
+      "kind": "chapter",
+      "physical_page": 8,
+      "printed_page": "1"
+    },
+    {
+      "key": "cap-Capítulo II",
+      "label": "Capítulo II · El colapso",
+      "kind": "chapter",
+      "physical_page": 38,
+      "printed_page": "31"
+    },
+    {
+      "key": "cap-Capítulo III",
+      "label": "Capítulo III · Caos",
+      "kind": "chapter",
+      "physical_page": 68,
+      "printed_page": "61"
+    },
+    {
+      "key": "cap-Capítulo IV",
+      "label": "Capítulo IV · Las escalas del colapso",
+      "kind": "chapter",
+      "physical_page": 98,
+      "printed_page": "91"
+    },
+    {
+      "key": "cap-Capítulo V",
+      "label": "Capítulo V · La mediación",
+      "kind": "chapter",
+      "physical_page": 125,
+      "printed_page": "118"
+    },
+    {
+      "key": "cap-Capítulo VI",
+      "label": "Capítulo VI · La doble mediación",
+      "kind": "chapter",
+      "physical_page": 153,
+      "printed_page": "146"
+    },
+    {
+      "key": "cap-Capítulo VII",
+      "label": "Capítulo VII · El ego como condición mínima causal",
+      "kind": "chapter",
+      "physical_page": 181,
+      "printed_page": "174"
+    },
+    {
+      "key": "ap-el-colapso-en-las-matematicas",
+      "label": "Apéndice I · El colapso en las matemáticas",
+      "kind": "appendix",
+      "physical_page": 206,
+      "printed_page": "199"
+    },
+    {
+      "key": "ap-el-colapso-en-la-fisica-cuantica",
+      "label": "Apéndice II · El colapso en la física cuántica",
+      "kind": "appendix",
+      "physical_page": 228,
+      "printed_page": "221"
+    },
+    {
+      "key": "ap-glosario-tecnico",
+      "label": "Apéndice III · Glosario técnico",
+      "kind": "appendix",
+      "physical_page": 254,
+      "printed_page": "247"
+    }
+  ]
+}
