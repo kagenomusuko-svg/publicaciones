@@ -1,0 +1,111 @@
+{
+  "pdf": "el-telar-de-las-moiras.pdf",
+  "total_pages": 189,
+  "contents": [
+    {
+      "key": "nota-sobre-este-libro",
+      "label": "Nota sobre este libro",
+      "kind": "front",
+      "physical_page": 6,
+      "printed_page": "VI"
+    },
+    {
+      "key": "presentacion",
+      "label": "Presentación · Autodeterminación causal",
+      "kind": "front",
+      "physical_page": 8,
+      "printed_page": "VIII"
+    },
+    {
+      "key": "cap-Capítulo I",
+      "label": "Capítulo I · Anestesia existencial y el ego como referencia",
+      "kind": "chapter",
+      "physical_page": 13,
+      "printed_page": "1"
+    },
+    {
+      "key": "cap-Capítulo II",
+      "label": "Capítulo II · Ser, ego y permanencia",
+      "kind": "chapter",
+      "physical_page": 23,
+      "printed_page": "11"
+    },
+    {
+      "key": "cap-Capítulo III",
+      "label": "Capítulo III · Otredad y eterno retorno",
+      "kind": "chapter",
+      "physical_page": 36,
+      "printed_page": "24"
+    },
+    {
+      "key": "cap-Capítulo IV",
+      "label": "Capítulo IV · Ego, contrato y dignidad",
+      "kind": "chapter",
+      "physical_page": 47,
+      "printed_page": "35"
+    },
+    {
+      "key": "cap-Capítulo V",
+      "label": "Capítulo V · Conflicto, límite y responsabilidad",
+      "kind": "chapter",
+      "physical_page": 66,
+      "printed_page": "54"
+    },
+    {
+      "key": "cap-Capítulo VI",
+      "label": "Capítulo VI · Respeto, límite y autodeterminación",
+      "kind": "chapter",
+      "physical_page": 78,
+      "printed_page": "66"
+    },
+    {
+      "key": "cap-Capítulo VII",
+      "label": "Capítulo VII · Hobbes, miedo y el problema del perdón",
+      "kind": "chapter",
+      "physical_page": 90,
+      "printed_page": "78"
+    },
+    {
+      "key": "cap-Capítulo VIII",
+      "label": "Capítulo VIII · El amor como catástrofe necesaria",
+      "kind": "chapter",
+      "physical_page": 102,
+      "printed_page": "90"
+    },
+    {
+      "key": "cap-Capítulo IX",
+      "label": "Capítulo IX · La angustia de la libertad",
+      "kind": "chapter",
+      "physical_page": 123,
+      "printed_page": "111"
+    },
+    {
+      "key": "cap-Capítulo X",
+      "label": "Capítulo X · El mito como metáfora del desconocimiento de sí",
+      "kind": "chapter",
+      "physical_page": 150,
+      "printed_page": "138"
+    },
+    {
+      "key": "glosario",
+      "label": "Glosario de conceptos clave",
+      "kind": "appendix",
+      "physical_page": 169,
+      "printed_page": "157"
+    },
+    {
+      "key": "ap-indice-de-autores-citados",
+      "label": "APÉNDICE I · Índice de autores citados",
+      "kind": "appendix",
+      "physical_page": 173,
+      "printed_page": "161"
+    },
+    {
+      "key": "ap-cronologia-de-los-filosofos-referenciados",
+      "label": "APÉNDICE II · Cronología de los filósofos referenciados",
+      "kind": "appendix",
+      "physical_page": 179,
+      "printed_page": "167"
+    }
+  ]
+}
