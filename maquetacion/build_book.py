@@ -7,6 +7,7 @@ import html
 import io
 import json
 import re
+import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -363,6 +364,23 @@ def marker_pages(pdf_path: Path, entries: list[TocEntry]) -> dict[str, int]:
         for entry in entries:
             if entry.key not in found and f"[[IDX:{entry.key}]]" in text:
                 found[entry.key] = page_no
+
+    # Algunas combinaciones de WeasyPrint/pypdf no exponen los marcadores
+    # de spans de altura cero, aunque sí estén presentes en el texto PDF.
+    missing = [entry.key for entry in entries if entry.key not in found]
+    if missing:
+        result = subprocess.run(
+            ["pdftotext", "-layout", str(pdf_path), "-"],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+        pages = result.stdout.split("\f")
+        for page_no, text in enumerate(pages, 1):
+            for entry in entries:
+                if entry.key not in found and f"[[IDX:{entry.key}]]" in text:
+                    found[entry.key] = page_no
+
     missing = [entry.key for entry in entries if entry.key not in found]
     if missing:
         raise RuntimeError(f"No fue posible localizar marcadores del índice: {missing}")
