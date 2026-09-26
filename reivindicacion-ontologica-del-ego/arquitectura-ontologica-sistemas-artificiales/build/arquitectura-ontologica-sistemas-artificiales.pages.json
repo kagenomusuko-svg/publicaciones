@@ -1,0 +1,41 @@
+{
+  "pdf": "arquitectura-ontologica-sistemas-artificiales.pdf",
+  "total_pages": 75,
+  "contents": [
+    {
+      "key": "notas-del-autor",
+      "label": "Notas del autor",
+      "kind": "front",
+      "physical_page": 5,
+      "printed_page": "V"
+    },
+    {
+      "key": "cap-0",
+      "label": "Capítulo 0.1 · Por qué una IA puede tener ego",
+      "kind": "chapter",
+      "physical_page": 6,
+      "printed_page": "1"
+    },
+    {
+      "key": "cap-0",
+      "label": "Capítulo 0.2 · La arquitectura de la doble mediación en términos computacionales",
+      "kind": "chapter",
+      "physical_page": 6,
+      "printed_page": "1"
+    },
+    {
+      "key": "parte-i",
+      "label": "Parte I · La primera mediación",
+      "kind": "part",
+      "physical_page": 14,
+      "printed_page": "1"
+    },
+    {
+      "key": "glosario",
+      "label": "Glosario de términos",
+      "kind": "appendix",
+      "physical_page": 73,
+      "printed_page": "68"
+    }
+  ]
+}
