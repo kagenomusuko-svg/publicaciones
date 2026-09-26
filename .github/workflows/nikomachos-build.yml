@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/*.md'
-      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/*.png'
-      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/maquetacion.json'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/*.md'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/*.png'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/maquetacion.json'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/nikomachos-build.yml'
@@ -39,23 +39,23 @@ jobs:
 
       - name: Obtener sello institucional
         run: |
-          mkdir -p reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/assets/logo.svg
+          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/assets/logo.svg
 
       - name: Generar PDF
         run: |
-          python maquetacion/build_book.py             --root reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos             --output reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf
+          python maquetacion/build_book.py             --root reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos             --output reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf
 
       - name: Preflight
         run: |
-          pdfinfo reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf
-          pdftotext reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
-          grep -q "NIKOMACHOS" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
-          grep -q "10.5281/zenodo.22931825" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
-          grep -q "La pregunta antes del hombre" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
-          grep -q "El acto soy yo" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
-          grep -q "Responsabilidad sin juicio ontológico" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
-          grep -q "El límite de la predicación" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          pdfinfo reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf
+          pdftotext reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          grep -q "NIKOMACHOS" reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          grep -q "10.5281/zenodo.22931825" reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          grep -q "La pregunta antes del hombre" reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          grep -q "El acto soy yo" reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          grep -q "Responsabilidad sin juicio ontológico" reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
+          grep -q "El límite de la predicación" reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.txt
 
       - name: Hoja de contacto
         run: |
@@ -63,9 +63,9 @@ jobs:
           from pathlib import Path
           from PIL import Image, ImageDraw
 
-          pdf = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf')
+          pdf = Path('reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf')
           audit = pdf.with_suffix('.pages.json')
-          root = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build')
+          root = Path('reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build')
           review = root / 'review'
           review.mkdir(parents=True, exist_ok=True)
           pages = __import__('json').loads(audit.read_text(encoding='utf-8'))['total_pages']
@@ -92,16 +92,16 @@ jobs:
         with:
           name: afrodita-areia-vol-vi-nikomachos
           path: |
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pages.json
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos-contacto.jpg
+            reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf
+            reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pages.json
+            reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos-contacto.jpg
           retention-days: 14
 
       - name: Guardar maquetación
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build
+          git add reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera maquetación de Nikomachos con DOI"
             git pull --rebase origin main
