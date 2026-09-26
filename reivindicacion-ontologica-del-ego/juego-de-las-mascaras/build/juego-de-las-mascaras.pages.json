@@ -1,0 +1,97 @@
+{
+  "pdf": "juego-de-las-mascaras.pdf",
+  "total_pages": 170,
+  "contents": [
+    {
+      "key": "notas-autor",
+      "label": "Notas del autor",
+      "kind": "front",
+      "physical_page": 6,
+      "printed_page": "VI"
+    },
+    {
+      "key": "prologo",
+      "label": "Prólogo · El mundo es una mascarada",
+      "kind": "front",
+      "physical_page": 7,
+      "printed_page": "VII"
+    },
+    {
+      "key": "cap-Capítulo I",
+      "label": "Capítulo I · La máscara como institución",
+      "kind": "chapter",
+      "physical_page": 14,
+      "printed_page": "1"
+    },
+    {
+      "key": "cap-Capítulo II",
+      "label": "Capítulo II · La disforia de la identidad",
+      "kind": "chapter",
+      "physical_page": 26,
+      "printed_page": "13"
+    },
+    {
+      "key": "cap-Capítulo III",
+      "label": "Capítulo III · El duelo como señal de vida",
+      "kind": "chapter",
+      "physical_page": 41,
+      "printed_page": "28"
+    },
+    {
+      "key": "cap-Capítulo IV",
+      "label": "Capítulo IV · La identidad como sesgo",
+      "kind": "chapter",
+      "physical_page": 54,
+      "printed_page": "41"
+    },
+    {
+      "key": "cap-Capítulo V",
+      "label": "Capítulo V · Odiseo o el arte de ser nadie",
+      "kind": "chapter",
+      "physical_page": 68,
+      "printed_page": "55"
+    },
+    {
+      "key": "cap-Capítulo VI",
+      "label": "Capítulo VI · La rendición",
+      "kind": "chapter",
+      "physical_page": 81,
+      "printed_page": "68"
+    },
+    {
+      "key": "cap-Capítulo VII",
+      "label": "Capítulo VII · La vanidad soberana",
+      "kind": "chapter",
+      "physical_page": 95,
+      "printed_page": "82"
+    },
+    {
+      "key": "cap-Capítulo VIII",
+      "label": "Capítulo VIII · El encuentro sin negociación",
+      "kind": "chapter",
+      "physical_page": 110,
+      "printed_page": "97"
+    },
+    {
+      "key": "cap-Capítulo IX",
+      "label": "Capítulo IX · La imputación causal",
+      "kind": "chapter",
+      "physical_page": 125,
+      "printed_page": "112"
+    },
+    {
+      "key": "cap-Capítulo X",
+      "label": "Capítulo X · La mascarada colectiva",
+      "kind": "chapter",
+      "physical_page": 141,
+      "printed_page": "128"
+    },
+    {
+      "key": "glosario",
+      "label": "Glosario",
+      "kind": "appendix",
+      "physical_page": 163,
+      "printed_page": "150"
+    }
+  ]
+}
