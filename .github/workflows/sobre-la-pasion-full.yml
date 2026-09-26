@@ -150,7 +150,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p public/libros/afrodita-areia
+          cp reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf public/libros/afrodita-areia/volumen-I.pdf
           git add reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+          git add public/libros/afrodita-areia/volumen-I.pdf
           git add reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. I completo"
