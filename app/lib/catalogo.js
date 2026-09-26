@@ -52,6 +52,23 @@ export const publicaciones = [
     href: '/libros/telar-de-las-moiras/telar-de-las-moiras',
   },
   {
+    id: 'reivindicacion-ontologica-del-ego-dilema-de-aquiles',
+    slug: 'dilema-de-aquiles',
+    volumeSlug: 'dilema-de-aquiles',
+    title: 'El dilema de Aquiles',
+    subtitle: 'O la disociación del ego',
+    volume: 'Libro independiente',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    doi: '10.5281/zenodo.19601694',
+    description:
+      'Una ontología de la disociación del ego, la gloria prestada, la caída y el retorno a la autodeterminación causal.',
+    cover: `${BASE_PATH}/libros/dilema-de-aquiles/portada.png`,
+    pdf: `${BASE_PATH}/libros/dilema-de-aquiles/dilema-de-aquiles.pdf`,
+    href: '/libros/dilema-de-aquiles/dilema-de-aquiles',
+  },
+
+  {
     id: 'reivindicacion-ontologica-del-ego-juego-de-las-mascaras',
     slug: 'juego-de-las-mascaras',
     volumeSlug: 'juego-de-las-mascaras',
