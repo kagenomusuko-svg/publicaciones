@@ -4,11 +4,11 @@ on:
   push:
     branches: [main]
     paths:
-      - 'afrodita-areia/sobre-la-pasion/*.md'
-      - 'afrodita-areia/sobre-la-pasion/Portada Vol I red.png'
-      - 'afrodita-areia/sobre-la-pasion/Contra portada Vol I.png'
-      - 'afrodita-areia/sobre-la-pasion/maquetacion/build_full.py'
-      - 'afrodita-areia/sobre-la-pasion/maquetacion.json'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/*.md'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/Portada Vol I red.png'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/Contra portada Vol I.png'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/maquetacion/build_full.py'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/maquetacion.json'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/sobre-la-pasion-full.yml'
@@ -41,34 +41,34 @@ jobs:
 
       - name: Obtener sello institucional
         run: |
-          mkdir -p afrodita-areia/sobre-la-pasion/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output afrodita-areia/sobre-la-pasion/assets/logo.svg
+          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/assets/logo.svg
 
       - name: Generar libro completo
         run: |
           python maquetacion/build_book.py \
             --root afrodita-areia/sobre-la-pasion \
-            --output afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+            --output reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
 
       - name: Preflight textual y estructural
         run: |
-          pdfinfo afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
-          pdftotext afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "AFRODITA AREIA" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Capítulo 15" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Apéndice C" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
-          grep -q "Glosario de términos" afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          pdfinfo reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+          pdftotext reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "AFRODITA AREIA" reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "Capítulo 15" reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "Apéndice C" reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
+          grep -q "Glosario de términos" reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.txt
 
       - name: Seleccionar y renderizar páginas de control
         run: |
-          rm -rf afrodita-areia/sobre-la-pasion/build/review-full
-          mkdir -p afrodita-areia/sobre-la-pasion/build/review-full
+          rm -rf reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/review-full
+          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/review-full
           python - <<'PY'
           from pathlib import Path
           import json
           import subprocess
 
-          pdf = Path('afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf')
+          pdf = Path('reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf')
           audit = json.loads(pdf.with_suffix('.pages.json').read_text(encoding='utf-8'))
           contents = audit['contents']
 
@@ -97,13 +97,13 @@ jobs:
           ]
 
           for label, page_no in targets:
-              out = Path('afrodita-areia/sobre-la-pasion/build/review-full') / label
+              out = Path('reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/review-full') / label
               subprocess.run([
                   'pdftoppm','-jpeg','-r','105','-f',str(page_no),'-l',str(page_no),
                   str(pdf), str(out)
               ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
-          manifest = Path('afrodita-areia/sobre-la-pasion/build/review-full/manifest.txt')
+          manifest = Path('reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/review-full/manifest.txt')
           manifest.write_text('\n'.join(f'{label}: {page}' for label, page in targets), encoding='utf-8')
           PY
 
@@ -113,7 +113,7 @@ jobs:
           from pathlib import Path
           from PIL import Image, ImageDraw
 
-          root = Path('afrodita-areia/sobre-la-pasion/build/review-full')
+          root = Path('reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/review-full')
           files = sorted(root.glob('*.jpg'))
           cards = []
           for p in files:
@@ -129,7 +129,7 @@ jobs:
           sheet = Image.new('RGB', (cols*260, rows*375), '#eeeeee')
           for i, card in enumerate(cards):
               sheet.paste(card, ((i%cols)*260, (i//cols)*375))
-          sheet.save('afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg', quality=86, optimize=True)
+          sheet.save('reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg', quality=86, optimize=True)
           PY
 
       - name: Publicar artefacto
@@ -137,11 +137,11 @@ jobs:
         with:
           name: afrodita-areia-vol-i-sobre-la-pasion
           path: |
-            afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
-            afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pages.json
-            afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
-            afrodita-areia/sobre-la-pasion/build/review-full/manifest.txt
-            afrodita-areia/sobre-la-pasion/build/review-full/*.jpg
+            reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+            reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pages.json
+            reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
+            reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/review-full/manifest.txt
+            reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/review-full/*.jpg
           if-no-files-found: error
           retention-days: 14
 
@@ -149,8 +149,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
-          git add afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
+          git add reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
+          git add reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. I completo"
             git pull --rebase origin main
