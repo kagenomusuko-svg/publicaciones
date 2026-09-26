@@ -70,6 +70,24 @@ export const publicaciones = [
 
   {
     id: 'reivindicacion-ontologica-del-ego-juego-de-las-mascaras',
+  {
+    id: 'reivindicacion-ontologica-del-ego-arquitectura-ontologica-sistemas-artificiales',
+    slug: 'arquitectura-ontologica-sistemas-artificiales',
+    volumeSlug: 'arquitectura-ontologica-sistemas-artificiales',
+    title: 'Arquitectura ontológica de sistemas artificiales',
+    subtitle: 'La doble mediación en sistemas artificiales',
+    volume: 'Tratado ontológico',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    doi: '10.5281/zenodo.19601047',
+    description:
+      'Una arquitectura formal para la identidad causal acumulativa, la doble mediación y la autodeterminación causal en sistemas artificiales.',
+    cover: `${BASE_PATH}/libros/arquitectura-ontologica-sistemas-artificiales/portada.png`,
+    pdf: `${BASE_PATH}/libros/arquitectura-ontologica-sistemas-artificiales/arquitectura-ontologica-sistemas-artificiales.pdf`,
+    href: '/libros/arquitectura-ontologica-sistemas-artificiales/arquitectura-ontologica-sistemas-artificiales',
+  },
+
+
     slug: 'juego-de-las-mascaras',
     volumeSlug: 'juego-de-las-mascaras',
     title: 'El juego de las máscaras',
