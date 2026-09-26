@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/*.md'
-      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/*.png'
-      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/maquetacion.json'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/damasen/*.md'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/damasen/*.png'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/damasen/maquetacion.json'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/damasen-full.yml'
@@ -39,35 +39,35 @@ jobs:
 
       - name: Obtener sello institucional
         run: |
-          mkdir -p reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/assets/logo.svg
+          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/damasen/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/afrodita-areia/damasen/assets/logo.svg
 
       - name: Generar libro completo
         run: |
           python maquetacion/build_book.py \
             --root reivindicacion-ontologica-del-ego/afrodita-areia/damasen \
-            --output reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
+            --output reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
 
       - name: Preflight textual y estructural
         run: |
-          pdfinfo reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
-          pdftotext reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
-          grep -q "AFRODITA AREIA" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
-          grep -q "DAMASÉN" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
-          grep -q "Capítulo 20" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
-          grep -q "Peribea" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
-          grep -q "Glosario" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
+          pdfinfo reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
+          pdftotext reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
+          grep -q "AFRODITA AREIA" reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
+          grep -q "DAMASÉN" reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
+          grep -q "Capítulo 20" reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
+          grep -q "Peribea" reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
+          grep -q "Glosario" reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.txt
 
       - name: Render de páginas de control
         run: |
-          rm -rf reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full
-          mkdir -p reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full
+          rm -rf reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full
+          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full
           python - <<'PY'
           from pathlib import Path
           import json
           import subprocess
 
-          pdf = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf')
+          pdf = Path('reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf')
           audit = json.loads(pdf.with_suffix('.pages.json').read_text(encoding='utf-8'))
           contents = audit['contents']
 
@@ -91,12 +91,12 @@ jobs:
               ('contraportada', audit['total_pages']),
           ]
           for label, page_no in targets:
-              out = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full') / label
+              out = Path('reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full') / label
               subprocess.run([
                   'pdftoppm', '-jpeg', '-r', '110', '-f', str(page_no), '-l', str(page_no),
                   str(pdf), str(out)
               ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-          Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full/manifest.txt').write_text(
+          Path('reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full/manifest.txt').write_text(
               '\n'.join(f'{label}: {page}' for label, page in targets),
               encoding='utf-8',
           )
@@ -108,7 +108,7 @@ jobs:
           from pathlib import Path
           from PIL import Image, ImageDraw
 
-          root = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full')
+          root = Path('reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full')
           cards = []
           for path in sorted(root.glob('*.jpg')):
               image = Image.open(path).convert('RGB')
@@ -122,7 +122,7 @@ jobs:
           sheet = Image.new('RGB', (cols * 260, rows * 395), '#eeeeee')
           for index, card in enumerate(cards):
               sheet.paste(card, ((index % cols) * 260, (index // cols) * 395))
-          sheet.save('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-contacto.jpg', quality=88, optimize=True)
+          sheet.save('reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-contacto.jpg', quality=88, optimize=True)
           PY
 
       - name: Publicar artefacto
@@ -131,11 +131,11 @@ jobs:
         with:
           name: afrodita-areia-vol-iii-damasen
           path: |
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pages.json
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-contacto.jpg
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full/manifest.txt
-            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full/*.jpg
+            reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
+            reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pages.json
+            reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-contacto.jpg
+            reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full/manifest.txt
+            reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/review-full/*.jpg
           if-no-files-found: error
           retention-days: 14
 
@@ -144,10 +144,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/afrodita-areia
-          cp reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf public/libros/afrodita-areia/volumen-III.pdf
-          git add reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
+          cp reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf public/libros/afrodita-areia/volumen-III.pdf
+          git add reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-damasen.pdf
           git add public/libros/afrodita-areia/volumen-III.pdf
-          git add reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-contacto.jpg
+          git add reivindicacion-ontologica-del-ego/afrodita-areia/damasen/build/afrodita-areia-vol-iii-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. III completo"
             git pull --rebase origin main
