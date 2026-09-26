@@ -1,0 +1,76 @@
+{
+  "pdf": "dilema-de-aquiles.pdf",
+  "total_pages": 161,
+  "contents": [
+    {
+      "key": "notas-autor",
+      "label": "Notas del autor",
+      "kind": "front",
+      "physical_page": 6,
+      "printed_page": "VI"
+    },
+    {
+      "key": "prologo",
+      "label": "Prólogo · Por qué Aquiles",
+      "kind": "front",
+      "physical_page": 11,
+      "printed_page": "XI"
+    },
+    {
+      "key": "cap-Capítulo i",
+      "label": "Capítulo i · El ego, la egolatría y el egocentrismo",
+      "kind": "chapter",
+      "physical_page": 16,
+      "printed_page": "1"
+    },
+    {
+      "key": "cap-Capítulo ii",
+      "label": "Capítulo ii · La gloria y la trampa",
+      "kind": "chapter",
+      "physical_page": 33,
+      "printed_page": "18"
+    },
+    {
+      "key": "cap-Capítulo iii",
+      "label": "Capítulo iii · Aquiles como estructura",
+      "kind": "chapter",
+      "physical_page": 49,
+      "printed_page": "34"
+    },
+    {
+      "key": "cap-Capítulo iv",
+      "label": "Capítulo iv · La disociación del ego",
+      "kind": "chapter",
+      "physical_page": 65,
+      "printed_page": "50"
+    },
+    {
+      "key": "cap-Capítulo v",
+      "label": "Capítulo v · La caída",
+      "kind": "chapter",
+      "physical_page": 82,
+      "printed_page": "67"
+    },
+    {
+      "key": "cap-Capítulo vi",
+      "label": "Capítulo vi · Hobbes, el miedo y el perdón",
+      "kind": "chapter",
+      "physical_page": 98,
+      "printed_page": "83"
+    },
+    {
+      "key": "cap-Capítulo vii",
+      "label": "Capítulo vii · La autodeterminación causal",
+      "kind": "chapter",
+      "physical_page": 115,
+      "printed_page": "100"
+    },
+    {
+      "key": "cap-Capítulo viii",
+      "label": "Capítulo viii · Vivir sin gloria prestada",
+      "kind": "chapter",
+      "physical_page": 131,
+      "printed_page": "116"
+    }
+  ]
+}
