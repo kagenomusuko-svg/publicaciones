@@ -70,6 +70,21 @@ export const publicaciones = [
 
   {
     id: 'reivindicacion-ontologica-del-ego-juego-de-las-mascaras',
+    slug: 'juego-de-las-mascaras',
+    volumeSlug: 'juego-de-las-mascaras',
+    title: 'El juego de las máscaras',
+    subtitle: 'O la disforia de la identidad',
+    volume: 'Tratado ontológico',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    doi: '10.5281/zenodo.19601758',
+    description:
+      'Una ontología de la máscara, la disforia de la identidad, el duelo, la rendición y la recuperación del ego genuino.',
+    cover: `${BASE_PATH}/libros/juego-de-las-mascaras/portada.png`,
+    pdf: `${BASE_PATH}/libros/juego-de-las-mascaras/juego-de-las-mascaras.pdf`,
+    href: '/libros/juego-de-las-mascaras/juego-de-las-mascaras',
+  },
+
   {
     id: 'reivindicacion-ontologica-del-ego-arquitectura-ontologica-sistemas-artificiales',
     slug: 'arquitectura-ontologica-sistemas-artificiales',
@@ -86,23 +101,6 @@ export const publicaciones = [
     pdf: `${BASE_PATH}/libros/arquitectura-ontologica-sistemas-artificiales/arquitectura-ontologica-sistemas-artificiales.pdf`,
     href: '/libros/arquitectura-ontologica-sistemas-artificiales/arquitectura-ontologica-sistemas-artificiales',
   },
-
-
-    slug: 'juego-de-las-mascaras',
-    volumeSlug: 'juego-de-las-mascaras',
-    title: 'El juego de las máscaras',
-    subtitle: 'O la disforia de la identidad',
-    volume: 'Tratado ontológico',
-    author: 'Miguel Hilario Olvera Aguilar',
-    year: 2026,
-    doi: '10.5281/zenodo.19601758',
-    description:
-      'Una ontología de la máscara, la disforia de la identidad, el duelo, la rendición y la recuperación del ego genuino.',
-    cover: `${BASE_PATH}/libros/juego-de-las-mascaras/portada.png`,
-    pdf: `${BASE_PATH}/libros/juego-de-las-mascaras/juego-de-las-mascaras.pdf`,
-    href: '/libros/juego-de-las-mascaras/juego-de-las-mascaras',
-  },
-
 
   {
     id: 'afrodita-areia-volumen-V',
