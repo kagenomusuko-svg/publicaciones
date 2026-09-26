@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'reivindicacion-ontologica-del-ego/afrodita-areia/areopago/*.md'
-      - 'reivindicacion-ontologica-del-ego/afrodita-areia/areopago/*.png'
-      - 'reivindicacion-ontologica-del-ego/afrodita-areia/areopago/maquetacion.json'
+      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/*.md'
+      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/*.png'
+      - 'reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/maquetacion.json'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/areopago-full.yml'
@@ -39,35 +39,35 @@ jobs:
 
       - name: Obtener sello institucional
         run: |
-          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/areopago/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/afrodita-areia/areopago/assets/logo.svg
+          mkdir -p reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/assets/logo.svg
 
       - name: Generar libro completo
         run: |
           python maquetacion/build_book.py \
-            --root afrodita-areia/areopago \
-            --output reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+            --root reivindicacion-ontologica-del-ego/afrodita-areia/areopago \
+            --output reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
 
       - name: Preflight textual y estructural
         run: |
-          pdfinfo reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
-          pdftotext reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
-          grep -q "AFRODITA AREIA" reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
-          grep -q "AREÓPAGO" reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
-          grep -q "Capítulo 13" reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
-          grep -q "fraude annona" reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
-          grep -q "Glosario" reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          pdfinfo reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+          pdftotext reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "AFRODITA AREIA" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "AREÓPAGO" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "Capítulo 13" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "fraude annona" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
+          grep -q "Glosario" reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.txt
 
       - name: Render de páginas de control
         run: |
-          rm -rf reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full
-          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full
+          rm -rf reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full
+          mkdir -p reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full
           python - <<'PY'
           from pathlib import Path
           import json
           import subprocess
 
-          pdf = Path('reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf')
+          pdf = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf')
           audit = json.loads(pdf.with_suffix('.pages.json').read_text(encoding='utf-8'))
           contents = audit['contents']
 
@@ -93,12 +93,12 @@ jobs:
               ('contraportada', audit['total_pages']),
           ]
           for label, page_no in targets:
-              out = Path('reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full') / label
+              out = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full') / label
               subprocess.run([
                   'pdftoppm', '-jpeg', '-r', '110', '-f', str(page_no), '-l', str(page_no),
                   str(pdf), str(out)
               ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-          Path('reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full/manifest.txt').write_text(
+          Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full/manifest.txt').write_text(
               '\n'.join(f'{label}: {page}' for label, page in targets),
               encoding='utf-8',
           )
@@ -110,7 +110,7 @@ jobs:
           from pathlib import Path
           from PIL import Image, ImageDraw
 
-          root = Path('reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full')
+          root = Path('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full')
           cards = []
           for path in sorted(root.glob('*.jpg')):
               image = Image.open(path).convert('RGB')
@@ -124,7 +124,7 @@ jobs:
           sheet = Image.new('RGB', (cols * 260, rows * 395), '#eeeeee')
           for index, card in enumerate(cards):
               sheet.paste(card, ((index % cols) * 260, (index // cols) * 395))
-          sheet.save('reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg', quality=88, optimize=True)
+          sheet.save('reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg', quality=88, optimize=True)
           PY
 
       - name: Publicar artefacto
@@ -133,11 +133,11 @@ jobs:
         with:
           name: afrodita-areia-vol-iv-areopago
           path: |
-            reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
-            reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pages.json
-            reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg
-            reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full/manifest.txt
-            reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full/*.jpg
+            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pages.json
+            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg
+            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full/manifest.txt
+            reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/review-full/*.jpg
           if-no-files-found: error
           retention-days: 14
 
@@ -146,12 +146,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/afrodita-areia
-          cp reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf public/libros/afrodita-areia/volumen-IV.pdf
-          cp reivindicacion-ontologica-del-ego/afrodita-areia/areopago/portada.png public/libros/afrodita-areia/portada-volumen-IV.png
-          git add reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
+          cp reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf public/libros/afrodita-areia/volumen-IV.pdf
+          cp reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/portada.png public/libros/afrodita-areia/portada-volumen-IV.png
+          git add reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-areopago.pdf
           git add public/libros/afrodita-areia/volumen-IV.pdf
           git add public/libros/afrodita-areia/portada-volumen-IV.png
-          git add reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg
+          git add reivindicacion-ontologica-del-ego/reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. IV completo"
             git pull --rebase origin main
