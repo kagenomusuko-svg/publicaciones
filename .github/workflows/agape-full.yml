@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'afrodita-areia/agape/*.md'
-      - 'afrodita-areia/agape/*.png'
-      - 'afrodita-areia/agape/maquetacion.json'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/agape/*.md'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/agape/*.png'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/agape/maquetacion.json'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/agape-full.yml'
@@ -39,35 +39,35 @@ jobs:
 
       - name: Obtener sello institucional
         run: |
-          mkdir -p afrodita-areia/agape/assets
-          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output afrodita-areia/agape/assets/logo.svg
+          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/agape/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/afrodita-areia/agape/assets/logo.svg
 
       - name: Generar libro completo
         run: |
           python maquetacion/build_book.py \
             --root afrodita-areia/agape \
-            --output afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
+            --output reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
 
       - name: Preflight textual y estructural
         run: |
-          pdfinfo afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
-          pdftotext afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
-          grep -q "AFRODITA AREIA" afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
-          grep -q "ÁGAPE" afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
-          grep -q "Capítulo 15" afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
-          grep -q "Himeno" afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
-          grep -q "Glosario de términos" afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
+          pdfinfo reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
+          pdftotext reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
+          grep -q "AFRODITA AREIA" reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
+          grep -q "ÁGAPE" reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
+          grep -q "Capítulo 15" reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
+          grep -q "Himeno" reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
+          grep -q "Glosario de términos" reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.txt
 
       - name: Render de páginas de control
         run: |
-          rm -rf afrodita-areia/agape/build/review-full
-          mkdir -p afrodita-areia/agape/build/review-full
+          rm -rf reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/review-full
+          mkdir -p reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/review-full
           python - <<'PY'
           from pathlib import Path
           import json
           import subprocess
 
-          pdf = Path('afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf')
+          pdf = Path('reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf')
           audit = json.loads(pdf.with_suffix('.pages.json').read_text(encoding='utf-8'))
           contents = audit['contents']
 
@@ -91,12 +91,12 @@ jobs:
               ('contraportada', audit['total_pages']),
           ]
           for label, page_no in targets:
-              out = Path('afrodita-areia/agape/build/review-full') / label
+              out = Path('reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/review-full') / label
               subprocess.run([
                   'pdftoppm', '-jpeg', '-r', '110', '-f', str(page_no), '-l', str(page_no),
                   str(pdf), str(out)
               ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-          Path('afrodita-areia/agape/build/review-full/manifest.txt').write_text(
+          Path('reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/review-full/manifest.txt').write_text(
               '\n'.join(f'{label}: {page}' for label, page in targets),
               encoding='utf-8',
           )
@@ -108,7 +108,7 @@ jobs:
           from pathlib import Path
           from PIL import Image, ImageDraw
 
-          root = Path('afrodita-areia/agape/build/review-full')
+          root = Path('reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/review-full')
           cards = []
           for path in sorted(root.glob('*.jpg')):
               image = Image.open(path).convert('RGB')
@@ -122,7 +122,7 @@ jobs:
           sheet = Image.new('RGB', (cols * 260, rows * 395), '#eeeeee')
           for index, card in enumerate(cards):
               sheet.paste(card, ((index % cols) * 260, (index // cols) * 395))
-          sheet.save('afrodita-areia/agape/build/afrodita-areia-vol-ii-contacto.jpg', quality=88, optimize=True)
+          sheet.save('reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-contacto.jpg', quality=88, optimize=True)
           PY
 
       - name: Publicar artefacto
@@ -130,11 +130,11 @@ jobs:
         with:
           name: afrodita-areia-vol-ii-agape
           path: |
-            afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
-            afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pages.json
-            afrodita-areia/agape/build/afrodita-areia-vol-ii-contacto.jpg
-            afrodita-areia/agape/build/review-full/manifest.txt
-            afrodita-areia/agape/build/review-full/*.jpg
+            reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
+            reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pages.json
+            reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-contacto.jpg
+            reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/review-full/manifest.txt
+            reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/review-full/*.jpg
           if-no-files-found: error
           retention-days: 14
 
@@ -143,10 +143,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/afrodita-areia
-          cp afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf public/libros/afrodita-areia/volumen-II.pdf
-          git add afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
+          cp reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf public/libros/afrodita-areia/volumen-II.pdf
+          git add reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-agape.pdf
           git add public/libros/afrodita-areia/volumen-II.pdf
-          git add afrodita-areia/agape/build/afrodita-areia-vol-ii-contacto.jpg
+          git add reivindicacion-ontologica-del-ego/afrodita-areia/agape/build/afrodita-areia-vol-ii-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. II completo"
             git pull --rebase origin main
