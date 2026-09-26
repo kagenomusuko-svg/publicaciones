@@ -1,0 +1,92 @@
+name: El juego de las máscaras - libro completo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reivindicacion-ontologica-del-ego/juego-de-las-mascaras/*.md'
+      - 'reivindicacion-ontologica-del-ego/juego-de-las-mascaras/*.png'
+      - 'reivindicacion-ontologica-del-ego/juego-de-las-mascaras/maquetacion.json'
+      - 'reivindicacion-ontologica-del-ego/juego-de-las-mascaras/publicacion.json'
+      - 'maquetacion/build_book.py'
+      - 'maquetacion/estilo-libro-6x9.css'
+      - '.github/workflows/juego-de-las-mascaras-full.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dependencias del sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-ebgaramond poppler-utils libpango-1.0-0 libpangoft2-1.0-0
+
+      - name: Dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint markdown-it-py pillow pypdf
+
+      - name: Obtener sello institucional
+        run: |
+          mkdir -p reivindicacion-ontologica-del-ego/juego-de-las-mascaras/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output reivindicacion-ontologica-del-ego/juego-de-las-mascaras/assets/logo.svg
+
+      - name: Generar libro completo
+        run: |
+          python maquetacion/build_book.py \
+            --root reivindicacion-ontologica-del-ego/juego-de-las-mascaras \
+            --output reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf
+
+      - name: Preflight textual
+        run: |
+          test -s reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf
+          pdftotext reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.txt
+          grep -qi "JUEGO DE LAS MÁSCARAS" reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.txt
+          grep -qi "disforia de la identidad" reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.txt
+
+      - name: Render de control
+        run: |
+          mkdir -p reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/review
+          pdfinfo reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf
+          pdftoppm -jpeg -r 100 -f 1 -l 1 reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/review/portada
+          pages=$(pdfinfo reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf | awk '/^Pages:/ {print $2}')
+          pdftoppm -jpeg -r 100 -f "$pages" -l "$pages" reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/review/contraportada
+
+      - name: Publicar artefacto
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: juego-de-las-mascaras
+          path: |
+            reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf
+            reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pages.json
+            reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/review/*.jpg
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Publicar PDF y portada
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p public/libros/juego-de-las-mascaras
+          cp reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf public/libros/juego-de-las-mascaras/juego-de-las-mascaras.pdf
+          cp reivindicacion-ontologica-del-ego/juego-de-las-mascaras/Portada.png public/libros/juego-de-las-mascaras/portada.png
+          git add reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build
+          git add public/libros/juego-de-las-mascaras
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Genera El juego de las máscaras completo"
+            git pull --rebase origin main
+            git push
+          fi
