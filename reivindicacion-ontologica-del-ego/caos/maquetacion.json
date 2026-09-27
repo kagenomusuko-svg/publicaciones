@@ -3,13 +3,16 @@
   "short_title": "CAOS",
   "cover": "Portada.png",
   "back_cover": "Contraportada.png",
-  "pre_toc": [
-    "03"
-  ],
+  "pre_toc": [],
   "frontmatter": [
+    "03",
     "05"
   ],
   "frontmatter_toc": {
+    "03": {
+      "key": "presentacion",
+      "label": "Presentación"
+    },
     "05": {
       "key": "notas-autor",
       "label": "Notas del autor"
