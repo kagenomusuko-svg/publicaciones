@@ -45,14 +45,12 @@ jobs:
 
       - name: Generar libro completo
         run: |
-          python maquetacion/build_book.py \
-            --root reivindicacion-ontologica-del-ego/caos \
-            --output reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf
+          python maquetacion/build_book.py             --root reivindicacion-ontologica-del-ego/caos             --output reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf
 
       - name: Preflight textual
         run: |
           test -s reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf
-          pdftotext reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf reivindicacion-ontologica-del-ego/caos/build/caos.txt
+          pdftotext reivindicacion-ontologica-del-ego/caos/build/caos.txt
           grep -qi "CAOS" reivindicacion-ontologica-del-ego/caos/build/caos.txt
           grep -qi "Glosario" reivindicacion-ontologica-del-ego/caos/build/caos.txt
 
@@ -87,6 +85,8 @@ jobs:
           git add public/libros/caos/caos.pdf public/libros/caos/portada.png
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Caos completo"
-            git pull --rebase origin main
-            git push
+            git fetch origin main
+            git reset --soft origin/main
+            git commit -m "[skip ci] Genera Caos completo" --allow-empty
+            git push origin HEAD:main
           fi
