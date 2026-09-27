@@ -87,6 +87,13 @@ jobs:
           git add public/libros/arquitectura-ontologica-sistemas-artificiales
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Arquitectura ontológica de sistemas artificiales completo"
-            git pull --rebase origin main
+            if ! git pull --rebase origin main; then
+              git checkout --theirs \
+                reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build \
+                public/libros/arquitectura-ontologica-sistemas-artificiales
+              git add reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build
+              git add public/libros/arquitectura-ontologica-sistemas-artificiales
+              GIT_EDITOR=true git rebase --continue
+            fi
             git push
           fi
