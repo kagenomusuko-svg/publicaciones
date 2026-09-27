@@ -50,7 +50,7 @@ jobs:
       - name: Preflight textual
         run: |
           test -s reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf
-          pdftotext reivindicacion-ontologica-del-ego/caos/build/caos.txt
+          pdftotext reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf reivindicacion-ontologica-del-ego/caos/build/caos.txt
           grep -qi "CAOS" reivindicacion-ontologica-del-ego/caos/build/caos.txt
           grep -qi "Glosario" reivindicacion-ontologica-del-ego/caos/build/caos.txt
 
