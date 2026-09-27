@@ -38,11 +38,21 @@ export default async function LibroPage({ params }) {
       <div className="publication-reader-layout">
         <aside className="publication-reader-header">
           <div className="publication-reader-cover-wrap">
-            <img
-              src={publicacion.cover}
-              alt={`Portada de ${publicacion.title}: ${publicacion.subtitle}`}
-              className="publication-reader-cover"
-            />
+            <a
+              href={publicacion.pdf}
+              target="_blank"
+              rel="noreferrer"
+              className="publication-reader-cover-link"
+              aria-label={`Abrir PDF de ${publicacion.title}: ${publicacion.subtitle}`}
+              title="Abrir PDF directamente"
+            >
+              <img
+                src={publicacion.cover}
+                alt={`Portada de ${publicacion.title}: ${publicacion.subtitle}`}
+                className="publication-reader-cover"
+              />
+              <span className="publication-reader-cover-hint" aria-hidden="true">↗</span>
+            </a>
           </div>
 
           <div className="publication-reader-meta">
@@ -68,16 +78,6 @@ export default async function LibroPage({ params }) {
         </aside>
 
         <section className="publication-reader-viewer" aria-label="Lector PDF">
-          <div className="publication-reader-download-bar">
-            <a
-              href={publicacion.pdf}
-              target="_blank"
-              rel="noreferrer"
-              className="publication-reader-direct"
-            >
-              Abrir PDF directamente ↗
-            </a>
-          </div>
           <PdfReader
             src={publicacion.pdf}
             title={`Lectura de ${publicacion.title}: ${publicacion.subtitle}`}
