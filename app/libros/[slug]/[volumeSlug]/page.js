@@ -64,6 +64,11 @@ export default async function LibroPage({ params }) {
               </p>
             )}
             <p className="publication-reader-description">{publicacion.description}</p>
+          </div>
+        </aside>
+
+        <section className="publication-reader-viewer" aria-label="Lector PDF">
+          <div className="publication-reader-download-bar">
             <a
               href={publicacion.pdf}
               target="_blank"
@@ -73,9 +78,6 @@ export default async function LibroPage({ params }) {
               Abrir PDF directamente ↗
             </a>
           </div>
-        </aside>
-
-        <section className="publication-reader-viewer" aria-label="Lector PDF">
           <PdfReader
             src={publicacion.pdf}
             title={`Lectura de ${publicacion.title}: ${publicacion.subtitle}`}
