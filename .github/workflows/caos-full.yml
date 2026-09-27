@@ -62,18 +62,6 @@ jobs:
           pages=$(pdfinfo reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf | awk '/^Pages:/ {print $2}')
           pdftoppm -jpeg -r 100 -f "$pages" -l "$pages" reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf reivindicacion-ontologica-del-ego/caos/build/review/contraportada
 
-      - name: Publicar artefacto
-        continue-on-error: true
-        uses: actions/upload-artifact@v4
-        with:
-          name: caos-el-abismo-del-ego
-          path: |
-            reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf
-            reivindicacion-ontologica-del-ego/caos/build/caos.pages.json
-            reivindicacion-ontologica-del-ego/caos/build/review/*.jpg
-          if-no-files-found: error
-          retention-days: 14
-
       - name: Publicar PDF y portada
         run: |
           git config user.name "github-actions[bot]"
