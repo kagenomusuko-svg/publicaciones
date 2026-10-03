@@ -1,0 +1,95 @@
+PARTE I · LA VIDA DEL CONTRATO
+
+Capítulo 1
+
+**La renovación permanente**
+
+*La segunda mediación colectiva en operación continua*
+
+*Cada acto de asunción de las reglas del colectivo como propias es una renovación del contrato*
+
+*Las condiciones de esa renovación y lo que ocurre cuando empieza a fallar*
+
+> *«El contrato fiscal no se firma.*
+>
+> *Se renueva.*
+>
+> *Cada vez que el ego soberano asume las reglas del colectivo como propias*
+>
+> *está poniendo su segunda mediación donde el contrato dice que debe estar.*
+>
+> *Cada vez que no lo hace,*
+>
+> *algo en el contrato empieza a fallar.*
+>
+> *El problema es que ese algo raramente hace ruido.»*
+>
+> — Miguel Hilario Olvera Aguilar
+
+**I.**
+
+Hay un acto que ocurre esta mañana, y mañana, y ayer, en millones de egos soberanos simultáneamente, que nadie llama renovación del contrato fiscal y que es, con precisión ontológica, exactamente eso. El ego que se detiene ante un semáforo en rojo cuando podría cruzar sin consecuencias. El que paga el precio marcado en lugar de negociar el que podría imponer. El que no toma lo que nadie vería que tomó. El que dice lo que piensa aunque el campo esperaba otra cosa. En ninguno de esos actos hay un funcionario que supervise, una sanción que amenace, un contrato que se exhiba. Hay una segunda mediación operando dentro del marco colectivo y asumiendo ese marco como el espacio desde el que actuar.
+
+Eso es la renovación del contrato fiscal. No el voto, no el pago de impuestos —que son sus expresiones más visibles—, sino la serie continua de actos en que el ego soberano asume las reglas del colectivo como propias y actúa desde ellas. Esa serie no tiene inicio preciso ni fin anticipable. Comenzó antes de la primera constitución y continuará después de la última. Es el proceso que da al contrato fiscal su realidad material: no el texto que lo enuncia sino los actos que lo sostienen.
+
+Caelus demostró que el contrato nace cuando los egos soberanos colapsan en colectivo y ceden su segunda mediación.<sup>¹</sup> Lo que Caelus no necesitaba examinar —porque en ese momento no era el argumento— es que esa cesión no es un acto único. Es una cesión que se renueva en cada acto de asunción. El ego que colapsó en el colectivo no cedió su segunda mediación de una vez y para siempre: la cede cada vez que asume las reglas del colectivo como el marco desde el que actuar. Y deja de cederla —parcial, gradual, a veces imperceptiblemente— cada vez que ese marco empieza a sentirse ajeno.
+
+**II.**
+
+Renovar el contrato no es lo mismo que obedecer la ley. La distinción es precisa y tiene consecuencias que el argumento de este libro necesita.
+
+El ego que obedece la ley porque no obedecer costaría más que obedecer no está renovando el contrato: está calculando. La primera mediación —la que responde al campo sin pasar por el eje propio del ego— puede producir comportamientos exteriormente idénticos a los de la renovación genuina. El conductor que frena porque ve al policía y el que frena porque reconoce el semáforo como parte del marco desde el que opera producen el mismo acto visible. Ontológicamente son actos diferentes. Uno pasa por la segunda mediación del ego; el otro la cortocircuita.
+
+La renovación genuina del contrato fiscal opera en la segunda mediación: el ego que asume las reglas del colectivo como propias las asume porque las reconoce como el marco que él mismo, al colapsar con otros egos, contribuyó a producir. No porque le convenga, aunque puede que también le convenga. No porque le tengan miedo a las consecuencias, aunque puede que también las teman. Sino porque el marco colectivo es, en algún sentido identificable, suyo. Ese reconocimiento —y no la conveniencia ni el miedo— es lo que la renovación genuina requiere.
+
+Eso no significa que la renovación genuina sea siempre un acto deliberado. La mayor parte del tiempo no lo es. Las reglas del colectivo se interiorizan hasta convertirse en segunda naturaleza: el ego no delibera sobre si frena en el semáforo, sobre si paga lo que debe, sobre si dice lo que piensa en lugar de lo que el campo espera. Simplemente lo hace, desde un marco que ya no distingue como externo porque se ha vuelto parte de la textura desde la que actúa. Esa interiorización no hace la renovación menos genuina: es su forma sedimentada. El problema empieza cuando la segunda naturaleza persiste después de que las condiciones que la hicieron posible han desaparecido.
+
+**III.**
+
+La renovación del contrato adopta tres modos que este libro necesita distinguir porque se comportan de manera diferente cuando el contrato empieza a deteriorarse.
+
+> **Renovación causal.** La segunda mediación opera de manera activa y reconocida: el ego asume las reglas del colectivo porque las identifica como el marco que produce el bien que el contrato fiscal prometía —el espacio de ejercicio de la propia segunda mediación bajo condiciones que el colectivo garantiza. Es la renovación más robusta porque opera desde el reconocimiento, no desde el hábito ni desde la conveniencia. También es la más exigente: requiere que el marco colectivo continúe siendo identificable como propio, lo que requiere que el Estado continúe cumpliendo el abono de la partida doble. *(La más vulnerable al fraude annona acumulado.)*
+>
+> **Renovación habitual.** La segunda mediación opera sin deliberación: el ego actúa dentro del marco colectivo porque ese marco se ha vuelto la textura desde la que actúa, sin distinguirlo como un marco elegido. Es la forma más frecuente de renovación y la más silenciosa. Su vulnerabilidad es precisa: el hábito puede haber sido producido por reconocimiento genuino —en cuyo caso persiste mientras el reconocimiento sería posible si se deliberara— o puede haber sido producido por captura del campo —en cuyo caso el ego opera bajo reglas que no son suyas sin saberlo. Distinguir entre los dos casos desde afuera es difícil; desde adentro, es la tarea del capítulo siguiente. *(La más explotada por la disforia de identidad.)*
+>
+> **Renovación bajo tensión.** La segunda mediación opera pero con resistencia: el ego cumple con las reglas del colectivo pero no las reconoce plenamente como propias. Las experimenta como externas, como imposiciones que acepta porque las alternativas disponibles son peores o porque el costo de la resistencia supera, todavía, el costo de la conformidad. Este es el primer modo que hace visible el deterioro del contrato: no es el default —el ego sigue asumiendo el marco— pero es la señal de que el reconocimiento que hace posible la renovación genuina está menguando. *(El primer indicador detectable del fraude annona acumulado.)*
+
+Los tres modos coexisten en cualquier soberano colectivo real. Ninguna sociedad renueva el contrato exclusivamente desde el reconocimiento causal, ni desde el hábito puro, ni desde la tensión constante. Lo que varía —y lo que Kratos necesita poder medir— es la proporción entre ellos y la dirección en que esa proporción se mueve. Un colectivo que renueva cada vez más desde la tensión y cada vez menos desde el reconocimiento está en un contrato que se deteriora, aunque todavía no haya llegado al default.
+
+**IV.**
+
+La renovación genuina del contrato tiene condiciones. No es suficiente que el ego quiera asumir el marco colectivo como propio: tiene que ser posible hacerlo. Y esa posibilidad depende de algo que no está en el ego sino en el marco que el Estado administra.
+
+La primera condición es la correspondencia: tiene que haber algo en el marco colectivo que el ego pueda reconocer como el retorno de lo que cedió. No un retorno completo —eso sería la eutaxia realizada, no la eutaxia utópica—,<sup>²</sup> sino un retorno suficiente para que el ego pueda identificar el marco como el marco que el contrato fiscal prometía. Cuando el Estado deja de producir ese retorno —cuando el abono de la partida doble no se materializa—, la correspondencia se rompe. El ego ya no puede reconocer en el marco colectivo el producto de su propia cesión. Y sin esa correspondencia, la renovación causal se vuelve imposible: el ego que intenta asumir como propio un marco que no le retorna nada está asumiendo la cesión de algo a lo que no corresponde ningún activo.
+
+La segunda condición es la operabilidad: el ego tiene que poder actuar dentro del marco colectivo desde su propio eje. Esto no es lo mismo que la ausencia de restricciones —todo marco colectivo tiene restricciones, y la cesión de la segunda mediación es precisamente la aceptación de operar dentro de ellas—. Es que las restricciones que el marco impone sean las que el contrato fiscal establece y no las que el poder fáctico que capturó al Estado impone a su propio beneficio. El ego que descubre que las restricciones del marco no protegen el ejercicio de su segunda mediación sino que lo impiden en beneficio de otro no puede renovar el contrato desde el reconocimiento: ha descubierto que lo que firmó como contrato era una confiscación.
+
+La tercera condición es la verificabilidad: el ego tiene que poder comprobar, al menos en principio, que el retorno que recibe corresponde a la cesión que realizó. No de manera técnica —el ciudadano ordinario no necesita leer los estados financieros del Estado—, sino en el sentido de que los efectos del retorno son observables en su vida cotidiana. El servicio de salud que llega cuando se necesita. La escuela que produce lo que la escuela debe producir. La justicia que se activa cuando el derecho es vulnerado. Cuando esos efectos dejan de ser observables, el ego no puede verificar si el retorno existe o no. Y la imposibilidad de verificar deteriora la renovación del mismo modo que el retorno ausente: no porque el ego sepa que fue defraudado, sino porque ya no puede saber si lo fue.
+
+**V.**
+
+Las tres condiciones —correspondencia, operabilidad, verificabilidad— no fallan todas al mismo tiempo. Cuando el contrato empieza a deteriorarse, fallan en secuencia. Y esa secuencia tiene una lógica que es importante entender porque determina en qué punto del deterioro todavía es posible la corrección sin ruptura.
+
+La verificabilidad falla primero. No porque sea la condición más débil sino porque es la más accesible para el poder que quiere capturar el contrato sin romperlo.<sup>³</sup> El ego que no puede verificar si el retorno existe o no no sabe si fue defraudado. Puede haber sido defraudado sin saberlo —en cuyo caso el hábito persiste y la renovación continúa aunque sea bajo disforia— o puede creer que fue defraudado sin serlo —en cuyo caso la renovación se deteriora aunque el Estado esté cumpliendo. La opacidad es el primer instrumento de la captura porque permite el fraude annona sin activar la resistencia que el fraude visible produciría.
+
+La correspondencia falla después. Cuando el fraude annona se acumula hasta el punto en que el ego ya no puede ignorarlo —cuando la ausencia del retorno es tan persistente que ninguna opacidad puede ocultarla—, el reconocimiento empieza a menguarse. El ego empieza a operar desde la renovación bajo tensión: sigue asumiendo el marco porque las alternativas son peores, pero ya no lo asume como propio. Lo asume como una restricción que acepta. Eso es cualitativamente diferente: el ego que acepta una restricción está calculando, no reconociendo. Y el ego que calcula en lugar de reconocer está a un paso de calcular que la restricción ya no vale lo que cuesta.
+
+La operabilidad falla al final, y cuando falla, el contrato no se deteriora: se rompe. El ego que descubre que el marco colectivo no solo no le retorna lo que cedió sino que activamente impide el ejercicio de su segunda mediación en beneficio de otro ya no puede renovar el contrato bajo ninguno de los tres modos. No puede reconocerlo como propio —es el marco de otro—. No puede operarlo desde el hábito —el hábito que tenía correspondía a un marco distinto—. Y no puede siquiera calcularlo como restricción tolerable —el cálculo dice que la restricción es insostenible. En ese punto, el soberano colectivo que retira el reconocimiento no está rompiendo el contrato: está verificando que el Estado ya lo rompió antes.
+
+Eso tiene una implicación sobre la responsabilidad que este libro irá desarrollando: el default del contrato fiscal raramente es iniciado por el soberano. Es iniciado por el Estado que deja de generar las condiciones para la renovación genuina. Lo que el soberano hace —cuando lo hace— es nombrar el default que ya existía.
+
+**VI.**
+
+Este capítulo ha establecido el fundamento desde el que opera el resto de Kratos. El contrato fiscal no es un acto sino un proceso. Ese proceso se renueva en cada asunción del ego soberano de las reglas del colectivo como propias. Esa renovación adopta tres modos —causal, habitual, bajo tensión— que se comportan de manera distinta ante el deterioro. La renovación genuina tiene tres condiciones —correspondencia, operabilidad, verificabilidad— que pueden fallar en secuencia sin que el contrato se rompa de inmediato. Y la secuencia en que fallan determina cuánto deterioro es ya irreversible sin ruptura y cuánto todavía puede ser corregido desde adentro.
+
+Lo que este capítulo no ha hecho es ofrecer el criterio desde el que puede medirse si el contrato se mueve en la dirección correcta o en la contraria. Eso requiere un instrumento que Caelus introdujo sin desplegar: la eutaxia utópica. El capítulo siguiente la convierte en criterio operativo.
+
+\* \* \*
+
+**Notas**
+
+**1** Caelus, Cap. 3: «El colapso colectivo», y Cap. 7: «El capital del Estado». La cesión de la segunda mediación es el evento que produce el Estado como ego colectivo. Lo que este capítulo añade es que esa cesión no es un evento único sino una serie continua de actos de asunción. La partida doble de Caelus describe la estructura de la cesión; Kratos describe su dinámica temporal.
+
+**2** Caelus, Cap. 12: «La eutaxia utópica como criterio de auditoría». La eutaxia utópica no es la descripción de un estado alcanzable sino la denominación de un vector: la tendencia constitutiva del ego hacia condiciones que amplíen su campo de colisión. La distinción entre eutaxia utópica como tendencia (Caelus) y eutaxia utópica como criterio operativo (Kratos, Cap. 2) es exactamente la distinción entre describir la brújula y usarla para orientar la navegación.
+
+**3** La opacidad como instrumento de captura es lo que Fraenkel identificó, en el plano jurídico, como el mecanismo definitorio del Estado prerrogativa: el poder que opera por fuera del Estado normativo sin hacerse visible como tal. Fraenkel, Ernst. The Dual State: A Contribution to the Theory of Dictatorship. Oxford University Press, 1941/2017. La relación entre la opacidad fraenkeliana y el deterioro de la verificabilidad en el sentido de este capítulo se desarrolla en el Cap. 7.
