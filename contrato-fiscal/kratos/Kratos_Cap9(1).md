@@ -1,0 +1,129 @@
+PARTE II · LA DEGRADACIÓN
+
+Capítulo 9
+
+**La defraudación voluntaria**
+
+*Cuando el soberano firma su propia quiebra*
+
+*Respuesta racional al fraude acumulado · Disforia inducida · Segunda mediación orientada hacia la rendición o el duelo*
+
+*Los tres mecanismos de la defraudación voluntaria en términos de Caelus*
+
+> *«El soberano defraudado que firma su propia quiebra*
+>
+> *no es irracional.*
+>
+> *Es coherente.*
+>
+> *El problema es que su coherencia opera*
+>
+> *desde el daño*
+>
+> *como si fuera el eje.»*
+>
+> — Miguel Hilario Olvera Aguilar
+
+**I.**
+
+Hay un momento en la historia de ciertos movimientos políticos que es el más difícil de analizar y el más importante de entender: el momento en que el soberano que luchó durante décadas por la corrección del contrato fiscal obtiene finalmente la condición para ejercerla y, en ese momento, la descarta. No porque el enemigo externo lo haya vencido. No porque los mecanismos de corrección hayan fallado técnicamente. Sino porque el soberano mismo eligió, desde la posición de mayor capacidad relativa que había tenido en generaciones, la opción que sella su propia quiebra.
+
+Eso no es una anomalía ni un accidente histórico. Es el desenlace más frecuente de los ciclos de captura del contrato fiscal cuando operan el tiempo suficiente: el soberano que ha sido sistemáticamente defraudado acumula las condiciones que hacen posible la defraudación voluntaria. Y la defraudación voluntaria no es el capiturador que arrebata el contrato al soberano: es el soberano que lo entrega. Voluntariamente. Con frecuencia, con alivio.
+
+El nombre del fenómeno importa. No «manipulación», no «irracionalidad», no «populismo». Defraudación voluntaria. El soberano que firma su propia quiebra realiza un acto de voluntad —su segunda mediación opera y produce ese acto— y ese acto tiene la estructura del fraude annona: retira la inversión del sistema o la transfiere a quien garantizará su deterioro, destruyendo las condiciones del retorno que podría haber exigido. La diferencia con el fraude annona ordinario no está en el resultado —la partida doble produce el mismo desequilibrio—, sino en el agente: el soberano es simultáneamente el acreedor y el firmante de la quiebra.
+
+**II.**
+
+El análisis convencional de la defraudación voluntaria tiende a uno de dos errores simétricos. El primero es la patologización: el soberano que firma su propia quiebra está siendo manipulado, engañado, o es incapaz del razonamiento político maduro. El segundo es el fatalismo: si el soberano elige esto, esto debe ser lo que el soberano genuinamente quiere, y la tarea del analista es respetar esa elección. Los dos errores tienen el mismo defecto: asumen que el soberano opera desde un eje que es o no es el suyo sin examinar cuál es ese eje.
+
+El análisis desde la segunda mediación de Caelus no comete ninguno de los dos errores. No patologiza porque reconoce que el soberano en defraudación voluntaria opera coherentemente desde el eje que tiene disponible: su acto es racional desde ese eje. No es fatalista porque reconoce que el eje disponible puede no ser el eje propio del soberano: puede ser un eje producido por el fraude acumulado, por la disforia inducida o por la captura de la eutaxia utópica.
+
+La defraudación voluntaria tiene tres mecanismos en términos de Caelus que producen el mismo acto —el soberano que firma su propia quiebra— desde tres operaciones distintas de la segunda mediación. Son distinguibles porque tienen ejes distintos desde los que opera la segunda mediación y porque requieren correcciones distintas. Los tres pueden operar simultáneamente, y con frecuencia lo hacen.
+
+**III.**
+
+**Primer mecanismo** · La respuesta racional al fraude acumulado
+
+El primer mecanismo opera desde el eje propio del soberano —la segunda mediación no ha sido capturada— y desde la eutaxia utópica genuina. El problema no está en el eje ni en la dirección de la tendencia; está en el cálculo que el soberano realiza desde ese eje sobre cuál opción produce el mejor resultado esperado dado el estado del contrato fiscal.
+
+El soberano que ha sido sistemáticamente defraudado durante décadas tiene evidencia empírica acumulada de que el sistema no produce el retorno prometido. Esa evidencia produce una actualización racional de las expectativas: el sistema que fallará en el futuro probablemente tendrá la misma estructura que el sistema que falló en el pasado. Desde ese cálculo, la propuesta de reemplazar el sistema por algo radicalmente distinto —aunque ese algo sea peor en términos del contrato fiscal— puede ser racionalmente preferible a la propuesta de reformar el sistema que ha fallado: al menos la ruptura elimina la ilusión del contrato y hace visible lo que el contrato normalizado ocultaba.
+
+En términos de Caelus: la segunda mediación del soberano opera desde su propio eje y desde la eutaxia utópica genuina —la tendencia hacia condiciones mejores—, pero la información disponible desde el horizonte temporal al que tiene acceso (el ciclo corto que la asimetría temporal del Capítulo 8 produce) no le permite ver que las condiciones a las que conduce la opción que elige son peores que las que dejaría atrás. El error no está en el eje ni en la eutaxia: está en el horizonte desde el que se evalúan las consecuencias. El soberano calcula correctamente con los datos que tiene. Los datos que tiene son los que el campo capturado gestionó para que tuviera.
+
+Esa es la diferencia ontológica entre este mecanismo y los otros dos: el primero opera desde el eje propio del soberano con datos incompletos. Los otros dos operan desde ejes que no son los propios del soberano, independientemente de los datos disponibles. La corrección del primer mecanismo es fundamentalmente epistemológica —restaurar el acceso al horizonte temporal que permite ver las consecuencias completas—. La corrección de los otros dos es ontológica —restaurar el eje de la segunda mediación.
+
+**IV.**
+
+**Segundo mecanismo** · La disforia de identidad colectiva inducida
+
+El segundo mecanismo opera desde el eje que el capturador asignó al soberano —la segunda mediación ha sido capturada por la disforia de identidad colectiva que el Capítulo 6 describió—. Desde ese eje, la defraudación voluntaria no es un error del soberano ni una decisión difícil: es el acto coherente de un ego que opera desde la identidad que le fue dada.
+
+El soberano en disforia que firma su propia quiebra no percibe ese acto como la firma de una quiebra. Desde el eje capturado, lo que firma es la consolidación del orden que el marco capturado identifica como el orden correcto: la protección frente al enemigo construido, la afirmación de la identidad comunitaria que el capturador cultivó, la estabilización del sistema que —desde el marco capturado— aparece como el sistema que sirve los intereses del soberano aunque sea exactamente el sistema que lo defrauda.
+
+En términos de Caelus: la segunda mediación del soberano opera desde el eje del capturador como si fuera el eje propio. La eutaxia utópica —la tendencia constitutiva del ego hacia condiciones mejores— ha sido capturada y reorientada hacia las condiciones que el capturador prefiere. El soberano no está renunciando a su tendencia hacia condiciones mejores: está persiguiéndola, pero desde un eje que define «mejores» en términos del marco capturado. La firma de la quiebra es, desde ese eje, el acto de la eutaxia: el movimiento hacia el estado que el marco capturado presenta como el estado deseable.
+
+Lo que hace a este mecanismo particularmente difícil de corregir es que la corrección no puede realizarse sin antes cambiar el eje desde el que el soberano opera. La información más precisa, los argumentos más sólidos, la evidencia más clara del fraude annona producida por lo que el soberano está a punto de firmar: ninguno de esos instrumentos produce corrección en el soberano que opera desde el eje de la disforia, porque todos son procesados desde ese eje y el eje de la disforia los reinterpreta de manera compatible con la firma. No es que el soberano en disforia no pueda ver la información: es que la ve desde un marco que la hace inofensiva para el capturador.
+
+**V.**
+
+**Tercer mecanismo** · La segunda mediación orientada hacia la rendición o el duelo colectivo
+
+El tercer mecanismo es el más original en términos de Caelus y el más difícil de nominar porque no corresponde ni a la primera forma —el soberano con su propio eje que calcula mal— ni a la segunda —el soberano cuyo eje ha sido capturado—. Es un estado intermedio en que la segunda mediación del soberano opera desde el propio eje —no está en disforia— y la eutaxia utópica funciona —el soberano reconoce la dirección correcta—, pero esa eutaxia ha sido reorientada desde el movimiento hacia uno de dos estados estáticos: la rendición o el duelo colectivo.
+
+La rendición es el estado en que la segunda mediación colectiva ha integrado la creencia de que el movimiento hacia condiciones mejores no es posible para este colectivo en este momento histórico. No es disforia: el soberano en rendición puede reconocer perfectamente el fraude annona, puede articular con precisión lo que el contrato prometía y no retornó, puede identificar los mecanismos de captura con claridad. Lo que no puede hacer es conectar ese reconocimiento con una acción orientada hacia la corrección. La acción posible —y por tanto la acción que su segunda mediación produce— es la firma de la quiebra, no porque crea que el nuevo sistema será mejor, sino porque ya no cree que ningún sistema pueda ser mejor. La quiebra al menos tiene la virtud de la honestidad: nombra el estado real del contrato en lugar de sostener la ficción de un contrato que ya no existe.
+
+El duelo colectivo es diferente de la rendición aunque produzca el mismo acto. El soberano que duele no ha concluido que el movimiento es imposible: ha orientado su eutaxia hacia el estado anterior a la pérdida como el estado deseable. La segunda mediación colectiva invierte su energía no en construir el contrato que podría ser sino en conmemorar el contrato que debía haber sido y no fue. Ese duelo puede ser completamente legítimo —la pérdida fue real—, pero no puede producir el movimiento que la corrección del contrato requiere: la energía que el duelo consume es energía que no puede ser dirigida hacia la acción futura. El soberano en duelo firma su propia quiebra no por resignación sino por orientación temporal: su eutaxia apunta hacia el pasado.
+
+En términos de Caelus, ambos —rendición y duelo— son estados en que la eutaxia utópica ha perdido su función de vector hacia las condiciones posibles. En la rendición, la eutaxia ha colapsado: el ego ya no tiende hacia ninguna condición porque ha concluido que ninguna condición es alcanzable. En el duelo, la eutaxia ha invertido su dirección temporal: el ego tiende hacia una condición que era y ya no es, en lugar de hacia una condición que podría ser y aún no es. En los dos casos el resultado operativo es el mismo: la segunda mediación produce actos de conservación del estado presente o de regresión hacia el pasado, no actos de movimiento hacia el futuro.
+
+**VI.**
+
+El duelo colectivo merece una atención específica porque es el estado que más fácilmente es confundido con la conciencia política madura. El soberano que ha sido defraudado sistemáticamente y que articula con precisión y profundidad esa defraudación puede estar, sin saberlo, en un estado de duelo que lo incapacita para la corrección tanto como lo incapacitaría la disforia o la rendición. La diferencia es que el duelo produce un diagnóstico correcto del pasado sin producir un proyecto del futuro. Y sin proyecto del futuro, la segunda mediación colectiva no puede orientarse hacia la corrección.
+
+La distinción que Caelus hace entre la primera y la segunda mediación es útil aquí. La primera mediación responde al campo como campo: procesa lo que existe y lo devuelve transformado según las posibilidades que el campo permite. La segunda mediación opera desde el eje propio y puede producir actos que no son simplemente respuestas al campo sino aperturas hacia lo que el campo no prevé. El duelo colectivo es una forma en que la segunda mediación colectiva se comporta como primera mediación: procesa la defraudación pasada y la devuelve como conmemoración, sin producir el acto propiamente de segunda mediación que sería la apertura hacia un contrato distinto.
+
+El duelo no puede ser interrumpido por decisión. Es una operación necesaria de la segunda mediación cuando la pérdida es real y significativa: suprimir el duelo no produce el movimiento, produce el duelo diferido, que es menos accesible y más difícil de transformar. Lo que puede ocurrir —y lo que la corrección del contrato fiscal requiere que ocurra— es que el duelo se complete: que la segunda mediación colectiva procese la pérdida completamente y libere la eutaxia hacia el movimiento posible. El duelo que no se completa —que se convierte en la identidad permanente del colectivo— es el duelo que produce la defraudación voluntaria. El duelo que se completa es el que libera la energía para la exigencia.
+
+**VII.**
+
+Los tres mecanismos no son mutuamente excluyentes. En la mayoría de los casos históricos de defraudación voluntaria, los tres operan simultáneamente aunque con distinto peso relativo según el colectivo y el momento. Y operan de manera que se refuerzan mutuamente:
+
+La respuesta racional al fraude acumulado crea la apertura cognitiva: el soberano que ya no confía en el sistema existente está más disponible para adoptar marcos alternativos, incluido el marco del capturador, que el soberano que confía en el sistema. La apertura cognitiva que el primer mecanismo produce es el terreno en que el segundo mecanismo —la disforia inducida— puede sembrarse más eficientemente.
+
+La disforia inducida orienta la segunda mediación del soberano hacia el eje del capturador. Desde ese eje, la evaluación del fracaso del sistema existente y de las alternativas disponibles produce conclusiones distintas de las que el eje propio del soberano produciría. Y esa reorientación puede, si la disforia es suficientemente profunda y el fraude annona acumulado es suficientemente extenso, producir el estado de duelo: el ego en disforia que percibe la pérdida desde el marco capturado puede entrar en duelo por el contrato que el capturador describe como el que «debería haber sido» —que es frecuentemente el contrato que el capturador mismo destruyó.
+
+El tercer mecanismo —duelo y rendición— estabiliza la defraudación voluntaria porque hace que el soberano que ya la ejecutó no tenga razón para revertirla: el soberano en rendición no cree que la reversión sea posible; el soberano en duelo está orientado hacia el pasado, no hacia el futuro de la reversión. La estabilización de la defraudación voluntaria a través del tercer mecanismo es lo que hace que la firma de la quiebra no sea un acto aislado sino un estado: el soberano que firmó en un momento continúa firmando en los siguientes.
+
+**VIII.**
+
+Los tres mecanismos requieren correcciones distintas porque operan sobre aspectos distintos de la segunda mediación colectiva. La corrección que funciona para el primero puede ser ineficiente o contraproducente para los otros dos.
+
+El primer mecanismo —respuesta racional al fraude acumulado— requiere la restauración del horizonte temporal desde el que el soberano evalúa sus opciones: la construcción de la memoria institucional que hace visible el arco completo de las consecuencias de la firma, y la experiencia verificada de que la corrección gradual del contrato puede producir resultados que el cálculo de corto plazo no anticipa. Sin esa restauración del horizonte, el soberano continuará calculando correctamente con datos incompletos y produciendo actos coherentes que sellan la quiebra.
+
+El segundo mecanismo —disforia inducida— requiere la restauración del eje propio de la segunda mediación: el vocabulario del acreedor que hace posible que el soberano ocupe la posición que la disforia suprimió, los espacios en que el soberano puede experimentar qué produce operar desde su propio eje antes de que ese eje sea el eje dominante del colectivo, y el encuentro con otros egos que han ya recuperado el eje propio y cuya experiencia ofrece evidencia de que esa recuperación es posible.
+
+El tercer mecanismo —rendición y duelo— requiere el reconocimiento de que la eutaxia utópica puede ser liberada de los estados estáticos hacia los que ha sido orientada sin negar la realidad de lo que produjo esa orientación. El soberano en rendición que escucha que el movimiento es posible sin que nadie haya reconocido la defraudación que produjo la rendición, escucha una promesa que su experiencia desmiente. El soberano en duelo que es llamado a la acción sin que nadie haya reconocido la pérdida, experimenta esa llamada como una negación de algo que fue real. La corrección del tercer mecanismo empieza por el reconocimiento: de la defraudación que produjo la rendición, de la pérdida que produjo el duelo. Ese reconocimiento no restaura lo perdido ni garantiza que el movimiento sea posible; pero restaura la condición desde la que el movimiento puede ser intentado.
+
+**IX.**
+
+La defraudación voluntaria completa el diagnóstico de la Parte II con la constatación más perturbadora que el análisis del contrato fiscal puede producir: el mecanismo más eficiente de la captura del contrato no es el que el capturador ejecuta sobre el soberano desde afuera. Es el que el soberano ejecuta sobre sí mismo desde adentro, habiendo sido preparado para hacerlo por todos los mecanismos que la Parte II ha examinado.
+
+El fraude annona en sus tres formas deterioró el abono de la partida doble. La disforia de identidad colectiva capturó el eje de la segunda mediación. Los tres monopolios consolidaron los puntos de captura. La asimetría temporal gestionó el horizonte desde el que el soberano evalúa el contrato. Y la defraudación voluntaria es el resultado de esa cadena cuando todos los eslabones operan con suficiente consistencia durante el tiempo suficiente: el soberano que firma su propia quiebra.
+
+Ese diagnóstico no es fatalista. Es el diagnóstico desde el que la Parte III puede diseñar los mecanismos de corrección con la precisión que el problema requiere. La corrección que no conoce estos mecanismos diseñará instrumentos que pueden funcionar en las condiciones del contrato sano o estresado pero que serán sistemáticamente insuficientes en las condiciones de la defraudación voluntaria. La corrección que los conoce puede diseñar instrumentos que operan desde el estado real del soberano —no desde el estado que el soberano debería tener— y que construyen desde ahí las condiciones para que el soberano pueda reconocerse nuevamente como acreedor.
+
+\* \* \*
+
+**Sobre la Parte II**
+
+Los cinco capítulos de la Parte II han descrito la degradación del contrato fiscal como un proceso activamente diseñado. El fraude annona en sus tres formas (Cap. 5) deteriora el abono con grados crecientes de invisibilidad. La disforia de identidad colectiva (Cap. 6) desplaza el eje desde el que el soberano opera su segunda mediación. Los tres monopolios (Cap. 7) son los puntos de captura que producen y mantienen la disforia. La asimetría temporal (Cap. 8) diseña el campo para que el soberano no pueda ver el arco completo de su propio desplazamiento. Y la defraudación voluntaria (Cap. 9) es el desenlace de esa cadena: el soberano que, preparado por todos los mecanismos anteriores, firma la quiebra de su propio contrato. La Parte III examina qué puede hacerse desde ese punto.
+
+\* \* \*
+
+**Notas**
+
+**1** La distinción entre los tres mecanismos de la defraudación voluntaria tiene antecedentes parciales en distintas tradiciones. El primer mecanismo —respuesta racional al fraude acumulado— corresponde a lo que Hirschman llamó «exit» en Exit, Voice, and Loyalty, 1970: la decisión de retirarse del sistema cuando el sistema falla. Lo que Kratos añade es la descripción ontológica del mecanismo: no es simplemente la elección racional de retirarse, sino la operación de la segunda mediación desde el propio eje con datos incompatibles con la evaluación de las consecuencias de largo plazo. El segundo mecanismo —disforia inducida— corresponde a la hegemonía gramsciana como fue desarrollada en los Capítulos 6 y 7. El tercero —rendición y duelo— no tiene un antecedente directo preciso en la literatura y es la contribución más original de este capítulo al análisis del contrato fiscal.
+
+**2** La distinción entre el duelo que se completa y el duelo que se convierte en identidad permanente del colectivo tiene resonancias con el análisis psicoanalítico de Freud sobre la diferencia entre el duelo y la melancolía (Trauer und Melancholie, 1917): el duelo que se completa libera la energía libidinosa hacia nuevos objetos; la melancolía es el duelo que no puede completarse porque el objeto perdido ha sido interiorizado de manera que su pérdida es sentida como pérdida del propio ego. La aplicación a la escala colectiva que Kratos realiza no requiere adoptar el marco psicoanalítico en su totalidad: requiere solo la distinción operativa entre el estado de duelo que puede producir movimiento cuando se completa y el estado de duelo que impide el movimiento porque ha sido integrado como la identidad constitutiva del colectivo.
+
+**3** La cadena causal que produce la defraudación voluntaria —fraude annona → disforia → monopolios → asimetría temporal → defraudación voluntaria— no es necesaria en el sentido de que cada eslabón produzca inevitablemente el siguiente. Es posible que el fraude annona no produzca disforia si el soberano mantiene el eje propio de su segunda mediación; es posible que la disforia no produzca defraudación voluntaria si hay mecanismos de recuperación del eje disponibles. Lo que la cadena describe es el proceso más frecuente en los sistemas donde todos los eslabones están presentes y operan en el tiempo suficiente. La Parte III examina exactamente cuáles eslabones de la cadena pueden ser interrumpidos y con qué instrumentos.
