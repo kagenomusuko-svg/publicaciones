@@ -1,0 +1,105 @@
+PARTE III · LA EXIGENCIA
+
+*La segunda mediación colectiva que reclama su propio marco*
+
+Capítulo 10
+
+**El soberano activo como ego que reclama su segunda mediación**
+
+*No heroísmo — reconocimiento ontológico*
+
+*La diferencia entre el soberano que actúa desde disforia y el que actúa desde asunción*
+
+> *«El soberano activo no es el soberano valiente.*
+>
+> *Es el soberano que sabe lo que se le debe.*
+>
+> *Esa diferencia no es de carácter.*
+>
+> *Es de eje.»*
+>
+> — Miguel Hilario Olvera Aguilar
+
+**Nota sobre la Parte III**
+
+La Parte II describió la degradación del contrato fiscal como un proceso activamente diseñado que culmina en la defraudación voluntaria: el soberano que firma su propia quiebra habiendo sido preparado para hacerlo por el fraude annona acumulado, la disforia inducida, los tres monopolios, la asimetría temporal y los tres mecanismos de la defraudación voluntaria. La Parte III examina qué puede hacerse desde ese estado. No desde el estado ideal de un soberano que nunca fue capturado —ese soberano no existe en ningún colectivo real—, sino desde el estado real del soberano que el diagnóstico de la Parte II describe. La exigencia que la Parte III examina no es la exigencia de un soberano invulnerable; es la exigencia que es posible desde el estado en que el soberano realmente se encuentra.
+
+\* \* \*
+
+**I.**
+
+Dos ciudadanos votan en la misma elección, por el mismo candidato, por las mismas razones declaradas. Ambos han participado en las mismas organizaciones, han asistido a las mismas manifestaciones, han firmado las mismas peticiones. Desde afuera, su participación política es indistinguible. Desde adentro —desde el eje de la segunda mediación desde el que opera cada uno— son radicalmente distintos.
+
+El primero vota porque el candidato representa la identidad de su comunidad frente a los que la amenazan: su acto es coherente con el marco que el capturador cultivó para que ese ciudadano operara desde él. El segundo vota porque ese candidato, evaluado desde el criterio de la eutaxia utópica, produce mejores condiciones para la renovación genuina del contrato fiscal que la alternativa: su acto es coherente con el eje del acreedor que reconoce lo que el contrato debe retornar y evalúa cuál opción maximiza ese retorno. Los dos actos son exteriormente idénticos. Los dos ejes son ontológicamente opuestos.
+
+El primero puede ser el soberano más activo del campo —el que más participa, el que más organiza, el que más sacrifica—, y su actividad reproducirá sistemáticamente la disforia que el capturador necesita. El segundo puede ser el ciudadano más modesto del campo —el que menos participa, el que menos sacrifica—, y cada uno de sus actos contribuirá, aunque sea marginalmente, a las condiciones en que el contrato fiscal puede ser exigido. La diferencia entre el soberano activo y el soberano en disforia política no está en la intensidad de la participación; está en el eje de la segunda mediación desde el que esa participación ocurre.
+
+**II.**
+
+El mínimo ontológico del soberano activo es uno: que su segunda mediación opere desde el reconocimiento de su propia condición de acreedor. No es una condición moral —no requiere que el soberano sea virtuoso, generoso o comprometido con la justicia—. No es una condición intelectual —no requiere que el soberano tenga sofisticación jurídica, comprensión técnica del sistema fiscal o acceso a análisis especializado—. Es una condición ontológica: que el eje desde el que el soberano opera su segunda mediación sea el eje del ego que sabe que tiene algo que exigir.
+
+Esa formulación puede parecer minimalista. Lo es deliberadamente. El análisis de la Parte II demostró con precisión por qué los umbrales más altos —el soberano virtuoso, el ciudadano informado, el activista comprometido— son umbrales que la captura del contrato fiscal produce deliberadamente para que sean difíciles de alcanzar. El capturador que requiere virtud para la resistencia sabe que la virtud es escasa. El capturador que requiere información especializada para la resistencia controla los canales de esa información. El mínimo ontológico del soberano activo —el reconocimiento de la propia condición de acreedor— es el umbral más bajo posible sin eliminar la diferencia entre el soberano activo y el soberano en disforia. Y esa deliberada bajeza del umbral es su argumento más fuerte: si cualquier ego que invirtió en el sistema puede ser soberano activo con solo reconocer lo que ya es, la barrera de entrada al soberanato activo no requiere nada que el capturador pueda confiscar.
+
+**III.**
+
+La condición de acreedor no es una posición que el soberano deba ganar o merecer. Es la descripción de un hecho sobre su relación con el Estado que se produce automáticamente cuando realiza la inversión que el contrato fiscal establece. El ego que paga impuestos, que obedece las normas, que confiere legitimidad a las instituciones, que sujeta sus libertades al marco del colectivo: ese ego es acreedor del retorno de esa inversión independientemente de si lo sabe, independientemente de si lo reclama, independientemente de si el sistema jurídico reconoce ese reclamo como válido.
+
+La diferencia entre ser acreedor y reconocerse como acreedor no es la diferencia entre tener o no tener un derecho. Es la diferencia entre tener un derecho y operar la segunda mediación desde el eje de quien tiene ese derecho. El soberano que tiene el derecho pero no lo reconoce como propio opera su segunda mediación desde el eje del súbdito que espera que el Estado conceda algo —no del acreedor que exige que el Estado retorne lo debido. Y esa diferencia de eje produce diferencias en los actos que la segunda mediación genera: el súbdito agradece cuando recibe, tolera cuando no recibe, y en el extremo suplica cuando necesita. El acreedor evalúa si recibió lo que le corresponde, documenta cuando no lo recibió, y exige el cumplimiento porque tiene el fundamento contractual para hacerlo.
+
+Ese reconocimiento no es moral ni ideológico: es ontológico. No requiere que el soberano piense que el sistema debería ser diferente, ni que tenga una teoría sobre la justicia distributiva, ni que se identifique con ninguna posición política. Requiere solo que pueda describir con precisión su propia posición en la partida doble del contrato fiscal: realizó el cargo, no recibió el abono, el Estado tiene el pasivo. Esa descripción, cuando es genuinamente asumida por la segunda mediación del soberano —cuando opera desde ella y no solo la enuncia—, es el reconocimiento ontológico que define al soberano activo.
+
+**IV.**
+
+La transición de la disforia a la asunción no es un evento. No ocurre en un momento de iluminación ni en una conversión repentina. Es un proceso de reorientación gradual del eje de la segunda mediación: el ego que comienza a operar desde el reconocimiento de su propia condición de acreedor en un dominio específico de su vida, y que extiende ese reconocimiento hacia otros dominios en la medida en que la experiencia confirma que el eje del acreedor produce resultados distintos al eje de la disforia.
+
+En términos de Caelus, la transición de la disforia a la asunción es la transición del ego que opera desde el eje del campo capturador al ego que opera desde el eje propio de su segunda mediación. Esa transición no requiere que el campo haya dejado de capturar: el campo puede seguir siendo el mismo campo capturado mientras el ego comienza a operar desde el eje propio. Lo que cambia no es el campo; es el eje desde el que el ego lo interpreta y actúa sobre él. El ego que actúa desde asunción en un campo capturado no está en las condiciones óptimas —esas serían las del contrato sano—, pero está en condiciones cualitativamente distintas de las del ego en disforia.
+
+El primer signo de que la transición ha comenzado no es un acto político visible: es un cambio en el modo de interpretar los propios actos. El ego que comienza a transitar de la disforia a la asunción empieza a escuchar el lenguaje del acreedor como propio, donde antes lo escuchaba como ajeno o subversivo. Empieza a evaluar las acciones del Estado desde el criterio de «¿retornó lo que debía?» en lugar del criterio de «¿fue generoso o injusto?». Empieza a percibir la exigencia no como una agresión o una demanda excesiva sino como la consecuencia natural de haber realizado una inversión. Esos cambios en el modo de interpretar son previos a cualquier acto de exigencia visible, y son los que hacen que el acto de exigencia, cuando ocurre, opere desde el eje correcto en lugar de desde el eje de la disforia.
+
+La transición puede ser también interrumpida. El ego que comienza a operar desde el eje del acreedor y encuentra que ese eje no produce ningún resultado —que el sistema no responde, que la exigencia no tiene efectos, que el campo capturado absorbe la acción sin modificarse— puede retornar al estado de rendición que el Capítulo 9 describió como el tercer mecanismo de la defraudación voluntaria. Por eso la transición de la disforia a la asunción no puede ocurrir solo desde el cambio interno del ego: requiere también condiciones externas mínimas en que el eje del acreedor pueda producir algún resultado verificable, aunque sea pequeño y parcial. Esas condiciones son parte de lo que los mecanismos de corrección de los capítulos siguientes deben generar.
+
+**V.**
+
+El soberano activo del contrato fiscal no es solo el ego individual que opera su segunda mediación desde el eje del acreedor. Es el ego colectivo que opera desde ese eje: que puede ver el patrón del fraude annona que ningún ego individual puede ver desde su propio caso, que puede evaluar la dirección del contrato con la eutaxia utópica como criterio colectivo, y que puede actuar desde el reconocimiento de una deuda que es colectiva, no solo individual.
+
+La diferencia entre el soberano activo individual y el soberano activo colectivo no es solo de escala: es de lo que es visible. El ego que reconoce su propia condición de acreedor ve el fraude annona en sus propias experiencias individuales —el servicio que no llegó, el derecho que no pudo ejercer, la justicia que no funcionó—. El ego colectivo que reconoce la condición colectiva de acreedor puede ver el patrón estadístico de la captura selectiva del retorno que ningún caso individual revela, puede identificar la asimetría temporal en la que el capturador planifica y el soberano evalúa, y puede reconocer la disforia colectiva como disforia —no como el estado normal de las cosas— porque tiene acceso a la comparación que el soberano individual en disforia no puede realizar.
+
+El soberano activo colectivo no surge automáticamente de la suma de soberanos activos individuales. Requiere un proceso de formación que es en sí mismo parte de la corrección del contrato fiscal: la construcción de los espacios en que los egos individuales que han comenzado la transición de la disforia a la asunción pueden reconocerse mutuamente como parte del mismo soberano colectivo acreedor. Sin ese reconocimiento mutuo, cada ego actúa desde el eje del acreedor en aislamiento, y la acción aislada desde el eje correcto es insuficiente para producir la corrección de un contrato cuya captura opera en la escala colectiva.
+
+**VI.**
+
+Las diferencias entre actuar desde disforia y actuar desde asunción producen consecuencias prácticas en el comportamiento político del soberano que son identificables aunque los actos externos sean a veces indistinguibles.
+
+***El criterio de evaluación.*** El soberano que actúa desde disforia evalúa las opciones políticas desde el criterio del marco capturado: qué opción es más coherente con la identidad que el capturador cultivó, qué opción protege mejor frente al enemigo construido, qué opción ofrece la estabilidad del estado normalizado. El soberano que actúa desde asunción evalúa desde el criterio de la eutaxia utópica: qué opción produce mejores condiciones para la renovación genuina del contrato fiscal, qué opción expande el campo de colisión disponible para el ego colectivo, qué opción fortalece las condiciones de correspondencia, operabilidad y verificabilidad del retorno. Los dos criterios pueden producir el mismo veredicto en algunos casos; en los casos decisivos —los que determinan la dirección del contrato a largo plazo— producen veredictos opuestos.
+
+***La sostenibilidad de la exigencia.*** El soberano que actúa desde disforia puede ser políticamente muy activo durante los picos de movilización —los momentos en que la emoción colectiva o la presión del campo produce energía política abundante—, pero esa actividad tiende a no sostenerse fuera de los picos: cuando la emoción baja, el campo ya no presiona hacia la actividad, y el soberano en disforia retorna al estado habitual del marco capturado. El soberano que actúa desde asunción tiene una base motivacional que no depende de la presión emocional ni del ciclo de movilización: la deuda del Estado no desaparece entre las crisis políticas, y el acreedor que sabe que tiene algo que exigir puede mantener la exigencia en los períodos ordinarios con la misma racionalidad con que la mantiene en los extraordinarios.
+
+***La resistencia a la captura de la corrección.*** El soberano que actúa desde disforia es vulnerable a que su exigencia sea capturada: el capturador puede reencuadrar la demanda de retorno del contrato en términos del marco capturado y convertirla en la demanda de protección frente al enemigo construido, en la demanda de afirmación de la identidad cultural, en la demanda de venganza contra las élites —sin que ninguna de esas demandas produzca la corrección del contrato fiscal. El soberano que actúa desde asunción tiene un criterio de evaluación que es independiente del reencuadre del capturador: si la acción produce mejores condiciones para la renovación genuina del contrato, es corrección; si no las produce, no lo es, independientemente del lenguaje en que se presente.
+
+**VII.**
+
+La relación entre el soberano activo y los tres mecanismos de la defraudación voluntaria del Capítulo 9 es directa: el soberano activo es exactamente el ego que ha interrumpido o revertido al menos uno de los tres mecanismos de defraudación voluntaria que lo llevarían a firmar su propia quiebra.
+
+El soberano activo que interrumpió el primer mecanismo —la respuesta racional al fraude acumulado— es el ego que recuperó el horizonte temporal suficiente para ver las consecuencias de largo plazo de sus opciones. Puede seguir evaluando racionalmente —de hecho, su racionalidad mejora con el horizonte más amplio—, pero ya no calcula solo desde los datos que el ciclo corto proporciona. Su corrección fue epistemológica: recuperó el acceso al tiempo largo.
+
+El soberano activo que interrumpió el segundo mecanismo —la disforia inducida— es el ego que recuperó el eje propio de su segunda mediación. Puede seguir operando en el mismo campo capturado —el campo no cambió—, pero opera desde el eje del acreedor en lugar del eje que el campo le asignó. Su corrección fue ontológica: recuperó el eje.
+
+El soberano activo que interrumpió el tercer mecanismo —la rendición o el duelo orientado hacia el pasado— es el ego que reorientó la eutaxia utópica desde el estado estático hacia el movimiento posible. Puede haber reconocido plenamente la pérdida —el duelo no fue suprimido— y haber llegado al punto en que la eutaxia puede operar nuevamente como vector hacia las condiciones posibles. Su corrección fue temporal: recuperó el futuro como horizonte de la eutaxia.
+
+En los tres casos, lo que el soberano activo recupera —el horizonte, el eje, la eutaxia hacia el futuro— no elimina el campo capturado ni restaura el contrato fiscal a un estado de equilibrio. Lo que restaura es la capacidad de operar desde el mínimo ontológico que define al soberano activo: el reconocimiento de la propia condición de acreedor. Y desde ese mínimo, la exigencia del contrato se vuelve posible.
+
+**VIII.**
+
+Este capítulo ha establecido el mínimo ontológico del soberano activo —el reconocimiento de la propia condición de acreedor— y ha distinguido con precisión lo que ese mínimo implica en términos de la segunda mediación: el eje desde el que opera la segunda mediación, no la intensidad de la participación política, no el heroísmo, no la virtud, no la sofisticación técnica.
+
+Lo que el soberano activo definido de esta manera puede hacer —el repertorio de mecanismos de exigencia disponibles y el orden en que es más efectivo activarlos— es el objeto del capítulo siguiente. Ese repertorio no es una lista de virtudes cívicas ni un programa de movilización política: es una descripción de las formas en que la segunda mediación del soberano puede producir efectos sobre el contrato fiscal en distintas condiciones del contrato, ordenadas desde los mecanismos que requieren el menor costo hasta los que requieren el mayor.
+
+\* \* \*
+
+**Notas**
+
+**1** La distinción entre el soberano activo que opera desde asunción y el soberano políticamente activo que opera desde disforia tiene resonancias con la distinción que Hirschman establece entre «voice» como mecanismo de corrección y «loyalty» como mecanismo de reproducción del sistema: el soberano en disforia puede ejercer voz (voice) pero esa voz opera desde la lealtad (loyalty) al marco capturado, lo que la convierte en un mecanismo de reproducción del sistema en lugar de un mecanismo de corrección. Exit, Voice, and Loyalty, 1970. La reformulación de Kratos añade la dimensión ontológica que Hirschman no desarrolla: la diferencia entre voz desde asunción y voz desde disforia no es solo de contenido —qué se demanda— sino de eje —desde qué segundo mediación se demanda.
+
+**2** La afirmación de que el reconocimiento ontológico de la condición de acreedor es el mínimo suficiente para distinguir al soberano activo del soberano en disforia tiene una consecuencia metodológica importante: el soberano activo no puede ser identificado observando su comportamiento externo, porque ese comportamiento puede ser idéntico al del soberano en disforia. Solo puede ser identificado examinando el eje de la segunda mediación desde el que ese comportamiento es producido. Eso tiene implicaciones para cómo se mide el «soberanato activo» en los sistemas políticos: los indicadores convencionales —tasas de participación electoral, membresía en organizaciones civiles, frecuencia de contacto con representantes— no distinguen entre participación desde asunción y participación desde disforia. Un indicador más preciso sería examinar el criterio de evaluación que el soberano aplica a sus propios actos políticos.
+
+**3** La descripción del soberano activo colectivo como algo cualitativamente distinto de la suma de soberanos activos individuales tiene una conexión con el análisis del colapso colectivo de Caelus (Cap. 3): el soberano activo colectivo no es la suma de segundas mediaciones individuales que operan desde el eje del acreedor, sino la emergencia de una segunda mediación colectiva que opera desde ese eje. Esa emergencia —como el colapso colectivo original— produce algo que no estaba en ninguno de los egos individuales: la capacidad de ver el patrón estadístico de la captura selectiva, de evaluar la dirección del contrato en el ciclo temporal en que la captura opera, y de actuar desde el reconocimiento colectivo de la deuda en lugar del reconocimiento individual.
