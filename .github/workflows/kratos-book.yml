@@ -58,7 +58,7 @@ jobs:
           required = [
               "el contrato fiscal: kratos",
               "aviso legal",
-              "pendiente de asignación",
+              "10.5281/zenodo.23173189",
               "prólogo",
               "capítulo 13",
           ]
