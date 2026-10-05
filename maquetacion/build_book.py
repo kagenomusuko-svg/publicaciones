@@ -117,14 +117,14 @@ def ensure_seal(root: Path) -> Path:
     return output
 
 
-def title_page(root: Path) -> str:
+def title_page(root: Path, config: dict) -> str:
     lines = [clean_text(line) for line in (root / "01.md").read_text(encoding="utf-8").splitlines() if line.strip()]
-    title = lines[0] if lines else "Libro"
-    subtitle = lines[1] if len(lines) > 1 else ""
-    volume = lines[2] if len(lines) > 2 else ""
-    author = lines[3] if len(lines) > 3 else ""
-    collection = next((line for line in lines if line.lower().startswith("colección:")), "")
-    publisher = next((line for line in lines if "Centro Multidisciplinario" in line), PUBLISHER)
+    title = str(config.get("title", lines[0] if lines else "Libro"))
+    subtitle = str(config.get("subtitle", lines[1] if len(lines) > 1 else ""))
+    volume = str(config.get("volume", lines[2] if len(lines) > 2 else ""))
+    author = str(config.get("author", lines[3] if len(lines) > 3 else ""))
+    collection = str(config.get("collection", next((line for line in lines if line.lower().startswith("colección:")), "")))
+    publisher = str(config.get("publisher", next((line for line in lines if "Centro Multidisciplinario" in line), PUBLISHER)))
     year_match = re.search(r"(20\d{2})", publisher)
     year = year_match.group(1) if year_match else "2026"
     publisher = re.sub(r"\s*·\s*20\d{2}\s*$", "", publisher).strip()
@@ -327,7 +327,7 @@ def document_html(
     )
     sections = [
         f'<section class="cover-page"><img src="{cover}"></section>',
-        title_page(root),
+        title_page(root, config),
         f'<section class="legal-page">{md.render((root / "02.md").read_text(encoding="utf-8"))}</section>',
     ]
     pre_toc_stems = config["pre_toc"] if "pre_toc" in config else ["03"]
