@@ -3,13 +3,6 @@
   "total_pages": 277,
   "contents": [
     {
-      "key": "presentacion",
-      "label": "Presentación",
-      "kind": "front",
-      "physical_page": 5,
-      "printed_page": "V"
-    },
-    {
       "key": "notas-autor",
       "label": "Notas del autor",
       "kind": "front",
