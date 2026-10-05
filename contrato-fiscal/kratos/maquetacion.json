@@ -1,0 +1,20 @@
+{
+  "series_header": "EL CONTRATO FISCAL · VOLUMEN I",
+  "short_title": "KRATOS",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "subtitle": "",
+  "volume": "Volumen I",
+  "author": "Miguel Hilario Olvera Aguilar",
+  "collection": "Colección: El Contrato Fiscal",
+  "publisher": "Centro Multidisciplinario Meriadock Formación y Asesoría A.C.",
+  "pre_toc": [],
+  "frontmatter": ["03"],
+  "frontmatter_toc": {
+    "03": {
+      "key": "prologo",
+      "label": "Prólogo"
+    }
+  },
+  "body": ["04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21"]
+}
