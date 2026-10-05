@@ -1,0 +1,87 @@
+name: Kratos — maquetación inicial y final
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'contrato-fiscal/kratos/*.md'
+      - 'contrato-fiscal/kratos/*.png'
+      - 'contrato-fiscal/kratos/maquetacion.json'
+      - 'maquetacion/build_book.py'
+      - 'maquetacion/estilo-libro-6x9.css'
+      - '.github/workflows/kratos-book.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dependencias del sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-ebgaramond poppler-utils libpango-1.0-0 libpangoft2-1.0-0
+
+      - name: Dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint markdown-it-py pillow pypdf
+
+      - name: Obtener sello institucional
+        run: |
+          mkdir -p contrato-fiscal/kratos/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output contrato-fiscal/kratos/assets/logo.svg
+
+      - name: Generar PDF
+        run: |
+          python maquetacion/build_book.py \
+            --root contrato-fiscal/kratos \
+            --output contrato-fiscal/kratos/build/kratos.pdf
+
+      - name: Auditoría textual y formato
+        run: |
+          test -s contrato-fiscal/kratos/build/kratos.pdf
+          pdftotext contrato-fiscal/kratos/build/kratos.pdf contrato-fiscal/kratos/build/kratos.txt
+          grep -qi "EL CONTRATO FISCAL: KRATOS" contrato-fiscal/kratos/build/kratos.txt
+          grep -qi "Aviso legal" contrato-fiscal/kratos/build/kratos.txt
+          grep -qi "pendiente de asignación" contrato-fiscal/kratos/build/kratos.txt
+          grep -qi "Prólogo" contrato-fiscal/kratos/build/kratos.txt
+          grep -qi "Capítulo 13" contrato-fiscal/kratos/build/kratos.txt
+          pdfinfo contrato-fiscal/kratos/build/kratos.pdf
+          pdftoppm -jpeg -r 100 -f 1 -l 1 contrato-fiscal/kratos/build/kratos.pdf contrato-fiscal/kratos/build/portada
+
+      - name: Guardar artefacto de revisión
+        uses: actions/upload-artifact@v4
+        with:
+          name: kratos-maquetacion
+          path: |
+            contrato-fiscal/kratos/build/kratos.pdf
+            contrato-fiscal/kratos/build/kratos.pages.json
+            contrato-fiscal/kratos/build/portada-1.jpg
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Guardar PDF para distribución
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p public/libros/contrato-fiscal-kratos
+          cp contrato-fiscal/kratos/build/kratos.pdf public/libros/contrato-fiscal-kratos/kratos.pdf
+          cp contrato-fiscal/kratos/Portada.png public/libros/contrato-fiscal-kratos/portada.png
+          git add contrato-fiscal/kratos/build
+          git add public/libros/contrato-fiscal-kratos
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Genera maquetación de Kratos"
+            git pull --rebase origin main
+            git push
+          fi
