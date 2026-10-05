@@ -1,5 +1,21 @@
 [
   {
+    "id": "contrato-fiscal-kratos",
+    "title": "El Contrato Fiscal: Kratos",
+    "subtitle": "La vida del contrato fiscal",
+    "volume": "Volumen I",
+    "author": "Miguel Hilario Olvera Aguilar",
+    "year": 2026,
+    "doi": "10.5281/zenodo.23173189",
+    "description": "Estudia la vida del contrato fiscal como estructura ontológica de la relación entre el soberano y el Estado: su renovación, sus umbrales de deterioro, las formas de captura y las vías de exigencia y restauración de la segunda mediación colectiva.",
+    "cover": "contrato-fiscal/kratos/Portada.png",
+    "pdf": "public/libros/contrato-fiscal-kratos/kratos.pdf",
+    "format": "PDF",
+    "sortOrder": 250,
+    "slug": "contrato-fiscal/kratos",
+    "_manifest": "contrato-fiscal/kratos/publicacion.json"
+  },
+  {
     "id": "reivindicacion-ontologica-del-ego-arquitectura-ontologica-sistemas-artificiales",
     "title": "Arquitectura ontológica de sistemas artificiales",
     "subtitle": "La doble mediación en sistemas artificiales",
