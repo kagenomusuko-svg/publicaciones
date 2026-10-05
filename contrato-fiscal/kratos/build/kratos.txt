@@ -14,7 +14,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría A.C.
 
 Aviso legal
 Primera edición: 2026
-DOI: pendiente de asignación.
+DOI: 10.5281/zenodo.23173189.
 © Miguel Hilario Olvera Aguilar, 2026
 © Centro Multidisciplinario Meriadock Formación y Asesoría A.C., 2026
 Esta obra se distribuye bajo la licencia Creative Commons Atribución 4.0 Internacional (CC
