@@ -103,6 +103,22 @@ export const publicaciones = [
   },
 
   {
+    id: 'contrato-fiscal-eris',
+    slug: 'contrato-fiscal-eris',
+    volumeSlug: 'eris',
+    title: 'El Contrato Fiscal',
+    subtitle: 'Eris',
+    volume: 'Tratado ontológico',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    doi: '10.5281/zenodo.23198619',
+    description:
+      'La auditoría de los sistemas políticos que han intentado resolver, ampliar, invertir o destruir el contrato fiscal.',
+    cover: `${BASE_PATH}/libros/contrato-fiscal-eris/portada.png`,
+    pdf: `${BASE_PATH}/libros/contrato-fiscal-eris/eris.pdf`,
+    href: '/libros/contrato-fiscal-eris/eris',
+  },
+  {
     id: 'reivindicacion-ontologica-del-ego-arquitectura-ontologica-sistemas-artificiales',
     slug: 'arquitectura-ontologica-sistemas-artificiales',
     volumeSlug: 'arquitectura-ontologica-sistemas-artificiales',
