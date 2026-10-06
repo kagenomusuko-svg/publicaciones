@@ -1,0 +1,53 @@
+{
+  "series_header": "EL CONTRATO FISCAL",
+  "short_title": "ERIS",
+  "subtitle": "La auditoría del contrato",
+  "author": "Miguel Hilario Olvera Aguilar",
+  "collection": "Colección: El Contrato Fiscal",
+  "publisher": "Centro Multidisciplinario Meriadock Formación y Asesoría A.C.",
+  "pre_toc": [],
+  "frontmatter": [
+    "02",
+    "03",
+    "04"
+  ],
+  "frontmatter_toc": {
+    "02": {
+      "key": "aviso-legal",
+      "label": "Aviso legal"
+    },
+    "03": {
+      "key": "indice",
+      "label": "Índice"
+    },
+    "04": {
+      "key": "prologo",
+      "label": "Prólogo · El manzano"
+    }
+  },
+  "body": [
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27"
+  ]
+}
