@@ -5,5 +5,9 @@
   "author": "Miguel Hilario Olvera Aguilar",
   "year": 2026,
   "description": "La auditoría de los sistemas políticos que han intentado resolver, ampliar, invertir o destruir el contrato fiscal.",
-  "slug": "contrato-fiscal/eris"
+  "cover": "contrato-fiscal/Eris/Portada.png",
+  "pdf": "public/libros/contrato-fiscal-eris/eris.pdf",
+  "format": "PDF",
+  "sortOrder": 249,
+  "slug": "contrato-fiscal/Eris"
 }
