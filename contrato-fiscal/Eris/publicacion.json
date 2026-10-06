@@ -9,6 +9,7 @@
   "pdf": "public/libros/contrato-fiscal-eris/eris.pdf",
   "format": "PDF",
   "sortOrder": 249,
-  "slug": "contrato-fiscal/Eris",
-  "doi": "10.5281/zenodo.23198619"
+  "slug": "contrato-fiscal/eris",
+  "doi": "10.5281/zenodo.23198619",
+  "volume": "Tratado ontológico"
 }
