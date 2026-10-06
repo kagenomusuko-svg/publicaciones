@@ -1,0 +1,96 @@
+name: Eris — maquetación inicial y final
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'contrato-fiscal/Eris/*.md'
+      - 'contrato-fiscal/Eris/*.png'
+      - 'contrato-fiscal/Eris/maquetacion.json'
+      - 'maquetacion/build_book.py'
+      - 'maquetacion/estilo-libro-6x9.css'
+      - '.github/workflows/eris-book.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Dependencias del sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-ebgaramond poppler-utils libpango-1.0-0 libpangoft2-1.0-0
+
+      - name: Dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint markdown-it-py pillow pypdf
+
+      - name: Obtener sello institucional
+        run: |
+          mkdir -p contrato-fiscal/Eris/assets
+          curl --fail --location --silent --show-error https://www.meriadock.org.mx/logo.svg --output contrato-fiscal/Eris/assets/logo.svg
+
+      - name: Generar PDF
+        run: |
+          python maquetacion/build_book.py \
+            --root contrato-fiscal/Eris \
+            --output contrato-fiscal/Eris/build/eris.pdf
+
+      - name: Auditoría textual y formato
+        run: |
+          test -s contrato-fiscal/Eris/build/eris.pdf
+          pdftotext contrato-fiscal/Eris/build/eris.pdf contrato-fiscal/Eris/build/eris.txt
+          python - <<'PY'
+          from pathlib import Path
+          text = " ".join(Path("contrato-fiscal/Eris/build/eris.txt").read_text(encoding="utf-8").split()).casefold()
+          required = [
+              "el contrato fiscal: eris",
+              "aviso legal",
+              "prólogo",
+              "capítulo 17",
+              "epílogo",
+          ]
+          missing = [term for term in required if term.casefold() not in text]
+          print("Auditoría textual:", {term: term.casefold() in text for term in required})
+          if missing:
+              raise SystemExit(f"Faltan en el PDF: {missing}")
+          PY
+          pdfinfo contrato-fiscal/Eris/build/eris.pdf
+          pdftoppm -jpeg -r 100 -f 1 -l 1 contrato-fiscal/Eris/build/eris.pdf contrato-fiscal/Eris/build/portada
+
+      - name: Guardar artefacto de revisión
+        uses: actions/upload-artifact@v4
+        with:
+          name: eris-maquetacion
+          path: |
+            contrato-fiscal/Eris/build/eris.pdf
+            contrato-fiscal/Eris/build/eris.pages.json
+            contrato-fiscal/Eris/build/portada-1.jpg
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Guardar PDF para distribución
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p public/libros/contrato-fiscal-eris
+          cp contrato-fiscal/Eris/build/eris.pdf public/libros/contrato-fiscal-eris/eris.pdf
+          cp contrato-fiscal/Eris/Portada.png public/libros/contrato-fiscal-eris/portada.png
+          git add contrato-fiscal/Eris/build public/libros/contrato-fiscal-eris
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Genera maquetación de Eris"
+            git pull --rebase origin main
+            git push
+          fi
