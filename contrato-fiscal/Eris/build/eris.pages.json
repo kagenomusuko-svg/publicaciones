@@ -1,0 +1,146 @@
+{
+  "pdf": "eris.pdf",
+  "total_pages": 224,
+  "contents": [
+    {
+      "key": "aviso-legal",
+      "label": "Aviso legal",
+      "kind": "front",
+      "physical_page": 5,
+      "printed_page": "V"
+    },
+    {
+      "key": "indice",
+      "label": "Índice",
+      "kind": "front",
+      "physical_page": 6,
+      "printed_page": "VI"
+    },
+    {
+      "key": "prologo",
+      "label": "Prólogo · El manzano",
+      "kind": "front",
+      "physical_page": 7,
+      "printed_page": "VII"
+    },
+    {
+      "key": "cap-1",
+      "label": "Capítulo 1 · Hobbes · El Leviathan",
+      "kind": "chapter",
+      "physical_page": 17,
+      "printed_page": "1"
+    },
+    {
+      "key": "cap-2",
+      "label": "Capítulo 2 · Locke · El Segundo Tratado",
+      "kind": "chapter",
+      "physical_page": 28,
+      "printed_page": "12"
+    },
+    {
+      "key": "cap-3",
+      "label": "Capítulo 3 · Rousseau · La voluntad general",
+      "kind": "chapter",
+      "physical_page": 39,
+      "printed_page": "23"
+    },
+    {
+      "key": "cap-4",
+      "label": "Capítulo 4 · Kant · El imperativo categórico",
+      "kind": "chapter",
+      "physical_page": 52,
+      "printed_page": "36"
+    },
+    {
+      "key": "cap-5",
+      "label": "Capítulo 5 · Rawls · El Velo de Ignorancia",
+      "kind": "chapter",
+      "physical_page": 63,
+      "printed_page": "47"
+    },
+    {
+      "key": "cap-6",
+      "label": "Capítulo 6 · La democracia representativa",
+      "kind": "chapter",
+      "physical_page": 75,
+      "printed_page": "59"
+    },
+    {
+      "key": "cap-7",
+      "label": "Capítulo 7 · El liberalismo clásico",
+      "kind": "chapter",
+      "physical_page": 88,
+      "printed_page": "72"
+    },
+    {
+      "key": "cap-8",
+      "label": "Capítulo 8 · Adam Smith · El capitalismo como promesa",
+      "kind": "chapter",
+      "physical_page": 99,
+      "printed_page": "83"
+    },
+    {
+      "key": "cap-9",
+      "label": "Capítulo 9 · El neoliberalismo",
+      "kind": "chapter",
+      "physical_page": 111,
+      "printed_page": "95"
+    },
+    {
+      "key": "cap-10",
+      "label": "Capítulo 10 · El libertarismo",
+      "kind": "chapter",
+      "physical_page": 122,
+      "printed_page": "106"
+    },
+    {
+      "key": "cap-11",
+      "label": "Capítulo 11 · Marx y Engels · La teoría",
+      "kind": "chapter",
+      "physical_page": 134,
+      "printed_page": "118"
+    },
+    {
+      "key": "cap-12",
+      "label": "Capítulo 12 · El socialismo soviético · La práctica",
+      "kind": "chapter",
+      "physical_page": 145,
+      "printed_page": "129"
+    },
+    {
+      "key": "cap-13",
+      "label": "Capítulo 13 · El maoísmo y sus variantes",
+      "kind": "chapter",
+      "physical_page": 156,
+      "printed_page": "140"
+    },
+    {
+      "key": "cap-14",
+      "label": "Capítulo 14 · El populismo hispanoamericano",
+      "kind": "chapter",
+      "physical_page": 167,
+      "printed_page": "151"
+    },
+    {
+      "key": "cap-15",
+      "label": "Capítulo 15 · Bakunin · La crítica más honesta",
+      "kind": "chapter",
+      "physical_page": 181,
+      "printed_page": "165"
+    },
+    {
+      "key": "cap-16",
+      "label": "Capítulo 16 · Las grandes revoluciones",
+      "kind": "chapter",
+      "physical_page": 193,
+      "printed_page": "177"
+    },
+    {
+      "key": "cap-17",
+      "label": "Capítulo 17 · El anarcocapitalismo",
+      "kind": "chapter",
+      "physical_page": 204,
+      "printed_page": "188"
+    }
+  ]
+}
