@@ -16,6 +16,20 @@
     "_manifest": "contrato-fiscal/kratos/publicacion.json"
   },
   {
+    "id": "contrato-fiscal-eris",
+    "title": "El Contrato Fiscal",
+    "subtitle": "Eris",
+    "author": "Miguel Hilario Olvera Aguilar",
+    "year": 2026,
+    "description": "La auditoría de los sistemas políticos que han intentado resolver, ampliar, invertir o destruir el contrato fiscal.",
+    "cover": "contrato-fiscal/Eris/Portada.png",
+    "pdf": "public/libros/contrato-fiscal-eris/eris.pdf",
+    "format": "PDF",
+    "sortOrder": 249,
+    "slug": "contrato-fiscal/Eris",
+    "_manifest": "contrato-fiscal/Eris/publicacion.json"
+  },
+  {
     "id": "reivindicacion-ontologica-del-ego-arquitectura-ontologica-sistemas-artificiales",
     "title": "Arquitectura ontológica de sistemas artificiales",
     "subtitle": "La doble mediación en sistemas artificiales",
@@ -188,15 +202,5 @@
     "sortOrder": 100,
     "slug": "afrodita-areia/vol-i",
     "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/publicacion.json"
-  },
-  {
-    "id": "contrato-fiscal-eris",
-    "title": "El Contrato Fiscal",
-    "subtitle": "Eris",
-    "author": "Miguel Hilario Olvera Aguilar",
-    "year": 2026,
-    "description": "La auditoría de los sistemas políticos que han intentado resolver, ampliar, invertir o destruir el contrato fiscal.",
-    "slug": "contrato-fiscal/eris",
-    "_manifest": "contrato-fiscal/Eris/publicacion.json"
   }
 ]
