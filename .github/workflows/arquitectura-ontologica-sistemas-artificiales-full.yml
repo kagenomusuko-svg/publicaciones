@@ -49,6 +49,33 @@ jobs:
             --root reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales \
             --output reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.pdf
 
+      - name: Validar índice y numeración de capítulos
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          audit = json.loads(Path(
+              'reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.pages.json'
+          ).read_text(encoding='utf-8'))
+          chapters = [item for item in audit['contents'] if item['kind'] == 'chapter']
+          expected = [
+              f'Capítulo {part}.{chapter}'
+              for part, total in [(0, 2), *[(n, 3) for n in range(1, 8)]]
+              for chapter in range(1, total + 1)
+          ]
+          labels = [item['label'].split(' · ', 1)[0] for item in chapters]
+          missing = [label for label in expected if label not in labels]
+          keys = [item['key'] for item in chapters]
+          if missing:
+              raise SystemExit(f'Faltan capítulos en el índice: {missing}')
+          if len(keys) != len(set(keys)):
+              raise SystemExit('Hay claves de capítulo duplicadas en el índice.')
+          if len(chapters) != len(expected):
+              raise SystemExit(f'Se esperaban {len(expected)} capítulos; se generaron {len(chapters)}.')
+          print(f'Índice validado: {len(chapters)} capítulos, claves únicas.')
+          PY
+
       - name: Preflight textual
         run: |
           test -s reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.pdf

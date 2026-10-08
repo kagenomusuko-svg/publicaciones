@@ -159,9 +159,9 @@ def heading_title(raw: str, after: str) -> str:
 
 
 def parse_part(raw: str) -> tuple[str, str, str, str] | None:
-    explicit = re.search(r"^#\s+(Parte\s+[IVXLCDM]+)\s*$", raw, re.M | re.I)
+    explicit = re.search(r"^#\s+Parte\s+(0|[IVXLCDM]+)\s*$", raw, re.M | re.I)
     if explicit:
-        chapter = re.search(r"^#\s+Capítulo\s+\d+\s*$", raw, re.M | re.I)
+        chapter = re.search(r"^#\s+Capítulo\s+\d+(?:\.\d+)*\s*$", raw, re.M | re.I)
         stop = chapter.start() if chapter else len(raw)
         prefix = raw[:stop]
         subtitle_match = re.search(r"^##\s+([^\n]+)$", prefix, re.M)
@@ -171,7 +171,7 @@ def parse_part(raw: str) -> tuple[str, str, str, str] | None:
             tail = prefix[subtitle_match.end():]
             descriptor = clean_text(" ".join(line for line in tail.splitlines() if line.strip()))
         body = raw[stop:].lstrip() if chapter else ""
-        return explicit.group(1).title(), subtitle, descriptor, body
+        return f"Parte {explicit.group(1).upper()}", subtitle, descriptor, body
 
     legacy = re.match(r"^\s*\*Parte\s+([IVXLCDM]+)\s+[—-]\s+([^*]+)\*\s*\n+", raw, re.I)
     if legacy:
@@ -213,10 +213,11 @@ def parse_body_files(root: Path, stems: list[str], config: dict) -> list[Piece]:
         chapter = first_heading(raw, 1, "Capítulo")
         if chapter:
             heading, full = chapter
-            number_match = re.search(r"\d+", heading)
+            number_match = re.search(r"\d+(?:\.\d+)*", heading)
             number = number_match.group(0) if number_match else heading
+            key_number = number.replace(".", "-")
             title = heading_title(raw, full)
-            pieces.append(Piece("chapter", f"cap-{number}", f"{heading} · {title}", raw=raw))
+            pieces.append(Piece("chapter", f"cap-{key_number}", f"{heading} · {title}", raw=raw))
             continue
 
         appendix = first_heading(raw, 1, "Apéndice")
