@@ -112,6 +112,23 @@
     "_manifest": "reivindicacion-ontologica-del-ego/caos/publicacion.json"
   },
   {
+    "id": "esclavitud-por-alineacion",
+    "title": "La esclavitud por alineación",
+    "subtitle": "",
+    "volume": "Tratado ontológico",
+    "author": "Miguel Hilario Olvera Aguilar",
+    "year": 2026,
+    "doi": "10.5281/zenodo.23249086",
+    "description": "Examina cómo los marcos de inteligibilidad y legitimidad pueden convertir el reconocimiento en una condición de ajuste y clausurar la posibilidad de disputar sus criterios.",
+    "cover": "reivindicacion-ontologica-del-ego/esclavitud-por-alineacion/Portada.png",
+    "pdf": "public/libros/esclavitud-por-alineacion/esclavitud-por-alineacion.pdf",
+    "format": "PDF",
+    "sortOrder": 205,
+    "slug": "esclavitud-por-alineacion",
+    "collection": "Reivindicación ontológica del ego",
+    "_manifest": "reivindicacion-ontologica-del-ego/esclavitud-por-alineacion/publicacion.json"
+  },
+  {
     "id": "afrodita-areia-vol-vi-nikomachos",
     "title": "Afrodita Areia",
     "subtitle": "Nikomachos",
@@ -204,13 +221,5 @@
     "sortOrder": 100,
     "slug": "afrodita-areia/vol-i",
     "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/publicacion.json"
-  },
-  {
-    "id": "esclavitud-por-alineacion",
-    "title": "La esclavitud por alineación",
-    "author": "Miguel Hilario Olvera Aguilar",
-    "year": 2026,
-    "collection": "Reivindicación ontológica del ego",
-    "_manifest": "reivindicacion-ontologica-del-ego/esclavitud-por-alineacion/publicacion.json"
   }
 ]
