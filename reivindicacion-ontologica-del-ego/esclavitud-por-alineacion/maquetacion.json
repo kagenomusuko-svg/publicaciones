@@ -1,10 +1,14 @@
 {
   "series_header": "REIVINDICACIÓN ONTOLÓGICA DEL EGO",
   "short_title": "LA ESCLAVITUD POR ALINEACIÓN",
+  "cover": "Portada.png",
+  "back_cover": "Contraportada.png",
+  "title": "La esclavitud por alineación",
   "subtitle": "",
+  "volume": "Tratado ontológico",
   "author": "Miguel Hilario Olvera Aguilar",
   "collection": "Colección: Reivindicación ontológica del ego",
-  "publisher": "Centro Multidisciplinario Meriadock Formación y Asesoría A.C.",
+  "publisher": "Centro Multidisciplinario Meriadock Formación y Asesoría A.C. · 2026",
   "pre_toc": [],
   "frontmatter": [
     "04"
@@ -12,21 +16,39 @@
   "frontmatter_toc": {
     "04": {
       "key": "introduccion",
-      "label": "Introducción"
+      "label": "Introducción · La alineación como problema"
+    }
+  },
+  "parts_before": {
+    "12": {
+      "part": "Parte III",
+      "subtitle": "La relación",
+      "epigraph": "Lo que dos sujetos producen entre ellos, lo que queda cuando deja de renovarse y lo que nadie puede borrar"
+    },
+    "16": {
+      "part": "Parte IV",
+      "subtitle": "El amor y el diagnóstico",
+      "epigraph": "Cuando una descripción de lo que alguien vive se convierte en el criterio de lo que vivió"
+    },
+    "06": {
+      "part": "Parte I",
+      "subtitle": "El concilio",
+      "epigraph": "La promesa más alta de legitimidad y la pregunta que su procedimiento no puede hacerse"
+    },
+    "09": {
+      "part": "Parte II",
+      "subtitle": "La nada",
+      "epigraph": "La negación que olvida su dominio y la ausencia que se presenta como no-ser"
     }
   },
   "body": [
-    "05",
     "06",
     "07",
-    "08",
     "09",
     "10",
-    "11",
     "12",
     "13",
     "14",
-    "15",
     "16",
     "17",
     "18",
