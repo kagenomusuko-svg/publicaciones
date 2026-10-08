@@ -86,6 +86,23 @@ export const publicaciones = [
   },
 
   {
+    id: 'esclavitud-por-alineacion',
+    slug: 'esclavitud-por-alineacion',
+    volumeSlug: 'esclavitud-por-alineacion',
+    title: 'La esclavitud por alineación',
+    subtitle: '',
+    volume: 'Tratado ontológico',
+    author: 'Miguel Hilario Olvera Aguilar',
+    year: 2026,
+    doi: '10.5281/zenodo.23249086',
+    description:
+      'Examina cómo los marcos de inteligibilidad y legitimidad pueden convertir el reconocimiento en una condición de ajuste y clausurar la posibilidad de disputar sus criterios.',
+    cover: '/publicaciones/libros/esclavitud-por-alineacion/portada.png',
+    pdf: '/publicaciones/libros/esclavitud-por-alineacion/esclavitud-por-alineacion.pdf',
+    href: '/libros/esclavitud-por-alineacion/esclavitud-por-alineacion',
+  },
+
+  {
     id: 'contrato-fiscal-kratos',
     slug: 'contrato-fiscal-kratos',
     volumeSlug: 'kratos',
