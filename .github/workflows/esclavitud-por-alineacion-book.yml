@@ -77,6 +77,7 @@ jobs:
           pdftoppm -jpeg -r 100 -f 1 -l 1 "$pdf" "$root/build/portada"
 
       - name: Guardar artefacto de revisión
+        continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: esclavitud-por-alineacion-maquetacion
