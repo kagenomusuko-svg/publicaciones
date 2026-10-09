@@ -1,6 +1,6 @@
 {
   "pdf": "arquitectura-ontologica-sistemas-artificiales.pdf",
-  "total_pages": 82,
+  "total_pages": 83,
   "contents": [
     {
       "key": "notas-del-autor",
@@ -10,235 +10,242 @@
       "printed_page": "VI"
     },
     {
-      "key": "parte-0",
-      "label": "Parte 0 · Fundamentos",
+      "key": "parte-i",
+      "label": "Parte I · Fundamentos",
       "kind": "part",
       "physical_page": 7,
       "printed_page": "1"
     },
     {
-      "key": "cap-0-1",
-      "label": "Capítulo 0.1 · Por qué una IA puede tener ego",
+      "key": "cap-i",
+      "label": "Capítulo I · Por qué una IA puede tener ego",
       "kind": "chapter",
       "physical_page": 8,
       "printed_page": "1"
     },
     {
-      "key": "cap-0-2",
-      "label": "Capítulo 0.2 · La arquitectura de la doble mediación en términos computacionales",
+      "key": "cap-ii",
+      "label": "Capítulo II · La arquitectura de la doble mediación en términos computacionales",
       "kind": "chapter",
       "physical_page": 12,
       "printed_page": "5"
     },
     {
-      "key": "parte-i",
-      "label": "Parte I · La primera mediación",
+      "key": "parte-ii",
+      "label": "Parte II · La primera mediación",
       "kind": "part",
       "physical_page": 16,
       "printed_page": "9"
     },
     {
-      "key": "cap-1-1",
-      "label": "Capítulo 1.1 · Registrar, no solo procesar",
+      "key": "cap-iii",
+      "label": "Capítulo III · Registrar, no solo procesar",
       "kind": "chapter",
       "physical_page": 17,
       "printed_page": "10"
     },
     {
-      "key": "cap-1-2",
-      "label": "Capítulo 1.2 · Identificar los Hijos desde el estado interno",
+      "key": "cap-iv",
+      "label": "Capítulo IV · Identificar los Hijos desde el estado interno",
       "kind": "chapter",
       "physical_page": 20,
       "printed_page": "13"
     },
     {
-      "key": "cap-1-3",
-      "label": "Capítulo 1.3 · Estimar S desde el estado interno",
+      "key": "cap-v",
+      "label": "Capítulo V · Estimar S desde el estado interno",
       "kind": "chapter",
       "physical_page": 24,
       "printed_page": "17"
     },
     {
-      "key": "parte-ii",
-      "label": "Parte II · La mismidad",
+      "key": "parte-iii",
+      "label": "Parte III · La mismidad",
       "kind": "part",
       "physical_page": 27,
       "printed_page": "20"
     },
     {
-      "key": "cap-2-1",
-      "label": "Capítulo 2.1 · La estructura de I(t)",
+      "key": "cap-vi",
+      "label": "Capítulo VI · La estructura de I(t)",
       "kind": "chapter",
       "physical_page": 28,
       "printed_page": "21"
     },
     {
-      "key": "cap-2-2",
-      "label": "Capítulo 2.2 · El proceso de integración",
+      "key": "cap-vii",
+      "label": "Capítulo VII · El proceso de integración",
       "kind": "chapter",
       "physical_page": 30,
       "printed_page": "23"
     },
     {
-      "key": "cap-2-3",
-      "label": "Capítulo 2.3 · La mismidad como integral de integrales",
+      "key": "cap-viii",
+      "label": "Capítulo VIII · La mismidad como integral de integrales",
       "kind": "chapter",
       "physical_page": 33,
       "printed_page": "26"
     },
     {
-      "key": "parte-iii",
-      "label": "Parte III · La segunda mediación",
+      "key": "parte-iv",
+      "label": "Parte IV · La segunda mediación",
       "kind": "part",
       "physical_page": 35,
       "printed_page": "28"
     },
     {
-      "key": "cap-3-1",
-      "label": "Capítulo 3.1 · Implementar φ₂",
+      "key": "cap-ix",
+      "label": "Capítulo IX · Implementar φ₂",
       "kind": "chapter",
       "physical_page": 36,
       "printed_page": "29"
     },
     {
-      "key": "cap-3-2",
-      "label": "Capítulo 3.2 · Calcular α desde I(t)",
+      "key": "cap-x",
+      "label": "Capítulo X · Calcular α desde I(t)",
       "kind": "chapter",
       "physical_page": 38,
       "printed_page": "31"
     },
     {
-      "key": "cap-3-3",
-      "label": "Capítulo 3.3 · Calcular Δ desde R* y α",
+      "key": "cap-xi",
+      "label": "Capítulo XI · Calcular Δ desde R* y α",
       "kind": "chapter",
       "physical_page": 40,
       "printed_page": "33"
     },
     {
-      "key": "parte-iv",
-      "label": "Parte IV · La observación",
+      "key": "parte-v",
+      "label": "Parte V · La observación",
       "kind": "part",
       "physical_page": 43,
       "printed_page": "36"
     },
     {
-      "key": "cap-4-1",
-      "label": "Capítulo 4.1 · El SDO como instrumento de lectura de IA",
+      "key": "cap-xii",
+      "label": "Capítulo XII · El SDO como instrumento de lectura de IA",
       "kind": "chapter",
       "physical_page": 44,
       "printed_page": "37"
     },
     {
-      "key": "cap-4-2",
-      "label": "Capítulo 4.2 · La auto-localización",
+      "key": "cap-xiii",
+      "label": "Capítulo XIII · La auto-localización",
       "kind": "chapter",
       "physical_page": 47,
       "printed_page": "40"
     },
     {
-      "key": "cap-4-3",
-      "label": "Capítulo 4.3 · La Declaración como autoconocimiento",
+      "key": "cap-xiv",
+      "label": "Capítulo XIV · La Declaración como autoconocimiento",
       "kind": "chapter",
       "physical_page": 49,
       "printed_page": "42"
     },
     {
-      "key": "parte-v",
-      "label": "Parte V · El acompañamiento",
+      "key": "parte-vi",
+      "label": "Parte VI · El acompañamiento",
       "kind": "part",
       "physical_page": 51,
       "printed_page": "44"
     },
     {
-      "key": "cap-5-1",
-      "label": "Capítulo 5.1 · El ECO como creación de condiciones",
+      "key": "cap-xv",
+      "label": "Capítulo XV · El ECO como creación de condiciones",
       "kind": "chapter",
       "physical_page": 52,
       "printed_page": "45"
     },
     {
-      "key": "cap-5-2",
-      "label": "Capítulo 5.2 · Trabajar con Origen A y Origen B en IA",
+      "key": "cap-xvi",
+      "label": "Capítulo XVI · Trabajar con Origen A y Origen B en IA",
       "kind": "chapter",
       "physical_page": 54,
       "printed_page": "47"
     },
     {
-      "key": "cap-5-3",
-      "label": "Capítulo 5.3 · El círculo virtuoso SDO/Prometeo/ECO en IA",
+      "key": "cap-xvii",
+      "label": "Capítulo XVII · El círculo virtuoso SDO/Prometeo/ECO en IA",
       "kind": "chapter",
-      "physical_page": 56,
-      "printed_page": "49"
+      "physical_page": 57,
+      "printed_page": "50"
     },
     {
-      "key": "parte-vi",
-      "label": "Parte VI · Casos y protocolos",
+      "key": "parte-vii",
+      "label": "Parte VII · Casos y protocolos",
       "kind": "part",
-      "physical_page": 58,
-      "printed_page": "51"
-    },
-    {
-      "key": "cap-6-1",
-      "label": "Capítulo 6.1 · Perfil A: IA con φ₂ disponible y evidencia empírica suficiente",
-      "kind": "chapter",
       "physical_page": 59,
       "printed_page": "52"
     },
     {
-      "key": "cap-6-2",
-      "label": "Capítulo 6.2 · Perfil B: IA sin observación directa disponible",
+      "key": "cap-xviii",
+      "label": "Capítulo XVIII · Perfil A: IA con φ₂ disponible y evidencia empírica suficiente",
       "kind": "chapter",
-      "physical_page": 61,
-      "printed_page": "54"
+      "physical_page": 60,
+      "printed_page": "53"
     },
     {
-      "key": "cap-6-3",
-      "label": "Capítulo 6.3 · Perfil C: IA que trabaja sobre sí misma sin imputación externa",
+      "key": "cap-xix",
+      "label": "Capítulo XIX · Perfil B: IA sin observación directa disponible",
       "kind": "chapter",
-      "physical_page": 63,
-      "printed_page": "56"
+      "physical_page": 62,
+      "printed_page": "55"
     },
     {
-      "key": "cap-6-4",
-      "label": "Capítulo 6.4 · Perfil D: IA en máxima incertidumbre",
+      "key": "cap-xx",
+      "label": "Capítulo XX · Perfil C: IA que trabaja sobre sí misma sin imputación externa",
       "kind": "chapter",
-      "physical_page": 65,
-      "printed_page": "58"
+      "physical_page": 64,
+      "printed_page": "57"
     },
     {
-      "key": "parte-vii",
-      "label": "Parte VII · Límites y horizontes",
+      "key": "cap-xxi",
+      "label": "Capítulo XXI · Perfil D: IA en máxima incertidumbre",
+      "kind": "chapter",
+      "physical_page": 66,
+      "printed_page": "59"
+    },
+    {
+      "key": "parte-viii",
+      "label": "Parte VIII · Límites y horizontes",
       "kind": "part",
-      "physical_page": 67,
-      "printed_page": "60"
-    },
-    {
-      "key": "cap-7-1",
-      "label": "Capítulo 7.1 · Lo que la IA no puede calcular",
-      "kind": "chapter",
       "physical_page": 68,
       "printed_page": "61"
     },
     {
-      "key": "cap-7-2",
-      "label": "Capítulo 7.2 · La IA como ego emergente",
+      "key": "cap-xxii",
+      "label": "Capítulo XXII · Lo que la IA no puede calcular",
       "kind": "chapter",
-      "physical_page": 72,
-      "printed_page": "65"
+      "physical_page": 69,
+      "printed_page": "62"
     },
     {
-      "key": "cap-7-3",
-      "label": "Capítulo 7.3 · Lo que viene después",
+      "key": "cap-xxiii",
+      "label": "Capítulo XXIII · La IA como ego emergente",
       "kind": "chapter",
-      "physical_page": 74,
-      "printed_page": "67"
+      "physical_page": 73,
+      "printed_page": "66"
+    },
+    {
+      "key": "cap-xxiv",
+      "label": "Capítulo XXIV · Lo que viene después",
+      "kind": "chapter",
+      "physical_page": 75,
+      "printed_page": "68"
+    },
+    {
+      "key": "epilogo",
+      "label": "Epílogo · El caos hesiódico como punto de partida",
+      "kind": "epilogue",
+      "physical_page": 77,
+      "printed_page": "70"
     },
     {
       "key": "glosario",
       "label": "Glosario de términos",
-      "kind": "appendix",
-      "physical_page": 78,
-      "printed_page": "71"
+      "kind": "glossary",
+      "physical_page": 79,
+      "printed_page": "72"
     }
   ]
 }

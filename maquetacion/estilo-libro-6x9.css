@@ -77,8 +77,8 @@ html, body {
 .part-page h2 { font-size: 17pt; color: #262626; font-weight: 400; margin-top: 5mm; }
 .part-page .epigraph { margin-top: 8mm; color: #666; font-size: 11pt; font-style: italic; }
 
-.chapter, .appendix, .glossary, .warning-page { page: body; break-before: page; }
-.frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 11.3pt; line-height: 1.33; }
+.chapter, .appendix, .glossary, .epilogue, .warning-page { page: body; break-before: page; }
+.frontmatter, .chapter, .appendix, .glossary, .epilogue, .warning-page { font-size: 11.3pt; line-height: 1.33; }
 
 p { margin: 0 0 3.2mm; text-align: justify; }
 h1, h2, h3 { line-height: 1.25; color: #222; }
@@ -104,6 +104,9 @@ hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
 .warning-page { padding-top: 18mm; }
 .warning-page:before { content: ""; display:block; width: 48mm; margin: 0 auto 8mm; border-top: .8pt solid #1E4C45; }
 .glossary h2 { break-after: avoid; color: #1E4C45; }
+.epilogue > h1:first-of-type { text-align: center; font-size: 13pt; font-weight: 400; color: #666; margin-top: 8mm; }
+.epilogue > h2:first-of-type { text-align: center; font-size: 22pt; line-height: 1.15; margin: 2mm 0 9mm; }
+.epilogue > h2:first-of-type:after { content: ""; display: block; width: 42mm; margin: 5mm auto 0; border-top: .8pt solid #1E4C45; }
 
 .toc { page: front; break-before: page; }
 .toc h1 { font-size: 25pt; margin: 5mm 0 8mm; }
@@ -115,6 +118,7 @@ hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
 .toc-table tr.toc-part .toc-label,
 .toc-table tr.toc-part .toc-page { color: #1E4C45; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; padding-top: 2.8mm; }
 .toc-table tr.toc-chapter .toc-label { padding-left: 5mm; }
+.toc-table tr.toc-epilogue .toc-label { padding-left: 5mm; font-style: italic; }
 
 
 /* Componentes compartidos del constructor multipublicación. */
@@ -127,3 +131,4 @@ th { background: #F5F5F2; }
 .toc-table .col-label { width: 72%; }
 .toc-table .col-leader { width: 18%; }
 .toc-table .col-page { width: 10%; }
+
