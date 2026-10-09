@@ -8,5 +8,16 @@
   "frontmatter_toc": {
     "03": {"key": "notas-del-autor", "label": "Notas del autor"}
   },
-  "body": ["04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29"]
+  "body": ["04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29"],
+  "parts_before": {
+    "04": {"part": "Parte I", "subtitle": "Fundamentos"},
+    "06": {"part": "Parte II", "subtitle": "La primera mediación"},
+    "09": {"part": "Parte III", "subtitle": "La mismidad"},
+    "12": {"part": "Parte IV", "subtitle": "La segunda mediación"},
+    "15": {"part": "Parte V", "subtitle": "La observación"},
+    "18": {"part": "Parte VI", "subtitle": "El acompañamiento"},
+    "21": {"part": "Parte VII", "subtitle": "Casos y protocolos"},
+    "25": {"part": "Parte VIII", "subtitle": "Límites y horizontes"}
+  }
 }
+

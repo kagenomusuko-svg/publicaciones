@@ -161,7 +161,7 @@ def heading_title(raw: str, after: str) -> str:
 def parse_part(raw: str) -> tuple[str, str, str, str] | None:
     explicit = re.search(r"^#\s+Parte\s+(0|[IVXLCDM]+)\s*$", raw, re.M | re.I)
     if explicit:
-        chapter = re.search(r"^#\s+Capítulo\s+\d+(?:\.\d+)*\s*$", raw, re.M | re.I)
+        chapter = re.search(r"^#\s+Capítulo\s+(?:\d+(?:\.\d+)*|[IVXLCDM]+)\s*$", raw, re.M | re.I)
         stop = chapter.start() if chapter else len(raw)
         prefix = raw[:stop]
         subtitle_match = re.search(r"^##\s+([^\n]+)$", prefix, re.M)
@@ -210,12 +210,20 @@ def parse_body_files(root: Path, stems: list[str], config: dict) -> list[Piece]:
             if not raw.strip():
                 continue
 
+        epilogue = first_heading(raw, 1, "Epílogo")
+        if epilogue:
+            heading, _ = epilogue
+            title = heading_title(raw, heading)
+            label = f"{heading} · {title}" if title else heading
+            pieces.append(Piece("epilogue", "epilogo", label, raw=raw))
+            continue
+
         chapter = first_heading(raw, 1, "Capítulo")
         if chapter:
             heading, full = chapter
-            number_match = re.search(r"\d+(?:\.\d+)*", heading)
-            number = number_match.group(0) if number_match else heading
-            key_number = number.replace(".", "-")
+            number_match = re.search(r"Capítulo\s+(\d+(?:\.\d+)*|[IVXLCDM]+)", heading, re.I)
+            number = number_match.group(1) if number_match else heading
+            key_number = number.replace(".", "-").lower()
             title = heading_title(raw, full)
             pieces.append(Piece("chapter", f"cap-{key_number}", f"{heading} · {title}", raw=raw))
             continue
@@ -267,7 +275,7 @@ def build_plan(root: Path, config: dict) -> tuple[list[Piece], list[TocEntry]]:
 
     body = parse_body_files(root, body_stems, config)
     pieces.extend(body)
-    toc.extend(TocEntry(piece.key, piece.label, "appendix" if piece.kind in {"appendix", "glossary"} else piece.kind) for piece in body if piece.kind != "body")
+    toc.extend(TocEntry(piece.key, piece.label, piece.kind) for piece in body if piece.kind != "body")
     return pieces, toc
 
 
@@ -303,6 +311,7 @@ def render_piece(piece: Piece, markers: bool) -> str:
         "chapter": "chapter",
         "appendix": "appendix",
         "glossary": "glossary",
+        "epilogue": "epilogue",
         "body": "warning-page",
     }[piece.kind]
     return f'<section class="{css_class}">{marker(piece.key, markers)}{md.render(piece.raw)}</section>'
@@ -460,3 +469,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
