@@ -130,6 +130,24 @@ jobs:
           grep -qi "ARQUITECTURA ONTOLÓGICA" reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.txt
           grep -qi "sistemas artificiales" reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.txt
 
+      - name: Guardar libro y auditoría en la rama del PR
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          PR_HEAD_REF: ${{ github.event.pull_request.head.ref }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$PR_HEAD_REF"
+          git switch --detach FETCH_HEAD
+          git add -f \
+            reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.pdf \
+            reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.pages.json \
+            reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/arquitectura-ontologica-sistemas-artificiales.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip ci] Guarda libro reconstruido para revisión"
+            git push origin "HEAD:refs/heads/$PR_HEAD_REF"
+          fi
+
       - name: Render de control de aperturas y páginas críticas
         run: |
           mkdir -p reivindicacion-ontologica-del-ego/arquitectura-ontologica-sistemas-artificiales/build/review
