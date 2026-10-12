@@ -1128,8 +1128,8 @@ empírica que la neurociencia terminará por reemplazar, del mismo modo
 que la química moderna reemplazó a la alquimia.
 [5] Descartes, René. Meditaciones metafísicas (1641), Segunda Meditación. La
 formulación canónica «cogito, ergo sum» aparece en el Discurso del método
-(1637); en las Meditaciones la argumentación es más matizada. El proyecto de
-la duda metódica busca un fundamento absolutamente indudable: lo que
+(1637); en las Meditaciones la argumentación es más matizada. El proyecto
+de la duda metódica busca un fundamento absolutamente indudable: lo que
 resiste toda duda es el hecho de que hay algo que duda, y ese algo es el yo
 pensante. El sujeto cartesiano es esencialmente pensante: la res cogitans,
 distinta e independiente de la res extensa.
@@ -1158,15 +1158,12 @@ ontológicamente más fundamental que la relación teórica y objetivante. El
 Dasein habita el mundo antes de observarlo. La rotura o la disfunción del
 útil es lo que fuerza la transición de la relación práctica a la teórica: lo que
 está ante los ojos surge cuando lo que está a la mano falla.
-[8] Parménides de Elea, Sobre la naturaleza, fragmentos DK 28 B 2, B 3 y B
-6. El fragmento B 2 se conserva en Proclo, Comentario al Timeo I, 345.18–
-347.18; B 3, en Proclo, Comentario al Timeo I, 347.18, Clemente de
-Alejandría, Stromata V.15, y Plotino, Enéadas V.1.8; B 6, en Proclo,
-Comentario al Parménides I, 708. El fragmento B 2 expone las dos vías de
-investigación; B 3 vincula pensar y ser, y B 6 formula que es necesario decir y
-pensar que lo que es, es, mientras que lo que no es no puede ser. La frase del
-epígrafe («El ser es, y el no-ser no es») es una formulación sintética de esa
-tesis, no una cita literal identificable únicamente con B 2.
+[8] Parménides de Elea, Sobre la naturaleza, fragmentos DK 28 B 2, B 3 y B 6,
+conservados por Proclo y otros autores antiguos. El fragmento B 2 expone
+las dos vías de investigación; B 3 vincula pensar y ser, y B 6 formula que es
+necesario decir y pensar que lo que es, es, mientras que lo que no es no puede
+ser. La frase del epígrafe («El ser es, y el no-ser no es») es una formulación
+sintética de esa tesis, no una cita literal identificable únicamente con B 2.
 [9] Heráclito de Éfeso, fragmentos DK 22 B 12 y B 49a, conservados por Ario
 Dídimo y Heráclides Homericus respectivamente. La célebre formulación
 panta rhei («todo fluye») es una síntesis tardía y no literal, aunque fiel al
@@ -1176,6 +1173,9 @@ opuestos: el río es el mismo porque siempre cambia. La identidad no es
 permanencia sino tensión mantenida.
 [10] Damasio, Antonio. El error de Descartes (1994). El título señala la
 crítica central: Descartes separó mente y cuerpo de manera que hace
+imposible entender la razón, porque la razón depende de mecanismos
+emocionales y somáticos que solo tiene el organismo encarnado. Los
+pacientes con lesiones del córtex prefrontal ventromedial (caso Phineas
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1186,9 +1186,6 @@ A.C.
 
 CAOS
 
-imposible entender la razón, porque la razón depende de mecanismos
-emocionales y somáticos que solo tiene el organismo encarnado. Los
-pacientes con lesiones del córtex prefrontal ventromedial (caso Phineas
 Gage, caso Elliot) conservan intacta su capacidad de razonamiento abstracto
 pero pierden la capacidad de tomar decisiones adaptativas en la vida real: la
 emoción no interfiere con la razón, la hace posible.
@@ -1219,6 +1216,9 @@ como proceso dinámico, nunca completamente determinado.
 yo tal como se nos revela en la experiencia psicoanalítica» (conferencia de
 1949), publicado en Escritos I (1966). Para Lacan, la imagen especular
 produce una identificación primaria que anticipa la unidad corporal que el
+infante no posee todavía de manera motriz: el yo nace de fuera hacia
+adentro, mediado por la imagen del otro. Esta alienación constitutiva del yo
+es el punto de partida de toda la teoría lacaniana del sujeto.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1229,9 +1229,6 @@ A.C.
 
 CAOS
 
-infante no posee todavía de manera motriz: el yo nace de fuera hacia
-adentro, mediado por la imagen del otro. Esta alienación constitutiva del yo
-es el punto de partida de toda la teoría lacaniana del sujeto.
 [15] Taylor, Charles. Fuentes del yo: la construcción de la identidad moderna
 (1989). Taylor argumenta que incluso si el yo se forma en contextos sociales y
 dialógicos, esto no implica que sea reducible a ellos: la autenticidad requiere
@@ -1260,6 +1257,10 @@ universo es una sociedad de tales eventos, cada uno constituido por su
 relación con los anteriores y condicionante de los posteriores. La influencia
 de Whitehead en la filosof ía contemporánea de la mente ha crecido en
 conexión con los debates sobre panpsiquismo y emergencia.
+[19] Chalmers, David J. «Strong and Weak Emergence», en The ReEmergence of Emergence: The Emergentist Hypothesis from Science to
+Religion, eds. Philip Clayton y Paul Davies (Oxford: Oxford University Press,
+2006), pp. 244-254. Chalmers distingue la emergencia débil —un
+fenómeno de nivel superior que surge del nivel inferior, pero resulta
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1270,10 +1271,6 @@ A.C.
 
 CAOS
 
-[19] Chalmers, David J. «Strong and Weak Emergence», en The ReEmergence of Emergence: The Emergentist Hypothesis from Science to
-Religion, eds. Philip Clayton y Paul Davies (Oxford: Oxford University Press,
-2006), pp. 244-254. Chalmers distingue la emergencia débil —un
-fenómeno de nivel superior que surge del nivel inferior, pero resulta
 inesperado a partir de sus principios— de la emergencia fuerte, cuyas
 verdades no son deducibles ni siquiera en principio a partir de las verdades
 del nivel inferior. La aplicación de esta categoría a la conciencia y al ego
@@ -1302,6 +1299,11 @@ Armstrong) y el fisicalismo no reduccionista (Davidson, Putnam).
 [23] Marx, Karl. «Tesis sobre Feuerbach» (1845), Tesis I, en La ideología
 alemana. La crítica al materialismo contemplativo es la base de la
 epistemología marxiana: el ser humano no está frente al mundo como
+observador sino en él como agente transformador. El conocimiento no es
+una copia del mundo sino el resultado de la actividad práctica sobre él. Esta
+dimensión ontológica de Marx —a menudo opacada por su dimensión
+económica y política— es la más relevante para la pregunta por el sujeto que
+aquí se trabaja.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1312,11 +1314,6 @@ A.C.
 
 CAOS
 
-observador sino en él como agente transformador. El conocimiento no es
-una copia del mundo sino el resultado de la actividad práctica sobre él. Esta
-dimensión ontológica de Marx —a menudo opacada por su dimensión
-económica y política— es la más relevante para la pregunta por el sujeto que
-aquí se trabaja.
 [24] Spinoza, Baruch. Ética (1677), Parte III, Proposición VI y Escolio. El
 conatus es la esencia actual de cada cosa: no es un impulso añadido a la
 sustancia sino la forma misma de ser de cualquier ente existente. En el ser
@@ -1345,6 +1342,11 @@ pertinencia filosófica que no es meramente pedagógica. Una integral
 acumula la contribución de una función a lo largo de un dominio: el valor
 total no preexiste al proceso de integración sino que emerge de él. Del
 mismo modo, el ego no preexiste a la historia de sus colapsos sino que es el
+resultado acumulado de ellos. En el Apéndice I de este libro se desarrolla con
+rigor matemático la estructura de esta analogía.
+[28] Frege, Gottlob. «Über Sinn und Bedeutung» (1892), en Zeitschrift für
+Philosophie und philosophische Kritik 100:25-50. La distinción fregeana entre
+sentido y referencia permite distinguir diferentes modos en que una
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1355,11 +1357,6 @@ A.C.
 
 CAOS
 
-resultado acumulado de ellos. En el Apéndice I de este libro se desarrolla con
-rigor matemático la estructura de esta analogía.
-[28] Frege, Gottlob. «Über Sinn und Bedeutung» (1892), en Zeitschrift für
-Philosophie und philosophische Kritik 100:25-50. La distinción fregeana entre
-sentido y referencia permite distinguir diferentes modos en que una
 expresión puede apuntar a un objeto: el sentido es el modo de presentación,
 la referencia es el objeto presentado. Aplicada al ego: el sentido del ego es su
 estructura operativa (la doble mediación, la dinámica del colapso); la
