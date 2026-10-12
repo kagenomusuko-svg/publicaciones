@@ -662,9 +662,7 @@ La respuesta social, como la biológica, describe condiciones: el ego requiere
 del otro para desarrollarse. Pero el ego que así se desarrolla no es el otro: es el
 sujeto que, a través del contacto con el otro, se constituye a sí mismo. La
 socialidad es condición del ego; no es su esencia ni su operación específica.
-
-C. La respuesta fenomenológica: el ego como condición de la
-experiencia
+C. La respuesta fenomenológica: el ego como condición de la experiencia
 La tradición fenomenológica ofrece la respuesta más sofisticada al problema
 del ego, y también la más dif ícil de evaluar en sus limitaciones. Edmund
 Husserl propuso que el ego trascendental es la condición de posibilidad de
@@ -678,6 +676,9 @@ intencionalidad, el hecho de que toda conciencia es siempre conciencia de
 algo. Y en el polo opuesto al objeto intencional está el ego trascendental: el
 «yo» que aparece como el que tiene estas experiencias, sin ser nunca él
 mismo un objeto entre otros.
+La elegancia del análisis husserliano reside en que explica la unidad de la
+experiencia sin postular una sustancia: el ego no es una cosa sino una
+función, el punto de convergencia de todos los actos de conciencia. Pero
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -688,9 +689,6 @@ A.C.
 
 CAOS
 
-La elegancia del análisis husserliano reside en que explica la unidad de la
-experiencia sin postular una sustancia: el ego no es una cosa sino una
-función, el punto de convergencia de todos los actos de conciencia. Pero
 precisamente por eso, el ego trascendental de Husserl es
 extraordinariamente abstracto: es tan vacío de contenido como es
 formalmente necesario. No hay nada en él que explique por qué este ego
