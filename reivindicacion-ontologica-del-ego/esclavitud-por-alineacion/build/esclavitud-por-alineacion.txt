@@ -402,8 +402,6 @@ V. Cuatro territorios, una pregunta
 El libro examina la operación en cuatro territorios, y en cada uno formula
 las mismas cuatro preguntas: qué se alinea, quién fija el criterio, qué se
 excluye y qué consecuencia se extrae de la exclusión.
-Esquema I — Los territorios del libro y el riesgo de alineación que cada uno
-examina
 Territorio
 
 Capítulos
@@ -411,28 +409,11 @@ Capítulos
 Qué se alinea
 
 Riesgo que se examina
-
-I–II
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-XII
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-Territorio
-
-Capítulos
 
 El concilio
 ideal
 
-LA ESCLAVITUD POR ALINEACIÓN
-
-Qué se alinea
-
-Riesgo que se examina
+I–II
 
 Los participantes de
 un discurso y sus
@@ -441,6 +422,23 @@ razones
 Que las condiciones para participar
 decidan por adelantado quién es
 racional
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+XII
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+LA ESCLAVITUD POR ALINEACIÓN
+
+Territorio
+
+Capítulos
+
+Qué se alinea
+
+Riesgo que se examina
 
 La nada
 
@@ -484,8 +482,7 @@ libro conserva esa utilidad. Lo que examina es otra cosa: el uso del ideal
 como si su procedimiento resolviera por sí mismo las preguntas que lo
 preceden —quién cuenta como afectado, qué cuenta como razón, qué
 condiciones materiales permiten intervenir—. No se atribuirá a Habermas
-la tesis de que el consenso real sea perfecto. El blanco es más preciso y, por
-eso, más difícil de esquivar.
+la tesis de que el consenso real sea perfecto.
 La segunda parte vuelve a Gorgias y a la diferencia entre el no-ser absoluto y
 la nada determinada.⁸ Si la nada puede nombrarse, ya comparece como
 determinación; si no puede determinarse en absoluto, no puede funcionar
@@ -494,6 +491,10 @@ está bajo este modo» a «no es», y la pregunta es qué puente lo autorizaría
 La tercera parte examina el vínculo interpersonal como una posible unidad
 de escala superior. Cuando dos sujetos se relacionan, la relación puede ser
 algo más que la suma de dos vidas: no una sustancia independiente de
+quienes la forman, sino un ego colectivo: una entidad que actúa, contrae
+compromisos y acumula una historia propia a través de los dos sujetos que la
+constituyen, y cuya historia no se reduce a la emoción presente de uno de
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -503,9 +504,6 @@ XIII
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-quienes la forman, sino un ego colectivo: una entidad que actúa, contrae
-compromisos y acumula una historia propia a través de los dos sujetos que la
-constituyen, y cuya historia no se reduce a la emoción presente de uno de
 ellos.⁹ Decir «el amor se fue» puede describir un cambio afectivo; no
 demuestra por sí mismo que la relación haya dejado de tener realidad
 histórica, consecuencias o lo que cada uno puso en ella. La tercera parte
@@ -534,6 +532,11 @@ procedimiento discursivo no es un diagnóstico clínico. El libro mostrará en
 cada caso qué de la operación se verifica y qué no, y declarará el puente cada
 vez que pase de un territorio al siguiente.
 
+VI. El libro también se audita a sí mismo
+Una crítica de la alineación que eximiera de su examen a los marcos de su
+propio autor sería una alineación más. Por eso este libro no comienza en
+blanco: dialoga con formulaciones ya escritas en esta misma colección, y
+algunas de ellas se convertirán en objeto de su auditoría.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -543,11 +546,6 @@ XIV
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-VI. El libro también se audita a sí mismo
-Una crítica de la alineación que eximiera de su examen a los marcos de su
-propio autor sería una alineación más. Por eso este libro no comienza en
-blanco: dialoga con formulaciones ya escritas en esta misma colección, y
-algunas de ellas se convertirán en objeto de su auditoría.
 El caso más claro es el capítulo VIII de El telar de las Moiras, «El amor
 como catástrofe necesaria». Ese capítulo sostiene que amar modifica al ego,
 que la huella no desaparece cuando el vínculo termina y que separarse exige
@@ -574,6 +572,12 @@ amó.
 El capítulo VIII de este libro no refutará El telar. Hará algo más útil:
 distinguirá en ese texto lo que describe, lo que recomienda y lo que podría
 leerse como obligación. Esa separación permite auditar las formulaciones
+propias sin renunciar a ellas por anticipado, y es la prueba de que el método
+no es un arma dirigida hacia afuera.
+
+VII. Lo que esta introducción no dice
+Una tesis sobre la sujeción por marcos se presta a lecturas que la convertirían
+exactamente en lo que critica, y conviene cerrarlas antes de comenzar.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -584,12 +588,6 @@ XV
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-propias sin renunciar a ellas por anticipado, y es la prueba de que el método
-no es un arma dirigida hacia afuera.
-
-VII. Lo que esta introducción no dice
-Una tesis sobre la sujeción por marcos se presta a lecturas que la convertirían
-exactamente en lo que critica, y conviene cerrarlas antes de comenzar.
 El libro no sostiene que toda clasificación oprima. Sostiene que algunas
 clasificaciones, en ciertas condiciones verificables, clausuran la disputa sobre
 sus propios criterios, y que esas condiciones pueden identificarse. No sostiene
@@ -616,6 +614,13 @@ de valer, y esas condiciones se cumplen con casos, no con preferencias. La
 tesis no se sostendría si se mostrara que la conjunción de las tres primeras
 condiciones no tiende a producir la cuarta —que los marcos que borran su
 posición y condicionan el reconocimiento siguen siendo, en la práctica,
+disputables por quienes quedan afectados—; lo que el libro describe sería
+entonces una coincidencia y no un mecanismo. Y el nombre, aunque no la
+tesis, sobraría si se mostrara que «esclavitud» no añade nada que un
+predicado más débil —dominación, normalización, hegemonía— no
+capture ya con la misma precisión.
+El capítulo I comienza donde la promesa de legitimidad es más alta y la
+pregunta, por eso mismo, más dif ícil de formular: en el concilio perfecto.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -625,14 +630,6 @@ XVI
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
-
-disputables por quienes quedan afectados—; lo que el libro describe sería
-entonces una coincidencia y no un mecanismo. Y el nombre, aunque no la
-tesis, sobraría si se mostrara que «esclavitud» no añade nada que un
-predicado más débil —dominación, normalización, hegemonía— no
-capture ya con la misma precisión.
-El capítulo I comienza donde la promesa de legitimidad es más alta y la
-pregunta, por eso mismo, más dif ícil de formular: en el concilio perfecto.
 
 Notas
 ¹ La tesis tiene un antecedente reconocible en la fórmula de Spinoza
@@ -657,6 +654,13 @@ evaluado ya no puede auditar la evaluación.
 ³ Aristóteles, Política, I, 4, 1253b32 (el esclavo como κτῆμά τι ἔμψυχον, «una
 posesión animada»); I, 5, 1254b20–23 (es esclavo por naturaleza quien
 participa de la razón en la medida suficiente para percibirla, pero no para
+poseerla); I, 13, 1260a12 (el esclavo carece por completo de la facultad
+deliberativa, τὸ βουλευτικόν).
+⁴ Aristóteles, Política, I, 6, 1255a3–1255b15. El pasaje recoge la posición de
+quienes consideraban la esclavitud contraria a la naturaleza y fundada solo
+en la ley y la fuerza, y concede que la esclavitud legal y la natural no siempre
+coinciden. La resolución aristotélica conserva el criterio natural y lo usa para
+distinguir casos legítimos de ilegítimos. Para este libro, el interés del pasaje
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -667,13 +671,6 @@ XVII
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-poseerla); I, 13, 1260a12 (el esclavo carece por completo de la facultad
-deliberativa, τὸ βουλευτικόν).
-⁴ Aristóteles, Política, I, 6, 1255a3–1255b15. El pasaje recoge la posición de
-quienes consideraban la esclavitud contraria a la naturaleza y fundada solo
-en la ley y la fuerza, y concede que la esclavitud legal y la natural no siempre
-coinciden. La resolución aristotélica conserva el criterio natural y lo usa para
-distinguir casos legítimos de ilegítimos. Para este libro, el interés del pasaje
 está en que muestra una objeción registrada y absorbida por el marco sin que
 los afectados obtengan un lugar desde el cual disputarlo.
 ⁵ Étienne de La Boétie, Discurso de la servidumbre voluntaria, escrito hacia
@@ -699,6 +696,13 @@ posibles afectados pudieran prestar su asentimiento como participantes en
 discursos racionales. El capítulo I reconstruirá el principio a partir del texto,
 junto con su antecedente en Teoría de la acción comunicativa (1981), y
 distinguirá su función normativa de cualquier lectura descriptiva.
+⁸ El tratado de Gorgias Sobre el no-ser o sobre la naturaleza se conserva en
+dos paráfrasis: la de Sexto Empírico, Contra los matemáticos, VII, 65–87, y la
+del tratado pseudoaristotélico Sobre Meliso, Jenófanes y Gorgias, 979a–980b.
+El capítulo III distingue el no-ser absoluto de la nada determinada, la
+ausencia, el cero y el vacío.
+⁹ El capítulo V construye el instrumento para identificar esa unidad —el test
+de sustracción: retirar una relación y comprobar si la unidad superior sigue
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -709,13 +713,6 @@ XVIII
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-⁸ El tratado de Gorgias Sobre el no-ser o sobre la naturaleza se conserva en
-dos paráfrasis: la de Sexto Empírico, Contra los matemáticos, VII, 65–87, y la
-del tratado pseudoaristotélico Sobre Meliso, Jenófanes y Gorgias, 979a–980b.
-El capítulo III distingue el no-ser absoluto de la nada determinada, la
-ausencia, el cero y el vacío.
-⁹ El capítulo V construye el instrumento para identificar esa unidad —el test
-de sustracción: retirar una relación y comprobar si la unidad superior sigue
 pudiendo predicarse como esa unidad—, responde qué se sustrae y qué
 permanece cuando el vínculo concluye, y muestra qué clase de unidad es.
 ¹⁰ Ian Hacking, «Making Up People», en T. Heller, M. Sosna y D. Wellbery
