@@ -176,8 +176,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 operación que aquí se describe se verifica también ahí, el lector tendrá en las
 páginas siguientes los criterios para comprobarlo.
 El tercer sentido es interno al sistema del que este libro forma parte, y es el
-más preciso. En Arquitectura ontológica de sistemas artificiales y en la
-Axiomatización de la metrología causal, la alineación apareció como
+más preciso. En la metrología causal, la alineación apareció como
 magnitud: la similitud coseno entre un colapso y el estado acumulado I(t), la
 función con la que la segunda mediación evalúa si un acto producido merece
 integrarse a la trayectoria del sujeto.² Un colapso coherente con esa
