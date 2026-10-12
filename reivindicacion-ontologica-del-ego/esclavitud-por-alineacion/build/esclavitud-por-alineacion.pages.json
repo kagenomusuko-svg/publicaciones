@@ -1,6 +1,6 @@
 {
   "pdf": "esclavitud-por-alineacion.pdf",
-  "total_pages": 165,
+  "total_pages": 164,
   "contents": [
     {
       "key": "introduccion",
@@ -27,78 +27,78 @@
       "key": "cap-2",
       "label": "Capítulo 2 · Cuando el consenso decide quién es racional",
       "kind": "chapter",
-      "physical_page": 36,
-      "printed_page": "16"
+      "physical_page": 35,
+      "printed_page": "15"
     },
     {
       "key": "parte-ii",
       "label": "Parte II · La nada",
       "kind": "part",
-      "physical_page": 51,
-      "printed_page": "31"
+      "physical_page": 50,
+      "printed_page": "30"
     },
     {
       "key": "cap-3",
       "label": "Capítulo 3 · Gorgias y la alineación de la nada con el no-ser",
       "kind": "chapter",
-      "physical_page": 52,
-      "printed_page": "32"
+      "physical_page": 51,
+      "printed_page": "31"
     },
     {
       "key": "cap-4",
       "label": "Capítulo 4 · Predicar la ausencia",
       "kind": "chapter",
-      "physical_page": 64,
-      "printed_page": "44"
+      "physical_page": 63,
+      "printed_page": "43"
     },
     {
       "key": "parte-iii",
       "label": "Parte III · La relación",
       "kind": "part",
-      "physical_page": 77,
-      "printed_page": "57"
+      "physical_page": 76,
+      "printed_page": "56"
     },
     {
       "key": "cap-5",
       "label": "Capítulo 5 · La relación como ego colectivo",
       "kind": "chapter",
-      "physical_page": 78,
-      "printed_page": "58"
+      "physical_page": 77,
+      "printed_page": "57"
     },
     {
       "key": "cap-6",
       "label": "Capítulo 6 · El contrato de la relación",
       "kind": "chapter",
-      "physical_page": 96,
-      "printed_page": "76"
+      "physical_page": 95,
+      "printed_page": "75"
     },
     {
       "key": "cap-7",
       "label": "Capítulo 7 · Disolver sin borrar",
       "kind": "chapter",
-      "physical_page": 113,
-      "printed_page": "93"
+      "physical_page": 112,
+      "printed_page": "92"
     },
     {
       "key": "parte-iv",
       "label": "Parte IV · El amor y el diagnóstico",
       "kind": "part",
-      "physical_page": 126,
-      "printed_page": "106"
+      "physical_page": 125,
+      "printed_page": "105"
     },
     {
       "key": "cap-8",
       "label": "Capítulo 8 · El amor como estado, acto y criterio",
       "kind": "chapter",
-      "physical_page": 127,
-      "printed_page": "107"
+      "physical_page": 126,
+      "printed_page": "106"
     },
     {
       "key": "cap-9",
       "label": "Capítulo 9 · El diagnóstico como alineación",
       "kind": "chapter",
-      "physical_page": 140,
-      "printed_page": "120"
+      "physical_page": 139,
+      "printed_page": "119"
     }
   ]
 }

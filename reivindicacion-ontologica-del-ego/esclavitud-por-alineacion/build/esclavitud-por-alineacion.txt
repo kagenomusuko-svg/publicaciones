@@ -42,47 +42,47 @@ Capítulo 1 · El concilio perfecto
 
 Capítulo 2 · Cuando el consenso decide quién es racional
 
-16
+15
 
 PARTE II · LA NADA
 
-31
+30
 
 Capítulo 3 · Gorgias y la alineación de la nada con el noser
 
-32
+31
 
 Capítulo 4 · Predicar la ausencia
 
-44
+43
 
 PARTE III · LA RELACIÓN
 
-57
+56
 
 Capítulo 5 · La relación como ego colectivo
 
-58
+57
 
 Capítulo 6 · El contrato de la relación
 
-76
+75
 
 Capítulo 7 · Disolver sin borrar
 
-93
+92
 
 PARTE IV · EL AMOR Y EL DIAGNÓSTICO
 
-106
+105
 
 Capítulo 8 · El amor como estado, acto y criterio
 
-107
+106
 
 Capítulo 9 · El diagnóstico como alineación
 
-120
+119
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -810,9 +810,10 @@ En la acción estratégica, el sujeto trata a los demás como medios u
 obstáculos para un fin que ya tiene fijado: busca influir en ellos, no
 entenderse con ellos. En la acción comunicativa, el sujeto se orienta al
 entendimiento: coordina su acción con la de otros mediante pretensiones
-que pueden ser aceptadas o rechazadas por razones.¹ Cuando alguien afirma
-algo, no solo emite un enunciado; plantea, de manera implícita,
-pretensiones de validez que el oyente puede cuestionar: que lo dicho es
+que pueden ser aceptadas o rechazadas.¹ Cuando alguien afirma algo, no solo
+emite un enunciado; plantea, de manera implícita, pretensiones de validez
+que el oyente puede cuestionar: que lo dicho es verdadero, que es correcto
+respecto de las normas vigentes, que el hablante es sincero al decirlo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -823,8 +824,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-verdadero, que es correcto respecto de las normas vigentes, que el hablante
-es sincero al decirlo.
 Mientras esas pretensiones no se problematizan, la comunicación fluye
 sobre un trasfondo de acuerdos que nadie tematiza. Cuando una de ellas se
 pone en duda —cuando alguien pregunta «¿es verdad?» o «¿por qué habría
@@ -857,6 +856,9 @@ cada uno pueden ser aceptadas sin coacción por todos los afectados. En el
 terreno jurídico, en Facticidad y validez, el principio del discurso se
 convierte en el fundamento de un procedimiento democrático: el derecho es
 legítimo cuando procede de una formación discursiva de la opinión y la
+voluntad en la que los destinatarios de las normas puedan entenderse, a la
+vez, como sus autores.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -866,8 +868,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-voluntad en la que los destinatarios de las normas puedan entenderse, a la
-vez, como sus autores.
 Hay que registrar tres rasgos de esta construcción, porque los tres son
 méritos y los tres serán relevantes para el argumento.
 El primero es que el ideal es contrafáctico y lo sabe. No afirma que los
@@ -897,6 +897,8 @@ remitiéndola al asentimiento de los afectados. Pero esa respuesta presupone
 que otra pregunta ya fue contestada: ¿quiénes son los afectados?
 La pregunta parece técnica y no lo es. Antes de que un discurso pueda decidir
 algo, alguien tiene que haber decidido quién está convocado a él. Esa
+decisión no puede tomarse mediante el mismo procedimiento sin caer en un
+regreso: para decidir discursivamente quién participa, habría que convocar a
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -907,8 +909,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-decisión no puede tomarse mediante el mismo procedimiento sin caer en un
-regreso: para decidir discursivamente quién participa, habría que convocar a
 un discurso previo, cuyos participantes tendrían que haber sido decididos
 antes, y así sucesivamente. La teoría democrática conoce esta dificultad con
 el nombre de problema de los límites: un procedimiento democrático no
@@ -938,6 +938,10 @@ olvida el límite: cuando el resultado de un procedimiento se presenta como
 si hubiera sido aceptado por todos los afectados, y la pregunta de quién fue
 contado como afectado ya no se hace porque el resultado parece responderla.
 
+IV. Qué cuenta como argumento
+La regla que encabeza este capítulo dice que todo sujeto capaz de lenguaje y
+de acción puede participar en discursos. Es una regla de inclusión, y su
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -947,9 +951,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-IV. Qué cuenta como argumento
-La regla que encabeza este capítulo dice que todo sujeto capaz de lenguaje y
-de acción puede participar en discursos. Es una regla de inclusión, y su
 intención es generosa: no exige ciudadanía, ni propiedad, ni educación, ni
 pertenencia a ningún grupo. Exige una capacidad. Pero una regla de
 inclusión formulada mediante una capacidad es, al mismo tiempo, una
@@ -979,7 +980,11 @@ demás.
 La segunda dificultad no es de frontera sino de forma. Aun entre quienes
 argumentan sin restricción alguna, no todas las maneras de dar razones
 reciben el mismo trato. Iris Marion Young observó que los modelos
-
+deliberativos tienden a privilegiar un estilo particular de habla —
+desapasionado, articulado, formal, que avanza de premisas a conclusiones—
+y a tratar como deficientes otras formas de comunicación que también
+transmiten razones: el testimonio, el relato, la retórica, el saludo que
+reconoce al otro antes de discutir con él.⁹ El problema no es que el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -989,11 +994,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-deliberativos tienden a privilegiar un estilo particular de habla —
-desapasionado, articulado, formal, que avanza de premisas a conclusiones—
-y a tratar como deficientes otras formas de comunicación que también
-transmiten razones: el testimonio, el relato, la retórica, el saludo que
-reconoce al otro antes de discutir con él.⁹ El problema no es que el
 argumento formal sea malo. Es que, cuando se convierte en la forma de lo
 racional, quienes se comunican de otro modo no son escuchados como
 portadores de razones distintas, sino como portadores de razones
@@ -1021,6 +1021,10 @@ Quien pretende negar las condiciones de la argumentación tiene que
 argumentar para hacerlo. Si alguien sostiene que no todos deberían poder
 objetar, o que algunas afirmaciones no deberían poder cuestionarse, está
 presentando razones a un auditorio al que reconoce, en el acto mismo de
+hablarle, como capaz de evaluarlas. Su tesis contradice lo que su acto
+presupone. Karl-Otto Apel y Habermas llamaron a esta situación
+contradicción performativa, y la usaron para mostrar que las presuposiciones
+del discurso no son una convención entre otras: no tienen alternativa para
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1031,10 +1035,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-hablarle, como capaz de evaluarlas. Su tesis contradice lo que su acto
-presupone. Karl-Otto Apel y Habermas llamaron a esta situación
-contradicción performativa, y la usaron para mostrar que las presuposiciones
-del discurso no son una convención entre otras: no tienen alternativa para
 quien argumenta.¹⁰ El escéptico que las rechaza discutiendo ya las ha
 aceptado.
 El argumento es válido, y este libro no lo disputa en su terreno. Lo que hace
@@ -1062,6 +1062,11 @@ satisface carezca de razón. Ese segundo enunciado es ontológico y necesita
 su propio puente. Si se omite el puente, una regla de juego se convierte en
 una antropología.
 
+VI. Las condiciones materiales de la participación
+Hasta aquí, la pregunta ha sido quién puede participar y qué cuenta como
+argumento. Queda otra, menos filosófica en apariencia y más decisiva en los
+hechos: ¿quién puede efectivamente intervenir?
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1071,10 +1076,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-VI. Las condiciones materiales de la participación
-Hasta aquí, la pregunta ha sido quién puede participar y qué cuenta como
-argumento. Queda otra, menos filosófica en apariencia y más decisiva en los
-hechos: ¿quién puede efectivamente intervenir?
 La igualdad formal de participación no garantiza la igualdad material de las
 posibilidades de participar. Para entrar a un discurso hace falta tiempo, que
 no tiene quien trabaja jornadas que no dejan ninguno. Hace falta dominio
@@ -1103,6 +1104,11 @@ responsabilidad penal, que el criterio de la intención describe lo que alguien
 quería que ocurriera y no lo que ocurrió, y que confundir ambas cosas
 permite que el diseño de un marco escape a la imputación de lo que el marco
 produce.¹³ Aplicado a la deliberación, el argumento dice esto: un
+procedimiento diseñado para incluir a todos puede excluir sistemáticamente
+a algunos, y la pureza de su diseño no responde por esa exclusión. La
+pregunta correcta no es qué quería el procedimiento, sino qué produce:
+quién llega, quién habla, quién es escuchado y quién, sin haber sido nunca
+excluido por una regla, nunca estuvo en la sala.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1112,12 +1118,6 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
-
-procedimiento diseñado para incluir a todos puede excluir sistemáticamente
-a algunos, y la pureza de su diseño no responde por esa exclusión. La
-pregunta correcta no es qué quería el procedimiento, sino qué produce:
-quién llega, quién habla, quién es escuchado y quién, sin haber sido nunca
-excluido por una regla, nunca estuvo en la sala.
 
 VII. Potencia normativa y alcance ontológico
 El capítulo puede ahora separar lo que conviene mantener separado: la
@@ -1184,6 +1184,12 @@ sin embargo, una lectura disponible, y su disponibilidad no es accidental: se
 apoya en la ambigüedad de la palabra «racional», que en la teoría designa
 una propiedad de los procedimientos y de las pretensiones, y que en el uso
 ordinario designa una propiedad de las personas. Cuando una regla para
+evaluar intervenciones se lee como una medida de los sujetos, el predicado
+«racional» ha cambiado de nivel sin declararlo.
+Una herramienta eficaz para organizar un fenómeno no revela
+necesariamente el ser último del fenómeno que organiza. El ideal discursivo
+es una herramienta extraordinariamente eficaz para organizar la
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1193,11 +1199,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-evaluar intervenciones se lee como una medida de los sujetos, el predicado
-«racional» ha cambiado de nivel sin declararlo.
-Una herramienta eficaz para organizar un fenómeno no revela
-necesariamente el ser último del fenómeno que organiza. El ideal discursivo
-es una herramienta extraordinariamente eficaz para organizar la
 justificación de normas. Que funcione no demuestra que haya descubierto
 qué es la razón, ni qué es un sujeto.
 Puede ahora confrontarse el ideal con las cuatro condiciones de la
@@ -1226,6 +1227,11 @@ de admisión. Puede concluir que la igualdad formal de participación no
 responde por la desigualdad material de las posibilidades de participar, y que
 la intención inclusiva de un procedimiento no responde por sus efectos. Y
 puede concluir que, de las cuatro condiciones de la esclavitud por alineación,
+el ideal satisface la primera a la vista y deja disponible la segunda en una
+lectura que no es la suya.
+No puede concluir que Habermas sostenga que el consenso real es perfecto,
+ni que su teoría elimine o pretenda eliminar la coerción. No puede concluir
+que el ideal discursivo sea un instrumento de sujeción: el capítulo no ha
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1235,11 +1241,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-el ideal satisface la primera a la vista y deja disponible la segunda en una
-lectura que no es la suya.
-No puede concluir que Habermas sostenga que el consenso real es perfecto,
-ni que su teoría elimine o pretenda eliminar la coerción. No puede concluir
-que el ideal discursivo sea un instrumento de sujeción: el capítulo no ha
 mostrado ninguna de las dos últimas condiciones en el ideal mismo. No
 puede concluir que la deliberación deba abandonarse ni que exista un
 procedimiento alternativo que resuelva el problema de los límites; ninguna
@@ -1267,6 +1268,11 @@ argumento es el mejor.
 Habermas retoma las reglas del discurso práctico formuladas por Robert
 Alexy en su teoría de la argumentación de 1978. La numeración y la
 redacción exactas en la traducción española deben fijarse antes de la edición
+definitiva; el epígrafe de este capítulo reproduce el sentido de la primera
+regla. La palabra decisiva de esa regla —«capaz»— es la que examina la
+sección IV de este capítulo.
+⁴ El término situación ideal de habla procede de los trabajos de comienzos
+de los años setenta, entre ellos «Teorías de la verdad». En obras posteriores,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1277,11 +1283,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-definitiva; el epígrafe de este capítulo reproduce el sentido de la primera
-regla. La palabra decisiva de esa regla —«capaz»— es la que examina la
-sección IV de este capítulo.
-⁴ El término situación ideal de habla procede de los trabajos de comienzos
-de los años setenta, entre ellos «Teorías de la verdad». En obras posteriores,
 y de manera explícita en Facticidad y validez, Habermas advirtió contra la
 hipostatización de la comunidad ideal de comunicación como si fuera un
 estado alcanzable. La localización exacta de esa advertencia queda registrada
@@ -1309,6 +1310,11 @@ and Its Alternatives», Philosophy & Public Affairs 35, n.º 1 (2007). La
 objeción del texto principal no es contra Goodin, sino contra la idea de que
 el principio cierre la pregunta: la desplaza hacia quién determina la
 afectación.
+⁸ La respuesta de la ética del discurso mediante la representación de intereses
+se presenta aquí en su forma general; su desarrollo en la obra de Habermas
+debe documentarse antes de la edición definitiva.
+⁹ Iris Marion Young, «Communication and the Other: Beyond Deliberative
+Democracy», en Seyla Benhabib (ed.), Democracy and Difference:
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1319,11 +1325,6 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-⁸ La respuesta de la ética del discurso mediante la representación de intereses
-se presenta aquí en su forma general; su desarrollo en la obra de Habermas
-debe documentarse antes de la edición definitiva.
-⁹ Iris Marion Young, «Communication and the Other: Beyond Deliberative
-Democracy», en Seyla Benhabib (ed.), Democracy and Difference:
 Contesting the Boundaries of the Political (Princeton University Press, 1996).
 Young propuso ampliar la deliberación con el saludo, la retórica y la
 narración. Este libro no adopta su programa; retiene su diagnóstico porque
@@ -1350,16 +1351,6 @@ Prólogo, § III, entrada «Fraude annona», que distingue la negación activa
 del derecho reconocido, la omisión garantizadora y la captura selectiva del
 retorno. El paso del contrato fiscal al discurso es un cambio de escala; se
 declara aquí como analogía estructural, no como identidad.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-14
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-LA ESCLAVITUD POR ALINEACIÓN
-
 ¹³ Afrodita Areia: Areópago (Centro Multidisciplinario Meriadock, 2026),
 cap. 1, «Qué hace el dolo». El epígrafe de ese capítulo dice: «El dolo no
 describe lo que ocurrió. Describe lo que alguien quería que ocurriera.» El
@@ -1371,7 +1362,7 @@ opera en el nivel del diseño—, no la doctrina penal.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-15
+14
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1407,7 +1398,7 @@ podría revisarse si el patrón cambiara. El tercer paso fija un estatus: esta
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-16
+15
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1474,7 +1465,7 @@ convierte en condición de reconocimiento.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-17
+16
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1516,7 +1507,7 @@ criterio no tiene un canal dentro del procedimiento que el criterio regula.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-18
+17
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1557,7 +1548,7 @@ exactitud la operación que este libro describe. La Corte evaluó el criterio en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-19
+18
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1599,7 +1590,7 @@ voluntad.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-20
+19
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1642,7 +1633,7 @@ necesita para hacerlo valer?». En el lenguaje de la introducción: la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-21
+20
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1683,7 +1674,7 @@ clausura sin que nadie lo advierta. Cuando alguien que ha sufrido un daño
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-22
+21
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1763,7 +1754,7 @@ contenido
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-23
+22
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1811,7 +1802,7 @@ alineación?
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-24
+23
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1849,7 +1840,7 @@ trazada.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-25
+24
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1888,7 +1879,7 @@ no-ser es la pregunta de Gorgias, y es la que sigue.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-26
+25
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1929,7 +1920,7 @@ contraerse para evitar consecuencias sin declarar el cambio. En los casos de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-27
+26
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1970,7 +1961,7 @@ cada reforma deben verificarse antes de la edición definitiva.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-28
+27
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2011,7 +2002,7 @@ argumento en términos de clausura; el texto principal retiene su descripción
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-29
+28
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2023,7 +2014,7 @@ contenido de la objeción a su forma.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-30
+29
 
 REIVINDICACI Ó N
 
@@ -2068,7 +2059,7 @@ de ser se le retiró a lo que se declaró ausente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-32
+31
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2109,7 +2100,7 @@ ilimitado; si es ilimitado, no está en ningún lugar —ni en otro, porque
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-33
+32
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2150,7 +2141,7 @@ filosófica.⁴ El argumento de Gorgias vive en la primera rama del dilema y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-34
+33
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2196,7 +2187,7 @@ predicación?
 No, sin dejar de ser
 absoluto
 
-35
+34
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2260,7 +2251,7 @@ buscado, ahora declarado inexistente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-36
+35
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2301,7 +2292,7 @@ regla de control: ninguna negación puede extraer del no-ser absoluto un
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-37
+36
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2341,7 +2332,7 @@ histórica, un organismo vivo o Sancho Panza, hay que conservar suficiente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-38
+37
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2384,7 +2375,7 @@ con estos estudios» deja abierto un lugar desde el cual el dolor puede seguir
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-39
+38
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2423,7 +2414,7 @@ lo que el capítulo IV llama predicar la ausencia.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-40
+39
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2463,7 +2454,7 @@ sitúa en 427 a. C.; debe verificarse en la fuente antigua que se cite.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-41
+40
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2504,7 +2495,7 @@ puente que casi nunca se declara. La misma estructura, en el siglo XX, fue
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-42
+41
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2542,7 +2533,7 @@ negarse algo sin saber qué se niega.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-43
+42
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2579,7 +2570,7 @@ negación rigurosa necesita. Lo que el capítulo hace es trasladarlo a
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-44
+43
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2642,7 +2633,7 @@ Clínico-fisiológico, no fenomenológico
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-45
+44
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2698,7 +2689,7 @@ la evidencia disponible.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-46
+45
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2754,7 +2745,7 @@ encontrado X si estuviera en D
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-47
+46
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2832,7 +2823,7 @@ uno.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-48
+47
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2874,7 +2865,7 @@ acreditado —quién es, dónde y cuándo nació, quiénes son sus padres—, y 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-49
+48
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2915,7 +2906,7 @@ conviene registrar desde ahora. Cuando una negación presente se proyecta
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-50
+49
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2957,7 +2948,7 @@ determinada que no presupusiera ningún término, predicado, dominio ni
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-51
+50
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3052,7 +3043,7 @@ A examinar en la Parte III
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-52
+51
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3092,7 +3083,7 @@ está disponible para el procedimiento de hoy.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-53
+52
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3133,7 +3124,7 @@ análisis queda anclado al nivel de evidencia E0–E8 declarado para el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-54
+53
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3174,7 +3165,7 @@ nada sobre la magnitud actual del subregistro, que requeriría datos fechados.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-55
+54
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3201,7 +3192,7 @@ desacuerdo, sino con el caso que la cumple.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-56
+55
 
 REIVINDICACI Ó N
 
@@ -3247,7 +3238,7 @@ existir, qué deja de existir cuando concluye y qué permanece.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-58
+57
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3289,7 +3280,7 @@ ser un dato que la relación puede considerar o no.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-59
+58
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3330,7 +3321,7 @@ elementos, y todo traslado de predicados entre escalas exige un puente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-60
+59
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3372,7 +3363,7 @@ discrepan sobre si lo plural se reduce o no a lo individual. Este libro no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-61
+60
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3420,7 +3411,7 @@ A.C.
 
 Juicio
 
-62
+61
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3491,7 +3482,7 @@ nada se siga sosteniendo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-63
+62
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3533,7 +3524,7 @@ funcional y no como psicología.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-64
+63
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3577,7 +3568,7 @@ autoritaria del colectivo.¹¹ El vínculo no tiene intereses contra sus miembro
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-65
+64
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3619,7 +3610,7 @@ estricto, política.¹³ Formar una pareja no exime a nadie de ser hijo, amigo o
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-66
+65
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3660,7 +3651,7 @@ colapso actualiza una posibilidad y clausura otras, y las posibilidades
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-67
+66
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3702,7 +3693,7 @@ entiende como ego colectivo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-68
+67
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3767,7 +3758,7 @@ demás marcos, solo cuentan si
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-69
+68
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3824,7 +3815,7 @@ porque el ego común solo existe mientras ambos lo renuevan; que el otro no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-70
+69
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3867,7 +3858,7 @@ agregaciones, y no hay nada de malo en ello.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-71
+70
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3907,7 +3898,7 @@ principal retiene la descripción de la modificación mutua como operación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-72
+71
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3949,7 +3940,7 @@ la voluntad ni la identidad; y el contrato no requiere firma, porque se
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-73
+72
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3990,7 +3981,7 @@ IV, describe la misma deriva en el Estado como el colectivo que «busca ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-74
+73
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4002,7 +3993,7 @@ pareja que se vuelve el único marco de sus miembros es de este capítulo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-75
+74
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4039,7 +4030,7 @@ contrato fiscal no es una contabilidad. No dice que lo vivido deba llevarse en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-76
+75
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4095,7 +4086,7 @@ reconocidos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-77
+76
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4160,7 +4151,7 @@ vínculo, el marco que cada uno recibe es reconocido, no otorgado. Por eso
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-78
+77
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4201,7 +4192,7 @@ capítulo V describió.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-79
+78
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4241,7 +4232,7 @@ marco le da en el momento presente; su presencia es la señal de que los dos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-80
+79
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4284,7 +4275,7 @@ quien no cargó con sus condiciones en la misma medida. No hace falta
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-81
+80
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4326,7 +4317,7 @@ la inversión sea auditable.¹³ Pero volver a confiar es un acto de quien fue
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-82
+81
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4385,7 +4376,7 @@ pudiera seguir sin él
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-83
+82
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4458,7 +4449,7 @@ se seguiría cediendo; no se recupera lo que ya se ejerció.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-84
+83
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4498,7 +4489,7 @@ ocurrido de esa forma: los daños, las expectativas producidas, las promesas
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-85
+84
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4566,7 +4557,7 @@ lo propio
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-86
+85
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4620,7 +4611,7 @@ suyo, asumir lo que le correspondía y continuar. Ese inventario cerró, para
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-87
+86
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4661,7 +4652,7 @@ del capítulo V, en la que lo puesto desaparece porque nadie tiene el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-88
+87
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4703,7 +4694,7 @@ existan términos pactados donde nadie los pactó. No puede concluir que lo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-89
+88
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4743,7 +4734,7 @@ criterio; aquí se usa solo en su función descriptiva.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-90
+89
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4783,7 +4774,7 @@ depósito —y no una propiedad orgánica— puede retirarse». Caelus, cap. 7,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-91
+90
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4812,7 +4803,7 @@ transformó a quien se quedó.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-92
+91
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4850,7 +4841,7 @@ quedó. Ese acto no es de uno solo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-93
+92
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4892,7 +4883,7 @@ libro coincide con lo que el inventario del capítulo VI permite exigir: el que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-94
+93
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4935,7 +4926,7 @@ custodia. Dice que nadie puede ser obligado a permanecer porque el otro no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-95
+94
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4976,7 +4967,7 @@ reclamarse; ni siquiera el reconocimiento de que algo se perdió.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-96
+95
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5043,7 +5034,7 @@ presente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-97
+96
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5102,7 +5093,7 @@ afirmación puede ser recibida no como información sobre el vínculo, sino
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-98
+97
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5144,7 +5135,7 @@ responsabilidad.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-99
+98
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5186,7 +5177,7 @@ el acto queda en la historia y el perdón cambia el lugar que ocupa. La
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-100
+99
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5249,7 +5240,7 @@ como verdad sobre lo común
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-101
+100
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5300,7 +5291,7 @@ aceptara, quien sale de un vínculo sin dolor quedaría expuesto a la negación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-102
+101
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5343,7 +5334,7 @@ pregunta de la cuarta parte.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-103
+102
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5382,7 +5373,7 @@ epígrafe de este capítulo es literal de esa sección.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-104
+103
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5411,7 +5402,7 @@ trabajo de duelo que elabora sin borrar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-105
+104
 
 REIVINDICACI Ó N
 
@@ -5455,7 +5446,7 @@ confundiría la jurisdicción de una frase con su verdad. Lo que el capítulo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-107
+106
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5496,7 +5487,7 @@ tránsito al tercer uso o si lo facilita.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-108
+107
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5536,7 +5527,7 @@ hacerlo en dos direcciones.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-109
+108
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5577,7 +5568,7 @@ entonces el tránsito al criterio? El examen del capítulo VIII de El telar
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-110
+109
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5617,7 +5608,7 @@ ficha completa del capítulo IV.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-111
+110
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5660,7 +5651,7 @@ del amor, el criterio favorece sistemáticamente a una de las posiciones: la de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-112
+111
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5702,7 +5693,7 @@ nadie dentro de él pueda medir tampoco. Hay personas cuya historia les ha
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-113
+112
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5743,7 +5734,7 @@ el amor, cuando el merecimiento es una categoría de la justicia, y concluye:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-114
+113
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5796,7 +5787,7 @@ Se conserva
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-115
+114
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5925,7 +5916,7 @@ Criterial
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-116
+115
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5980,7 +5971,7 @@ entrega real. No puede concluir que quien no sufre al separarse haya amado;
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-117
+116
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6020,7 +6011,7 @@ anticipa a una pérdida previsible. El texto principal usa el fenómeno solo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-118
+117
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6046,7 +6037,7 @@ inflarse».
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-119
+118
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6084,7 +6075,7 @@ automática.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-120
+119
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6167,7 +6158,7 @@ Nadie
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-121
+120
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6218,7 +6209,7 @@ su sustancia.⁶ La virtud dormitiva es ambas cosas. La taxonomía clínica
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-122
+121
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6259,7 +6250,7 @@ se acerca; la secuencia es un patrón de la unidad, no una propiedad de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-123
+122
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6301,7 +6292,7 @@ respuesta del afectado se convierte en evidencia a favor del criterio que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-124
+123
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6344,7 +6335,7 @@ necesidad de pedirla. Puede ocurrir que alguien pida claridad de un modo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-125
+124
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6386,7 +6377,7 @@ por los clasificados, que reaccionan a ellas y pueden modificar su conducta,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-126
+125
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6424,7 +6415,7 @@ Propone que cada uso declare cuál de los cuatro es.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-127
+126
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6466,7 +6457,7 @@ abierta. Y no se aplicó a ninguna persona concreta. El uso pasa la auditoría.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-128
+127
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6530,7 +6521,7 @@ y la frase «no tiene nada» se reemplaza por «es ansiedad» o «es estrés», 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-129
+128
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6571,7 +6562,7 @@ cuatro usos —descriptivo, clínico, causal y totalizador—, que los dos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-130
+129
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6613,7 +6604,7 @@ misma hasta que su vacío quede a la vista.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-131
+130
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6654,7 +6645,7 @@ uno de sus miembros como si fueran suyos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-132
+131
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6691,7 +6682,7 @@ sujeto; es también lo que impide que una categoría lo agote.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-133
+132
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6732,7 +6723,7 @@ vocabulario a usos que clasifican personas; y que la clausura
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-134
+133
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6793,7 +6784,7 @@ una alineación más.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-135
+134
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6836,7 +6827,7 @@ instrumento que la del libro.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-136
+135
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6877,7 +6868,7 @@ Esquema XX — Las cuatro operaciones de la desalineación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-137
+136
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6952,7 +6943,7 @@ tribunal puede seguir decidiendo con la máxima del expediente; una clínica
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-138
+137
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6993,7 +6984,7 @@ psicología popular.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-139
+138
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7034,7 +7025,7 @@ nitidez que ningún otro caso iguala. Se sostiene mientras ningún caso
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-140
+139
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7075,7 +7066,7 @@ colapso con la trayectoria propia es la forma operativa de la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-141
+140
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7115,7 +7106,7 @@ que alguien pueda entrar a preguntar quién lo autorizó.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-142
+141
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7136,7 +7127,7 @@ este libro, § II y nota 2.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-143
+142
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7150,6 +7141,6 @@ ontológica del ego.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-144
+143
 
 
