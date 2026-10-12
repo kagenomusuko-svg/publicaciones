@@ -575,7 +575,6 @@ podría leerse como obligación. Esa separación permite auditar las
 formulaciones propias sin renunciar a ellas por anticipado, y es la prueba de
 que el método no es un arma dirigida hacia afuera.
 
-VII. Lo que esta introducción no dice
 Una tesis sobre la sujeción por marcos se presta a lecturas que la convertirían
 exactamente en lo que critica, y conviene cerrarlas antes de comenzar.
 
@@ -645,7 +644,7 @@ Meriadock, 2026), cap. 2.2, «El proceso de integración»; y Axiomatización:
 del sistema de la doble mediación (Colección Metrología causal, Centro
 Multidisciplinario Meriadock, 2026), Parte II. En ambos textos la función
 de evaluación de φ₂ adopta como familia de referencia la similitud coseno,
-evalúa, I(t) = ⟨a, I(t)⟩ / (‖a‖ · ‖I(t)‖), que toma valores en [−1, 1] y mide la
+eval(a, I(t)) = ⟨a, I(t)⟩ / (‖a‖ · ‖I(t)‖), que toma valores en [−1, 1] y mide la
 alineación direccional entre el colapso y el estado acumulado. Allí mismo se
 establece que la transparencia de la lógica de integración es lo que hace
 auditable a I(t). Esa propiedad —la auditabilidad— es la que este libro
