@@ -317,14 +317,13 @@ nada. Incluso la clausura tiene usos legítimos parciales —un juicio tiene que
 terminar alguna vez—. La sujeción no está en ninguna de las condiciones.
 Está en su conjunción, y se consuma en la cuarta: cuando el afectado ya no
 tiene un lugar desde el cual el marco pueda perder.
-Eso hace a la tesis derrotable caso por caso, que es exactamente lo que debe
-ser. Para mostrar que un marco no esclaviza por alineación basta mostrar
-que alguna de las cuatro condiciones falla: que la posición está declarada,
-que el marco registra sus definiciones como convenciones y no como
-hallazgos, que el ajuste solo condiciona la evaluación y no el
-reconocimiento, o —la prueba decisiva— que existe un canal por el cual los
-afectados pueden disputar el criterio y el marco puede, efectivamente,
-perder.
+Eso hace a la tesis derrotable caso por caso. Para mostrar que un marco no
+esclaviza por alineación basta mostrar que alguna de las cuatro condiciones
+falla: que la posición está declarada, que el marco registra sus definiciones
+como convenciones y no como hallazgos, que el ajuste solo condiciona la
+evaluación y no el reconocimiento, o —la prueba decisiva— que existe un
+canal por el cual los afectados pueden disputar el criterio y el marco puede,
+efectivamente, perder.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -359,14 +358,14 @@ a alguien sino si es alguien o algo, persona o posesión. Y hay clausura: si
 quien ha sido clasificado como esclavo objetara su condición, su objeción no
 podría contar como deliberación, porque el criterio ya estableció que la
 deliberación no le pertenece. Esto último no lo dice Aristóteles; es una
-reconstrucción de lo que su criterio implica, y el capítulo correspondiente
-tendrá que sostenerla con el texto.
+reconstrucción de lo que su criterio implica.
 Hay un detalle que vuelve el caso todavía más instructivo. Aristóteles no
 ignoraba la disputa: registra que había quienes sostenían que la esclavitud
 era solo convención y que, por ser producto de la fuerza, era injusta, y
 concede que no todo esclavo según la ley lo es según la naturaleza.⁴ El
 marco, por tanto, conocía la objeción. Pero la resolvió refinando el criterio
 —distinguiendo esclavos legítimos de ilegítimos según su naturaleza—, no
+abriendo un lugar desde el cual los clasificados pudieran disputarlo. La
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -377,7 +376,6 @@ XI
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-abriendo un lugar desde el cual los clasificados pudieran disputarlo. La
 objeción fue absorbida. Ese es el gesto que este libro llama clausura, y su
 forma más antigua no es la censura sino el refinamiento.
 Con esto queda fijado el uso. «Esclavitud por alineación» no nombra una
@@ -406,16 +404,6 @@ las mismas cuatro preguntas: qué se alinea, quién fija el criterio, qué se
 excluye y qué consecuencia se extrae de la exclusión.
 Esquema I — Los territorios del libro y el riesgo de alineación que cada uno
 examina
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-XII
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-LA ESCLAVITUD POR ALINEACIÓN
-
 Territorio
 
 Capítulos
@@ -424,10 +412,27 @@ Qué se alinea
 
 Riesgo que se examina
 
+I–II
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+XII
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+Territorio
+
+Capítulos
+
 El concilio
 ideal
 
-I–II
+LA ESCLAVITUD POR ALINEACIÓN
+
+Qué se alinea
+
+Riesgo que se examina
 
 Los participantes de
 un discurso y sus
@@ -486,7 +491,9 @@ la nada determinada.⁸ Si la nada puede nombrarse, ya comparece como
 determinación; si no puede determinarse en absoluto, no puede funcionar
 como tesis. El riesgo que el libro examina aquí es el paso silencioso de «no
 está bajo este modo» a «no es», y la pregunta es qué puente lo autorizaría.
-
+La tercera parte examina el vínculo interpersonal como una posible unidad
+de escala superior. Cuando dos sujetos se relacionan, la relación puede ser
+algo más que la suma de dos vidas: no una sustancia independiente de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -496,9 +503,6 @@ XIII
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-La tercera parte examina el vínculo interpersonal como una posible unidad
-de escala superior. Cuando dos sujetos se relacionan, la relación puede ser
-algo más que la suma de dos vidas: no una sustancia independiente de
 quienes la forman, sino un ego colectivo: una entidad que actúa, contrae
 compromisos y acumula una historia propia a través de los dos sujetos que la
 constituyen, y cuya historia no se reduce a la emoción presente de uno de
