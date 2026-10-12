@@ -296,7 +296,7 @@ invertir la dirección del argumento sobre el que toda la tradición ha
 construido la pregunta por el sujeto.
 
 II. Lo que Descartes confundió: la inversión del cogito
-En 1641, René Descartes publicó las Meditaciones metaf ísicas y con ellas
+En 1641, René Descartes publicó las Meditaciones metafísicas y con ellas
 estableció, quizás sin proponérselo completamente, el marco dentro del cual
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -312,8 +312,8 @@ la filosofía occidental pensaría el sujeto durante los siguientes cuatro siglo
 El proyecto cartesiano era de una ambición radical: dudar de todo lo que
 pudiera dudarse, y a partir de lo que no pudiera dudarse, reconstruir el
 edificio entero del conocimiento sobre una base absolutamente segura. El
-resultado fue la proposición más famosa de la filosof ía moderna: cogito,
-ergo sum. Pienso, luego existo.[5]
+resultado fue la proposición más famosa de la filosof ía moderna: cogito, ergo
+sum. Pienso, luego existo.[5]
 La fuerza del argumento reside en su estructura. Puedo dudar de los datos de
 mis sentidos: podrían engañarme. Puedo dudar de la existencia del mundo
 externo: podría estar soñando. Puedo dudar incluso de las verdades
@@ -361,8 +361,8 @@ certeza es la condición que Descartes exige, entonces en cada lapso sin
 pensamiento la existencia queda en suspenso. Y eso es filosóficamente
 insostenible.
 Maurice Merleau-Ponty fue quien articuló con mayor precisión la crítica
-fenomenológica al cogito. En la Fenomenología de la percepción, mostró
-que el cuerpo no es el recipiente del alma ni el instrumento de la mente: es el
+fenomenológica al cogito. En la Fenomenología de la percepción, mostró que
+el cuerpo no es el recipiente del alma ni el instrumento de la mente: es el
 sujeto mismo de la percepción. Antes de que pueda formularse cualquier
 proposición sobre la experiencia, antes de que pueda decirse «pienso» o
 «siento» o «percibo», el cuerpo ya está orientado en el mundo: ya
@@ -1084,14 +1084,13 @@ Porque para entender cómo el ego se construye a sí mismo en el tiempo,
 primero hay que entender qué significa que la posibilidad se determine: qué
 significa que el infinito se decida a ser algo.
 
-────────────────────────────────────────────────────────
-NOTAS
-────────────────────────────────────────────────────────
 [1] Hume, David. Tratado sobre la naturaleza humana (1739-1740), Libro I,
 Parte IV, Sección VI: «De la identidad personal». Hume niega que haya
 alguna impresión constante que justifique la idea de un yo permanente: al
 introspeccionar solo encontramos un flujo de percepciones particulares,
 nunca el yo mismo. La consecuencia radical es que el sujeto, tal como
+usualmente se concibe —como sustancia permanente—, es una ficción
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1101,10 +1100,10 @@ A.C.
 
 CAOS
 
-usualmente se concibe —como sustancia permanente—, es una ficción
 construida por la imaginación sobre la base de la semejanza y contigüidad
 entre percepciones sucesivas.
-[2] Dennett, Daniel. La conciencia explicada (1991). Dennett propone el
+[2] Dennett, Daniel. La conciencia explicada (1991); y «The Self as a Center
+of Narrative Gravity», Philosophia, 15 (1986), pp. 275-288. Dennett propone el
 modelo del «múltiple borrador» de la conciencia: no existe ningún «teatro
 cartesiano» donde la experiencia se unifica en un punto singular. El yo sería
 un «centro de gravedad narrativo»: una abstracción funcional que el
@@ -1123,17 +1122,17 @@ que él mismo ha explorado en relación con las tradiciones budistas.
 [4] La posición eliminativista en filosof ía de la mente está representada
 principalmente por Churchland, Paul. Materia y conciencia (1984), y
 Churchland, Patricia. Neurophilosophy (1986). Los eliminativistas sostienen
-que la psicología popular (folk psychology) —el sistema de creencias, deseos
-e intenciones con que explicamos el comportamiento— es una teoría
+que la psicología popular (folk psychology) —el sistema de creencias, deseos e
+intenciones con que explicamos el comportamiento— es una teoría
 empírica que la neurociencia terminará por reemplazar, del mismo modo
 que la química moderna reemplazó a la alquimia.
-[5] Descartes, René. Meditaciones metaf ísicas (1641), Segunda Meditación.
-La formulación canónica «cogito, ergo sum» aparece en el Discurso del
-método (1637); en las Meditaciones la argumentación es más matizada. El
-proyecto de la duda metódica busca un fundamento absolutamente
-indudable: lo que resiste toda duda es el hecho de que hay algo que duda, y
-ese algo es el yo pensante. El sujeto cartesiano es esencialmente pensante: la
-res cogitans, distinta e independiente de la res extensa.
+[5] Descartes, René. Meditaciones metafísicas (1641), Segunda Meditación. La
+formulación canónica «cogito, ergo sum» aparece en el Discurso del método
+(1637); en las Meditaciones la argumentación es más matizada. El proyecto
+de la duda metódica busca un fundamento absolutamente indudable: lo que
+resiste toda duda es el hecho de que hay algo que duda, y ese algo es el yo
+pensante. El sujeto cartesiano es esencialmente pensante: la res cogitans,
+distinta e independiente de la res extensa.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1159,13 +1158,12 @@ ontológicamente más fundamental que la relación teórica y objetivante. El
 Dasein habita el mundo antes de observarlo. La rotura o la disfunción del
 útil es lo que fuerza la transición de la relación práctica a la teórica: lo que
 está ante los ojos surge cuando lo que está a la mano falla.
-[8] Parménides de Elea, Sobre la naturaleza (siglo V a.C.), fragmento DK 28
-B 2, conservado en Simplicio, Comentario a la Física de Aristóteles, 116.28.
-El poema de Parménides distingue dos caminos de investigación: el de la
-verdad (aletheia), que sigue la vía del ser, y el de la opinión (doxa), que sigue
-la vía del devenir y la multiplicidad. La radicalidad de la posición
-parmenídea está en que hace del ser la condición de posibilidad de cualquier
-pensamiento: lo que no es no puede pensarse ni decirse.
+[8] Parménides de Elea, Sobre la naturaleza, fragmentos DK 28 B 2, B 3 y B 6,
+conservados por Proclo y otros autores antiguos. El fragmento B 2 expone
+las dos vías de investigación; B 3 vincula pensar y ser, y B 6 formula que es
+necesario decir y pensar que lo que es, es, mientras que lo que no es no puede
+ser. La frase del epígrafe («El ser es, y el no-ser no es») es una formulación
+sintética de esa tesis, no una cita literal identificable únicamente con B 2.
 [9] Heráclito de Éfeso, fragmentos DK 22 B 12 y B 49a, conservados por Ario
 Dídimo y Heráclides Homericus respectivamente. La célebre formulación
 panta rhei («todo fluye») es una síntesis tardía y no literal, aunque fiel al
@@ -1177,6 +1175,7 @@ permanencia sino tensión mantenida.
 crítica central: Descartes separó mente y cuerpo de manera que hace
 imposible entender la razón, porque la razón depende de mecanismos
 emocionales y somáticos que solo tiene el organismo encarnado. Los
+pacientes con lesiones del córtex prefrontal ventromedial (caso Phineas
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1187,18 +1186,17 @@ A.C.
 
 CAOS
 
-pacientes con lesiones del córtex prefrontal ventromedial (caso Phineas
 Gage, caso Elliot) conservan intacta su capacidad de razonamiento abstracto
 pero pierden la capacidad de tomar decisiones adaptativas en la vida real: la
 emoción no interfiere con la razón, la hace posible.
 [11] Damasio, Antonio. El sentimiento de lo que ocurre (1999). La distinción
-entre proto-self, core self y self autobiográfico corresponde a niveles
-crecientes de complejidad y temporalidad: el proto-self está en el presente
-inmediato del estado interno; el core self emerge en el acto de conocer y
-tiene la duración del momento; el self autobiográfico se extiende a lo largo
-del tiempo mediante la memoria episódica y la proyección al futuro. Los
-tres niveles son neurológicamente distinguibles y se afectan
-diferencialmente por distintos tipos de lesión.
+entre proto-self, core self y self autobiográfico corresponde a niveles crecientes
+de complejidad y temporalidad: el proto-self está en el presente inmediato
+del estado interno; el core self emerge en el acto de conocer y tiene la
+duración del momento; el self autobiográfico se extiende a lo largo del
+tiempo mediante la memoria episódica y la proyección al futuro. Los tres
+niveles son neurológicamente distinguibles y se afectan diferencialmente
+por distintos tipos de lesión.
 [12] Chalmers, David. La mente consciente (1996). Los «problemas fáciles»
 de la conciencia incluyen explicar cómo el cerebro discrimina estímulos,
 integra información, controla el comportamiento y produce reportes
@@ -1219,6 +1217,8 @@ yo tal como se nos revela en la experiencia psicoanalítica» (conferencia de
 1949), publicado en Escritos I (1966). Para Lacan, la imagen especular
 produce una identificación primaria que anticipa la unidad corporal que el
 infante no posee todavía de manera motriz: el yo nace de fuera hacia
+adentro, mediado por la imagen del otro. Esta alienación constitutiva del yo
+es el punto de partida de toda la teoría lacaniana del sujeto.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1229,8 +1229,6 @@ A.C.
 
 CAOS
 
-adentro, mediado por la imagen del otro. Esta alienación constitutiva del yo
-es el punto de partida de toda la teoría lacaniana del sujeto.
 [15] Taylor, Charles. Fuentes del yo: la construcción de la identidad moderna
 (1989). Taylor argumenta que incluso si el yo se forma en contextos sociales y
 dialógicos, esto no implica que sea reducible a ellos: la autenticidad requiere
@@ -1238,8 +1236,8 @@ un yo que articular, algo que está siempre más allá del simple reflejo del
 entorno. La distinción entre formación social y reducción social es crucial:
 somos formados por lo social sin ser simplemente efectos de lo social.
 [16] Husserl, Edmund. Ideas relativas a una fenomenología pura y una
-filosofía fenomenológica, Libro I (1913), §§ 57-62. El ego puro husserliano es
-el polo unitario de todos los actos intencionales: el «yo» que siempre está
+filosofía fenomenológica, Libro I (1913), §§ 57-62. El ego puro husserliano es el
+polo unitario de todos los actos intencionales: el «yo» que siempre está
 presente en cualquier experiencia como su sujeto, sin ser nunca él mismo un
 objeto de experiencia entre otros objetos. Su función es formal: asegurar la
 unidad de la corriente de conciencia sin añadir ningún contenido positivo
@@ -1259,8 +1257,10 @@ universo es una sociedad de tales eventos, cada uno constituido por su
 relación con los anteriores y condicionante de los posteriores. La influencia
 de Whitehead en la filosof ía contemporánea de la mente ha crecido en
 conexión con los debates sobre panpsiquismo y emergencia.
-[19] La distinción entre emergencia débil y emergencia fuerte proviene de
-Chalmers, David. «Strong and Weak Emergence», en The Re-Emergence
+[19] Chalmers, David J. «Strong and Weak Emergence», en The ReEmergence of Emergence: The Emergentist Hypothesis from Science to
+Religion, eds. Philip Clayton y Paul Davies (Oxford: Oxford University Press,
+2006), pp. 244-254. Chalmers distingue la emergencia débil —un
+fenómeno de nivel superior que surge del nivel inferior, pero resulta
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1271,20 +1271,15 @@ A.C.
 
 CAOS
 
-of Emergence, eds. Clayton y Davies (2006). La emergencia débil es en
-principio reducible: las propiedades del nivel superior podrían deducirse de
-las del nivel inferior con un conocimiento suficiente. La emergencia fuerte
-es irreducible incluso en principio: no hay cantidad de información sobre el
-nivel inferior que permita deducir las propiedades del nivel superior. La
-conciencia y, por extensión, el ego, son candidatos paradigmáticos para la
-emergencia fuerte.
-[20] Aristóteles, Política, 1253a: «es evidente que la ciudad-estado es una
-creación de la naturaleza y que el hombre es por naturaleza un animal
-político (...) y es claro que la ciudad-estado es anterior al individuo». La
-prioridad del todo sobre las partes en el argumento aristotélico no es
-temporal sino ontológica: la función de las partes solo puede entenderse
-desde la perspectiva del todo al que pertenecen. El mismo principio aplica a
-los sistemas emergentes en general.
+inesperado a partir de sus principios— de la emergencia fuerte, cuyas
+verdades no son deducibles ni siquiera en principio a partir de las verdades
+del nivel inferior. La aplicación de esta categoría a la conciencia y al ego
+debe entenderse como la posición defendida en este libro.
+[20] Aristóteles, Política, libro I, cap. 2, 1253a. El pasaje sostiene que la ciudad
+es anterior por naturaleza al individuo y que el todo es anterior a la parte. La
+extensión de esta tesis a los sistemas emergentes en general es una analogía
+de este capítulo, no una formulación de Aristóteles sobre la emergencia en
+sentido contemporáneo.
 [21] Deacon, Terrence. Naturaleza incompleta: cómo la mente emergió de la
 materia (2011). Deacon propone el concepto de «ausencia» como causa: los
 sistemas emergentes no se explican solo por lo que está presente sino por lo
@@ -1304,6 +1299,11 @@ Armstrong) y el fisicalismo no reduccionista (Davidson, Putnam).
 [23] Marx, Karl. «Tesis sobre Feuerbach» (1845), Tesis I, en La ideología
 alemana. La crítica al materialismo contemplativo es la base de la
 epistemología marxiana: el ser humano no está frente al mundo como
+observador sino en él como agente transformador. El conocimiento no es
+una copia del mundo sino el resultado de la actividad práctica sobre él. Esta
+dimensión ontológica de Marx —a menudo opacada por su dimensión
+económica y política— es la más relevante para la pregunta por el sujeto que
+aquí se trabaja.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1314,11 +1314,6 @@ A.C.
 
 CAOS
 
-observador sino en él como agente transformador. El conocimiento no es
-una copia del mundo sino el resultado de la actividad práctica sobre él. Esta
-dimensión ontológica de Marx —a menudo opacada por su dimensión
-económica y política— es la más relevante para la pregunta por el sujeto que
-aquí se trabaja.
 [24] Spinoza, Baruch. Ética (1677), Parte III, Proposición VI y Escolio. El
 conatus es la esencia actual de cada cosa: no es un impulso añadido a la
 sustancia sino la forma misma de ser de cualquier ente existente. En el ser
@@ -1335,18 +1330,23 @@ posibilidad de la experiencia unificada. No es una sustancia que se descubre
 mediante introspección sino una función formal que garantiza la unidad
 del campo de experiencia.
 [26] Sacks, Oliver. El hombre que confundió a su mujer con un sombrero
-(1985), especialmente el caso de Jimmy G. («El marinero perdido»), y El
-hombre que no podía detener el tiempo. Los casos de amnesia severa —
-particularmente el del músico Clive Wearing, descrito en su libro del
-mismo nombre— ilustran con precisión clínica la distinción entre el sujeto
-y el ego acumulado: Wearing puede tocar el piano (habilidad motriz
-preservada), puede reconocer a su esposa (memoria emocional preservada),
-pero no puede recordar nada que haya ocurrido más de treinta segundos
-atrás. Su sujeto está intacto; su self autobiográfico está destruido.
+(1985), capítulo «El marinero perdido» (Jimmy G.); y Musicophilia: Tales of
+Music and the Brain (2007), capítulo «In the Moment: Music and
+Amnesia» (Clive Wearing). El caso de Wearing documenta una amnesia
+anterógrada grave junto con la preservación relativa de ciertas capacidades
+musicales. La lectura de esa diferencia como distinción entre un sujeto
+intacto y un ego autobiográfico destruido es la interpretación que propone
+este libro, no una conclusión clínica atribuida a Sacks.
 [27] La analogía entre el ego y una integral de Lebesgue o de Riemann tiene
 pertinencia filosófica que no es meramente pedagógica. Una integral
 acumula la contribución de una función a lo largo de un dominio: el valor
 total no preexiste al proceso de integración sino que emerge de él. Del
+mismo modo, el ego no preexiste a la historia de sus colapsos sino que es el
+resultado acumulado de ellos. En el Apéndice I de este libro se desarrolla con
+rigor matemático la estructura de esta analogía.
+[28] Frege, Gottlob. «Über Sinn und Bedeutung» (1892), en Zeitschrift für
+Philosophie und philosophische Kritik 100:25-50. La distinción fregeana
+entre sentido y referencia permite distinguir diferentes modos en que una
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1357,12 +1357,6 @@ A.C.
 
 CAOS
 
-mismo modo, el ego no preexiste a la historia de sus colapsos sino que es el
-resultado acumulado de ellos. En el Apéndice I de este libro se desarrolla con
-rigor matemático la estructura de esta analogía.
-[28] Frege, Gottlob. «Über Sinn und Bedeutung» (1892), en Zeitschrift für
-Philosophie und philosophische Kritik 100:25-50. La distinción fregeana
-entre sentido y referencia permite distinguir diferentes modos en que una
 expresión puede apuntar a un objeto: el sentido es el modo de presentación,
 la referencia es el objeto presentado. Aplicada al ego: el sentido del ego es su
 estructura operativa (la doble mediación, la dinámica del colapso); la
