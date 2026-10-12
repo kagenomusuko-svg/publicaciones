@@ -644,7 +644,7 @@ Meriadock, 2026), cap. 2.2, «El proceso de integración»; y Axiomatización:
 del sistema de la doble mediación (Colección Metrología causal, Centro
 Multidisciplinario Meriadock, 2026), Parte II. En ambos textos la función
 de evaluación de φ₂ adopta como familia de referencia la similitud coseno,
-eval(a, I(t)) = ⟨a, I(t)⟩ / (‖a‖ · ‖I(t)‖), que toma valores en [−1, 1] y mide la
+evalúa, I(t) = ⟨a, I(t)⟩ / (‖a‖ · ‖I(t)‖), que toma valores en [−1, 1] y mide la
 alineación direccional entre el colapso y el estado acumulado. Allí mismo se
 establece que la transparencia de la lógica de integración es lo que hace
 auditable a I(t). Esa propiedad —la auditabilidad— es la que este libro
