@@ -11141,10 +11141,6 @@ bases físicas en el Apéndice II. Los lectores que lleguen desde las ciencias
 naturales o sociales encontrarán la discusión de las escalas de colapso en el
 Capítulo IV y las secciones sobre el animal, el lenguaje y la constitución
 intersubjetiva del ego en los capítulos V y VI.
-Notas
-Las notas amplían las conexiones entre las definiciones del glosario y la
-literatura filosófica y científica relevante. Las referencias completas a todas
-las obras citadas pueden encontrarse en la bibliograf ía del libro.
 
 ────────────────────────────────────────────────────────
 NOTAS
@@ -11166,6 +11162,11 @@ amplio y abarca también las mediaciones neutrales (un río se determina en
 su cauce). «Actualización» tiene resonancias aristotélicas que implican una
 potencia previa con estructura propia, lo que el libro rechaza para el caos.
 «Elección» implica deliberación, que es propiedad del ego y no del colapso
+en general. «Colapso» captura la irreversibilidad, la transición desde la
+posibilidad abierta y la producción de determinación sin implicar ninguna
+estructura previa en la posibilidad. El término también conecta
+explícitamente con el colapso de la función de onda en mecánica cuántica,
+cuya estructura formal es isomorfa a la del colapso del ego (Apéndice II).
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -11176,11 +11177,6 @@ A.C.
 
 CAOS
 
-en general. «Colapso» captura la irreversibilidad, la transición desde la
-posibilidad abierta y la producción de determinación sin implicar ninguna
-estructura previa en la posibilidad. El término también conecta
-explícitamente con el colapso de la función de onda en mecánica cuántica,
-cuya estructura formal es isomorfa a la del colapso del ego (Apéndice II).
 [212] La noción de campo de acción tiene antecedentes en la «situation» de
 Sartre (El ser y la nada, IV), en el «mundo» de Heidegger como horizonte
 de posibilidades del Dasein (Ser y tiempo, §§ 14-18), y en el «Umwelt» de
@@ -11210,6 +11206,11 @@ constante (todos los colapsos tienen el mismo peso en la integral). El libro
 no postula ninguna forma específica de w(τ): la integral acumulativa es la
 estructura general, y las distintas concepciones de la memoria e identidad
 corresponden a distintas elecciones de w.
+[215] El concepto de escala en f ísica tiene una formulación precisa en el
+«grupo de renormalización» (Wilson, K.G. «The Renormalization Group
+and Critical Phenomena», Nobel Lecture, 1982): la descripción de un
+sistema físico cambia de manera predecible al cambiar la escala de energía o
+longitud desde la que se lo observa. Las propiedades relevantes a escala
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -11219,11 +11220,6 @@ A.C.
 
 CAOS
 
-[215] El concepto de escala en f ísica tiene una formulación precisa en el
-«grupo de renormalización» (Wilson, K.G. «The Renormalization Group
-and Critical Phenomena», Nobel Lecture, 1982): la descripción de un
-sistema físico cambia de manera predecible al cambiar la escala de energía o
-longitud desde la que se lo observa. Las propiedades relevantes a escala
 microscópica (cuántica) no son las mismas que las relevantes a escala
 macroscópica (clásica). El grupo de renormalización muestra que las «leyes
 efectivas» a cada escala emergen de las leyes de la escala inferior mediante
@@ -11253,6 +11249,11 @@ operó. La conexión con Aristóteles es que en ambos casos el accidente es lo
 que ocurre al sujeto sin ser parte de su estructura esencial.
 [218] La distinción entre condición necesaria y condición suficiente es
 fundamental en lógica proposicional. Si A es condición necesaria de B,
+entonces ¬A → ¬B (si no hay A, no hay B). Si A es condición suficiente de B,
+entonces A → B (si hay A, hay B). La condición sine qua non es la condición
+necesaria aplicada a contextos causales: el evento E no habría ocurrido si no
+hubiera ocurrido A. Esta es la prueba contrafáctica estándar en filosof ía del
+derecho (test but-for) y en filosof ía de la causalidad. Para el ego como
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -11262,11 +11263,6 @@ A.C.
 
 CAOS
 
-entonces ¬A → ¬B (si no hay A, no hay B). Si A es condición suficiente de B,
-entonces A → B (si hay A, hay B). La condición sine qua non es la condición
-necesaria aplicada a contextos causales: el evento E no habría ocurrido si no
-hubiera ocurrido A. Esta es la prueba contrafáctica estándar en filosof ía del
-derecho (test but-for) y en filosof ía de la causalidad. Para el ego como
 condición sine qua non del acto humano: el acto como acto humano (con
 primera mediación) no habría ocurrido si no hubiera habido un ego con
 primera mediación. El movimiento f ísico podría haber ocurrido, pero no el
