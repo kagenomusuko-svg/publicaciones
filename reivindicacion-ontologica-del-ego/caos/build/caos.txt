@@ -7169,10 +7169,10 @@ debo haber sido responsable de las acciones que lo formaron; y así en
 regresión hasta llegar a un estado inicial por el que no podría ser responsable
 de ninguna manera. La responsabilidad genuina requeriría ser causa sui —
 causa de sí mismo—, lo cual es imposible. La respuesta que este libro ofrece
-al argumento de Strawson no niega la regresión sino cambia el pregunta: la
-responsabilidad no requiere haber sido causa de sí mismo en algún sentido
-absoluto; requiere que la primera mediación haya ocurrido. El ego no
-necesita haber sido su propio origen —que es imposible— para ser
+al argumento de Strawson no niega la regresión sino que cambia la
+pregunta: la responsabilidad no requiere haber sido causa de sí mismo en
+algún sentido absoluto; requiere que la primera mediación haya ocurrido. El
+ego no necesita haber sido su propio origen —que es imposible— para ser
 responsable de sus actos. Necesita haber sido la condición sine qua non sin la
 cual el acto no habría ocurrido.
 [138] Spinoza, Baruch. Ética (1677), Parte III, definiciones I–II (causa
@@ -11451,13 +11451,13 @@ tienen mayor peso en la determinación de la función actual) o como
 constante (todos los colapsos tienen el mismo peso en la integral). El libro
 no postula ninguna forma específica de w(τ): la integral acumulativa es la
 estructura general, y las distintas concepciones de la memoria e identidad
-corresponden a distintas elecciones de w. Peso temporal w(τ). La función de
-ponderación w modela la distinta relevancia de las contribuciones asumidas.
-Si el peso de un colapso depende de su antigüedad respecto del instante
-actual t, puede escribirse w_t(τ) = W(t − τ), donde W decrece con la
-antigüedad. Por ejemplo, W(s) = e^(−λs) con λ > 0. El libro no impone
-ninguna ley de ponderación específica; esta notación solo aclara la lectura
-temporal de un posible peso decreciente.
+corresponden a distintas elecciones de w.
+Peso temporal w(τ). La función de ponderación w modela la distinta
+relevancia de las contribuciones asumidas. Si el peso de un colapso depende
+de su antigüedad respecto del instante actual t, puede escribirse w_t(τ) = W(t
+− τ), donde W decrece con la antigüedad. Por ejemplo, W(s) = e^(−λs) con λ
+> 0. El libro no impone ninguna ley de ponderación específica; esta
+notación solo aclara la lectura temporal de un posible peso decreciente.
 [215] El concepto de escala en f ísica tiene una formulación precisa en el
 «grupo de renormalización» (Wilson, K.G. «The Renormalization Group
 and Critical Phenomena», Nobel Lecture, 1982): la descripción de un
@@ -11471,7 +11471,6 @@ escala. El concepto de impermeabilidad causal entre escalas en este libro
 tiene una estructura análoga: las leyes efectivas de la escala superior no son
 deducibles directamente de las de la escala inferior, aunque emergen de
 ellas.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
