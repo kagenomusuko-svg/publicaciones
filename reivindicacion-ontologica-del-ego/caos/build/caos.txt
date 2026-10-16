@@ -82,19 +82,19 @@ Capítulo VI · La doble mediación
 
 Capítulo VII · El ego como condición mínima causal
 
-175
+176
 
 Apéndice I · El colapso en las matemáticas
 
-200
+201
 
 Apéndice II · El colapso en la física cuántica
 
-222
+223
 
 Apéndice III · Glosario técnico
 
-248
+249
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6525,7 +6525,7 @@ que da al acto su peso real. Si el acto pudiera deshacerse —si la
 determinación producida pudiera revertirse a posibilidad— el acto no
 tendría peso existencial. Sería un ensayo. Una prueba que puede repetirse con
 distintos parámetros hasta producir el resultado deseado. Pero el acto no es
-un ensayo. Es definitivo. Y esa definitiveidad es lo que hace que los actos
+un ensayo. Es definitivo. Y esa carácter definitivo es lo que hace que los actos
 importen, que las palabras importen, que las decisiones importen. Sin la
 irreversibilidad del acto no habría razón para la seriedad existencial que la
 responsabilidad exige.
@@ -6595,7 +6595,8 @@ cierra la posibilidad de no haberlo asumido, la palabra dicha cierra la
 posibilidad de que no haya sido dicha. El acto no solo es irreversible en su
 factualidad: es prospectivamente constitutivo del campo desde el que los
 actos futuros serán posibles. El ego que actuó ayer actúa hoy desde un campo
-que ayer es incluyó entre sus determinaciones.
+que ya incluye entre sus determinaciones el acto de ayer entre sus
+determinaciones.
 
 IV. La segunda mediación: el acto que construye al ego
 La mayoría de las teorías de la acción terminan en el acto. El agente quiere,
@@ -6620,7 +6621,6 @@ Paul Ricoeur describió la identidad personal como identidad narrativa: la
 síntesis de la mismidad —lo que permanece idéntico— y la ipseidad —el
 sujeto que se mantiene mediante el compromiso.[141] La segunda mediación
 es el proceso por el cual el acto se integra a esta síntesis narrativa: el acto que
-produje ayer pasa a ser parte de la historia que soy, modifica
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6631,6 +6631,7 @@ A.C.
 
 CAOS
 
+produje ayer pasa a ser parte de la historia que soy, modifica
 retroactivamente el sentido de los actos anteriores y prospectivamente las
 posibilidades de los futuros. La narrativa del ego no es una historia que el
 ego cuenta de sí mismo desde afuera: es la estructura de la integral, la forma
@@ -6664,7 +6665,6 @@ la herida del espíritu sana sin dejar cicatriz.[144] En el sistema hegeliano, l
 contradicción se supera mediante la Auf hebung: negación que conserva y
 eleva. El espíritu crece superando sus contradicciones. En el sistema de este
 libro, el ego no supera sus colapsos: los integra. No hay Auf hebung en la
-integral: hay acumulación que no elimina. El colapso pasado —sea doloroso
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6674,6 +6674,7 @@ A.C.
 
 CAOS
 
+integral: hay acumulación que no elimina. El colapso pasado —sea doloroso
 o gozoso, sea logrado o fallido— no se supera en un movimiento ulterior
 que lo absorba neutralizando su singularidad. Se integra: pasa a ser parte
 permanente de la función del ego, modificando cómo actúa en el futuro sin
@@ -6705,8 +6706,7 @@ genera. El ego, como función, tiene esta estructura: no es ningún colapso
 particular sino la regla de correspondencia que describe cómo el sujeto
 colapsa en la intersección con el mundo. Cada acto es un valor de la
 función; el ego es la función misma.
-La integral acumulativa del ego —el ego como integral de todos sus
-colapsos— tiene la estructura de lo que en cálculo se llama integral definida:
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6716,6 +6716,8 @@ A.C.
 
 CAOS
 
+La integral acumulativa del ego —el ego como integral de todos sus
+colapsos— tiene la estructura de lo que en cálculo se llama integral definida:
 la acumulación de los valores de la función a lo largo del dominio de la
 experiencia vivida. El punto actual en la gráfica del ego —el colapso que
 ocurre en el presente— está determinado no por la función en ese punto
@@ -6748,8 +6750,6 @@ del ego no requiere la identidad metaf ísica que Parfit disuelve. Requiere la
 continuidad funcional de la integral: la función se modifica con cada
 colapso, pero la acumulación de todos los colapsos pasados está presente en la
 función actual como la historia que la define. El ego es la integral de sus
-colapsos, y esa integral —no ninguna sustancia inmutable— es lo que
-persiste.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6760,6 +6760,8 @@ A.C.
 
 CAOS
 
+colapsos, y esa integral —no ninguna sustancia inmutable— es lo que
+persiste.
 La estructura matemática del ego como función tiene también
 consecuencias para la comprensión del carácter. El carácter no es una esencia
 fija que se manifiesta en los actos: es el patrón acumulativo de la integral, la
@@ -6791,8 +6793,6 @@ segunda mediación produce ego— describe la estructura completa del
 colapso del ego cuando opera en condiciones plenas. Pero la estructura
 completa no siempre se realiza. Las dos mediaciones pueden fallar —de
 maneras diferentes, con consecuencias diferentes— y el análisis de esos
-fallos ilumina por contraste qué es lo que la estructura completa produce
-cuando opera.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6803,6 +6803,8 @@ A.C.
 
 CAOS
 
+fallos ilumina por contraste qué es lo que la estructura completa produce
+cuando opera.
 Cuando la primera mediación falla —cuando no hay voluntad orientada
 hacia un objeto representado, cuando no hay intencionalidad que
 determine el sentido del acto antes de que ocurra—, el acto se convierte en
@@ -6833,10 +6835,7 @@ la primera mediación opera pero opera de manera que el agente mismo
 juzga deficiente. La imputación es posible —hubo primera mediación—,
 pero el contenido de lo que se imputa es un colapso que el agente evalúa
 negativamente desde el mismo momento en que ocurre.
-Cuando la segunda mediación falla —cuando el acto no se integra al ego,
-cuando el resultado de la primera mediación y del acto no retorna
-transformado al sujeto que los produjo—, ocurre algo diferente y en cierto
-modo más inquietante que el fallo de la primera mediación: el sujeto actúa
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6846,6 +6845,10 @@ A.C.
 
 CAOS
 
+Cuando la segunda mediación falla —cuando el acto no se integra al ego,
+cuando el resultado de la primera mediación y del acto no retorna
+transformado al sujeto que los produjo—, ocurre algo diferente y en cierto
+modo más inquietante que el fallo de la primera mediación: el sujeto actúa
 sin construirse. Sus actos no lo constituyen: lo atraviesan. El sujeto produce
 determinaciones en el mundo pero esas determinaciones no dejan huella en
 la función del ego, no modifican las disposiciones, no contribuyen a la
@@ -6876,10 +6879,6 @@ produjo.
 Nietzsche describió una forma de fallo de la segunda mediación que tiene
 consecuencias éticas de primera magnitud: el resentimiento.[151] El sujeto
 que no puede integrar el pasado —que no puede querer que lo que fue haya
-sido— lo porta como resentimiento ante lo que no puede cambiar. El
-resentimiento no es la negación del pasado: es la negación de la segunda
-mediación, la resistencia a que el colapso pasado sea integrado a la función
-del ego. El sujeto resentido no puede actuar desde el pasado como material
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6889,6 +6888,10 @@ A.C.
 
 CAOS
 
+sido— lo porta como resentimiento ante lo que no puede cambiar. El
+resentimiento no es la negación del pasado: es la negación de la segunda
+mediación, la resistencia a que el colapso pasado sea integrado a la función
+del ego. El sujeto resentido no puede actuar desde el pasado como material
 que porta: solo puede actuar contra el pasado que no puede cambiar. Y actuar
 contra lo que no puede cambiarse es actuar desde la impotencia, no desde el
 colapso. La segunda mediación exitosa es lo que Nietzsche llama querer
@@ -6917,11 +6920,7 @@ condición sine qua non del acto —que sin su primera mediación el acto no
 habría ocurrido—, y que esa condición sine qua non haya operado como tal
 porque la voluntad del sujeto se orientó hacia un objeto representado y
 produjo la acción desde esa orientación. No cualquier condición necesaria
-del resultado produce responsabilidad: solo la condición que operó como
-primera mediación.
-Esta posición es más rigurosa que las teorías consecuencialistas porque no
-hace depender la responsabilidad de factores que el agente no controla. En
-la teoría utilitarista de Mill, la evaluación moral del acto depende de sus
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6931,6 +6930,11 @@ A.C.
 
 CAOS
 
+del resultado produce responsabilidad: solo la condición que operó como
+primera mediación.
+Esta posición es más rigurosa que las teorías consecuencialistas porque no
+hace depender la responsabilidad de factores que el agente no controla. En
+la teoría utilitarista de Mill, la evaluación moral del acto depende de sus
 consecuencias: si el resultado fue bueno, el acto fue correcto; si fue malo, fue
 incorrecto.[152] Pero las consecuencias dependen de las cadenas causales que
 siguen al acto, y esas cadenas incluyen elementos —el comportamiento de
@@ -6959,12 +6963,7 @@ voluntad hacia un objeto representado como valioso— no puede ser tratado
 como si su primera mediación no importara, como si solo importara el
 resultado que se obtiene a través de él. La integridad que Williams defiende
 es la integridad de la función del ego: la consistencia entre la primera
-mediación y los actos que produce, entre lo que el ego se compromete a ser y
-lo que efectivamente hace.
-Charles Taylor argumentó que la identidad del yo es inseparable de la
-orientación hacia el bien: saber quién eres es saber qué posición tomas en el
-espacio moral.[155] La primera mediación es exactamente la posición que el
-ego toma: el compromiso con una orientación que no es simplemente la
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6974,6 +6973,12 @@ A.C.
 
 CAOS
 
+mediación y los actos que produce, entre lo que el ego se compromete a ser y
+lo que efectivamente hace.
+Charles Taylor argumentó que la identidad del yo es inseparable de la
+orientación hacia el bien: saber quién eres es saber qué posición tomas en el
+espacio moral.[155] La primera mediación es exactamente la posición que el
+ego toma: el compromiso con una orientación que no es simplemente la
 maximización de cualquier consecuencia sino la expresión de quién es el ego
 en el momento de actuar. La responsabilidad que nace en la primera
 mediación es, en los términos de Taylor, la responsabilidad de quien toma
@@ -7001,12 +7006,6 @@ libro
 Este capítulo ha recorrido la doble mediación en toda su extensión: desde la
 primera mediación que orienta la voluntad, pasando por el acto que
 materializa esa orientación de manera irreversible, hasta la segunda
-mediación que integra el acto a la función del ego y transforma a quien
-actuó. Conviene consolidar la fórmula completa y señalar con precisión la
-pregunta que el capítulo final trabajará.
-La fórmula del ego, formulada con la precisión que los capítulos anteriores
-han permitido construir, es esta: el ego es la función acumulativa que
-emerge de la aplicación sucesiva de la doble mediación al sujeto que colapsa
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7017,6 +7016,12 @@ A.C.
 
 CAOS
 
+mediación que integra el acto a la función del ego y transforma a quien
+actuó. Conviene consolidar la fórmula completa y señalar con precisión la
+pregunta que el capítulo final trabajará.
+La fórmula del ego, formulada con la precisión que los capítulos anteriores
+han permitido construir, es esta: el ego es la función acumulativa que
+emerge de la aplicación sucesiva de la doble mediación al sujeto que colapsa
 en su intersección con el mundo. La voluntad orienta —primera
 mediación. El acto colapsa —determinación irreversible en el mundo. El
 acto retorna —segunda mediación. El ego es la integral de todos los
@@ -7043,13 +7048,6 @@ esos elementos en la fórmula: la doble mediación como estructura completa
 del colapso del ego.
 Pero la fórmula del ego no responde todavía la pregunta más antigua y más
 difícil: ¿en qué sentido el ego causa algo? La doble mediación describe la
-estructura del acto del ego y funda la imputación causal sobre la primera
-mediación. Pero la causalidad es una categoría que la filosof ía ha debatido
-durante milenios sin resolución definitiva. Hume disolvió la causalidad en la
-costumbre. Kant la recuperó como categoría a priori del entendimiento. La
-física cuántica la complicó con la indeterminación. El determinismo la
-extiende hasta hacer ilusoria la responsabilidad. El libertarismo la reivindica
-a costa de postular una libertad que la ciencia no puede confirmar.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7060,6 +7058,13 @@ A.C.
 
 CAOS
 
+estructura del acto del ego y funda la imputación causal sobre la primera
+mediación. Pero la causalidad es una categoría que la filosof ía ha debatido
+durante milenios sin resolución definitiva. Hume disolvió la causalidad en la
+costumbre. Kant la recuperó como categoría a priori del entendimiento. La
+física cuántica la complicó con la indeterminación. El determinismo la
+extiende hasta hacer ilusoria la responsabilidad. El libertarismo la reivindica
+a costa de postular una libertad que la ciencia no puede confirmar.
 El capítulo final trabaja esta pregunta: no para resolverla con una teoría
 definitiva de la causalidad —empresa que excede los propósitos de este libro
 — sino para mostrar cómo la estructura de la doble mediación hace posible
@@ -7080,19 +7085,12 @@ los debates específicos sin interrumpir la lectura del argumento principal.
 ────────────────────────────────────────────────────────
 NOTAS
 ────────────────────────────────────────────────────────
-[130] Aristoteles, De anima (Sobre el alma), Libro III, Cap. 9-10,
+[130] Aristóteles, De anima (Sobre el alma), Libro III, Cap. 9-10,
 432b26-433b30. Aristóteles analiza la relación entre deseo (orexis),
 deliberación (bouleusis) y movimiento (kinesis). La voluntad (boulesis) es el
 deseo racional que apunta al bien en general; el apetito (epithymia) apunta
 al placer inmediato; el ánimo (thymos) apunta a la victoria o la venganza. El
 movimiento voluntario requiere que el deseo y la inteligencia práctica (nous
-praktikos) converjan: la inteligencia presenta el fin como bueno y el deseo se
-orienta hacia él. Lo que Aristóteles describe como la convergencia entre
-deseo e inteligencia práctica es estructuralmente lo que este capítulo llama
-primera mediación: el momento donde la voluntad se determina hacia un
-objeto representado como deseable y la acción se orienta hacia ese objeto.
-[131] Kant, Immanuel. Fundamentación de la metaf ísica de las costumbres
-(1785), Segunda Sección. La voluntad buena en Kant es la voluntad que actúa
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7102,6 +7100,13 @@ A.C.
 
 CAOS
 
+praktikos) converjan: la inteligencia presenta el fin como bueno y el deseo se
+orienta hacia él. Lo que Aristóteles describe como la convergencia entre
+deseo e inteligencia práctica es estructuralmente lo que este capítulo llama
+primera mediación: el momento donde la voluntad se determina hacia un
+objeto representado como deseable y la acción se orienta hacia ese objeto.
+[131] Kant, Immanuel. Fundamentación de la metaf ísica de las costumbres
+(1785), Segunda Sección. La voluntad buena en Kant es la voluntad que actúa
 por deber —no en conformidad con el deber sino por deber, por respeto a la
 ley moral. Una voluntad que produce buenas consecuencias por inclinación
 o por accidente no es por eso una voluntad moralmente buena. Lo que
@@ -7129,13 +7134,6 @@ como mero evento.
 Philosophy. Davidson argumentó que las razones para actuar pueden ser
 causas de la acción: el par creencia-deseo que constituye la razón del agente
 puede ser idéntico al estado mental que causó el movimiento corporal. Esta
-posición —el monismo anómalo— sostiene que los eventos mentales son
-idénticos a eventos f ísicos, aunque las descripciones mentales
-(intencionales) y f ísicas (causales) no sean reducibles entre sí. La relevancia
-para el argumento de la primera mediación es que la intención no es un
-epifenómeno añadido a la causalidad f ísica: es ella misma causalmente
-eficaz, aunque no pueda describirse en los términos de la causalidad f ísica.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7145,6 +7143,13 @@ A.C.
 
 CAOS
 
+posición, que Davidson formuló posteriormente como monismo anómalo
+en «Mental Events» (1970), sostiene que los eventos mentales son idénticos
+a eventos f ísicos, aunque las descripciones mentales (intencionales) y f ísicas
+(causales) no sean reducibles entre sí. La relevancia para el argumento de la
+primera mediación es que la intención no es un epifenómeno añadido a la
+causalidad f ísica: es ella misma causalmente eficaz, aunque no pueda
+describirse en los términos de la causalidad f ísica.
 [134] Sartre, Jean-Paul. El ser y la nada (1943), Parte IV, Cap. I: «Ser y hacer:
 la libertad». Para Sartre, la acción siempre implica una nihilización: el acto
 comienza con el reconocimiento de que el estado actual de cosas es
@@ -7157,29 +7162,21 @@ hacia esa diferencia. Esta capacidad de nihilización es, en el vocabulario de
 este libro, la primera mediación: el momento donde el ego se determina en
 relación con un estado de cosas que representa como diferente del actual.
 [135] Merleau-Ponty, Maurice. Fenomenología de la percepción (1945), Parte
-II, Cap. I: «El cuerpo como ser sexuado» y Cap. III: «La espacialidad del
-cuerpo propio y la motricidad». La noción de «intención motriz» en
-Merleau-Ponty designa la orientación pre-reflexiva del cuerpo hacia una
-tarea: cuando me dispongo a coger un vaso, mi cuerpo ya está orientado
-hacia el vaso antes de que ninguna representación consciente del acto haya
-ocurrido. La intención motriz no es una representación mental que precede
-al movimiento f ísico: es la orientación práctica del cuerpo como totalidad
-hacia una situación que exige una respuesta. Esta dimensión corporal de la
-primera mediación muestra que la intencionalidad no es solo un fenómeno
-de la conciencia reflexiva: opera también a niveles pre-reflexivos que
-constituyen el estrato más básico de la acción intencional.
+I, cap. III, «La espacialidad del cuerpo propio y la motricidad», y parte I,
+cap. V, «El cuerpo como ser sexuado» (según índice de la edición usada). La
+noción de «intención motriz» en Merleau-Ponty designa la orientación
+pre-reflexiva del cuerpo hacia una tarea: cuando me dispongo a coger un
+vaso, mi cuerpo ya está orientado hacia el vaso antes de que ninguna
+representación consciente del acto haya ocurrido. La intención motriz no es
+una representación mental que precede al movimiento f ísico: es la
+orientación práctica del cuerpo como totalidad hacia una situación que
+exige una respuesta. Esta dimensión corporal de la primera mediación
+muestra que la intencionalidad no es solo un fenómeno de la conciencia
+reflexiva: opera también a niveles pre-reflexivos que constituyen el estrato
+más básico de la acción intencional.
 [136] Frankfurt, Harry. «Alternate Possibilities and Moral
 Responsibility» (1969), Journal of Philosophy. Frankfurt argumentó contra
 el «principio de las posibilidades alternativas» —la tesis de que alguien es
-responsable de un acto solo si podría haber actuado de otra manera. Propuso
-casos donde el agente actúa de cierta manera pero hay un factor de fondo
-que le hubiera impedido actuar de otra manera si hubiera intentado hacerlo.
-En estos casos, el agente actúa por sus propias razones, sin que el factor de
-fondo intervenga, y parece plenamente responsable aunque no podría haber
-actuado de otra manera. Lo que los «casos Frankfurt» muestran para el
-argumento de este libro es que la responsabilidad no requiere la posibilidad
-abstracta de haber actuado de otra manera: requiere que el acto haya sido
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7189,6 +7186,14 @@ A.C.
 
 CAOS
 
+responsable de un acto solo si podría haber actuado de otra manera. Propuso
+casos donde el agente actúa de cierta manera pero hay un factor de fondo
+que le hubiera impedido actuar de otra manera si hubiera intentado hacerlo.
+En estos casos, el agente actúa por sus propias razones, sin que el factor de
+fondo intervenga, y parece plenamente responsable aunque no podría haber
+actuado de otra manera. Lo que los «casos Frankfurt» muestran para el
+argumento de este libro es que la responsabilidad no requiere la posibilidad
+abstracta de haber actuado de otra manera: requiere que el acto haya sido
 producido por la primera mediación del agente, con independencia de si
 había o no alternativas disponibles.
 [137] Strawson, Galen. «The Impossibility of Moral Responsibility» (1994),
@@ -7205,24 +7210,17 @@ absoluto; requiere que la primera mediación haya ocurrido. El ego no
 necesita haber sido su propio origen —que es imposible— para ser
 responsable de sus actos. Necesita haber sido la condición sine qua non sin la
 cual el acto no habría ocurrido.
-[138] Spinoza, Baruch. Ética (1677), Parte IV, Proposición 7 y su
-demostración. Spinoza sostiene que el deseo (appetitus) de perseverar en el
-propio ser (conatus) es la esencia misma del ser humano. Todo lo que el ser
+[138] Spinoza, Baruch. Ética (1677), Parte III, definiciones I–II (causa
+adecuada/inadecuada; acción/pasión); para el conatus, Parte III,
+proposiciones 6–9. Spinoza sostiene que el deseo (appetitus) de perseverar en
+el propio ser (conatus) es la esencia misma del ser humano. Todo lo que el ser
 humano hace, lo hace en virtud de este conatus. La pasión y la acción
 difieren no en su contenido sino en su origen: la pasión es aquello que le
 ocurre al sujeto desde afuera (desde causas externas inadecuadas), la acción es
 aquello que el sujeto produce desde adentro (desde su propia naturaleza
 como causa adecuada). Esta distinción spinoziana entre pasión y acción es el
 antecedente más preciso de la distinción de este libro entre el accidente (lo
-que le ocurre al sujeto desde escalas que no opera) y la primera mediación (lo
-que el sujeto produce desde su propio colapso).
-[139] Bernard Williams, «Moral Luck» (1976), en Moral Luck (1981).
-Williams señaló que la práctica ordinaria de la responsabilidad moral
-incluye de hecho elementos de «suerte moral»: los resultados de las acciones
-—que dependen en parte de factores que el agente no controla— afectan
-nuestros juicios sobre la responsabilidad del agente. El conductor que en
-condiciones de lluvia atropella a un niño que cruza inesperadamente es
-tratado de manera diferente —por él mismo y por los demás— al conductor
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7232,6 +7230,15 @@ A.C.
 
 CAOS
 
+que le ocurre al sujeto desde escalas que no opera) y la primera mediación (lo
+que el sujeto produce desde su propio colapso).
+[139] Bernard Williams, «Moral Luck» (1976), en Moral Luck (1981).
+Williams señaló que la práctica ordinaria de la responsabilidad moral
+incluye de hecho elementos de «suerte moral»: los resultados de las acciones
+—que dependen en parte de factores que el agente no controla— afectan
+nuestros juicios sobre la responsabilidad del agente. El conductor que en
+condiciones de lluvia atropella a un niño que cruza inesperadamente es
+tratado de manera diferente —por él mismo y por los demás— al conductor
 que en las mismas condiciones no encuentra ningún obstáculo. El primero
 puede sentir culpa; el segundo no. Williams no resuelve esta asimetría: la
 documenta como una tensión irresoluble entre la perspectiva interna del
@@ -7257,16 +7264,6 @@ del acto.
 [141] Ricoeur, Paul. Sí mismo como otro (1990), Cap. VI: «El sí mismo y la
 identidad narrativa». Ricoeur distingue entre la identidad-idem (la
 mismidad: el sustrato material y las disposiciones estables que persisten en el
-tiempo) y la identidad-ipse (la ipseidad: la identidad del sujeto que se
-mantiene a sí mismo mediante el compromiso y la responsabilidad). La
-identidad narrativa es la síntesis de ambas: la historia de vida que el sujeto
-construye e interpreta, integrando continuidades y discontinuidades en una
-trama coherente. La segunda mediación, en los términos de Ricoeur, es el
-momento donde el acto se integra a la narrativa del sujeto y modifica
-retroactivamente tanto la idem-identidad (las disposiciones adquiridas)
-como la ipse-identidad (los compromisos que el acto confirma, viola o
-transforma).
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7276,6 +7273,15 @@ A.C.
 
 CAOS
 
+tiempo) y la identidad-ipse (la ipseidad: la identidad del sujeto que se
+mantiene a sí mismo mediante el compromiso y la responsabilidad). La
+identidad narrativa es la síntesis de ambas: la historia de vida que el sujeto
+construye e interpreta, integrando continuidades y discontinuidades en una
+trama coherente. La segunda mediación, en los términos de Ricoeur, es el
+momento donde el acto se integra a la narrativa del sujeto y modifica
+retroactivamente tanto la idem-identidad (las disposiciones adquiridas)
+como la ipse-identidad (los compromisos que el acto confirma, viola o
+transforma).
 [142] MacIntyre, Alasdair. Tras la virtud (1981), Cap. 15: «Las virtudes, la
 unidad de la vida humana y el concepto de tradición». MacIntyre propone
 que las acciones solo pueden entenderse en el contexto de las narrativas en
@@ -7300,16 +7306,6 @@ del ego, no solo añade un elemento a una lista sino que modifica las
 disposiciones del sujeto, las tendencias de respuesta, las percepciones de las
 situaciones futuras. El ego que actúa una vez no es idéntico al que actuará la
 próxima vez porque el acto ha modificado sus disposiciones.
-[144] Hegel, G.W.F. Fenomenología del espíritu (1807), Prefacio y Cap. VI:
-«El espíritu». La célebre formulación hegeliana de que «la herida del
-espíritu sana sin dejar cicatriz» —que la contradicción que el espíritu
-experimenta puede ser superada mediante la dialéctica— es exactamente la
-posición que este libro rechaza para el ego individual. Los colapsos pasados
-del ego no se superan sin huella: se integran a la integral y la modifican de
-manera permanente. No hay «superación» en el sentido hegeliano de la
-Aufhebung —negación que conserva y eleva— sino integración que
-acumula sin eliminar. El ego no crece superando sus colapsos: crece
-integrándolos. Esta diferencia entre el modelo hegeliano de la superación y
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7320,8 +7316,26 @@ A.C.
 
 CAOS
 
-el modelo de este libro de la integración es una de las diferencias más
-importantes entre los dos sistemas.
+[144] Hegel, G. W. F. Fenomenología del espíritu (1807), capítulo VI, «El
+espíritu», apartado sobre la conciencia moral, el alma bella, el mal y el
+perdón (§ 669); cf. capítulo VIII, § 808. La célebre formulación hegeliana de
+que «las heridas del espíritu sanan sin dejar cicatrices» aparece en el
+contexto de la reconciliación de las conciencias mediante el reconocimiento
+y el perdón. Para Hegel, el acto singular no permanece como una
+determinación insuperable, sino que puede ser asumido como momento del
+movimiento del espíritu. Esto no significa que la dialéctica elimine
+simplemente lo acontecido: la Auf hebung implica negación y conservación,
+y la experiencia precedente permanece recogida en la rememoración
+(Erinnerung). La diferencia con la ontología desarrollada en este libro
+reside en el modo de comprender la permanencia de las determinaciones del
+ego individual. Los colapsos pasados del ego no se superan sin huella: se
+integran a la integral y la modifican de manera permanente. No se trata de
+una superación dialéctica que transforme los acontecimientos singulares en
+momentos de una reconciliación, sino de una integración que acumula sin
+eliminar sus determinaciones históricas. El ego no crece dejando atrás sus
+colapsos como momentos superados: crece integrándolos. Esta distinción
+entre la reconciliación dialéctica hegeliana y la integración histórica del ego
+constituye una diferencia fundamental entre ambos planteamientos.
 [145] Freud, Sigmund. Más allá del principio del placer (1920). La
 «compulsión de repetición» que Freud describe —la tendencia de los
 sujetos a repetir experiencias dolorosas que no logran integrar— es el caso
@@ -7336,6 +7350,16 @@ completamente por él.
 [146] Parfit, Derek. Razones y personas (1984), Parte III: «Identidad
 personal». Parfit argumentó que la identidad personal a lo largo del tiempo
 es un hecho menos determinado de lo que ordinariamente suponemos: no
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+171
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 hay un hecho preciso sobre si el yo de hoy es el mismo que el de ayer, en
 cualquier sentido que trascienda la continuidad psicológica de los estados
 mentales. La consecuencia que Parfit extrae es que la responsabilidad debería
@@ -7354,15 +7378,6 @@ que la situación hace de sus elementos y que fuerza al sujeto a una elección
 —a «apostar» por el acontecimiento y construir una «verdad» que lo
 desarrolla en el tiempo. Lo que Badiou llama fidelidad al acontecimiento es,
 en el vocabulario de este libro, la integración del acontecimiento a la
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-171
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 integral del ego —el proceso por el cual el ego que fue tocado por el
 acontecimiento construye su historia posterior desde esa marca. La segunda
 mediación es, en los términos más dramáticos de Badiou, la fidelidad del
@@ -7379,11 +7394,36 @@ integra este desajuste a la integral del ego: el agente que actuó acraticamente
 no puede ignorar que actuó de esa manera, aunque juzgue que no debería
 haberlo hecho. Este tipo de integración —la integración de los colapsos que
 el ego evalúa negativamente— es parte de lo que la segunda mediación
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+172
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 produce: no solo la incorporación de lo que el ego juzga bien hecho sino
 también la incorporación de lo que el ego juzga mal hecho, con toda la
 carga que eso implica.
 [149]
-[150]
+Freud,
+Sigmund,
+«Erinnern,
+Wiederholen
+und
+Durcharbeiten» («Recordar, repetir y reelaborar», 1914), y Jenseits des
+Lustprinzips (Más allá del principio de placer, 1920), particularmente el
+examen de la compulsión de repetición. En 1914 Freud trata la repetición y la
+actuación en relación con el recuerdo, la resistencia y el trabajo analítico; en
+1920 amplía el problema en una elaboración metapsicológica distinta.
+[150] Sartre, Jean-Paul, L’Être et le Néant (El ser y la nada, 1943), primera
+parte, capítulo II, «La mala fe», especialmente el análisis de las conductas
+de mala fe y el ejemplo del camarero de café. Sartre examina la
+identificación con un papel social como una manera de ocultar, en la
+relación entre facticidad y trascendencia, la libertad que no puede reducirse
+al desempeño de ese papel.
 [151] Nietzsche, Friedrich. Así habló Zaratustra (1883-1885), Segunda Parte:
 «De la redención». La célebre meditación de Zaratustra sobre la voluntad y
 el tiempo: la voluntad no puede querer hacia atrás, no puede querer que lo
@@ -7396,22 +7436,22 @@ retrospectiva de lo que no puede cambiar. En los términos de este libro: la
 segunda mediación puede fallar de la manera que Nietzsche describe —
 cuando el ego no integra el colapso pasado sino que lo porta como
 resentimiento ante lo que no puede deshacerse. La integración exitosa de la
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-172
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 segunda mediación es, en este sentido, lo que Nietzsche llama la voluntad
 que quiere hacia atrás: no negación del pasado sino afirmación de que el
 pasado es parte de lo que el ego quiere ser.
 [152] Mill, John Stuart. El utilitarismo (1863), Cap. II. Mill define la utilidad
 como la felicidad: el placer y la ausencia de dolor. Una acción es correcta en
 la medida en que tiende a producir felicidad; incorrecta en la medida en que
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+173
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 tiende a producir lo contrario. El consecuencialismo utilitarista evalúa los
 actos por sus resultados —no por las intenciones que los produjeron. Lo que
 este libro señala frente al consecuencialismo es la distinción entre la
@@ -7422,7 +7462,17 @@ voluntad orientada?). Un acto puede evaluarse como dañoso sin que el
 agente que lo produjo sea por eso responsable del daño, si el daño fue
 resultado de una cadena causal que el agente no podía prever ni controlar
 desde su primera mediación.
-[153]
+[153] Kant, Immanuel, Grundlegung zur Metaphysik der Sitten
+(Fundamentación de la metaf ísica de las costumbres, 1785), secciones I–III;
+para el problema de la causalidad y la libertad, véase también Kritik der
+reinen Vernunft (Crítica de la razón pura), Dialéctica trascendental, tercera
+antinomia, A 444/B 472 y ss. La relevancia moral de la máxima y de actuar
+por deber se desarrolla ya en la primera sección de la Fundamentación. Kant
+no omitió el problema de la causalidad libre: lo abordó expresamente
+distinguiendo los puntos de vista fenoménico e inteligible. La crítica
+formulada en este libro debe entenderse, más precisamente, como la
+insuficiencia de esa respuesta para explicitar la condición causal mínima del
+acto en los términos de la primera mediación.
 [154] Williams, Bernard. «A Critique of Utilitarianism» (1973), en
 Utilitarianism: For and Against. Williams argumentó que el
 consecuencialismo ignora la distinción entre lo que el agente hace y lo que
@@ -7436,19 +7486,18 @@ del agente con sus propios proyectos, no en el cálculo de consecuencias que
 trascienden la esfera de acción del agente.
 [155] Taylor, Charles. Fuentes del yo: la construcción de la identidad
 moderna (1989), Cap. 2: «El yo en el espacio moral». Taylor argumenta que
-la identidad del yo es inseparable de la orientación hacia el bien: el yo
-siempre existe en relación con un horizonte de valores que define qué cosas
-merecen atención y compromiso y cuáles no. «Saber quién eres es saber qué
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-173
+174
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 CAOS
 
+la identidad del yo es inseparable de la orientación hacia el bien: el yo
+siempre existe en relación con un horizonte de valores que define qué cosas
+merecen atención y compromiso y cuáles no. «Saber quién eres es saber qué
 posición tomas.» Esta tesis de Taylor es relevante para la segunda mediación
 porque muestra que el retorno del acto al ego no es simplemente un proceso
 causal neutro —el acto que modifica disposiciones— sino un proceso
@@ -7460,7 +7509,7 @@ morales.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-174
+175
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7496,7 +7545,7 @@ calienta el hierro. Observamos que la bola de billar A golpea a la bola B y B
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-175
+176
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7539,7 +7588,7 @@ temporal. Kant preserva la necesidad de la conexión causal a costa de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-176
+177
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7582,7 +7631,7 @@ permanece intacto.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-177
+178
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7625,7 +7674,7 @@ de causa interna del agente funda la responsabilidad: no cualquier motivo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-178
+179
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7666,7 +7715,7 @@ condición, el evento no ocurre.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-179
+180
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7709,7 +7758,7 @@ sujeto con esta historia de colapsos, con esta función acumulativa, con esta
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-180
+181
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7752,7 +7801,7 @@ no deliberan sobre sus respuestas, no pueden ser interpeladas después del acto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-181
+182
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7795,7 +7844,7 @@ segunda mediación. El mundo simplemente cambia de estado. El ego, en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-182
+183
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7838,7 +7887,7 @@ dos años que rompe un jarrón no tiene primera mediación en el sentido que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-183
+184
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7881,7 +7930,7 @@ exterior elimina el campo de acción de la víctima. El adicto puede estar en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-184
+185
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7924,7 +7973,7 @@ causal —el ego— colisiona con las condiciones del mundo y produce un
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-185
+186
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7967,7 +8016,7 @@ produciría azar, no libertad: si el acto depende de fluctuaciones cuánticas, e
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-186
+187
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8009,7 +8058,7 @@ cuatro niveles no se contradicen sino que se necesitan —que el ego completo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-187
+188
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8052,7 +8101,7 @@ que vive es siempre una pregunta en curso —una función abierta que tiende
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-188
+189
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8095,7 +8144,7 @@ principio porque toda filosof ía del ego que se tome en serio debe comenzar
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-189
+190
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8137,7 +8186,7 @@ puede identificar pero que la vida misma debe encarnar. Si el ego es el caos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-190
+191
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8180,7 +8229,7 @@ polo objetivo puro: es el colapso que produce la intersección de los dos. Y ese
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-191
+192
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8222,7 +8271,7 @@ ha adquirido la expectativa de que B seguirá a A.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-192
+193
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8266,7 +8315,7 @@ demonio de Laplace es el adversario filosófico más poderoso de cualquier
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-193
+194
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8309,7 +8358,7 @@ cuya sola presencia garantiza el evento: una temperatura suficientemente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-194
+195
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8353,7 +8402,7 @@ imputamos sino tratamos, no responsabilizamos sino gestionamos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-195
+196
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8397,7 +8446,7 @@ irreductible a la causalidad de eventos: no puede describirse en términos de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-196
+197
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8440,7 +8489,7 @@ dimensión temporal de la existencia humana: el sí mismo no es una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-197
+198
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8482,7 +8531,7 @@ mundo, no los hechos; no lo que puede expresarse mediante el lenguaje. En
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-198
+199
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8512,7 +8561,7 @@ infinito: hace algo con él.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-199
+200
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8548,7 +8597,7 @@ verificable mediante la sola aritmética de los números reales.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-200
+201
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8586,7 +8635,7 @@ la condición 0 < |x − x₀|) mientras exige que x esté a distancia menor que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-201
+202
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8627,7 +8676,7 @@ todos los colapsos que lo rodean, que convergen hacia el punto presente.[178]
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-202
+203
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8664,7 +8713,7 @@ f es continua en x₀ si y solo si:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-203
+204
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8706,7 +8755,7 @@ cuadrados perfectos tienen la misma cardinalidad, aunque los cuadrados
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-204
+205
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8743,7 +8792,7 @@ r₁, r₂, r₃, r₄, …
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-205
+206
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8779,7 +8828,7 @@ produce siempre algo que excede al proceso mismo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-206
+207
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8818,7 +8867,7 @@ número finito de pasos.[184] Esta posición —el intuicionismo— tiene una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-207
+208
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8858,7 +8907,7 @@ definida caso por caso.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-208
+209
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8899,7 +8948,7 @@ momento. El ego es esa función, no su espectro.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-209
+210
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8938,7 +8987,7 @@ recta es:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-210
+211
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8973,7 +9022,7 @@ inmediato. Y nada más que eso es necesario.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-211
+212
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9011,7 +9060,7 @@ Teorema 3 (Bolzano-Weierstrass)
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-212
+213
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9053,7 +9102,7 @@ intersección de todas las etapas.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-213
+214
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9093,7 +9142,7 @@ ser.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-214
+215
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9135,7 +9184,7 @@ conjunto de colapsos contiene todos sus propios puntos de acumulación, ya
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-215
+216
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9177,7 +9226,7 @@ Notas
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-216
+217
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9221,7 +9270,7 @@ si x es irracional, es el ejemplo estándar de una función sin límite en ning�
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-217
+218
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9264,7 +9313,7 @@ Mannigfaltigkeitslehre» (1891). Este breve artículo, de apenas tres páginas,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-218
+219
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9308,7 +9357,7 @@ reales» como un objeto completado era una confusión categorial: el infinito
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-219
+220
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9350,7 +9399,7 @@ de notas de estudiantes, publicadas postumamente). El teorema de BolzanoWeierstr
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-220
+221
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9385,7 +9434,7 @@ entre colapsos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-221
+222
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9421,7 +9470,7 @@ la interpretación de la función de onda. Max Born propuso en 1926 que la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-222
+223
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9462,7 +9511,7 @@ una combinación de todos los vectores base. El espacio de Hilbert cuántico
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-223
+224
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9502,7 +9551,7 @@ La mecánica cuántica estándar —en la formulación de von Neumann de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-224
+225
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9542,7 +9591,7 @@ operación permitida por la mecánica cuántica. La información sobre los
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-225
+226
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9585,7 +9634,7 @@ Para un grano de polvo de un micrómetro, el tiempo de decoherencia en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-226
+227
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9624,7 +9673,7 @@ Para posición y momentum, esto da:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-227
+228
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9666,7 +9715,7 @@ interpretación es la correcta: no existe ninguna teoría de variables ocultas
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-228
+229
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9707,7 +9756,7 @@ de incertidumbre en la observable complementaria.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-229
+230
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9747,7 +9796,7 @@ sí misma.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-230
+231
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9789,7 +9838,7 @@ superposición en que se encuentra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-231
+232
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9830,7 +9879,7 @@ comparten— es la que el libro requiere. Esa estructura es:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-232
+233
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9868,7 +9917,7 @@ no-localidad), y GRW lo preserva haciendo del colapso un evento f ísico real
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-233
+234
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9906,7 +9955,7 @@ ONTOLOGÍA DEL EGO: Pesos de las posibilidades en el caos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-234
+235
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9941,7 +9990,7 @@ DEL EGO: Constitución intersubjetiva del ego
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-235
+236
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9982,7 +10031,7 @@ independientemente a múltiples observadores— e irreversible —la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-236
+237
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10025,7 +10074,7 @@ después de cada determinación. El ego que ha colapsado no ha eliminado el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-237
+238
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10068,7 +10117,7 @@ al ego son genuinas: el ego emerge de las interacciones, no preexiste a ellas.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-238
+239
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10109,7 +10158,7 @@ colapso ni modifica sus disposiciones. La segunda mediación es específica del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-239
+240
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10151,7 +10200,7 @@ nivel más básico conocido, está construido del mismo material que el ego:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-240
+241
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10193,7 +10242,7 @@ uno de los dos estados pero no sepamos cuál. La superposición es el estado
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-241
+242
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10236,7 +10285,7 @@ desigualdades estadísticas. La mecánica cuántica viola estas desigualdades.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-242
+243
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10279,7 +10328,7 @@ muerto es obviamente absurdo, luego algo en la cadena de razonamiento
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-243
+244
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10322,7 +10371,7 @@ estados que colapsan se vuelven redundantemente inscritos en el entorno, y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-244
+245
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10363,7 +10412,7 @@ epistemológica sino ontológica.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-245
+246
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10406,7 +10455,7 @@ un resultado diferente. DeWitt calculó que las bifurcaciones ocurren con
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-246
+247
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10448,7 +10497,7 @@ información del observador.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-247
+248
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10485,7 +10534,7 @@ otro.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-248
+249
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10525,7 +10574,7 @@ ninguna determinación ocurra, como en el sujeto antes del primer acto).
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-249
+250
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10565,7 +10614,7 @@ función acumulativa del sujeto (segunda mediación). La ausencia de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-250
+251
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10605,7 +10654,7 @@ precede y orienta el acto. La mediación del ego no elimina la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-251
+252
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10645,7 +10694,7 @@ determina, la posibilidad colapsa— pero no hay polo con intencionalidad.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-252
+253
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10686,7 +10735,7 @@ disposiciones incorporadas que generan prácticas de manera cuasi-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-253
+254
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10726,7 +10775,7 @@ presuposición de que hubo primera mediación de algún tipo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-254
+255
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10767,7 +10816,7 @@ mundo que eliminan toda alternativa real.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-255
+256
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10807,7 +10856,7 @@ misma función. Un ego que integra sus actos sin evaluarlos —sin
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-256
+257
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10847,7 +10896,7 @@ mediación es la definición funcional del ego.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-257
+258
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10886,7 +10935,7 @@ responsabilidad, mediación neutral
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-258
+259
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10925,7 +10974,7 @@ intersección con el mundo. El ego no es una entidad sino un proceso;
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-259
+260
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10965,7 +11014,7 @@ sine qua non, identidad del ego
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-260
+261
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11006,7 +11055,7 @@ campo del ego individual. Impermeabilidad causal significa que los colapsos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-261
+262
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11047,7 +11096,7 @@ accidente modifica el campo; no elimina al ego que opera desde ese campo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-262
+263
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11088,7 +11137,7 @@ porque alguna causa f ísica lo habría producido independientemente), el ego
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-263
+264
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11129,7 +11178,7 @@ ulteriores produjeron consecuencias que el ego no podía prever. Esta
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-264
+265
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11170,7 +11219,7 @@ orientación fue la condición necesaria del acto producido. La imputación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-265
+266
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11209,7 +11258,7 @@ sistema tiene relaciones explícitas con la filosof ía de la acción (Davidson,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-266
+267
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11253,7 +11302,7 @@ cuya estructura formal es isomorfa a la del colapso del ego (Apéndice II).
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-267
+268
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11296,7 +11345,7 @@ longitud desde la que se lo observa. Las propiedades relevantes a escala
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-268
+269
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11339,7 +11388,7 @@ derecho (test but-for) y en filosof ía de la causalidad. Para el ego como
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-269
+270
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11362,6 +11411,6 @@ sistema normativo en que opera la imputación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-270
+271
 
 
