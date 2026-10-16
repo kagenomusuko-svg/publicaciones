@@ -6663,9 +6663,9 @@ operando de manera acumulativa, modificando la función del ego que
 actúa.
 Hegel formuló la tesis opuesta a la que este libro defiende cuando afirmó que
 la herida del espíritu sana sin dejar cicatriz.[144] En el sistema hegeliano, la
-contradicción se supera mediante la Aufhebung: negación que conserva y
+contradicción se supera mediante la Auf hebung: negación que conserva y
 eleva. El espíritu crece superando sus contradicciones. En el sistema de este
-libro, el ego no supera sus colapsos: los integra. No hay Aufhebung en la
+libro, el ego no supera sus colapsos: los integra. No hay Auf hebung en la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6949,10 +6949,11 @@ cuestión de la causalidad: ¿cómo se relaciona la máxima de la voluntad con
 el acto que produce y con sus consecuencias?[153] La posición de este libro
 responde a esta laguna: la primera mediación es tanto la orientación
 intencional de la voluntad (la dimensión kantiana) como la condición
-causal sine qua non del acto (la dimensión que el kantismo deja incompleta).
-La responsabilidad es tanto intencional como causal: requiere que el sujeto
-haya orientado su voluntad (primera mediación) y que esa orientación haya
-producido causalmente el acto (sin primera mediación no hay imputación).
+causal sine qua non del acto (la dimensión que el kantismo deja
+incompleta). La responsabilidad es tanto intencional como causal: requiere
+que el sujeto haya orientado su voluntad (primera mediación) y que esa
+orientación haya producido causalmente el acto (sin primera mediación no
+hay imputación).
 Bernard Williams criticó el consecuencialismo señalando que ignora los
 «proyectos» del agente —sus compromisos que constituyen su integridad
 —, que no pueden ser sacrificados sin resto a la maximización de las
@@ -6963,8 +6964,7 @@ voluntad hacia un objeto representado como valioso— no puede ser tratado
 como si su primera mediación no importara, como si solo importara el
 resultado que se obtiene a través de él. La integridad que Williams defiende
 es la integridad de la función del ego: la consistencia entre la primera
-mediación y los actos que produce, entre lo que el ego se compromete a ser y
-lo que efectivamente hace.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6974,6 +6974,8 @@ A.C.
 
 CAOS
 
+mediación y los actos que produce, entre lo que el ego se compromete a ser y
+lo que efectivamente hace.
 Charles Taylor argumentó que la identidad del yo es inseparable de la
 orientación hacia el bien: saber quién eres es saber qué posición tomas en el
 espacio moral.[155] La primera mediación es exactamente la posición que el
@@ -7005,9 +7007,7 @@ libro
 Este capítulo ha recorrido la doble mediación en toda su extensión: desde la
 primera mediación que orienta la voluntad, pasando por el acto que
 materializa esa orientación de manera irreversible, hasta la segunda
-mediación que integra el acto a la función del ego y transforma a quien
-actuó. Conviene consolidar la fórmula completa y señalar con precisión la
-pregunta que el capítulo final trabajará.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7017,6 +7017,9 @@ A.C.
 
 CAOS
 
+mediación que integra el acto a la función del ego y transforma a quien
+actuó. Conviene consolidar la fórmula completa y señalar con precisión la
+pregunta que el capítulo final trabajará.
 La fórmula del ego, formulada con la precisión que los capítulos anteriores
 han permitido construir, es esta: el ego es la función acumulativa que
 emerge de la aplicación sucesiva de la doble mediación al sujeto que colapsa
@@ -7046,10 +7049,6 @@ esos elementos en la fórmula: la doble mediación como estructura completa
 del colapso del ego.
 Pero la fórmula del ego no responde todavía la pregunta más antigua y más
 difícil: ¿en qué sentido el ego causa algo? La doble mediación describe la
-estructura del acto del ego y funda la imputación causal sobre la primera
-mediación. Pero la causalidad es una categoría que la filosof ía ha debatido
-durante milenios sin resolución definitiva. Hume disolvió la causalidad en la
-costumbre. Kant la recuperó como categoría a priori del entendimiento. La
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7060,6 +7059,10 @@ A.C.
 
 CAOS
 
+estructura del acto del ego y funda la imputación causal sobre la primera
+mediación. Pero la causalidad es una categoría que la filosof ía ha debatido
+durante milenios sin resolución definitiva. Hume disolvió la causalidad en la
+costumbre. Kant la recuperó como categoría a priori del entendimiento. La
 física cuántica la complicó con la indeterminación. El determinismo la
 extiende hasta hacer ilusoria la responsabilidad. El libertarismo la reivindica
 a costa de postular una libertad que la ciencia no puede confirmar.
@@ -7067,12 +7070,13 @@ El capítulo final trabaja esta pregunta: no para resolverla con una teoría
 definitiva de la causalidad —empresa que excede los propósitos de este libro
 — sino para mostrar cómo la estructura de la doble mediación hace posible
 una forma de causalidad que no requiere ni el determinismo completo ni el
-libertarismo absoluto. El ego como condición sine qua non del acto —como
-polo indispensable de la intersección que produce el colapso— es la forma de
-causalidad que este libro defiende: no la causalidad del mecanismo que
-produce efectos necesarios, no la causalidad del espíritu incausado que crea
-desde la nada, sino la causalidad del ego que colapsa en la intersección con el
-mundo y que, al colapsar, determina algo que sin él no habría ocurrido.
+libertarismo absoluto. El ego como condición sine qua non del acto —
+como polo indispensable de la intersección que produce el colapso— es la
+forma de causalidad que este libro defiende: no la causalidad del mecanismo
+que produce efectos necesarios, no la causalidad del espíritu incausado que
+crea desde la nada, sino la causalidad del ego que colapsa en la intersección
+con el mundo y que, al colapsar, determina algo que sin él no habría
+ocurrido.
 A eso vamos.
 Notas
 Las siguientes notas amplían los interlocutores filosóficos citados en el
@@ -7088,11 +7092,6 @@ deliberación (bouleusis) y movimiento (kinesis). La voluntad (boulesis) es el
 deseo racional que apunta al bien en general; el apetito (epithymia) apunta
 al placer inmediato; el ánimo (thymos) apunta a la victoria o la venganza. El
 movimiento voluntario requiere que el deseo y la inteligencia práctica (nous
-praktikos) converjan: la inteligencia presenta el fin como bueno y el deseo se
-orienta hacia él. Lo que Aristóteles describe como la convergencia entre
-deseo e inteligencia práctica es estructuralmente lo que este capítulo llama
-primera mediación: el momento donde la voluntad se determina hacia un
-objeto representado como deseable y la acción se orienta hacia ese objeto.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7102,6 +7101,11 @@ A.C.
 
 CAOS
 
+praktikos) converjan: la inteligencia presenta el fin como bueno y el deseo se
+orienta hacia él. Lo que Aristóteles describe como la convergencia entre
+deseo e inteligencia práctica es estructuralmente lo que este capítulo llama
+primera mediación: el momento donde la voluntad se determina hacia un
+objeto representado como deseable y la acción se orienta hacia ese objeto.
 [131] Kant, Immanuel. Fundamentación de la metaf ísica de las costumbres
 (1785), Segunda Sección. La voluntad buena en Kant es la voluntad que actúa
 por deber —no en conformidad con el deber sino por deber, por respeto a la
@@ -7131,12 +7135,6 @@ como mero evento.
 Philosophy. Davidson argumentó que las razones para actuar pueden ser
 causas de la acción: el par creencia-deseo que constituye la razón del agente
 puede ser idéntico al estado mental que causó el movimiento corporal. Esta
-posición, que Davidson formuló posteriormente como monismo anómalo
-en «Mental Events» (1970), sostiene que los eventos mentales son idénticos
-a eventos f ísicos, aunque las descripciones mentales (intencionales) y f ísicas
-(causales) no sean reducibles entre sí. La relevancia para el argumento de la
-primera mediación es que la intención no es un epifenómeno añadido a la
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7146,6 +7144,11 @@ A.C.
 
 CAOS
 
+posición, que Davidson formuló posteriormente como monismo anómalo
+en «Mental Events» (1970), sostiene que los eventos mentales son idénticos
+a eventos f ísicos, aunque las descripciones mentales (intencionales) y f ísicas
+(causales) no sean reducibles entre sí. La relevancia para el argumento de la
+primera mediación es que la intención no es un epifenómeno añadido a la
 causalidad f ísica: es ella misma causalmente eficaz, aunque no pueda
 describirse en los términos de la causalidad f ísica.
 [134] Sartre, Jean-Paul. El ser y la nada (1943), Parte IV, Cap. I: «Ser y hacer:
@@ -7175,11 +7178,6 @@ más básico de la acción intencional.
 [136] Frankfurt, Harry. «Alternate Possibilities and Moral
 Responsibility» (1969), Journal of Philosophy. Frankfurt argumentó contra
 el «principio de las posibilidades alternativas» —la tesis de que alguien es
-responsable de un acto solo si podría haber actuado de otra manera. Propuso
-casos donde el agente actúa de cierta manera pero hay un factor de fondo
-que le hubiera impedido actuar de otra manera si hubiera intentado hacerlo.
-En estos casos, el agente actúa por sus propias razones, sin que el factor de
-fondo intervenga, y parece plenamente responsable aunque no podría haber
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7189,6 +7187,11 @@ A.C.
 
 CAOS
 
+responsable de un acto solo si podría haber actuado de otra manera. Propuso
+casos donde el agente actúa de cierta manera pero hay un factor de fondo
+que le hubiera impedido actuar de otra manera si hubiera intentado hacerlo.
+En estos casos, el agente actúa por sus propias razones, sin que el factor de
+fondo intervenga, y parece plenamente responsable aunque no podría haber
 actuado de otra manera. Lo que los «casos Frankfurt» muestran para el
 argumento de este libro es que la responsabilidad no requiere la posibilidad
 abstracta de haber actuado de otra manera: requiere que el acto haya sido
@@ -7218,11 +7221,7 @@ ocurre al sujeto desde afuera (desde causas externas inadecuadas), la acción es
 aquello que el sujeto produce desde adentro (desde su propia naturaleza
 como causa adecuada). Esta distinción spinoziana entre pasión y acción es el
 antecedente más preciso de la distinción de este libro entre el accidente (lo
-que le ocurre al sujeto desde escalas que no opera) y la primera mediación (lo
-que el sujeto produce desde su propio colapso).
-[139] Bernard Williams, «Moral Luck» (1976), en Moral Luck (1981).
-Williams señaló que la práctica ordinaria de la responsabilidad moral
-incluye de hecho elementos de «suerte moral»: los resultados de las acciones
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7232,6 +7231,11 @@ A.C.
 
 CAOS
 
+que le ocurre al sujeto desde escalas que no opera) y la primera mediación (lo
+que el sujeto produce desde su propio colapso).
+[139] Bernard Williams, «Moral Luck» (1976), en Moral Luck (1981).
+Williams señaló que la práctica ordinaria de la responsabilidad moral
+incluye de hecho elementos de «suerte moral»: los resultados de las acciones
 —que dependen en parte de factores que el agente no controla— afectan
 nuestros juicios sobre la responsabilidad del agente. El conductor que en
 condiciones de lluvia atropella a un niño que cruza inesperadamente es
@@ -7261,12 +7265,6 @@ del acto.
 [141] Ricoeur, Paul. Sí mismo como otro (1990), Cap. VI: «El sí mismo y la
 identidad narrativa». Ricoeur distingue entre la identidad-idem (la
 mismidad: el sustrato material y las disposiciones estables que persisten en el
-tiempo) y la identidad-ipse (la ipseidad: la identidad del sujeto que se
-mantiene a sí mismo mediante el compromiso y la responsabilidad). La
-identidad narrativa es la síntesis de ambas: la historia de vida que el sujeto
-construye e interpreta, integrando continuidades y discontinuidades en una
-trama coherente. La segunda mediación, en los términos de Ricoeur, es el
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7276,6 +7274,11 @@ A.C.
 
 CAOS
 
+tiempo) y la identidad-ipse (la ipseidad: la identidad del sujeto que se
+mantiene a sí mismo mediante el compromiso y la responsabilidad). La
+identidad narrativa es la síntesis de ambas: la historia de vida que el sujeto
+construye e interpreta, integrando continuidades y discontinuidades en una
+trama coherente. La segunda mediación, en los términos de Ricoeur, es el
 momento donde el acto se integra a la narrativa del sujeto y modifica
 retroactivamente tanto la idem-identidad (las disposiciones adquiridas)
 como la ipse-identidad (los compromisos que el acto confirma, viola o
@@ -7304,12 +7307,7 @@ del ego, no solo añade un elemento a una lista sino que modifica las
 disposiciones del sujeto, las tendencias de respuesta, las percepciones de las
 situaciones futuras. El ego que actúa una vez no es idéntico al que actuará la
 próxima vez porque el acto ha modificado sus disposiciones.
-[144] Hegel, G. W. F. Fenomenología del espíritu (1807), capítulo VI, «El
-espíritu», apartado sobre la conciencia moral, el alma bella, el mal y el
-perdón (§ 669); cf. capítulo VIII, § 808. La célebre formulación hegeliana de
-que «las heridas del espíritu sanan sin dejar cicatrices» aparece en el
-contexto de la reconciliación de las conciencias mediante el reconocimiento
-y el perdón. Para Hegel, el acto singular no permanece como una
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7319,9 +7317,15 @@ A.C.
 
 CAOS
 
+[144] Hegel, G. W. F. Fenomenología del espíritu (1807), capítulo VI, «El
+espíritu», apartado sobre la conciencia moral, el alma bella, el mal y el
+perdón (§ 669); cf. capítulo VIII, § 808. La célebre formulación hegeliana de
+que «las heridas del espíritu sanan sin dejar cicatrices» aparece en el
+contexto de la reconciliación de las conciencias mediante el reconocimiento
+y el perdón. Para Hegel, el acto singular no permanece como una
 determinación insuperable, sino que puede ser asumido como momento del
 movimiento del espíritu. Esto no significa que la dialéctica elimine
-simplemente lo acontecido: la Aufhebung implica negación y conservación,
+simplemente lo acontecido: la Auf hebung implica negación y conservación,
 y la experiencia precedente permanece recogida en la rememoración
 (Erinnerung). La diferencia con la ontología desarrollada en este libro
 reside en el modo de comprender la permanencia de las determinaciones del
@@ -7347,12 +7351,6 @@ completamente por él.
 [146] Parfit, Derek. Razones y personas (1984), Parte III: «Identidad
 personal». Parfit argumentó que la identidad personal a lo largo del tiempo
 es un hecho menos determinado de lo que ordinariamente suponemos: no
-hay un hecho preciso sobre si el yo de hoy es el mismo que el de ayer, en
-cualquier sentido que trascienda la continuidad psicológica de los estados
-mentales. La consecuencia que Parfit extrae es que la responsabilidad debería
-ser también menos determinada de lo que solemos pensar: ¿en qué sentido
-soy responsable de lo que hizo «yo» hace veinte años? La posición de este
-libro responde a Parfit desde la segunda mediación: la continuidad del ego
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7363,6 +7361,12 @@ A.C.
 
 CAOS
 
+hay un hecho preciso sobre si el yo de hoy es el mismo que el de ayer, en
+cualquier sentido que trascienda la continuidad psicológica de los estados
+mentales. La consecuencia que Parfit extrae es que la responsabilidad debería
+ser también menos determinada de lo que solemos pensar: ¿en qué sentido
+soy responsable de lo que hizo «yo» hace veinte años? La posición de este
+libro responde a Parfit desde la segunda mediación: la continuidad del ego
 no requiere la identidad metaf ísica que Parfit disuelve. Requiere la
 continuidad funcional de la integral: los colapsos pasados han modificado la
 función del sujeto presente, y esa modificación —independientemente de si
@@ -7379,7 +7383,7 @@ integral del ego —el proceso por el cual el ego que fue tocado por el
 acontecimiento construye su historia posterior desde esa marca. La segunda
 mediación es, en los términos más dramáticos de Badiou, la fidelidad del
 ego a los colapsos que lo han transformado.
-[148] El problema de la akrasia (akrasia) —la debilidad de la voluntad,
+[148] El problema de la acraсia (akrasia) —la debilidad de la voluntad,
 actuar en contra del propio juicio sobre lo que es mejor— es uno de los más
 estudiados en filosof ía de la acción desde Aristóteles (Ética a Nicómaco,
 Libro VII). Si el agente actúa en contra de lo que juzga mejor, ¿cuál es el
@@ -7391,6 +7395,16 @@ integra este desajuste a la integral del ego: el agente que actuó acraticamente
 no puede ignorar que actuó de esa manera, aunque juzgue que no debería
 haberlo hecho. Este tipo de integración —la integración de los colapsos que
 el ego evalúa negativamente— es parte de lo que la segunda mediación
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+172
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 produce: no solo la incorporación de lo que el ego juzga bien hecho sino
 también la incorporación de lo que el ego juzga mal hecho, con toda la
 carga que eso implica.
@@ -7402,15 +7416,6 @@ Wiederholen
 und
 Durcharbeiten» («Recordar, repetir y reelaborar», 1914), y Jenseits des
 Lustprinzips (Más allá del principio de placer, 1920), particularmente el
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-172
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 examen de la compulsión de repetición. En 1914 Freud trata la repetición y la
 actuación en relación con el recuerdo, la resistencia y el trabajo analítico; en
 1920 amplía el problema en una elaboración metapsicológica distinta.
@@ -7438,13 +7443,7 @@ pasado es parte de lo que el ego quiere ser.
 [152] Mill, John Stuart. El utilitarismo (1863), Cap. II. Mill define la utilidad
 como la felicidad: el placer y la ausencia de dolor. Una acción es correcta en
 la medida en que tiende a producir felicidad; incorrecta en la medida en que
-tiende a producir lo contrario. El consecuencialismo utilitarista evalúa los
-actos por sus resultados —no por las intenciones que los produjeron. Lo que
-este libro señala frente al consecuencialismo es la distinción entre la
-evaluación del acto (que puede hacerse con criterios consecuencialistas: ¿qué
-produjo?) y la imputación de responsabilidad al agente (que debe hacerse con
-criterios de primera mediación: ¿qué determinó el agente mediante su
-voluntad orientada?). Un acto puede evaluarse como dañoso sin que el
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7454,6 +7453,13 @@ A.C.
 
 CAOS
 
+tiende a producir lo contrario. El consecuencialismo utilitarista evalúa los
+actos por sus resultados —no por las intenciones que los produjeron. Lo que
+este libro señala frente al consecuencialismo es la distinción entre la
+evaluación del acto (que puede hacerse con criterios consecuencialistas: ¿qué
+produjo?) y la imputación de responsabilidad al agente (que debe hacerse con
+criterios de primera mediación: ¿qué determinó el agente mediante su
+voluntad orientada?). Un acto puede evaluarse como dañoso sin que el
 agente que lo produjo sea por eso responsable del daño, si el daño fue
 resultado de una cadena causal que el agente no podía prever ni controlar
 desde su primera mediación.
@@ -7481,13 +7487,6 @@ del agente con sus propios proyectos, no en el cálculo de consecuencias que
 trascienden la esfera de acción del agente.
 [155] Taylor, Charles. Fuentes del yo: la construcción de la identidad
 moderna (1989), Cap. 2: «El yo en el espacio moral». Taylor argumenta que
-la identidad del yo es inseparable de la orientación hacia el bien: el yo
-siempre existe en relación con un horizonte de valores que define qué cosas
-merecen atención y compromiso y cuáles no. «Saber quién eres es saber qué
-posición tomas.» Esta tesis de Taylor es relevante para la segunda mediación
-porque muestra que el retorno del acto al ego no es simplemente un proceso
-causal neutro —el acto que modifica disposiciones— sino un proceso
-cargado de valor: cada acto confirma, viola o transforma la orientación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7497,6 +7496,13 @@ A.C.
 
 CAOS
 
+la identidad del yo es inseparable de la orientación hacia el bien: el yo
+siempre existe en relación con un horizonte de valores que define qué cosas
+merecen atención y compromiso y cuáles no. «Saber quién eres es saber qué
+posición tomas.» Esta tesis de Taylor es relevante para la segunda mediación
+porque muestra que el retorno del acto al ego no es simplemente un proceso
+causal neutro —el acto que modifica disposiciones— sino un proceso
+cargado de valor: cada acto confirma, viola o transforma la orientación
 moral del ego, su posición en el espacio de valores. La integral del ego no es
 solo la acumulación de determinaciones: es la acumulación de posiciones
 morales.
@@ -7744,9 +7750,9 @@ habría ocurrido—, entonces el acto del agente fue condición sine qua non
 del daño y la imputación está fundada. Si la respuesta es sí —el daño habría
 ocurrido de todas maneras— el acto del agente no fue condición necesaria
 del daño y la imputación no puede fundarse en esa relación causal. La prueba
-contrafáctica jurídica es exactamente la prueba de la condición sine qua non:
-no pregunta si el agente fue la causa total del daño, sino si sin el agente el
-daño no habría ocurrido.
+contrafáctica jurídica es exactamente la prueba de la condición sine qua
+non: no pregunta si el agente fue la causa total del daño, sino si sin el agente
+el daño no habría ocurrido.
 La aplicación de esta lógica al ego como condición sine qua non del acto
 humano produce la tesis central de este capítulo: sin este ego —sin este
 sujeto con esta historia de colapsos, con esta función acumulativa, con esta
@@ -8123,11 +8129,11 @@ nivel hacia el primero. La pregunta nietzscheana —¿podrías querer la
 repetición infinita de tu vida?— solo tiene sentido respecto de la integral
 cerrada (cuarto nivel). Esa integral cerrada está compuesta por todos los
 colapsos integrados en la función (segundo nivel). Cada colapso fue
-producido por la condición sine qua non del ego (tercer nivel) desde el punto
-de partida del sujeto que existía antes del primer colapso (primer nivel). El
-sujeto es la condición; la función es el proceso; la condición sine qua non es
-la responsabilidad; la respuesta total es el sentido. Y el sentido no preexiste al
-proceso: emerge de él, al cerrarse.
+producido por la condición sine qua non del ego (tercer nivel) desde el
+punto de partida del sujeto que existía antes del primer colapso (primer
+nivel). El sujeto es la condición; la función es el proceso; la condición sine
+qua non es la responsabilidad; la respuesta total es el sentido. Y el sentido no
+preexiste al proceso: emerge de él, al cerrarse.
 
 VIII. Cierre: el abismo y la forma
 Este libro comenzó con el caos. No el caos como metáfora del desorden sino
@@ -9720,19 +9726,18 @@ locales que pueda restaurar los valores definidos detrás de la pantalla
 cuántica.
 
 3.3 La transformada de Fourier y la complementariedad
-La relación de incertidumbre posición-momentum tiene una interpretación
-matemática particularmente elegante. La función de onda en el espacio de
-posiciones, ψ(x), y la función de onda en el espacio de momenta, φ(p), son
-transformadas de Fourier una de la otra:
+La relación de incertidumbre posición-momentum tiene una
+interpretación matemática particularmente elegante. La función de onda
+en el espacio de posiciones, ψ(x), y la función de onda en el espacio de
+momenta, φ(p), son transformadas de Fourier una de la otra:
 φ(p) = (1/√(2πℏ)) ∫ ψ(x) e^{−ipx/ℏ} dx
 La propiedad matemática de la transformada de Fourier —demostrable con
 análisis estándar— es que un pulso concentrado en el espacio de posiciones
 (pequeño Δx) corresponde a un pulso extendido en el espacio de frecuencias
-(grande Δp), y viceversa. La relación de incertidumbre posición-momentum
-es simplemente la relación de incertidumbre de Fourier para las funciones
-de onda cuánticas: no un resultado f ísico contingente sino una propiedad
-matemática necesaria de cualquier par de bases que estén relacionadas por la
-transformada de Fourier.
+(grande Δp), y viceversa. La relación de incertidumbre posiciónmomentum es simplemente la relación de incertidumbre de Fourier para las
+funciones de onda cuánticas: no un resultado f ísico contingente sino una
+propiedad matemática necesaria de cualquier par de bases que estén
+relacionadas por la transformada de Fourier.
 Esta observación conecta el Apéndice I con el Apéndice II: la incertidumbre
 cuántica es un caso especial de la estructura matemática del Apéndice I,
 donde el caos de la posibilidad (la función de onda extendida en el espacio
@@ -9902,8 +9907,8 @@ Hay una tercera familia de interpretaciones —las teorías de variables ocultas
 como la mecánica de Bohm,[206] y las teorías de colapso dinámico como
 GRW— que también preservan el colapso como evento real. La mecánica
 de Bohm es determinista pero no-local: la partícula tiene siempre posición y
-momentum definidos, guiados por la onda piloto. Las teorías GRW postulan
-colapsos espontáneos que ocurren de manera probabilística
+momentum definidos, guiados por la onda piloto. Las teorías GRW
+postulan colapsos espontáneos que ocurren de manera probabilística
 independientemente de la medición. Ambas familias son compatibles con el
 isomorfismo del libro, aunque por rutas diferentes: la mecánica de Bohm lo
 preserva manteniendo la determinación siempre presente (al precio de la
@@ -10739,7 +10744,7 @@ condición necesaria para que pueda atribuirse responsabilidad al
 sujeto por el acto producido.
 Condiciones necesarias de la primera mediación: (i) intencionalidad: el
 sujeto orienta su voluntad hacia un objeto representado como fin (Husserl:
-estructura noesis-noema; Brentano: «aboutness»); (ii) reflexividad: el sujeto
+estructura nóesis-nóema; Brentano: «aboutness»); (ii) reflexividad: el sujeto
 tiene la capacidad de representarse a sí mismo como el que actúa y puede
 preguntarse si actuar de este modo o de aquel (Frankfurt: deseos de segundo
 orden); (iii) campo de acción disponible: hay un espacio entre el estímulo y
@@ -10789,7 +10794,7 @@ presuposición de que hubo primera mediación de algún tipo.
 En el derecho penal, la intencionalidad presupuesta se expresa en el concepto
 de «imputabilidad»: la capacidad del sujeto de comprender la ilicitud de sus
 actos y de determinar su voluntad conforme a esa comprensión. Un sujeto
-no imputable (por razón de edad, trastorno mental grave o estados que
+no imputable (por razón de edad, trastorno mental grave, o estados que
 eliminan la comprensión o la voluntad) no tiene intencionalidad
 presupuesta: sus actos no pueden imputársele en sentido jurídico-penal.
 Véase también: primera mediación, campo de acción, imputación,
@@ -10814,7 +10819,7 @@ A.C.
 
 CAOS
 
-capacidades cognitivas, el estado del mundo en que actúa y las condiciones
+capacidades cognitivas, el estado del mundo en que actúa, y las condiciones
 que los accidentes de escalas inferiores han impuesto. Un ego que opera
 desde un campo estrecho no es menos ego que uno que opera desde un
 campo amplio: la primera mediación puede ejercerse en campos muy
@@ -10861,10 +10866,10 @@ a la integral. El resultado es un ego que actúa pero no crece: sus colapsos lo
 atraviesan sin constituirlo.
 Notación formal. Si a = φ₁(v, c) es el resultado de la primera mediación y I(t)
 = ∫₀ᵗ c(τ) w(τ) dτ es la integral acumulativa del ego hasta el momento t, la
-segunda mediación es la operación φ₂: A × I → I′ que produce la integral
-modificada I′ = I ∪ {a}: la integral que incluye el colapso reciente como
+segunda mediación es la operación φ₂: A × I → I' que produce la integral
+modificada I' = I ∪ {a}: la integral que incluye el colapso reciente como
 parte de la función acumulativa.
-φ₂: A × I → I′ (segunda mediación como modificación de la integral)
+φ₂: A × I → I' (segunda mediación como modificación de la integral)
 La segunda mediación tiene una dimensión normativa además de
 descriptiva: no todos los modos de integrar el acto a la integral producen la
 misma función. Un ego que integra sus actos sin evaluarlos —sin
