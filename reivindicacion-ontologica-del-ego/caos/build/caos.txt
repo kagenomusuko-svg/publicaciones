@@ -9180,7 +9180,7 @@ pasados porque la frontera abierta siempre contiene colapsos posibles que
 todavía no han ocurrido.
 Este apéndice ha desarrollado los cuatro pilares matemáticos del argumento
 del libro: la definición ε-δ del límite como colapso de posibilidades en
-determinación; la jerarquía cantoniana del infinito como estructura de
+determinación; la jerarquía cantoriana del infinito como estructura de
 posibilidad irreductible a ninguna enumeración; la función como identidad
 definida por la totalidad de su gráfica y no por ningún valor puntual; y el
 punto de acumulación como modelo preciso del ego que emerge de la
@@ -10289,26 +10289,27 @@ proyecta el estado |ψ⟩ sobre uno de los autovectores |aₙ⟩ con probabilida
 ψ⟩ es una superposición de autovectores, y la medición «selecciona» uno de
 ellos. El colapso es la proyección del vector de estado sobre una dimensión
 del espacio de Hilbert.
-[193] Bell, John. «On the Einstein Podolsky Rosen Paradox», Physics, 1964.
-Las desigualdades de Bell son el resultado experimental más importante de
-la física del siglo XX para los fundamentos de la mecánica cuántica. Bell
-demostró que cualquier teoría de variables ocultas locales (teoría que explain
-los resultados cuánticos mediante variables que el formalismo cuántico no
-representa, y que no tiene correlaciones no locales) debe satisfacer ciertas
-desigualdades estadísticas. La mecánica cuántica viola estas desigualdades.
-Los experimentos de Aspect (1982) y sus sucesores confirmaron la violación
-de las desigualdades de Bell con creciente precisión. La consecuencia es que
-ninguna teoría local de variables ocultas puede reproducir las predicciones
-de la mecánica cuántica: la realidad cuántica es genuinamente no-local, o
-bien no tiene valores definidos para las observables antes de la medición, o
-ambas cosas. Las desigualdades de Bell son la demostración experimental de
-que la indeterminación cuántica no es simplemente ignorancia sobre
-variables ocultas: es una estructura de la realidad.
-[194] Von Neumann, John. Mathematische Grundlagen der
-Quantenmechanik (Fundamentos matemáticos de la mecánica cuántica),
-1932. Este libro establece el formalismo matemático de la mecánica cuántica
-sobre la base de la teoría de los espacios de Hilbert y los operadores lineales.
-Von Neumann distingue dos tipos de evolución del estado cuántico: la
+[193] Bell, John S. «On the Einstein Podolsky Rosen Paradox», Physics
+Physique Fizika, vol. 1, n.º 3 (1964), pp. 195-200. El teorema de Bell
+constituye uno de los resultados fundamentales de la f ísica del siglo XX para
+la comprensión de la mecánica cuántica. Bell demostró que las teorías de
+variables ocultas locales, bajo los supuestos de localidad causal e
+independencia de las configuraciones de medición, deben satisfacer
+determinadas desigualdades estadísticas. La mecánica cuántica predice
+correlaciones que violan estas desigualdades, y los experimentos de Aspect
+(1982) y sus sucesores, especialmente las pruebas de 2015, confirmaron tales
+violaciones con creciente rigor experimental. La consecuencia es que
+ninguna teoría de variables ocultas que satisfaga conjuntamente los
+supuestos del teorema puede reproducir todas las correlaciones cuánticas
+observadas. La realidad cuántica no puede, por tanto, comprenderse
+simplemente como un conjunto de propiedades locales previamente
+determinadas que la medición se limita a revelar. Las correlaciones
+observadas exigen abandonar al menos uno de los supuestos de esa
+explicación, sin que el teorema establezca por sí solo cuál debe abandonarse
+ni excluya toda interpretación determinista. Lo decisivo es que esta
+imposibilidad no representa una mera insuficiencia de nuestro
+conocimiento: constituye una restricción experimental sobre las estructuras
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -10318,6 +10319,17 @@ A.C.
 
 CAOS
 
+físicas capaces de explicar los fenómenos cuánticos. En relación con la
+ontología desarrollada en este libro, el resultado permite distinguir entre la
+determinación efectiva de un acontecimiento y la suposición de que esa
+determinación consiste necesariamente en revelar una propiedad local que
+ya estaba fijada de antemano. Esta distinción es pertinente para comprender
+el colapso como determinación de una posibilidad.
+[194] Von Neumann, John. Mathematische Grundlagen der
+Quantenmechanik (Fundamentos matemáticos de la mecánica cuántica),
+1932. Este libro establece el formalismo matemático de la mecánica cuántica
+sobre la base de la teoría de los espacios de Hilbert y los operadores lineales.
+Von Neumann distingue dos tipos de evolución del estado cuántico: la
 evolución continua y determinista descrita por la ecuación de Schrödinger
 (que llama «proceso 2»), y la evolución discontinua y probabilística que
 ocurre en la medición (que llama «proceso 1» o «proyección»). Von
@@ -10340,6 +10352,16 @@ superposición cuántica a objetos macroscópicos: el gato a la vez vivo y
 muerto es obviamente absurdo, luego algo en la cadena de razonamiento
 debe ser incorrecto. El experimento mental sigue siendo el símbolo más
 reconocido del problema de la medición.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+243
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 [196] La decoherencia cuántica (Zeh, H.D. «On the Interpretation of
 Measurement in Quantum Theory», Foundations of Physics, 1970; Zurek,
 Wojciech. «Pointer Basis of Quantum Apparatus: Into What Mixture Does
@@ -10352,16 +10374,6 @@ esos grados de libertad ambientales. La función de onda global del sistema
 más el entorno continúa evolucionando de manera coherente, pero la
 función de onda reducida del sistema solo (obtenida trazando los grados de
 libertad del entorno) se convierte efectivamente en una mezcla estadística
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-243
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 clásica. La decoherencia explica por qué los objetos macroscópicos no
 exhiben superposición: interactúan con demasiados grados de libertad
 ambientales para que su coherencia cuántica se mantenga. Sin embargo, la
@@ -10384,6 +10396,16 @@ Observamos el mundo como clásico porque los estados que sobreviven a la
 decoherencia son precisamente aquellos que producen muchas copias
 redundantes de sí mismos en el entorno. Esta «selección
 ambiental» (einselection) determina cuáles estados son los «punteros»
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+244
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 estables que emergen de la decoherencia. El darwinismo cuántico es
 importante para el argumento de este apéndice porque ofrece una respuesta
 físicamente precisa a la pregunta de por qué los colapsos son irreversibles: los
@@ -10396,15 +10418,6 @@ quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
 la relación Δx · Δp ≥ ℏ/2 y la interpreta inicialmente en términos de la
 perturbación que el acto de medición introduce en el sistema: para medir la
 posición de un electrón con precisión, se necesita luz de longitud de onda
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-244
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 corta (alta frecuencia), que al interactuar con el electrón le transfiere un
 momentum impredecible, perturbando su momentum. Esta interpretación
 «de perturbación» es incorrecta o al menos incompleta, como el propio
@@ -10426,6 +10439,16 @@ estructura del formalismo matemático de la mecánica cuántica. Las
 observables que no conmutan (cuyo conmutador es no nulo) no pueden
 tener simultáneamente valores definidos. La incompatibilidad no es
 epistemológica sino ontológica.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+245
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 [201] Heisenberg, Werner, «Über den anschaulichen Inhalt der
 quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
 43 (1927), pp. 172–198, especialmente la discusión de los experimentos de
@@ -10438,16 +10461,6 @@ sin describir una intervención experimental. Véase también la nota [199].
 [202] Bell, John S., «On the Einstein Podolsky Rosen Paradox», Physics
 Physique Fizika, 1 (1964), pp. 195–200, DOI: 10.1103/PhysicsPhysiqueFizika.
 1.195. El teorema demuestra, bajo supuestos identificables, restricciones para
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-245
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 las correlaciones de las teorías locales de variables ocultas; las predicciones
 cuánticas pueden violar esas restricciones, y los experimentos pertinentes
 han observado tales violaciones. Véase la nota [193].
@@ -10470,6 +10483,15 @@ colapso de la función de onda no ocurre nunca: la ecuación de Schrödinger
 es universalmente válida, incluyendo el proceso de medición. Cuando un
 aparato mide un sistema cuántico en superposición, el estado combinado
 aparato-sistema entra en una superposición de resultados posibles. Pero
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+246
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 desde la perspectiva del observador, que forma parte del sistema, cada rama
 de la superposición es experimentada como un resultado definido. El
 «colapso» no es un proceso f ísico que ocurre en la realidad: es el proceso por
@@ -10481,15 +10503,6 @@ recibida con escepticismo; fue DeWitt quien le dio el nombre de «ManyWorlds» y
 muchos mundos. Su formulación es más radical que la de Everett: no solo
 afirma que todas las ramas de la función de onda universal son igualmente
 reales, sino que cada medición cuántica produce una bifurcación literal del
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-246
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 universo en tantas copias como resultados posibles tiene la medición. El yo
 del observador se «divide» en múltiples copias, cada una experimentando
 un resultado diferente. DeWitt calculó que las bifurcaciones ocurren con
@@ -10511,6 +10524,15 @@ variables ocultas locales) pero viola la relatividad especial en su espíritu,
 aunque no en sus predicciones experimentales.
 [207] Zurek, Wojciech H., «Quantum Darwinism», Nature Physics, 5
 (2009), pp. 181–188, DOI: 10.1038/nphys1202; véanse también las notas [196],
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+247
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 [197] y [198]. El programa del darwinismo cuántico estudia la proliferación
 de registros redundantes de ciertos estados del sistema en diferentes
 fragmentos del entorno, lo que puede explicar la estabilidad y accesibilidad
@@ -10522,16 +10544,6 @@ locales de las correlaciones cuánticas.
 [209] Penrose, Roger. The Emperor's New Mind (1989) y Shadows of the
 Mind (1994). Penrose propone que el colapso de la función de onda es un
 proceso objetivo relacionado con la gravedad cuántica: cuando las
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-247
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 superposiciones implican distribuciones de masa suficientemente diferentes
 como para que la diferencia en la curvatura del espacio-tiempo sea del orden
 de la energía de Planck, la superposición colapsa objetivamente. Esta
