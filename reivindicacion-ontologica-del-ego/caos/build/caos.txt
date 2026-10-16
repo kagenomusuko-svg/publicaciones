@@ -5490,8 +5490,8 @@ historia. La mediación es la materia de la que el tiempo del ego está hecho.
 
 V. Mediación y responsabilidad: primer movimiento
 Si la mediación es la estructura del acto, y si la responsabilidad está fundada
-en la causalidad —en el hecho de que el ego fue la condición sine qua non
-del acto—, entonces la teoría de la responsabilidad debe comenzar con la
+en la causalidad —en el hecho de que el ego fue la condición sine qua non del
+acto—, entonces la teoría de la responsabilidad debe comenzar con la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9904,16 +9904,31 @@ determinación, con las mismas propiedades de irreversibilidad, producción
 de valor definido donde no lo había, y unicidad del resultado desde la
 perspectiva del observador.
 La tabla del isomorfismo es la siguiente:
-TABLA — ISOMORFISMO ENTRE ONTOLOGÍA CUÁNTICA Y
-ONTOLOGÍA DEL EGO
-ONTOLOGÍA CUÁNTICA: Estado cuántico |ψ⟩ en superposición
-ONTOLOGÍA DEL EGO: Caos: posibilidad absoluta antes del colapso
-ONTOLOGÍA CUÁNTICA: Función de onda ψ(r, t) ONTOLOGÍA DEL
-EGO: Función del sujeto antes de la primera mediación
-ONTOLOGÍA CUÁNTICA: Espacio de Hilbert ONTOLOGÍA DEL EGO:
+Ontología cuántica
+
+Ontología del ego
+
+Estado cuántico `
+
+ψ⟩` en superposición
+
+Función de onda ψ(r, t)
+
+Función del sujeto antes de la primera mediación
+
+Espacio de Hilbert
+
 Espacio de posibilidades del caos
-ONTOLOGÍA CUÁNTICA: Coeficientes αₙ de la superposición
-ONTOLOGÍA DEL EGO: Pesos de las posibilidades en el caos
+
+Coeficientes αₙ de la
+superposición
+
+Pesos de las posibilidades en el caos
+
+Medición / interacción con el
+entorno
+
+Primera mediación: voluntad orientada hacia un objeto
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9924,40 +9939,53 @@ A.C.
 
 CAOS
 
-ONTOLOGÍA CUÁNTICA: Medición / interacción con el entorno
-ONTOLOGÍA DEL EGO: Primera mediación: voluntad orientada hacia un
-objeto
-ONTOLOGÍA CUÁNTICA: Colapso de la función de onda ONTOLOGÍA
-DEL EGO: Colapso del ego: acto irreversible
-ONTOLOGÍA CUÁNTICA: Autovalor aₙ obtenido en la medición
-ONTOLOGÍA DEL EGO: Determinación producida por el acto
-ONTOLOGÍA CUÁNTICA: |⟨aₙ|ψ⟩|² = probabilidad del resultado
-ONTOLOGÍA DEL EGO: Probabilidad del colapso condicionada por el
-campo
-ONTOLOGÍA CUÁNTICA: Decoherencia: inscripción en el entorno
-ONTOLOGÍA DEL EGO: Segunda mediación: integración del acto a la
-integral
-ONTOLOGÍA CUÁNTICA: Estado post-colapso |aₙ⟩ ONTOLOGÍA DEL
-EGO: Ego modificado después del acto
-ONTOLOGÍA CUÁNTICA: Evolución unitaria entre mediciones
-ONTOLOGÍA DEL EGO: Acumulación de la integral entre colapsos
-ONTOLOGÍA CUÁNTICA: No-conmutatividad: [x̂, p̂] = iℏ
-ONTOLOGÍA DEL EGO: Tensión entre posibilidad y determinación: el
-colapso destruye el caos que lo hizo posible
-ONTOLOGÍA CUÁNTICA: Principio de incertidumbre: Δx·Δp ≥ ℏ/2
-ONTOLOGÍA DEL EGO: Determinación en un acto abre posibilidad en
-otros
-ONTOLOGÍA CUÁNTICA: Entrelazamiento cuántico ONTOLOGÍA
-DEL EGO: Constitución intersubjetiva del ego
+Ontología cuántica
 
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
+Ontología del ego
 
-235
+Colapso de la función de onda
 
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
+Colapso del ego: acto irreversible
 
-CAOS
+Autovalor aₙ obtenido en la
+medición
+
+Determinación producida por el acto
+
+`
+
+⟨aₙ
+
+Decoherencia: inscripción en el
+entorno
+
+Segunda mediación: integración del acto a la integral
+
+Estado post-colapso `
+
+aₙ⟩`
+
+Evolución unitaria entre
+mediciones
+
+Acumulación de la integral entre colapsos
+
+No-conmutatividad: [x
+̂, ̂
+p]
+= iℏ
+
+Tensión entre posibilidad y determinación: el colapso
+destruye el caos que lo hizo posible
+
+Principio de incertidumbre:
+Δx·Δp ≥ ℏ/2
+
+Determinación en un acto abre posibilidad en otros
+
+Entrelazamiento cuántico
+
+Constitución intersubjetiva del ego
 
 5.2 El caos cuántico y el caos hesiódico
 El primer par del isomorfismo —el estado en superposición y el caos como
@@ -9971,6 +9999,16 @@ El isomorfismo no es por tanto total en este nivel: el caos filosófico es más
 radical que la superposición cuántica. La superposición cuántica es un caso
 particular de la posibilidad organizada —una posibilidad que ya tiene la
 estructura de las probabilidades asignadas a los distintos resultados. El caos
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+235
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 filosófico precede incluso a esa organización: es la posibilidad antes de que
 ninguna distribución de probabilidad la organice.
 Sin embargo, el isomorfismo se mantiene en la dirección que importa para
@@ -9990,16 +10028,6 @@ campos que lo permean. Esta inscripción es redundante: múltiples copias del
 resultado quedan registradas en el entorno. Es precisamente esta
 redundancia lo que hace que el resultado sea objetivo —accesible
 independientemente a múltiples observadores— e irreversible —la
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-236
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 información no puede borrarse sin interactuar con todos los grados de
 libertad del entorno, lo cual es prácticamente imposible.
 El paralelo con la segunda mediación del ego es preciso. Cuando el ego
@@ -10012,6 +10040,15 @@ el acto ha sido inscrito en demasiados registros simultáneos. La segunda
 mediación es el proceso por el cual esta inscripción retorna al ego como
 modificación de su propia función: el ego integra lo que el entorno ha
 recibido y retorna al ego como imagen de sí mismo.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+236
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
 
 5.4 El principio de incertidumbre y la apertura del caos
 El principio de incertidumbre en su relación con el colapso ofrece una
@@ -10033,16 +10070,6 @@ hace accesibles.
 El principio de incertidumbre cuántico garantiza que el colapso nunca
 agota el caos: siempre hay una dimensión en la que la posibilidad se reabre
 después de cada determinación. El ego que ha colapsado no ha eliminado el
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-237
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 caos: lo ha redistribuido. El caos es inagotable no por ninguna razón mística
 sino por la misma razón por la que la incertidumbre cuántica es inagotable:
 la determinación en una dimensión es constitutivamente la apertura de la
@@ -10055,6 +10082,16 @@ intersubjetiva del ego. El ego no emerge en soledad: emerge en la
 interacción con otros egos, con el lenguaje que heredó, con las instituciones
 que lo recibieron, con el mundo social que lo formó. La función del ego está
 entrelazada con las funciones de los otros egos con los que ha interactuado,
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+237
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 de manera que la «separabilidad» del ego —la posibilidad de describir
 completamente al ego sin referencia a los otros con los que se ha constituido
 — es tan imposible como la separabilidad de dos partículas entrelazadas.
@@ -10077,15 +10114,6 @@ función de colapso— no pueden explicarse mediante ninguna propiedad del
 ego que existiera antes de la interacción. Las interacciones que constituyen
 al ego son genuinas: el ego emerge de las interacciones, no preexiste a ellas.
 
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-238
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 5.6 Los límites del isomorfismo
 Precisar el isomorfismo requiere también precisar sus límites. Hay aspectos
 de la mecánica cuántica que no tienen paralelo en la ontología del ego, y
@@ -10097,6 +10125,16 @@ organismo completo: una función extraordinariamente compleja en un
 espacio de Hilbert de dimensión astronómica, que evoluciona de manera
 que la decoherencia hace completamente clásica a escala macroscópica en
 tiempos de 10⁻²³ segundos o menos. La mecánica cuántica de las neuronas y
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+238
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 las moléculas del cerebro no produce superposición de decisiones a escala del
 ego: la decoherencia destruye cualquier superposición macroscópica antes de
 que pueda influir en ningún proceso cognitivo relevante. La propuesta de
@@ -10117,16 +10155,6 @@ mediación, ningún proceso por el cual el colapso retorna al sistema y lo
 modifica a la manera en que los actos del ego modifican la función del ego.
 El sistema cuántico que ha colapsado en |a₁⟩ no «aprende» nada de ese
 colapso ni modifica sus disposiciones. La segunda mediación es específica del
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-239
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 ego: el nivel de organización en que los colapsos retornan al sistema como
 información que modifica el sistema.
 El ego tiene primera mediación; el sistema cuántico no. El colapso cuántico
@@ -10139,6 +10167,16 @@ diferencia es la que distingue la responsabilidad del ego de la «indiferencia»
 cuántica: el ego puede ser imputado porque hubo primera mediación; el
 sistema cuántico no puede ser imputado porque el colapso cuántico ocurre
 sin ninguna orientación intencional.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+239
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 Este apéndice ha establecido el isomorfismo estructural entre el colapso
 cuántico y el colapso del ego, precisando tanto las correspondencias como
 los límites. La mecánica cuántica no es una metáfora para la filosof ía del
@@ -10159,16 +10197,6 @@ irreversible, unicidad del resultado desde la perspectiva que registra,
 inagotabilidad de la posibilidad frente a cualquier determinación finita— es
 una estructura de la realidad a su nivel más fundamental. El universo, en su
 nivel más básico conocido, está construido del mismo material que el ego:
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-240
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 colapsos de posibilidad en determinación, irreversibles, que producen lo
 actual sin agotar lo posible.
 Notas
@@ -10181,6 +10209,15 @@ NOTAS
 ────────────────────────────────────────────────────────
 [189] Schrödinger, Erwin. «Quantisierung als Eigenwertproblem» (La
 cuantización como problema de autovalores), Annalen der Physik, 1926.
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+240
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 Cuatro artículos publicados entre enero y junio de 1926, en los que
 Schrödinger desarrolla la mecánica ondulatoria. El primero aplica la
 ecuación al átomo de hidrógeno y recupera los niveles de energía correctos.
@@ -10201,16 +10238,6 @@ puede ser una superposición de estados con propiedades f ísicas definidas, y e
 ese estado el sistema no tiene ningún valor definido para la observable en
 cuestión. La superposición no es ignorancia: no es que la partícula esté en
 uno de los dos estados pero no sepamos cuál. La superposición es el estado
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-241
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 real del sistema antes de la medición: la partícula genuinamente no tiene
 posición definida, o spin definido, o energía definida. Esta afirmación —que
 la superposición es ontológicamente real y no solo epistémica— es el núcleo
@@ -10224,6 +10251,16 @@ encontrar la partícula en una región determinada del espacio es
 proporcional a la integral de |ψ|² sobre esa región. Esta interpretación
 probabilística —conocida como la «regla de Born»— fue inmediatamente
 controvertida. Einstein, en particular, resistió esta interpretación toda su
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+241
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 vida: «Dios no juega a los dados.» Born recibió el Premio Nobel de Física en
 1954 precisamente por esta interpretación, que en la actualidad es el pilar de
 la física cuántica estándar.
@@ -10245,15 +10282,6 @@ demostró que cualquier teoría de variables ocultas locales (teoría que explai
 los resultados cuánticos mediante variables que el formalismo cuántico no
 representa, y que no tiene correlaciones no locales) debe satisfacer ciertas
 desigualdades estadísticas. La mecánica cuántica viola estas desigualdades.
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-242
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 Los experimentos de Aspect (1982) y sus sucesores confirmaron la violación
 de las desigualdades de Bell con creciente precisión. La consecuencia es que
 ninguna teoría local de variables ocultas puede reproducir las predicciones
@@ -10267,6 +10295,15 @@ Quantenmechanik (Fundamentos matemáticos de la mecánica cuántica),
 1932. Este libro establece el formalismo matemático de la mecánica cuántica
 sobre la base de la teoría de los espacios de Hilbert y los operadores lineales.
 Von Neumann distingue dos tipos de evolución del estado cuántico: la
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+242
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 evolución continua y determinista descrita por la ecuación de Schrödinger
 (que llama «proceso 2»), y la evolución discontinua y probabilística que
 ocurre en la medición (que llama «proceso 1» o «proyección»). Von
@@ -10287,16 +10324,6 @@ experimento no como argumento a favor de la interpretación de
 Copenhague sino como reducción al absurdo de la extensión de la
 superposición cuántica a objetos macroscópicos: el gato a la vez vivo y
 muerto es obviamente absurdo, luego algo en la cadena de razonamiento
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-243
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 debe ser incorrecto. El experimento mental sigue siendo el símbolo más
 reconocido del problema de la medición.
 [196] La decoherencia cuántica (Zeh, H.D. «On the Interpretation of
@@ -10311,6 +10338,16 @@ esos grados de libertad ambientales. La función de onda global del sistema
 más el entorno continúa evolucionando de manera coherente, pero la
 función de onda reducida del sistema solo (obtenida trazando los grados de
 libertad del entorno) se convierte efectivamente en una mezcla estadística
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+243
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 clásica. La decoherencia explica por qué los objetos macroscópicos no
 exhiben superposición: interactúan con demasiados grados de libertad
 ambientales para que su coherencia cuántica se mantenga. Sin embargo, la
@@ -10331,15 +10368,6 @@ estables que emergen de la decoherencia. El darwinismo cuántico es
 importante para el argumento de este apéndice porque ofrece una respuesta
 físicamente precisa a la pregunta de por qué los colapsos son irreversibles: los
 estados que colapsan se vuelven redundantemente inscritos en el entorno, y
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-244
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 esa redundancia es lo que los hace objetivos e irreversibles desde la
 perspectiva de los observadores.
 [199] Heisenberg, Werner. «Über den anschaulichen Inhalt der
@@ -10354,6 +10382,15 @@ momentum impredecible, perturbando su momentum. Esta interpretación
 Bohr señalaría. El principio no describe la perturbación producida por la
 medición: describe una propiedad intrínseca de los estados cuánticos. La
 corrección la haría Kennard en el mismo año, demostrando que la relación
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+244
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 Δx · Δp ≥ ℏ/2 es una consecuencia matemática del formalismo, no de
 ninguna consideración sobre el proceso de medición.
 [200] Robertson, Howard. «The Uncertainty Principle», Physical Review,
@@ -10371,16 +10408,6 @@ tener simultáneamente valores definidos. La incompatibilidad no es
 epistemológica sino ontológica.
 [201]
 [202]
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-245
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 [203] Bohr, Niels. «The Quantum Postulate and the Recent Development of
 Atomic Theory», Nature, 1928. Este artículo es la exposición más clara de la
 interpretación de Copenhague por su propio autor. Bohr introduce el
@@ -10396,6 +10423,16 @@ y el «aparato» son abstracciones de una situación experimental indivisa.
 [204] Everett, Hugh III. «Relative State Formulation of Quantum
 Mechanics», Reviews of Modern Physics, 1957. La tesis doctoral de Everett,
 presentada bajo la dirección de John Wheeler en Princeton, propone que el
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+245
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 colapso de la función de onda no ocurre nunca: la ecuación de Schrödinger
 es universalmente válida, incluyendo el proceso de medición. Cuando un
 aparato mide un sistema cuántico en superposición, el estado combinado
@@ -10414,16 +10451,6 @@ reales, sino que cada medición cuántica produce una bifurcación literal del
 universo en tantas copias como resultados posibles tiene la medición. El yo
 del observador se «divide» en múltiples copias, cada una experimentando
 un resultado diferente. DeWitt calculó que las bifurcaciones ocurren con
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-246
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 cada interacción cuántica, lo que implica un número inimaginablemente
 grande de universos paralelos. Esta proliferación ontológica fue el principal
 punto de crítica de la interpretación: es acusada de violar la parsimonia (la
@@ -10438,6 +10465,16 @@ predicciones de la mecánica cuántica estándar pero es determinista y no
 requiere colapso. Sin embargo, la mecánica de Bohm es explícitamente nolocal: la onda piloto del universo entero guía instantáneamente cada
 partícula, independientemente de las distancias. Esta no-localidad es
 consistente con las desigualdades de Bell (que solo refutan las teorías de
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+246
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 variables ocultas locales) pero viola la relatividad especial en su espíritu,
 aunque no en sus predicciones experimentales.
 [207]
@@ -11038,8 +11075,8 @@ ahora, desde la integral de todos los colapsos pasados, hacia el campo de
 posibilidades futuras. La tridimensionalidad temporal del ego —pasado
 como integral, presente como colapso, futuro como campo— es su
 estructura básica de existencia.
-Véase también: sujeto, doble mediación, integral acumulativa, condición
-sine qua non, identidad del ego
+Véase también: sujeto, doble mediación, integral acumulativa, condición sine
+qua non, identidad del ego
 identidad del ego loc. s.f.
 1. La continuidad funcional de la integral acumulativa a lo largo del
 tiempo. La identidad del ego no es la identidad de ningún sustrato
@@ -11153,11 +11190,11 @@ condición sine qua non loc. lat.
 la cual el evento no habría ocurrido. En el derecho y la filosof ía de la
 acción: la condición que, si se elimina contrafácticamente, elimina
 también el evento.
-2. (del ego) El ego es la condición sine qua non del acto humano: sin
-este ego —sin este sujeto con esta primera mediación en este
-momento— este acto no habría ocurrido como acto humano. El
-movimiento f ísico puede haber ocurrido; el acto, como acto con
-primera mediación, no.
+2. (del ego) El ego es la condición sine qua non del acto humano: sin este
+ego —sin este sujeto con esta primera mediación en este momento
+— este acto no habría ocurrido como acto humano. El movimiento
+físico puede haber ocurrido; el acto, como acto con primera
+mediación, no.
 La precisión del «como acto humano» es decisiva. El ego es condición sine
 qua non del acto como acto —como determinación producida por la doble
 mediación—, no como evento f ísico. Si un movimiento f ísico habría
@@ -11249,8 +11286,8 @@ puede ser de actos producidos con deliberación explícita, con intención
 implícita, con imprudencia, o con disposiciones incorporadas que el ego
 ejerció sin reflexividad explícita, siempre que en todos los casos haya habido
 primera mediación.
-Véase también: responsabilidad, primera mediación, condición sine qua
-non, campo de acción
+Véase también: responsabilidad, primera mediación, condición sine qua non,
+campo de acción
 tiempo del ego loc. s.m.
 1. La sucesión de colapsos del ego experimentada desde la perspectiva de
 la primera persona. El tiempo del ego no es el tiempo f ísico —la
