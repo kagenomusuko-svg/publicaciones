@@ -3555,7 +3555,6 @@ determina por ella. Y si hay una escala de colapso que excede a la humana —
 la escala del universo, de Dios—, ella opera en una esfera que la nuestra no
 puede alcanzar directamente, aunque podamos ser parte de ella como la
 célula es parte del organismo.
-A ese problema —las escalas del colapso y su relación— vamos.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3597,6 +3596,8 @@ nada, sino indistinción.
 «nodriza del devenir» es la descripción platónica más cercana al caos
 hesiódico: es el espacio indeterminado, que no tiene forma propia, en el que
 las formas llegan a ser. El Receptáculo no es la materia (que tiene
+propiedades) ni el espacio vacío (que es mera extensión): es la condición de
+posibilidad de la localización, el «donde» anterior a cualquier
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3607,8 +3608,6 @@ A.C.
 
 CAOS
 
-propiedades) ni el espacio vacío (que es mera extensión): es la condición de
-posibilidad de la localización, el «donde» anterior a cualquier
 determinación. Cornford, Francis MacDonald. Plato's Cosmology (1937) es el
 análisis más completo de este pasaje dif ícil.
 [63] Lorenz, Edward. «Deterministic Nonperiodic Flow» (1963), Journal of
@@ -3640,6 +3639,8 @@ lejos del equilibrio termodinámico mediante el intercambio de energía con
 el entorno. En estos sistemas, el «caos» determinista no es el opuesto del
 orden sino su condición de producción: en los puntos de bifurcación, el
 sistema debe «elegir» entre múltiples trayectorias posibles, y pequeñas
+fluctuaciones determinan qué camino se toma. La forma emerge del caos,
+no a pesar de él.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3650,8 +3651,6 @@ A.C.
 
 CAOS
 
-fluctuaciones determinan qué camino se toma. La forma emerge del caos,
-no a pesar de él.
 [66] Mandelbrot, Benoît. Los objetos fractales (1975) y La geometría fractal
 de la naturaleza (1982). Mandelbrot mostró que la irregularidad y la
 complejidad de muchos fenómenos naturales —costas, nubes, montañas, la
@@ -3682,7 +3681,10 @@ Independientemente de si esta cosmología es correcta, ilustra la dificultad
 de hablar con rigor sobre «antes del tiempo»: la pregunta misma presupone
 que hay un marco temporal desde el que se realiza, lo cual es precisamente lo
 que se pone en cuestión.
-
+[69] Hawking, Stephen y Roger Penrose. «The Singularities of
+Gravitational Collapse and Cosmology» (1970), Proceedings of the Royal
+Society. Los teoremas de singularidad de Hawking-Penrose demostraron
+que, bajo supuestos generales de la relatividad general, el universo tuvo una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3692,10 +3694,6 @@ A.C.
 
 CAOS
 
-[69] Hawking, Stephen y Roger Penrose. «The Singularities of
-Gravitational Collapse and Cosmology» (1970), Proceedings of the Royal
-Society. Los teoremas de singularidad de Hawking-Penrose demostraron
-que, bajo supuestos generales de la relatividad general, el universo tuvo una
 singularidad inicial —un punto donde la curvatura del espacio-tiempo
 diverge. En el modelo de Hawking del «tiempo imaginario» (desarrollado
 en Historia del tiempo, 1988), el universo no tiene ningún borde en el
@@ -3726,6 +3724,10 @@ no un evento entre otros.
 [72] Kant, Immanuel. Crítica de la razón pura (1781), «Estética
 trascendental», §§ 4-7. Para Kant, el tiempo no es ni una propiedad de las
 cosas en sí mismas ni una relación entre ellas: es la forma del sentido
+interno, la manera en que la mente organiza sus representaciones internas.
+El tiempo es una intuición pura a priori: está en el sujeto que intuye, no en
+las cosas intuidas. Esta posición —el tiempo como forma de la intuición
+subjetiva— apoya la tesis de que el tiempo no existe independientemente del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3735,10 +3737,6 @@ A.C.
 
 CAOS
 
-interno, la manera en que la mente organiza sus representaciones internas.
-El tiempo es una intuición pura a priori: está en el sujeto que intuye, no en
-las cosas intuidas. Esta posición —el tiempo como forma de la intuición
-subjetiva— apoya la tesis de que el tiempo no existe independientemente del
 sujeto que lo experimenta, aunque Kant y este libro difieren en los detalles:
 para Kant el tiempo es una forma universal de la intuición humana; para
 este libro es el nombre que cada ego particular da a la sucesión de sus propios
@@ -3769,6 +3767,10 @@ perspectiva en primera persona que convierte «anterior a» en «pasado» y
 [75] Heidegger, Martin. Ser y tiempo (1927), § 65. La temporalidad originaria
 del Dasein es, para Heidegger, lo que hace posible la unidad de las tres
 dimensiones temporales: el Dasein se proyecta hacia sus posibilidades futuras
+(existencialidad), retorna a su condición fáctica pasada (facticidad) y
+encuentra el presente como el lugar donde hace frente a los entes
+intramundanos (caída). Esta estructura extática de la temporalidad no es
+una sucesión de ahoras sino una unidad dinámica de futuro, pasado y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3778,10 +3780,6 @@ A.C.
 
 CAOS
 
-(existencialidad), retorna a su condición fáctica pasada (facticidad) y
-encuentra el presente como el lugar donde hace frente a los entes
-intramundanos (caída). Esta estructura extática de la temporalidad no es
-una sucesión de ahoras sino una unidad dinámica de futuro, pasado y
 presente que constituye el ser mismo del Dasein. Para Heidegger, el tiempo
 no es el contenedor en el que el Dasein está: es la estructura de su ser.
 [76] Heidegger, Martin, Sein und Zeit (Ser y tiempo, 1927), especialmente §§
@@ -3812,6 +3810,10 @@ como analogon de mí mismo, presentado de manera indirecta a través del
 cuerpo del otro que funciona como índice de una vida subjetiva similar a la
 mía. La dificultad de esta derivación llevó a Merleau-Ponty, Levinas y otros
 a proponer soluciones alternativas al problema del otro.
+[79] Levinas, Emmanuel. Totalidad e infinito (1961), Parte III: «El rostro y
+la exterioridad». La ética de Levinas comienza con el reconocimiento de
+que el otro no puede reducirse a una proyección del yo propio: el rostro del
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3821,9 +3823,6 @@ A.C.
 
 CAOS
 
-[79] Levinas, Emmanuel. Totalidad e infinito (1961), Parte III: «El rostro y
-la exterioridad». La ética de Levinas comienza con el reconocimiento de
-que el otro no puede reducirse a una proyección del yo propio: el rostro del
 otro me interpela de manera que excede cualquier representación que yo
 pueda hacerme de él. La alteridad del otro es radical, irreductible: el otro no
 es simplemente otro yo. Lo que este libro reconoce de Levinas es
@@ -3855,6 +3854,9 @@ a algo: es el estado en que el sujeto se enfrenta a su propia libertad, a la
 posibilidad de ser cualquier cosa, de hacer cualquier cosa. «La angustia es el
 vértigo de la libertad», escribe Kierkegaard. Lo que este libro precisa es que
 ese vértigo no es ante la nada —como a veces se ha interpretado— sino ante
+el caos: ante la posibilidad absoluta, ante el infinito de lo que puede ser y no
+ha sido todavía determinado.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3864,8 +3866,6 @@ A.C.
 
 CAOS
 
-el caos: ante la posibilidad absoluta, ante el infinito de lo que puede ser y no
-ha sido todavía determinado.
 [83] Sartre, Jean-Paul. El ser y la nada (1943), Introducción y Parte I. La
 famosa frase sartreana de que «la existencia precede a la esencia» expresa
 que el ser humano no tiene una naturaleza predeterminada que deba
@@ -3898,6 +3898,7 @@ posibles— no es amenaza sino condición de posibilidad del ego. Sin caos,
 sin posibilidad absoluta, sin el infinito ante el cual el sujeto colapsa, no
 habría determinación posible. El terror pascaliano es la respuesta equivocada
 al caos; el asombro aristotélico sería la correcta.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4733,7 +4734,6 @@ solo en el ego. Porque para entender por qué la doble mediación es específica
 del ego, primero hay que entender qué es la mediación en general, cómo
 opera cuando no hay ego, y por qué el ego no puede existir sin ella aunque la
 mediación pueda existir sin ego.
-A eso vamos.
 Notas
 Las siguientes notas amplían los interlocutores filosóficos y científicos
 citados en el cuerpo del capítulo. Están pensadas para el lector que desee
@@ -4746,7 +4746,8 @@ NOTAS
 [86] Anderson, Philip W. «More Is Different» (1972), Science 177:393-396.
 Anderson, premio Nobel de Física, argumentó en este influyente artículo
 que en cada nivel de organización de la materia emergen propiedades
-
+genuinamente nuevas que no pueden deducirse de los principios del nivel
+inferior: «A cada nivel nuevo de complejidad aparecen propiedades
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4756,8 +4757,6 @@ A.C.
 
 CAOS
 
-genuinamente nuevas que no pueden deducirse de los principios del nivel
-inferior: «A cada nivel nuevo de complejidad aparecen propiedades
 completamente nuevas, y la comprensión de los nuevos comportamientos
 requiere investigación que creo que es tan fundamental en su naturaleza
 como cualquier otra.» Este principio —«more is different»— es el
@@ -4790,7 +4789,8 @@ social— tiene su propia dinámica de acoplamiento estructural, y los niveles
 se afectan mutuamente sin que ninguno determine completamente al otro.
 Esta jerarquía de acoplamientos es af ín a la jerarquía de escalas de colapso
 que este capítulo trabaja.
-
+[89] Paul Weiss, «The Cell as Unit», Journal of Theoretical Biology 5(3),
+389–397 (1963). DOI 10.1016/0022-5193(63)90085-7. Weiss fue uno de los
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4800,8 +4800,6 @@ A.C.
 
 CAOS
 
-[89] Paul Weiss, «The Cell as Unit», Journal of Theoretical Biology 5(3),
-389–397 (1963). DOI 10.1016/0022-5193(63)90085-7. Weiss fue uno de los
 primeros biólogos en insistir en que el comportamiento de las células en un
 organismo no puede explicarse completamente en términos de sus
 propiedades aisladas: el contexto del organismo completo modifica el
@@ -4833,7 +4831,9 @@ accidente más literalmente biológico: un colapso de escala inferior que
 modifica el campo de escala superior sin que el ego superior lo haya
 producido ni pueda simplemente eliminarlo mediante su propia
 determinación.
-
+[92] La teoría de la «causalidad descendente» fue propuesta por Campbell,
+Donald T. «Downward Causation in Hierarchically Organised Biological
+Systems» (1974), en Studies in the Philosophy of Biology, eds. Ayala y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4843,9 +4843,6 @@ A.C.
 
 CAOS
 
-[92] La teoría de la «causalidad descendente» fue propuesta por Campbell,
-Donald T. «Downward Causation in Hierarchically Organised Biological
-Systems» (1974), en Studies in the Philosophy of Biology, eds. Ayala y
 Dobzhansky. La causalidad descendente designa el fenómeno por el cual
 propiedades del nivel superior de organización ejercen restricciones sobre los
 comportamientos posibles de los elementos del nivel inferior. Por ejemplo:
@@ -4877,6 +4874,9 @@ el ego individual a un vehículo de mecanismos genéticos de escala inferior.
 Sin embargo, el propio Dawkins reconoce que la evolución de sistemas
 nerviosos complejos permite una emancipación progresiva de los
 organismos como agentes de decisión, capaces de anticipar acontecimientos
+y actuar sobre esa anticipación. En el capítulo XI afirma que podemos
+«rebelarnos contra la tiranía de los replicadores egoístas». Esta posibilidad
+puede interpretarse, desde la ontología desarrollada en el presente libro,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4887,9 +4887,6 @@ A.C.
 
 CAOS
 
-y actuar sobre esa anticipación. En el capítulo XI afirma que podemos
-«rebelarnos contra la tiranía de los replicadores egoístas». Esta posibilidad
-puede interpretarse, desde la ontología desarrollada en el presente libro,
 como una manifestación de lo que aquí se denomina capacidad de primera
 mediación: la posibilidad de que entre el estímulo y la respuesta se
 interponga la deliberación.
@@ -4921,6 +4918,9 @@ Mientras existe ese espacio —por estrecho que sea— existe el ego como
 posibilidad de colapso.
 [97] Herman, Judith. Trauma y recuperación (1992). Herman es la
 investigadora que sistematizó el estudio del trauma psicológico severo —
+especialmente el trauma relacionado con la violencia sexual, la guerra y la
+tortura— y mostró que el trauma no es simplemente una experiencia dif ícil
+que debe superarse: es una perturbación de los sistemas neurofisiológicos que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4930,9 +4930,6 @@ A.C.
 
 CAOS
 
-especialmente el trauma relacionado con la violencia sexual, la guerra y la
-tortura— y mostró que el trauma no es simplemente una experiencia dif ícil
-que debe superarse: es una perturbación de los sistemas neurofisiológicos que
 regulan la respuesta al estrés, que puede alterar profundamente la capacidad
 del sujeto de actuar deliberadamente, de acceder a sus propias
 representaciones mentales, de regular sus emociones. En términos del
@@ -4964,6 +4961,8 @@ sistema que debe ser manejado, no como un agente que debe ser
 responsabilizado. Esta distinción de Strawson es filosóficamente af ín al
 argumento de este capítulo: la imputación de responsabilidad requiere que
 haya habido campo de acción para la primera mediación. Donde no hay
+campo, corresponde la perspectiva objetiva de Strawson, no la actitud
+reactiva de la responsabilización.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4974,8 +4973,6 @@ A.C.
 
 CAOS
 
-campo, corresponde la perspectiva objetiva de Strawson, no la actitud
-reactiva de la responsabilización.
 [100] Ricoeur, Paul. Sí mismo como otro (1990). Ricoeur distingue entre dos
 aspectos de la identidad personal: la «idem-identidad» (la mismidad: lo que
 permanece idéntico a lo largo del tiempo, el sustrato material y las
@@ -5008,6 +5005,9 @@ véanse su testimonio sobre las posibilidades de actitud frente al sufrimiento
 ineludible y la exposición de la logoterapia. Frankl sitúa la búsqueda de
 sentido en el centro de su comprensión de la existencia, aun bajo
 circunstancias de extrema privación. La tesis de que un ego pueda
+reconstruir su campo de acción después de un accidente mediante nuevas
+mediaciones constituye la interpretación de este libro, no una fórmula
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5017,8 +5017,6 @@ A.C.
 
 CAOS
 
-reconstruir su campo de acción después de un accidente mediante nuevas
-mediaciones constituye la interpretación de este libro, no una fórmula
 literal de Frankl. La posibilidad de construir sentido no convierte el daño en
 un bien, no atribuye responsabilidad por haberlo sufrido y no impone a las
 víctimas una obligación de superación. Véase también la nota [96].
@@ -5051,6 +5049,8 @@ modos sin reducirse a ninguno de ellos.
 [105] El argumento cosmológico sobre Dios —que hay algo más allá del
 universo observable que constituye su causa o fundamento— tiene múltiples
 versiones en la historia de la filosof ía. El argumento kalam (Al-Ghazali,
+siglo XI; versión contemporánea de William Lane Craig) sostiene que todo
+lo que comienza a existir tiene una causa, el universo comenzó a existir,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5060,8 +5060,6 @@ A.C.
 
 CAOS
 
-siglo XI; versión contemporánea de William Lane Craig) sostiene que todo
-lo que comienza a existir tiene una causa, el universo comenzó a existir,
 luego el universo tiene una causa que es Dios. El argumento de la
 contingencia (Leibniz, Aquino) sostiene que el universo es contingente —
 podría no haber existido— y que la razón suficiente de su existencia debe ser
@@ -5852,7 +5850,6 @@ del ego, modifica la función del sujeto, transforma a quien actuó. La doble
 mediación es la estructura completa del colapso del ego: la que hace posible
 tanto la responsabilidad como la identidad, tanto el compromiso como la
 transformación.
-A eso vamos.
 Notas
 Las siguientes notas amplían los interlocutores filosóficos y científicos
 citados en el cuerpo del capítulo. Están pensadas para el lector que desee
@@ -5873,6 +5870,7 @@ como la historia de las formas de mediación mediante las cuales la
 conciencia se desarrolla desde la certeza sensible inmediata hasta el saber
 absoluto. Lo que este libro toma de Hegel es el reconocimiento de que la
 mediación es ontológicamente fundamental —más fundamental que la
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7042,7 +7040,6 @@ causalidad que este libro defiende: no la causalidad del mecanismo que
 produce efectos necesarios, no la causalidad del espíritu incausado que crea
 desde la nada, sino la causalidad del ego que colapsa en la intersección con el
 mundo y que, al colapsar, determina algo que sin él no habría ocurrido.
-A eso vamos.
 Notas
 Las siguientes notas amplían los interlocutores filosóficos citados en el
 cuerpo del capítulo. Están pensadas para el lector que desee profundizar en
@@ -7062,6 +7059,7 @@ orienta hacia él. Lo que Aristóteles describe como la convergencia entre
 deseo e inteligencia práctica es estructuralmente lo que este capítulo llama
 primera mediación: el momento donde la voluntad se determina hacia un
 objeto representado como deseable y la acción se orienta hacia ese objeto.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
