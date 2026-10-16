@@ -2109,7 +2109,7 @@ colapso. Si el acto pudiera deshacerse —si la determinación producida
 pudiera revertirse a posibilidad— no habría razón para hablar de
 responsabilidad: el acto sería simplemente un ensayo que puede repetirse con
 distintos parámetros hasta producir el resultado deseado. Pero el colapso no
-es un ensayo. Es definitivo. Y la carácter definitivo del colapso es lo que hace
+es un ensayo. Es definitivo. Y el carácter definitivo del colapso es lo que hace
 al sujeto que colapsa responsable de lo que ha determinado.
 Aristóteles lo formuló con precisión en la Ética a Nicómaco: una vez que el
 arquero ha soltado la flecha, no puede retirarla, aunque sí era posible no
@@ -2235,7 +2235,7 @@ sucesión de sus colapsos desde adentro.
 El séptimo movimiento fue la irreversibilidad del colapso como
 fundamento ontológico de la responsabilidad. Lo que ha sido determinado
 no puede revertirse a posibilidad. El acto realizado es parte definitiva de la
-integral. Y esa carácter definitivo es lo que hace que la responsabilidad sea
+integral. Y ese carácter definitivo es lo que hace que la responsabilidad sea
 real y no meramente formal.
 Todo este análisis lleva necesariamente a una pregunta que el capítulo ha
 mencionado pero no ha respondido: si el colapso es el momento donde la
@@ -4352,7 +4352,7 @@ concentración nazis—, que incluso en la situación de aparente despojo total
 de toda agencia, había un campo de acción que permanecía: la actitud
 interna ante lo que no podía cambiarse. En El hombre en busca de sentido,
 Frankl identifica «la última de las libertades humanas —la elección de la
-actitud personal ante un conjunto de circunstancias—».[96]La observación
+actitud personal ante un conjunto de circunstancias—».[96] La observación
 de Frankl no contradice el argumento de este capítulo: lo precisa. El campo
 de acción puede estar extremadamente reducido sin llegar a cero. Y mientras
 haya campo, aunque sea el estrecho espacio de la actitud interna, el ego
@@ -6883,11 +6883,11 @@ intención original. La responsabilidad está fijada en el punto de la primera
 mediación. El resultado puede frustrarse, desviarse, producir consecuencias
 no buscadas. La imputación ya está fijada.
 En términos positivos: la responsabilidad exige causalidad del tipo específico
-que la primera mediación produce. Exige que el sujeto haya sido la
-condición sine qua non del acto —que sin su primera mediación el acto no
-habría ocurrido—, y que esa condición sine qua non haya operado como tal
-porque la voluntad del sujeto se orientó hacia un objeto representado y
-produjo la acción desde esa orientación. No cualquier condición necesaria
+que la primera mediación produce. Exige que el sujeto haya sido la condición
+sine qua non del acto —que sin su primera mediación el acto no habría
+ocurrido—, y que esa condición sine qua non haya operado como tal porque
+la voluntad del sujeto se orientó hacia un objeto representado y produjo la
+acción desde esa orientación. No cualquier condición necesaria del resultado
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6898,8 +6898,8 @@ A.C.
 
 CAOS
 
-del resultado produce responsabilidad: solo la condición que operó como
-primera mediación.
+produce responsabilidad: solo la condición que operó como primera
+mediación.
 Esta posición es más rigurosa que las teorías consecuencialistas porque no
 hace depender la responsabilidad de factores que el agente no controla. En
 la teoría utilitarista de Mill, la evaluación moral del acto depende de sus
