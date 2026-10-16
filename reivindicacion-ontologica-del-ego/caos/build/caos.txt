@@ -6493,7 +6493,7 @@ que da al acto su peso real. Si el acto pudiera deshacerse —si la
 determinación producida pudiera revertirse a posibilidad— el acto no
 tendría peso existencial. Sería un ensayo. Una prueba que puede repetirse con
 distintos parámetros hasta producir el resultado deseado. Pero el acto no es
-un ensayo. Es definitivo. Y esa carácter definitivo es lo que hace que los actos
+un ensayo. Es definitivo. Y ese carácter definitivo es lo que hace que los actos
 importen, que las palabras importen, que las decisiones importen. Sin la
 irreversibilidad del acto no habría razón para la seriedad existencial que la
 responsabilidad exige.
@@ -9908,27 +9908,28 @@ Ontología cuántica
 
 Ontología del ego
 
-Estado cuántico `
+Estado cuántico $\lvert\psi\rangle$ en
+superposición
 
-ψ⟩` en superposición
+Caos: posibilidad absoluta antes del colapso
 
 Función de onda ψ(r, t)
 
-Función del sujeto antes de la primera mediación
+Función del sujeto antes de la primera
+mediación
 
 Espacio de Hilbert
 
 Espacio de posibilidades del caos
 
-Coeficientes αₙ de la
-superposición
+Coeficientes αₙ de la superposición
 
 Pesos de las posibilidades en el caos
 
-Medición / interacción con el
-entorno
+Medición / interacción con el entorno
 
-Primera mediación: voluntad orientada hacia un objeto
+Primera mediación: voluntad orientada hacia
+un objeto
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9947,41 +9948,42 @@ Colapso de la función de onda
 
 Colapso del ego: acto irreversible
 
-Autovalor aₙ obtenido en la
-medición
+Autovalor aₙ obtenido en la medición
 
 Determinación producida por el acto
 
-`
+$\lvert\langle a_n \mid
+\psi\rangle\rvert^2$ = probabilidad del
+resultado
 
-⟨aₙ
+Probabilidad del colapso condicionada por el
+campo
 
-Decoherencia: inscripción en el
-entorno
+Decoherencia: inscripción en el entorno
 
-Segunda mediación: integración del acto a la integral
+Segunda mediación: integración del acto a la
+integral
 
-Estado post-colapso `
+Estado post-colapso $\lvert a_n\rangle$
 
-aₙ⟩`
+Ego modificado después del acto
 
-Evolución unitaria entre
-mediciones
+Evolución unitaria entre mediciones
 
 Acumulación de la integral entre colapsos
 
 No-conmutatividad: [x
 ̂, ̂
-p]
-= iℏ
+p] = iℏ
 
-Tensión entre posibilidad y determinación: el colapso
-destruye el caos que lo hizo posible
+Tensión entre posibilidad y determinación: el
+colapso destruye el caos que lo hizo posible
 
-Principio de incertidumbre:
-Δx·Δp ≥ ℏ/2
+Principio de incertidumbre: Δx·Δp ≥
+ℏ/2
 
-Determinación en un acto abre posibilidad en otros
+Determinación en un acto abre posibilidad en
+otros
 
 Entrelazamiento cuántico
 
