@@ -322,8 +322,8 @@ precisamente ahí. Pero de lo único que no puedo dudar es del hecho de que
 dudo. Y si dudo, pienso. Y si pienso, existo. La existencia del sujeto pensante
 es, para Descartes, la certeza fundamental desde la cual todo lo demás puede
 reconstruirse.
-El problema no está en la conclusión —que el sujeto existe. El problema está
-en la jerarquía que el argumento establece: pone al pensamiento como
+El problema no está en la conclusión —que el sujeto existe—. El problema
+está en la jerarquía que el argumento establece: pone al pensamiento como
 fundamento del ser. Primero el pensamiento, luego la existencia. La
 existencia es derivada del pensamiento. Sin pensamiento, no hay, para
 Descartes, existencia del sujeto que pueda certificarse.
