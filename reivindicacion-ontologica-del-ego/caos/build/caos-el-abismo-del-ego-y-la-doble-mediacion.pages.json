@@ -1,6 +1,6 @@
 {
   "pdf": "caos-el-abismo-del-ego-y-la-doble-mediacion.pdf",
-  "total_pages": 278,
+  "total_pages": 282,
   "contents": [
     {
       "key": "notas-autor",
@@ -55,29 +55,29 @@
       "key": "cap-Capítulo VII",
       "label": "Capítulo VII · El ego como condición mínima causal",
       "kind": "chapter",
-      "physical_page": 182,
-      "printed_page": "175"
+      "physical_page": 183,
+      "printed_page": "176"
     },
     {
       "key": "ap-el-colapso-en-las-matematicas",
       "label": "Apéndice I · El colapso en las matemáticas",
       "kind": "appendix",
-      "physical_page": 207,
-      "printed_page": "200"
+      "physical_page": 209,
+      "printed_page": "202"
     },
     {
       "key": "ap-el-colapso-en-la-fisica-cuantica",
       "label": "Apéndice II · El colapso en la física cuántica",
       "kind": "appendix",
-      "physical_page": 229,
-      "printed_page": "222"
+      "physical_page": 231,
+      "printed_page": "224"
     },
     {
       "key": "ap-glosario-tecnico",
       "label": "Apéndice III · Glosario técnico",
       "kind": "appendix",
-      "physical_page": 255,
-      "printed_page": "248"
+      "physical_page": 259,
+      "printed_page": "252"
     }
   ]
 }
