@@ -10521,15 +10521,14 @@ distintos del mismo término. Las referencias cruzadas indican entradas con
 las que el término tiene relaciones definitorias o de dependencia. Las notas
 al pie amplían las conexiones con la literatura filosófica y científica
 relevante.
-sujeto s.m.
-1. La condición material mínima de la posibilidad del ego. El sujeto es
-el organismo viviente dotado de sistema nervioso suficientemente
-organizado para que la doble mediación pueda operar. No es todavía
-el ego, pero es su soporte necesario.
-2. En la ontología del ego: el punto de partida de la integral
-acumulativa, previo al primer colapso. El sujeto existe como suelo
-antes de que ningún colapso lo haya determinado como este ego y no
-otro.
+sum / mediación prima
+sum (mediación prima). Comparecencia de una determinación en la que
+concurren identidad o sesgo como determinación, pasión o voluntad como
+continuidad y primera mediación entendida como acontecer efectivo. Una
+determinación puede comparecer como sum sin ser egoica: un acto, un
+llanto o un tornado son ejemplos de mediación prima en sus respectivos
+registros. El ego presupone un sum ya constituido y emerge cuando una
+determinación es asumida mediante la segunda mediación; no sustituye al
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -10540,6 +10539,17 @@ A.C.
 
 CAOS
 
+sum ni lo eleva a un grado superior de ser. Puede haber sum sin ego; no hay
+ego sin sum.
+sujeto s.m.
+1. La condición material mínima de la posibilidad del ego. El sujeto es
+el organismo viviente dotado de sistema nervioso suficientemente
+organizado para que la doble mediación pueda operar. No es todavía
+el ego, pero es su soporte necesario.
+2. En la ontología del ego: el punto de partida de la integral
+acumulativa, previo al primer colapso. El sujeto existe como suelo
+antes de que ningún colapso lo haya determinado como este ego y no
+otro.
 El sujeto no se identifica con ningún tipo de sustancia —no es el alma, ni la
 conciencia trascendental, ni el cerebro. Es la condición biológica y
 neurológica mínima que hace posible que haya un polo de la intersección
@@ -10559,6 +10569,16 @@ coexistencia simultánea de todas las determinaciones posibles antes
 de que ninguna haya colapsado.
 2. En sentido estricto: el espacio lógico de todas las posibilidades del
 ego, desde el que cada colapso toma su punto de partida. El caos no
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+250
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 desaparece con el colapso: se redistribuye. Cada determinación abre
 nuevas posibilidades al cerrar otras.
 El caos en sentido técnico de esta ontología es distinto del caos de la teoría
@@ -10570,16 +10590,6 @@ La relación entre el caos y el colapso es asimétrica en una dirección
 específica: el colapso requiere el caos (sin posibilidad no hay determinación
 posible), pero el caos no requiere el colapso (puede haber posibilidad sin que
 ninguna determinación ocurra, como en el sujeto antes del primer acto).
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-250
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 Esta asimetría es la que hace del caos la condición de posibilidad del ego y
 no su resultado.
 La estructura matemática más precisa del caos en el sentido de este libro es el
@@ -10599,6 +10609,16 @@ que la posibilidad deja de ser solo posibilidad.
 2. (del ego) El colapso producido por la doble mediación: la transición
 de la posibilidad abierta al acto determinado, con primera
 mediación (intencionalidad presupuesta) e integración a la integral
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+251
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 acumulativa (segunda mediación). Es el colapso con responsabilidad
 posible.
 3. (neutral) El colapso sin primera mediación: la determinación
@@ -10610,16 +10630,6 @@ El colapso del ego se distingue del colapso neutral por dos propiedades que
 deben concurrir simultáneamente: (i) presupuesta intencionalidad del sujeto
 que lo produce (primera mediación) y (ii) integración del resultado a la
 función acumulativa del sujeto (segunda mediación). La ausencia de
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-251
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 cualquiera de las dos convierte el colapso del ego en colapso neutral o en
 fallo de mediación.[211]
 Propiedades formales del colapso (en todos sus tipos): (a) irreversibilidad: el
@@ -10639,6 +10649,16 @@ momento, entonces la irreversibilidad equivale a la condición de que c no
 tiene inversa temporal: no existe operación φ tal que φ(c(t)) = c(t − ε) para
 ningún ε > 0.
 c: T → E, c irreversible ⟺ ∄ φ tal que φ(c(t)) = c(t − ε) para ε > 0
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+252
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 Véase también: caos, primera mediación, segunda mediación, doble
 mediación, mediación neutral, acto
 mediación s.f.
@@ -10650,16 +10670,6 @@ el río media, la célula media.
 2. (del ego) La mediación que incluye intencionalidad presupuesta: la
 orientación del sujeto hacia un objeto representado como fin que
 precede y orienta el acto. La mediación del ego no elimina la
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-252
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 mediación neutral que la rodea sino que la transforma: el acto del
 ego ocurre a través de mediaciones neutrales pero no como ellas.
 3. (doble) La estructura completa de la mediación del ego, compuesta
@@ -10679,6 +10689,16 @@ y mundo no son polos preexistentes que la mediación une: emergen de la
 mediación como sus correlatos.
 Véase también: colapso, primera mediación, segunda mediación, mediación
 neutral, acto, intencionalidad
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+253
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 mediación neutral loc. s.f.
 1. Mediación que produce determinación sin intencionalidad: sin que
 el proceso incluya orientación hacia un objeto representado como
@@ -10690,16 +10710,6 @@ río que erosiona su cauce (mediación natural), la célula que se divide
 reflejo que retira la mano del fuego (mediación neurológica sin
 deliberación). En todos estos casos hay determinación —el proceso se
 determina, la posibilidad colapsa— pero no hay polo con intencionalidad.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-253
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 La mediación neutral no implica simplicidad ni ausencia de organización.
 Los objetos técnicos (Simondon) tienen una «individualidad» propia que
 trasciende las intenciones de sus constructores. Los sistemas biológicos
@@ -10718,6 +10728,16 @@ primera mediación loc. s.f.
 representado como fin, que precede y estructura el acto. La primera
 mediación es el evento en el que la posibilidad se orienta hacia una
 dirección determinada antes de que el acto la exteriorice.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+254
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 2. El componente del colapso del ego que funda la imputación: la
 condición necesaria para que pueda atribuirse responsabilidad al
 sujeto por el acto producido.
@@ -10730,18 +10750,7 @@ orden); (iii) campo de acción disponible: hay un espacio entre el estímulo y
 la respuesta en el que la primera mediación puede operar.
 La primera mediación no requiere deliberación explícita ni conciencia
 reflexiva en cada acto. Opera también en el nivel del habitus (Bourdieu): las
-disposiciones incorporadas que generan prácticas de manera cuasi-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-254
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
-automática pero con intencionalidad incorporada. La primera mediación
+disposiciones incorporadas que generan prácticas de manera cuasiautomática pero con intencionalidad incorporada. La primera mediación
 habitual es tan primera mediación como la explícitamente deliberada: en
 ambos casos hay orientación del sujeto hacia un objeto representado, aunque
 en el primer caso la representación sea pre-reflexiva.
@@ -10759,6 +10768,16 @@ la orientación de la voluntad v ∈ V y las condiciones del campo c ∈ C.
 φ₁: V × C → A (primera mediación como función de selección del acto)
 Véase también: segunda mediación, doble mediación, intencionalidad
 presupuesta, campo de acción, responsabilidad, imputación
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+255
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 intencionalidad presupuesta loc. s.f.
 1. La condición estructural del sujeto que actúa como agente: la
 capacidad de orientar la voluntad hacia objetos representados y de
@@ -10771,16 +10790,6 @@ agente debería haber tenido). Tanto el dolo como la culpa son formas de
 primera mediación que falla en mayor o menor grado respecto de la norma.
 La intencionalidad presupuesta es la condición anterior a ambas: la
 presuposición de que hubo primera mediación de algún tipo.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-255
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 En el derecho penal, la intencionalidad presupuesta se expresa en el concepto
 de «imputabilidad»: la capacidad del sujeto de comprender la ilicitud de sus
 actos y de determinar su voluntad conforme a esa comprensión. Un sujeto
@@ -10799,6 +10808,16 @@ efectivamente accesible para el ego dado el estado del mundo y las
 capacidades del sujeto en el momento del colapso.
 El campo de acción puede ser amplio o estrecho, pero nunca infinito:
 siempre está delimitado por las condiciones del cuerpo del sujeto, sus
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+256
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 capacidades cognitivas, el estado del mundo en que actúa, y las condiciones
 que los accidentes de escalas inferiores han impuesto. Un ego que opera
 desde un campo estrecho no es menos ego que uno que opera desde un
@@ -10813,15 +10832,6 @@ cero puede producirse por violencia exterior (el acto f ísico que elimina toda
 posibilidad de respuesta del sujeto), por estados de la mente del sujeto
 (disociación severa, privación completa de conciencia) o por condiciones del
 mundo que eliminan toda alternativa real.
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-256
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 El campo de acción no es un dato fijo del sujeto sino una configuración
 variable que cambia con cada colapso: cada acto modifica el campo de
 acción para los colapsos futuros. El campo se amplía con los actos que abren
@@ -10839,6 +10849,16 @@ actúa hoy —no en el sentido de identidad sustancial sino en el
 sentido de continuidad funcional acumulativa.
 La segunda mediación no es un proceso automático: puede fallar. El fallo
 más estudiado clínicamente es la compulsión de repetición (Freud): cuando
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+257
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 el sujeto no puede integrar una experiencia pasada, esta persiste como herida
 abierta que el sujeto revive sin que la segunda mediación pueda incorporarla
 a la integral. El resultado es un ego que actúa pero no crece: sus colapsos lo
@@ -10852,22 +10872,36 @@ parte de la función acumulativa.
 La segunda mediación tiene una dimensión normativa además de
 descriptiva: no todos los modos de integrar el acto a la integral producen la
 misma función. Un ego que integra sus actos sin evaluarlos —sin
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-257
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 preguntarse si correspondieron a sus compromisos— produce una función
 distinta de uno que los integra con reflexividad crítica. La segunda
 mediación puede operar con mayor o menor grado de reflexividad, aunque
 en su forma mínima no requiere reflexividad explícita.
 Véase también: primera mediación, doble mediación, integral acumulativa,
 identidad del ego
+actualización funcional / φ₂
+Para un acto a_t = φ₁(v_t,c_t) y una trayectoria previa I(t), la actualización
+de la segunda mediación puede representarse mediante I(t+1) = φ₂(a_t,I(t)).
+Esta expresión caracteriza el retorno del acto a la historia del ego como
+transformación de su trayectoria; no exige que φ₂ sea una mera suma
+aritmética ni que la trayectoria esté representada literalmente como un
+conjunto. La escritura I′ = I ∪ {a} puede mantenerse solo si I designa
+explícitamente un conjunto de actos registrados y no el valor de la integral.
+dependencia histórica del orden (no conmutatividad posible)
+La integración de una secuencia de actos puede depender de su orden. Para
+ciertas trayectorias I₀ y actos a y b, φ₂(b,φ₂(a,I₀)) ≠ φ₂(a,φ₂(b,I₀)). Esto no
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+258
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
+impone la no conmutatividad a todos los actos: señala que el modelo admite
+procesos en los que una mediación modifica las condiciones constitutivas de
+las posteriores.
 doble mediación loc. s.f.
 1. La estructura completa del colapso del ego, compuesta por dos
 mediaciones sucesivas: la primera mediación (voluntad orientada que
@@ -10882,26 +10916,33 @@ donde v_t es la orientación de la voluntad en el momento t, c_t es el campo
 de acción disponible en t, φ₁ es la primera mediación, φ₂ es la segunda
 mediación, e I(t) es la integral acumulativa de todos los colapsos anteriores a
 t.
+convención del tiempo t y del ciclo t+1
+En Ego(t) = φ₂(φ₁(v_t,c_t),I(t)), el índice t puede emplearse para designar la
+operación constitutiva correspondiente al momento considerado. Si se
+distingue expresamente el estado previo del estado resultante, se escribe a_t
+= φ₁(v_t,c_t), I(t+1) = φ₂(a_t,I(t)). Se trata de dos convenciones de
+indexación de una misma articulación: acto actual, historia previamente
+constituida y retorno constitutivo.
 La doble mediación distingue al ego de dos objetos con los que podría
 confundirse: (a) del mecanismo —que produce colapsos neutrales sin
 primera mediación—; (b) del ego parcial —que tiene primera mediación
 pero cuya segunda mediación falla, de modo que actúa sin construirse.
 La doble mediación es la condición necesaria y suficiente del ego en el
 sentido técnico de esta ontología. «Necesaria»: sin doble mediación no hay
-ego —hay sujeto que podría ser ego pero que no lo es todavía. «Suficiente»:
-todo sistema que opera mediante doble mediación es un ego,
-independientemente de su sustrato, su escala o su composición. La doble
-mediación es la definición funcional del ego.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-258
+259
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 CAOS
 
+ego —hay sujeto que podría ser ego pero que no lo es todavía. «Suficiente»:
+todo sistema que opera mediante doble mediación es un ego,
+independientemente de su sustrato, su escala o su composición. La doble
+mediación es la definición funcional del ego.
 La asimetría fundamental de la doble mediación: la primera mediación
 puede ocurrir sin segunda (el fallo de integración), pero la segunda
 mediación no puede ocurrir sin primera (no hay nada que integrar si no
@@ -10929,18 +10970,18 @@ significa que sus consecuencias no puedan mitigarse: significa que el hecho
 de que el acto ocurrió es permanente. El ego puede actuar de manera que
 compense las consecuencias del acto; no puede actuar de manera que el acto
 no haya ocurrido.[213]
-Véase también: primera mediación, segunda mediación, colapso,
-responsabilidad, mediación neutral
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-259
+260
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 CAOS
 
+Véase también: primera mediación, segunda mediación, colapso,
+responsabilidad, mediación neutral
 integral acumulativa loc. s.f.
 1. La función que describe el estado del ego como la acumulación de
 todos sus colapsos pasados. No es la suma de los actos: es el patrón
@@ -10966,20 +11007,36 @@ respuesta total del ego: todo lo que fue, en su forma definitiva. El ego que
 vive es siempre integral abierta —siempre incompleto, siempre pendiente
 del próximo colapso—; el ego que muere se convierte en integral cerrada.
 Véase también: segunda mediación, ego, identidad del ego, colapso
-ego s.m.
-1. (definición nuclear) La función acumulativa que emerge de la
-aplicación iterada de la doble mediación al sujeto que colapsa en su
-intersección con el mundo. El ego no es una entidad sino un proceso;
+colapso asumido / c_asumido
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-260
+261
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 CAOS
 
+En la notación I(t) = ∫₀ᵗ c(τ)·w(τ) dτ, c(τ) designa, para fines de modelación
+de la trayectoria egoica, las contribuciones de colapsos incorporados
+mediante la segunda mediación. Puede escribirse c_asumido(τ) cuando sea
+necesario distinguirlas del conjunto de todos los acontecimientos que
+comparecen como sum. La integral no equivale al registro de todos los
+acontecimientos materiales del mundo ni a una enumeración de actos
+jurídicamente imputables al sujeto.
+función, integral y punto de acumulación
+La función caracteriza la trayectoria y el operar temporal del ego; la integral
+modela la acumulación histórica de determinaciones asumidas; el punto de
+acumulación caracteriza una propiedad de consistencia o continuidad que
+puede examinarse en la pluralidad de estados. Estas caracterizaciones
+corresponden a aspectos distintos de una misma estructura dinámica. No se
+afirma que sean objetos matemáticamente idénticos ni que el ego entero sea
+un punto singular.
+ego s.m.
+1. (definición nuclear) La función acumulativa que emerge de la
+aplicación iterada de la doble mediación al sujeto que colapsa en su
+intersección con el mundo. El ego no es una entidad sino un proceso;
 no es un punto sino una función; no es un sustrato sino una
 estructura.
 2. (definición operacional) El sistema que tiene primera mediación
@@ -10991,6 +11048,16 @@ el sujeto como punto de partida de la integral; (ii) la función
 acumulativa de todos sus colapsos; (iii) la condición sine qua non del
 acto humano; (iv) la integral cerrada en la muerte como respuesta
 total.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+262
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 La definición del ego en esta ontología es funcional, no sustancial. El ego
 no requiere ningún sustrato específico: es la estructura de la doble mediación
 aplicada al sujeto. Esto tiene como consecuencia que la pregunta «¿qué es el
@@ -11010,16 +11077,6 @@ como integral, presente como colapso, futuro como campo— es su
 estructura básica de existencia.
 Véase también: sujeto, doble mediación, integral acumulativa, condición
 sine qua non, identidad del ego
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-261
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 identidad del ego loc. s.f.
 1. La continuidad funcional de la integral acumulativa a lo largo del
 tiempo. La identidad del ego no es la identidad de ningún sustrato
@@ -11032,6 +11089,16 @@ el ego puede cambiar dramáticamente —por conversión, por trauma
 transformador, por experiencia acumulativa sostenida— sin perder
 continuidad, porque la continuidad no requiere invarianza sino
 continuidad del proceso de acumulación. El ego de hoy no necesita ser
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+263
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 funcionalmente idéntico al de ayer para ser el mismo ego en el sentido de
 continuidad acumulativa.
 La identidad del ego no implica transparencia del ego a sí mismo. El ego
@@ -11051,16 +11118,6 @@ Permeabilidad material significa que lo que ocurre en una escala modifica el
 campo de posibilidades de la escala superior: los colapsos celulares
 condicionan el campo del ego orgánico; los colapsos sociales condicionan el
 campo del ego individual. Impermeabilidad causal significa que los colapsos
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-262
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 de una escala no operan los colapsos de la escala superior ni los sustituyen: el
 colapso celular no es el colapso del ego orgánico; el colapso social no es el
 colapso del ego individual.[215]
@@ -11073,6 +11130,16 @@ de que la organización en cada nivel produce propiedades que la
 organización del nivel inferior no tiene.[216]
 La relación entre escalas es asimétrica: las escalas inferiores afectan a las
 superiores como condicionamiento del campo; las escalas superiores pueden
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+264
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 afectar a las inferiores como organización del campo (causalidad
 descendente), pero sin operar ni sustituir los colapsos de la escala inferior. El
 ego no puede controlar directamente sus células; pero sus estados —
@@ -11092,16 +11159,6 @@ El accidente no suspende el ego: mientras el campo de acción no se colapsa a
 cero, el ego sigue siendo ego en el campo que el accidente ha delimitado. El
 accidente modifica el campo; no elimina al ego que opera desde ese campo
 (salvo en el límite del campo colapsado a cero). El ego que sobrevive al
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-263
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 accidente es un ego distinto —tiene un campo distinto— pero sigue siendo
 ego.[217]
 El accidente tiene consecuencias directas para la teoría de la responsabilidad.
@@ -11114,6 +11171,16 @@ Distinción importante: el accidente que modifica el campo sin eliminar la
 primera mediación del sujeto en sus actos posteriores no elimina la
 responsabilidad del sujeto por esos actos posteriores. Si el sujeto actúa desde
 el campo modificado por el accidente, esa acción es su acto —con primera
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+265
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 mediación—, aunque el campo desde el que actúa haya sido determinado
 por el accidente. Las condiciones del campo no operan el colapso.
 Véase también: campo de acción, escala de colapso, colapso, primera
@@ -11133,16 +11200,6 @@ qua non del acto como acto —como determinación producida por la doble
 mediación—, no como evento f ísico. Si un movimiento f ísico habría
 ocurrido de todas maneras sin la primera mediación del ego (por ejemplo,
 porque alguna causa f ísica lo habría producido independientemente), el ego
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-264
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 sigue siendo condición sine qua non del acto en cuanto acto: sin su primera
 mediación ese movimiento no habría tenido la estructura de un acto sino la
 de un evento físico.[218]
@@ -11155,6 +11212,16 @@ específicamente la estructura de la primera mediación del acto —lo que hace
 que el acto sea un acto y no solo un evento.
 La prueba contrafáctica aplicada al ego: si este sujeto no hubiera tenido
 primera mediación en este momento —si hubiera reaccionado
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+266
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 reflejamente, o si hubiera estado inconsciente, o si hubiera sido víctima de
 una fuerza irresistible—, el movimiento f ísico podría haber ocurrido pero
 el acto no habría ocurrido. Esta ausencia contrafáctica establece que el ego
@@ -11174,16 +11241,6 @@ es responsable de haber producido el acto —de haber sido la condición sine
 qua non con primera mediación—, independientemente de si el resultado
 fue el que la primera mediación se proponía y de si las cadenas causales
 ulteriores produjeron consecuencias que el ego no podía prever. Esta
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-265
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 posición es más rigurosa que el consecuencialismo (que hace depender la
 responsabilidad del resultado) y más precisa que el deontologismo kantiano
 (que la hace depender de la máxima pero sin especificar la relación causal).
@@ -11196,6 +11253,16 @@ campo efectivamente disponible para la primera mediación.
 Casos límite: (a) campo colapsado a cero: no hay responsabilidad porque no
 hay primera mediación posible; (b) campo muy restringido: hay
 responsabilidad reducida proporcional al campo; (c) campo normal: hay
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+267
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 responsabilidad plena por los actos producidos; (d) campo ampliado
 artificialmente por privilegio o poder: hay responsabilidad aumentada
 porque el privilegio amplía el campo sin que el sujeto lo haya producido por
@@ -11215,16 +11282,6 @@ La imputación no requiere identificar una «intención maligna» ni ningún
 estado mental específico: requiere identificar que hubo orientación de la
 voluntad hacia un objeto —que hubo primera mediación— y que esa
 orientación fue la condición necesaria del acto producido. La imputación
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-266
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 puede ser de actos producidos con deliberación explícita, con intención
 implícita, con imprudencia, o con disposiciones incorporadas que el ego
 ejerció sin reflexividad explícita, siempre que en todos los casos haya habido
@@ -11235,6 +11292,16 @@ tiempo del ego loc. s.m.
 1. La sucesión de colapsos del ego experimentada desde la perspectiva de
 la primera persona. El tiempo del ego no es el tiempo f ísico —la
 variable t de la f ísica—: es el tiempo vivido, la estructura de pasadopresente-futuro que emerge de la acumulación de la integral.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+268
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 El tiempo del ego tiene tres dimensiones irreductibles: (a) pasado como
 integral acumulativa —todo lo que el ego fue; (b) presente como colapso en
 curso —el acto que está ocurriendo ahora; (c) futuro como campo de
@@ -11254,16 +11321,6 @@ con el argumento que el libro desarrolla. El orden de las entradas sigue el
 orden de dependencia conceptual, no el orden de aparición en el libro.
 Los lectores que lleguen desde la filosof ía analítica encontrarán que el
 sistema tiene relaciones explícitas con la filosof ía de la acción (Davidson,
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-267
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 Anscombe, Frankfurt, von Wright), la ontología (Aristóteles, Spinoza,
 Strawson), la filosof ía de la mente (Brentano, Husserl, Chalmers) y la
 filosofía del derecho (Hart, Kelsen). Los lectores que lleguen desde las
@@ -11278,6 +11335,15 @@ NOTAS
 ────────────────────────────────────────────────────────
 [210] La distinción entre sujeto y ego en este libro corresponde a la
 distinción entre el soporte material del ego y el ego como proceso. Tiene
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+269
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 antecedentes en la distinción kantiana entre el sujeto empírico (el yo como
 objeto de la psicología empírica) y el sujeto trascendental (el yo como
 condición de posibilidad de la experiencia). También corresponde a la
@@ -11298,16 +11364,6 @@ posibilidad abierta y la producción de determinación sin implicar ninguna
 estructura previa en la posibilidad. El término también conecta
 explícitamente con el colapso de la función de onda en mecánica cuántica,
 cuya estructura formal es isomorfa a la del colapso del ego (Apéndice II).
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-268
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 [212] La noción de campo de acción tiene antecedentes en la «situation» de
 Sartre (El ser y la nada, IV), en el «mundo» de Heidegger como horizonte
 de posibilidades del Dasein (Ser y tiempo, §§ 14-18), y en el «Umwelt» de
@@ -11322,6 +11378,15 @@ mundo.
 paralela a la distinción de Aristóteles entre acción (kinesis producida por el
 agente desde sus propios principios) y pasión (kinesis producida en el agente
 por causas externas). Física, III, 201b. También es paralela a la distinción
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+270
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 spinoziana entre acción (el modo cuya causa adecuada es la propia esencia
 del sujeto) y pasión (el modo cuya causa adecuada es parcialmente externa).
 Ética, III, def. 2.
@@ -11329,28 +11394,25 @@ del sujeto) y pasión (el modo cuya causa adecuada es parcialmente externa).
 desarrollada en el Apéndice I. La integral acumulativa I(t) = ∫₀ᵗ c(τ) w(τ) dτ
 es una idealización: en la práctica los colapsos son discretos y no todos
 tienen el mismo peso. La integral continua es el límite de la suma discreta
-Σ΢₌₁ⁿ c(τₖ) w(τₖ) Δτ cuando los intervalos entre colapsos se hacen
+Σₖ₌₁ⁿ c(τₖ) w(τₖ) Δτ cuando los intervalos entre colapsos se hacen
 infinitesimalmente pequeños. La función de peso w(τ) puede modelarse
 como una función decreciente con el tiempo (los colapsos más recientes
 tienen mayor peso en la determinación de la función actual) o como
 constante (todos los colapsos tienen el mismo peso en la integral). El libro
 no postula ninguna forma específica de w(τ): la integral acumulativa es la
 estructura general, y las distintas concepciones de la memoria e identidad
-corresponden a distintas elecciones de w.
+corresponden a distintas elecciones de w. peso temporal w(τ)
+La función de ponderación w modela la distinta relevancia de las
+contribuciones asumidas. Si el peso de un colapso depende de su antigüedad
+respecto del instante actual t, puede escribirse w_t(τ) = W(t − τ), donde W
+decrece con la antigüedad. Por ejemplo, W(s) = e^(−λs) con λ > 0. El libro no
+impone ninguna ley de ponderación específica; esta notación solo aclara la
+lectura temporal de un posible peso decreciente.
 [215] El concepto de escala en f ísica tiene una formulación precisa en el
 «grupo de renormalización» (Wilson, K.G. «The Renormalization Group
 and Critical Phenomena», Nobel Lecture, 1982): la descripción de un
 sistema físico cambia de manera predecible al cambiar la escala de energía o
 longitud desde la que se lo observa. Las propiedades relevantes a escala
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-269
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 microscópica (cuántica) no son las mismas que las relevantes a escala
 macroscópica (clásica). El grupo de renormalización muestra que las «leyes
 efectivas» a cada escala emergen de las leyes de la escala inferior mediante
@@ -11359,6 +11421,15 @@ escala. El concepto de impermeabilidad causal entre escalas en este libro
 tiene una estructura análoga: las leyes efectivas de la escala superior no son
 deducibles directamente de las de la escala inferior, aunque emergen de
 ellas.
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+271
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 [216] La noción de «propiedad emergente» (Anderson, P.W. «More Is
 Different», Science, 1972) es el antecedente científico más preciso de la
 impermeabilidad causal entre escalas. Anderson argumentó que en cada
@@ -11385,15 +11456,6 @@ entonces A → B (si hay A, hay B). La condición sine qua non es la condición
 necesaria aplicada a contextos causales: el evento E no habría ocurrido si no
 hubiera ocurrido A. Esta es la prueba contrafáctica estándar en filosof ía del
 derecho (test but-for) y en filosof ía de la causalidad. Para el ego como
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-270
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 condición sine qua non del acto humano: el acto como acto humano (con
 primera mediación) no habría ocurrido si no hubiera habido un ego con
 primera mediación. El movimiento f ísico podría haber ocurrido, pero no el
@@ -11402,6 +11464,15 @@ acto como acto.
 estructura en el derecho: la imputación de hecho (Zurechnung der Tat, en la
 terminología de Kelsen) y la imputación de derecho (la consecuencia
 jurídica que el sistema normativo asigna al hecho imputable). Este glosario
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+272
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 usa «imputación» en el sentido de la imputación de hecho: la atribución
 del acto al ego como su condición sine qua non con primera mediación. La
 consecuencia normativa que se asigna a esa imputación —la responsabilidad
@@ -11411,6 +11482,6 @@ sistema normativo en que opera la imputación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-271
+273
 
 
