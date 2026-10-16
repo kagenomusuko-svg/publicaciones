@@ -7288,7 +7288,7 @@ CAOS
 
 determinación insuperable, sino que puede ser asumido como momento del
 movimiento del espíritu. Esto no significa que la dialéctica elimine
-simplemente lo acontecido: la Auf hebung implica negación y conservación,
+simplemente lo acontecido: la Aufhebung implica negación y conservación,
 y la experiencia precedente permanece recogida en la rememoración
 (Erinnerung). La diferencia con la ontología desarrollada en este libro
 reside en el modo de comprender la permanencia de las determinaciones del
@@ -7495,8 +7495,8 @@ filosófico más poderoso que una teoría de la responsabilidad basada en la
 causalidad debe afrontar, y afrontarlo requiere primero presentarlo con toda
 la fuerza que tiene.
 El argumento de Hume en el Tratado sobre la naturaleza humana parte de
-una pregunta engañosamente simple: ¿cuál es la impresión de la que deriva
-la idea de conexión necesaria entre causa y efecto?[156] La teoría empirista de
+una pregunta deceptivamente simple: ¿cuál es la impresión de la que deriva la
+idea de conexión necesaria entre causa y efecto?[156] La teoría empirista de
 Hume exige que toda idea genuina derive de alguna impresión —alguna
 experiencia sensorial o introspectiva que la fundamente. Si podemos
 identificar esa impresión, la idea es legítima. Si no podemos, la idea carece
@@ -9180,7 +9180,7 @@ pasados porque la frontera abierta siempre contiene colapsos posibles que
 todavía no han ocurrido.
 Este apéndice ha desarrollado los cuatro pilares matemáticos del argumento
 del libro: la definición ε-δ del límite como colapso de posibilidades en
-determinación; la jerarquía cantoriana del infinito como estructura de
+determinación; la jerarquía cantoniana del infinito como estructura de
 posibilidad irreductible a ninguna enumeración; la función como identidad
 definida por la totalidad de su gráfica y no por ningún valor puntual; y el
 punto de acumulación como modelo preciso del ego que emerge de la
