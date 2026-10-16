@@ -2256,10 +2256,11 @@ profundidad: qué es el caos, por qué es atemporal, cómo se relaciona con el
 ego, y por qué la angustia existencial que los filósofos han descrito de tantas
 maneras diferentes es, en el fondo, el vértigo del sujeto parado ante el
 abismo de su propia posibilidad.
-A eso vamos.
 
 [31] Zeno de Elea, paradojas conservadas principalmente en Aristóteles,
 Física, Libro VI, Caps. 2 y 9. Las paradojas de Zenón —Aquiles y la tortuga,
+la flecha, la dicotomía— apuntan todas al mismo problema: si el espacio y el
+tiempo son infinitamente divisibles, ¿cómo es posible el movimiento finito?
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2270,8 +2271,6 @@ A.C.
 
 CAOS
 
-la flecha, la dicotomía— apuntan todas al mismo problema: si el espacio y el
-tiempo son infinitamente divisibles, ¿cómo es posible el movimiento finito?
 La resolución matemática moderna, mediante el concepto de límite y la
 convergencia de series infinitas, es uno de los triunfos más elegantes del
 análisis matemático. Pero la profundidad filosófica de la paradoja de Zenón
@@ -2304,6 +2303,8 @@ infinito era tratado con desconfianza o como mera expresión del
 pensamiento que rebasa sus propios límites. Cantor demostró que hay
 infinitos de distintos tamaños: el conjunto de los números naturales y el
 conjunto de los números reales son ambos infinitos, pero el segundo es
+estrictamente mayor que el primero. Esta jerarquía de infinitos —los
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2313,7 +2314,6 @@ A.C.
 
 CAOS
 
-estrictamente mayor que el primero. Esta jerarquía de infinitos —los
 números transfinitos aleph— es una de las construcciones más
 perturbadoras y fecundas de toda la matemática.
 [35] La convergencia de series infinitas es uno de los conceptos más
