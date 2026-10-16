@@ -94,7 +94,7 @@ Apéndice II · El colapso en la física cuántica
 
 Apéndice III · Glosario técnico
 
-248
+249
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7169,10 +7169,10 @@ debo haber sido responsable de las acciones que lo formaron; y así en
 regresión hasta llegar a un estado inicial por el que no podría ser responsable
 de ninguna manera. La responsabilidad genuina requeriría ser causa sui —
 causa de sí mismo—, lo cual es imposible. La respuesta que este libro ofrece
-al argumento de Strawson no niega la regresión sino cambia el pregunta: la
-responsabilidad no requiere haber sido causa de sí mismo en algún sentido
-absoluto; requiere que la primera mediación haya ocurrido. El ego no
-necesita haber sido su propio origen —que es imposible— para ser
+al argumento de Strawson no niega la regresión sino que cambia la
+pregunta: la responsabilidad no requiere haber sido causa de sí mismo en
+algún sentido absoluto; requiere que la primera mediación haya ocurrido. El
+ego no necesita haber sido su propio origen —que es imposible— para ser
 responsable de sus actos. Necesita haber sido la condición sine qua non sin la
 cual el acto no habría ocurrido.
 [138] Spinoza, Baruch. Ética (1677), Parte III, definiciones I–II (causa
@@ -8473,8 +8473,32 @@ El sujeto que colapsa no niega el caos: lo determina. El ego no es la victoria
 sobre el infinito sino el infinito que acepta tener forma —temporalmente,
 en el eterno presente del colapso, hasta que la integral se cierre en la muerte
 y el ego finalmente sea todo lo que fue.
-[172]
-[173]
+[172] Parménides, poema Sobre la naturaleza, fragmento DK 28 B 8, vv. 1–21,
+en particular la caracterización de «lo que es» como ingenerado e
+imperecedero; véase también DK 28 B 2 sobre las vías de investigación. La
+anterioridad ontológica del sujeto respecto de la constitución del ego,
+defendida en este libro, toma de Parménides un motivo de prioridad del ser,
+pero no identifica al organismo material —que tiene un origen biológico—
+con el ser ingenerado del poema. Decir que el sujeto no tiene «origen que
+justificar» significa aquí que su existencia no necesita ser producida o
+legitimada por un acto reflexivo del ego; no niega las explicaciones
+biológicas e históricas sobre la aparición de cada organismo. Véase la nota
+[168].
+[173] Hesíodo, Teogonía, vv. 116–123: Cháos aparece primero en la genealogía
+cosmogónica, seguido por Gea, Tártaro y Eros; del Cháos surgen Érebo y
+Noche. El término se ha interpretado frecuentemente como abertura o
+hendidura originaria, no como «desorden» en el sentido coloquial
+moderno. Véase la nota [171].
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+198
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 [174] Kierkegaard, Søren. La enfermedad mortal (1849). La «desesperación»
 en Kierkegaard es la condición del yo que no puede ser sí mismo o que no
 quiere serlo. Hay desesperación de debilidad —el yo que no puede soportar
@@ -8489,16 +8513,6 @@ de la propia integral, incluyendo los colapsos que se juzgan negativamente.
 [175] Wittgenstein, Ludwig. Tractatus Logico-Philosophicus (1921), 6.43: «Si
 la voluntad buena o mala altera el mundo, solo puede alterar los límites del
 mundo, no los hechos; no lo que puede expresarse mediante el lenguaje. En
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-198
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 una palabra: el mundo del feliz debe ser un mundo diferente del del
 infeliz.» La célebre distinción wittgensteiniana entre los hechos del mundo
 —que son lo mismo para todos— y los límites del mundo —que dependen
@@ -10354,7 +10368,13 @@ ambientales para que su coherencia cuántica se mantenga. Sin embargo, la
 decoherencia no resuelve el problema de la medición: explica por qué el gato
 parece estar en un estado definido, pero no explica por qué está en este estado
 definido y no en el otro.
-[197]
+[197] Schlosshauer, Maximilian, «Decoherence, the Measurement Problem,
+and Interpretations of Quantum Mechanics», Reviews of Modern Physics,
+76 (2005), pp. 1267–1305, DOI: 10.1103/RevModPhys.76.1267. La interacción
+entre un sistema y su entorno produce entrelazamiento y, al tomar la traza
+parcial sobre los grados de libertad ambientales, suprime eficazmente las
+coherencias observables del estado reducido del sistema en una base
+apropiada.
 [198] Zurek, Wojciech. «Quantum Darwinism», Nature Physics, 2009. El
 «darwinismo cuántico» es la propuesta de Zurek de que los estados clásicos
 que observamos son aquellos que se «reproducen» proliferando en el
@@ -10372,16 +10392,10 @@ esa redundancia es lo que los hace objetivos e irreversibles desde la
 perspectiva de los observadores.
 [199] Heisenberg, Werner. «Über den anschaulichen Inhalt der
 quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
-1927. El artículo original del principio de incertidumbre. Heisenberg derive
+1927. El artículo original del principio de incertidumbre. Heisenberg derivó
 la relación Δx · Δp ≥ ℏ/2 y la interpreta inicialmente en términos de la
 perturbación que el acto de medición introduce en el sistema: para medir la
 posición de un electrón con precisión, se necesita luz de longitud de onda
-corta (alta frecuencia), que al interactuar con el electrón le transfiere un
-momentum impredecible, perturbando su momentum. Esta interpretación
-«de perturbación» es incorrecta o al menos incompleta, como el propio
-Bohr señalaría. El principio no describe la perturbación producida por la
-medición: describe una propiedad intrínseca de los estados cuánticos. La
-corrección la haría Kennard en el mismo año, demostrando que la relación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -10391,6 +10405,12 @@ A.C.
 
 CAOS
 
+corta (alta frecuencia), que al interactuar con el electrón le transfiere un
+momentum impredecible, perturbando su momentum. Esta interpretación
+«de perturbación» es incorrecta o al menos incompleta, como el propio
+Bohr señalaría. El principio no describe la perturbación producida por la
+medición: describe una propiedad intrínseca de los estados cuánticos. La
+corrección la haría Kennard en el mismo año, demostrando que la relación
 Δx · Δp ≥ ℏ/2 es una consecuencia matemática del formalismo, no de
 ninguna consideración sobre el proceso de medición.
 [200] Robertson, Howard. «The Uncertainty Principle», Physical Review,
@@ -10406,8 +10426,31 @@ estructura del formalismo matemático de la mecánica cuántica. Las
 observables que no conmutan (cuyo conmutador es no nulo) no pueden
 tener simultáneamente valores definidos. La incompatibilidad no es
 epistemológica sino ontológica.
-[201]
-[202]
+[201] Heisenberg, Werner, «Über den anschaulichen Inhalt der
+quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
+43 (1927), pp. 172–198, especialmente la discusión de los experimentos de
+medición; véase también Kennard, E. H., «Zur Quantenmechanik
+einfacher Bewegungstypen» (1927), y Robertson, H. P., «The Uncertainty
+Principle» (1929). El análisis de Heisenberg emplea experimentos mentales
+relativos a la perturbación asociada a la medición, pero la desigualdad Δx·Δp
+≥ ℏ/2 puede establecerse como propiedad estadística de un estado cuántico
+sin describir una intervención experimental. Véase también la nota [199].
+[202] Bell, John S., «On the Einstein Podolsky Rosen Paradox», Physics
+Physique Fizika, 1 (1964), pp. 195–200, DOI: 10.1103/PhysicsPhysiqueFizika.
+1.195. El teorema demuestra, bajo supuestos identificables, restricciones para
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+245
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
+las correlaciones de las teorías locales de variables ocultas; las predicciones
+cuánticas pueden violar esas restricciones, y los experimentos pertinentes
+han observado tales violaciones. Véase la nota [193].
 [203] Bohr, Niels. «The Quantum Postulate and the Recent Development of
 Atomic Theory», Nature, 1928. Este artículo es la exposición más clara de la
 interpretación de Copenhague por su propio autor. Bohr introduce el
@@ -10423,16 +10466,6 @@ y el «aparato» son abstracciones de una situación experimental indivisa.
 [204] Everett, Hugh III. «Relative State Formulation of Quantum
 Mechanics», Reviews of Modern Physics, 1957. La tesis doctoral de Everett,
 presentada bajo la dirección de John Wheeler en Princeton, propone que el
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-245
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 colapso de la función de onda no ocurre nunca: la ecuación de Schrödinger
 es universalmente válida, incluyendo el proceso de medición. Cuando un
 aparato mide un sistema cuántico en superposición, el estado combinado
@@ -10448,6 +10481,15 @@ recibida con escepticismo; fue DeWitt quien le dio el nombre de «ManyWorlds» y
 muchos mundos. Su formulación es más radical que la de Everett: no solo
 afirma que todas las ramas de la función de onda universal son igualmente
 reales, sino que cada medición cuántica produce una bifurcación literal del
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+246
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 universo en tantas copias como resultados posibles tiene la medición. El yo
 del observador se «divide» en múltiples copias, cada una experimentando
 un resultado diferente. DeWitt calculó que las bifurcaciones ocurren con
@@ -10465,23 +10507,31 @@ predicciones de la mecánica cuántica estándar pero es determinista y no
 requiere colapso. Sin embargo, la mecánica de Bohm es explícitamente nolocal: la onda piloto del universo entero guía instantáneamente cada
 partícula, independientemente de las distancias. Esta no-localidad es
 consistente con las desigualdades de Bell (que solo refutan las teorías de
+variables ocultas locales) pero viola la relatividad especial en su espíritu,
+aunque no en sus predicciones experimentales.
+[207] Zurek, Wojciech H., «Quantum Darwinism», Nature Physics, 5
+(2009), pp. 181–188, DOI: 10.1038/nphys1202; véanse también las notas [196],
+[197] y [198]. El programa del darwinismo cuántico estudia la proliferación
+de registros redundantes de ciertos estados del sistema en diferentes
+fragmentos del entorno, lo que puede explicar la estabilidad y accesibilidad
+intersubjetiva de información clásica.
+[208] Bell, John S., «On the Einstein Podolsky Rosen Paradox», Physics
+Physique Fizika, 1 (1964), pp. 195–200; véase asimismo la nota [193]. Las
+desigualdades de Bell establecen restricciones a determinadas explicaciones
+locales de las correlaciones cuánticas.
+[209] Penrose, Roger. The Emperor's New Mind (1989) y Shadows of the
+Mind (1994). Penrose propone que el colapso de la función de onda es un
+proceso objetivo relacionado con la gravedad cuántica: cuando las
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-246
+247
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 CAOS
 
-variables ocultas locales) pero viola la relatividad especial en su espíritu,
-aunque no en sus predicciones experimentales.
-[207]
-[208]
-[209] Penrose, Roger. The Emperor's New Mind (1989) y Shadows of the
-Mind (1994). Penrose propone que el colapso de la función de onda es un
-proceso objetivo relacionado con la gravedad cuántica: cuando las
 superposiciones implican distribuciones de masa suficientemente diferentes
 como para que la diferencia en la curvatura del espacio-tiempo sea del orden
 de la energía de Planck, la superposición colapsa objetivamente. Esta
@@ -10497,7 +10547,7 @@ información del observador.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-247
+248
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10533,7 +10583,7 @@ determinación es asumida mediante la segunda mediación; no sustituye al
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-248
+249
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10573,7 +10623,7 @@ ego, desde el que cada colapso toma su punto de partida. El caos no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-249
+250
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10613,7 +10663,7 @@ mediación (intencionalidad presupuesta) e integración a la integral
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-250
+251
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10653,7 +10703,7 @@ c: T → E, c irreversible ⟺ ∄ φ tal que φ(c(t)) = c(t − ε) para ε > 0
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-251
+252
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10693,7 +10743,7 @@ neutral, acto, intencionalidad
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-252
+253
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10732,7 +10782,7 @@ dirección determinada antes de que el acto la exteriorice.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-253
+254
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10772,7 +10822,7 @@ presupuesta, campo de acción, responsabilidad, imputación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-254
+255
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10812,7 +10862,7 @@ siempre está delimitado por las condiciones del cuerpo del sujeto, sus
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-255
+256
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10853,7 +10903,7 @@ más estudiado clínicamente es la compulsión de repetición (Freud): cuando
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-256
+257
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10893,7 +10943,7 @@ ciertas trayectorias I₀ y actos a y b, φ₂(b,φ₂(a,I₀)) ≠ φ₂(a,φ�
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-257
+258
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10933,7 +10983,7 @@ sentido técnico de esta ontología. «Necesaria»: sin doble mediación no hay
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-258
+259
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10974,7 +11024,7 @@ no haya ocurrido.[213]
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-259
+260
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11012,7 +11062,7 @@ colapso asumido / c_asumido
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-260
+261
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11052,7 +11102,7 @@ total.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-261
+262
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11093,7 +11143,7 @@ continuidad del proceso de acumulación. El ego de hoy no necesita ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-262
+263
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11134,7 +11184,7 @@ superiores como condicionamiento del campo; las escalas superiores pueden
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-263
+264
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11175,7 +11225,7 @@ el campo modificado por el accidente, esa acción es su acto —con primera
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-264
+265
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11216,7 +11266,7 @@ primera mediación en este momento —si hubiera reaccionado
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-265
+266
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11257,7 +11307,7 @@ responsabilidad reducida proporcional al campo; (c) campo normal: hay
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-266
+267
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11296,7 +11346,7 @@ variable t de la f ísica—: es el tiempo vivido, la estructura de pasadopresen
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-267
+268
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11338,7 +11388,7 @@ distinción entre el soporte material del ego y el ego como proceso. Tiene
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-268
+269
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11381,7 +11431,7 @@ por causas externas). Física, III, 201b. También es paralela a la distinción
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-269
+270
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11425,7 +11475,7 @@ ellas.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-270
+271
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11468,7 +11518,7 @@ jurídica que el sistema normativo asigna al hecho imputable). Este glosario
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-271
+272
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11483,6 +11533,6 @@ sistema normativo en que opera la imputación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-272
+273
 
 

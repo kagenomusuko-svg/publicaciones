@@ -1,6 +1,6 @@
 {
   "pdf": "caos-el-abismo-del-ego-y-la-doble-mediacion.pdf",
-  "total_pages": 280,
+  "total_pages": 281,
   "contents": [
     {
       "key": "notas-autor",
@@ -76,8 +76,8 @@
       "key": "ap-glosario-tecnico",
       "label": "Apéndice III · Glosario técnico",
       "kind": "appendix",
-      "physical_page": 255,
-      "printed_page": "248"
+      "physical_page": 256,
+      "printed_page": "249"
     }
   ]
 }
