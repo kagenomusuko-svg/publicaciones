@@ -7744,9 +7744,9 @@ habría ocurrido—, entonces el acto del agente fue condición sine qua non
 del daño y la imputación está fundada. Si la respuesta es sí —el daño habría
 ocurrido de todas maneras— el acto del agente no fue condición necesaria
 del daño y la imputación no puede fundarse en esa relación causal. La prueba
-contrafáctica jurídica es exactamente la prueba de la condición sine qua
-non: no pregunta si el agente fue la causa total del daño, sino si sin el agente
-el daño no habría ocurrido.
+contrafáctica jurídica es exactamente la prueba de la condición sine qua non:
+no pregunta si el agente fue la causa total del daño, sino si sin el agente el
+daño no habría ocurrido.
 La aplicación de esta lógica al ego como condición sine qua non del acto
 humano produce la tesis central de este capítulo: sin este ego —sin este
 sujeto con esta historia de colapsos, con esta función acumulativa, con esta
@@ -8123,11 +8123,11 @@ nivel hacia el primero. La pregunta nietzscheana —¿podrías querer la
 repetición infinita de tu vida?— solo tiene sentido respecto de la integral
 cerrada (cuarto nivel). Esa integral cerrada está compuesta por todos los
 colapsos integrados en la función (segundo nivel). Cada colapso fue
-producido por la condición sine qua non del ego (tercer nivel) desde el
-punto de partida del sujeto que existía antes del primer colapso (primer
-nivel). El sujeto es la condición; la función es el proceso; la condición sine
-qua non es la responsabilidad; la respuesta total es el sentido. Y el sentido no
-preexiste al proceso: emerge de él, al cerrarse.
+producido por la condición sine qua non del ego (tercer nivel) desde el punto
+de partida del sujeto que existía antes del primer colapso (primer nivel). El
+sujeto es la condición; la función es el proceso; la condición sine qua non es
+la responsabilidad; la respuesta total es el sentido. Y el sentido no preexiste al
+proceso: emerge de él, al cerrarse.
 
 VIII. Cierre: el abismo y la forma
 Este libro comenzó con el caos. No el caos como metáfora del desorden sino
@@ -9720,18 +9720,19 @@ locales que pueda restaurar los valores definidos detrás de la pantalla
 cuántica.
 
 3.3 La transformada de Fourier y la complementariedad
-La relación de incertidumbre posición-momentum tiene una
-interpretación matemática particularmente elegante. La función de onda
-en el espacio de posiciones, ψ(x), y la función de onda en el espacio de
-momenta, φ(p), son transformadas de Fourier una de la otra:
+La relación de incertidumbre posición-momentum tiene una interpretación
+matemática particularmente elegante. La función de onda en el espacio de
+posiciones, ψ(x), y la función de onda en el espacio de momenta, φ(p), son
+transformadas de Fourier una de la otra:
 φ(p) = (1/√(2πℏ)) ∫ ψ(x) e^{−ipx/ℏ} dx
 La propiedad matemática de la transformada de Fourier —demostrable con
 análisis estándar— es que un pulso concentrado en el espacio de posiciones
 (pequeño Δx) corresponde a un pulso extendido en el espacio de frecuencias
-(grande Δp), y viceversa. La relación de incertidumbre posiciónmomentum es simplemente la relación de incertidumbre de Fourier para las
-funciones de onda cuánticas: no un resultado f ísico contingente sino una
-propiedad matemática necesaria de cualquier par de bases que estén
-relacionadas por la transformada de Fourier.
+(grande Δp), y viceversa. La relación de incertidumbre posición-momentum
+es simplemente la relación de incertidumbre de Fourier para las funciones
+de onda cuánticas: no un resultado f ísico contingente sino una propiedad
+matemática necesaria de cualquier par de bases que estén relacionadas por la
+transformada de Fourier.
 Esta observación conecta el Apéndice I con el Apéndice II: la incertidumbre
 cuántica es un caso especial de la estructura matemática del Apéndice I,
 donde el caos de la posibilidad (la función de onda extendida en el espacio
@@ -9901,8 +9902,8 @@ Hay una tercera familia de interpretaciones —las teorías de variables ocultas
 como la mecánica de Bohm,[206] y las teorías de colapso dinámico como
 GRW— que también preservan el colapso como evento real. La mecánica
 de Bohm es determinista pero no-local: la partícula tiene siempre posición y
-momentum definidos, guiados por la onda piloto. Las teorías GRW
-postulan colapsos espontáneos que ocurren de manera probabilística
+momentum definidos, guiados por la onda piloto. Las teorías GRW postulan
+colapsos espontáneos que ocurren de manera probabilística
 independientemente de la medición. Ambas familias son compatibles con el
 isomorfismo del libro, aunque por rutas diferentes: la mecánica de Bohm lo
 preserva manteniendo la determinación siempre presente (al precio de la
@@ -10738,7 +10739,7 @@ condición necesaria para que pueda atribuirse responsabilidad al
 sujeto por el acto producido.
 Condiciones necesarias de la primera mediación: (i) intencionalidad: el
 sujeto orienta su voluntad hacia un objeto representado como fin (Husserl:
-estructura nóesis-nóema; Brentano: «aboutness»); (ii) reflexividad: el sujeto
+estructura noesis-noema; Brentano: «aboutness»); (ii) reflexividad: el sujeto
 tiene la capacidad de representarse a sí mismo como el que actúa y puede
 preguntarse si actuar de este modo o de aquel (Frankfurt: deseos de segundo
 orden); (iii) campo de acción disponible: hay un espacio entre el estímulo y
@@ -10788,7 +10789,7 @@ presuposición de que hubo primera mediación de algún tipo.
 En el derecho penal, la intencionalidad presupuesta se expresa en el concepto
 de «imputabilidad»: la capacidad del sujeto de comprender la ilicitud de sus
 actos y de determinar su voluntad conforme a esa comprensión. Un sujeto
-no imputable (por razón de edad, trastorno mental grave, o estados que
+no imputable (por razón de edad, trastorno mental grave o estados que
 eliminan la comprensión o la voluntad) no tiene intencionalidad
 presupuesta: sus actos no pueden imputársele en sentido jurídico-penal.
 Véase también: primera mediación, campo de acción, imputación,
@@ -10813,7 +10814,7 @@ A.C.
 
 CAOS
 
-capacidades cognitivas, el estado del mundo en que actúa, y las condiciones
+capacidades cognitivas, el estado del mundo en que actúa y las condiciones
 que los accidentes de escalas inferiores han impuesto. Un ego que opera
 desde un campo estrecho no es menos ego que uno que opera desde un
 campo amplio: la primera mediación puede ejercerse en campos muy
@@ -10860,10 +10861,10 @@ a la integral. El resultado es un ego que actúa pero no crece: sus colapsos lo
 atraviesan sin constituirlo.
 Notación formal. Si a = φ₁(v, c) es el resultado de la primera mediación y I(t)
 = ∫₀ᵗ c(τ) w(τ) dτ es la integral acumulativa del ego hasta el momento t, la
-segunda mediación es la operación φ₂: A × I → I' que produce la integral
-modificada I' = I ∪ {a}: la integral que incluye el colapso reciente como
+segunda mediación es la operación φ₂: A × I → I′ que produce la integral
+modificada I′ = I ∪ {a}: la integral que incluye el colapso reciente como
 parte de la función acumulativa.
-φ₂: A × I → I' (segunda mediación como modificación de la integral)
+φ₂: A × I → I′ (segunda mediación como modificación de la integral)
 La segunda mediación tiene una dimensión normativa además de
 descriptiva: no todos los modos de integrar el acto a la integral producen la
 misma función. Un ego que integra sus actos sin evaluarlos —sin
