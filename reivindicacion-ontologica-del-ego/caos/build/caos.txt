@@ -8334,19 +8334,15 @@ distinción es crucial para el argumento de este capítulo: el ego es condición
 necesaria del acto humano, no suficiente. El mundo es también condición
 necesaria. Solo la intersección de ambas condiciones necesarias produce el
 colapso.
-[163] Hart, H.L.A. El concepto de derecho (1961), Cap. VII. Hart distingue
-entre la «regla de reconocimiento» —la norma básica que determina qué
-cuenta como derecho en un sistema— y las reglas primarias que regulan el
-comportamiento. Para los propósitos de este capítulo, lo que importa de
-Hart es su análisis de la causalidad en el contexto jurídico: el derecho no
-utiliza la noción filosófica de causalidad —que incluiría todas las
-condiciones necesarias del resultado, incluyendo el Big Bang— sino una
-noción más restrictiva de causa que selecciona entre las condiciones
-necesarias aquellas que el derecho considera relevantes para la imputación.
-Esta selección jurídica de la causa relevante es filosóficamente justificable
-precisamente desde la distinción entre la primera mediación (la causa que el
-derecho selecciona como relevante) y el resto de las condiciones del campo
-(que el derecho trata como condiciones de fondo no imputables).
+[163] Hart, H. L. A., y Tony Honoré. Causation in the Law (1959; 2.ª ed.,
+1985), parte I, cap. V, «Causation and Sine Qua Non». En el análisis jurídico
+de la causalidad, el derecho no identifica la causa relevante con todas las
+condiciones necesarias del resultado —incluidas las condiciones de fondo
+—, sino que selecciona entre ellas las que considera pertinentes para la
+imputación. Esta selección jurídica de la causa relevante es filosóficamente
+justificable precisamente desde la distinción entre la primera mediación (la
+causa que el derecho selecciona como relevante) y el resto de las condiciones
+del campo (que el derecho trata como condiciones de fondo no imputables).
 [164] Strawson, P.F. «Freedom and Resentment» (1962), Proceedings of the
 British Academy. Strawson distingue entre la perspectiva participativa —
 desde la que adoptamos actitudes reactivas como el resentimiento, la
@@ -8360,7 +8356,10 @@ argumento de este capítulo es directa: la imputación presupone la perspectiva
 participativa, y la perspectiva participativa presupone la primera mediación.
 Donde no hay primera mediación, la perspectiva objetiva es la apropiada: no
 imputamos sino tratamos, no responsabilizamos sino gestionamos.
-
+[165] Merleau-Ponty, Maurice. Fenomenología de la percepción (1945), Parte
+III, Cap. III: «La libertad». La libertad para Merleau-Ponty no es la
+libertad del cogito cartesiano que puede elegir cualquier cosa con
+independencia de su situación: es la libertad de un ser encarnado que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8370,10 +8369,6 @@ A.C.
 
 CAOS
 
-[165] Merleau-Ponty, Maurice. Fenomenología de la percepción (1945), Parte
-III, Cap. III: «La libertad». La libertad para Merleau-Ponty no es la
-libertad del cogito cartesiano que puede elegir cualquier cosa con
-independencia de su situación: es la libertad de un ser encarnado que
 siempre actúa desde y hacia una situación. «Soy libre, no a pesar de las
 motivaciones que me determinan, sino a través de ellas.» La libertad no
 consiste en escapar de las motivaciones sino en retomar la situación que las
@@ -8404,6 +8399,10 @@ un sentido especial que no puede reducirse a la causalidad de eventos.
 Cuando un agente actúa deliberadamente, el agente —la persona, no los
 eventos en el agente— es la causa del acto. Esta causalidad de agente es
 irreductible a la causalidad de eventos: no puede describirse en términos de
+relaciones entre estados anteriores y estados posteriores del sistema. La
+causalidad de agente de Chisholm es filosóficamente af ín a lo que este libro
+llama condición sine qua non del ego: el ego como polo del colapso que no
+se reduce a ninguno de los eventos que lo componen. Pero este libro no
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8414,16 +8413,12 @@ A.C.
 
 CAOS
 
-relaciones entre estados anteriores y estados posteriores del sistema. La
-causalidad de agente de Chisholm es filosóficamente af ín a lo que este libro
-llama condición sine qua non del ego: el ego como polo del colapso que no
-se reduce a ninguno de los eventos que lo componen. Pero este libro no
 necesita postular una causalidad de agente ontológicamente especial: la
 condición sine qua non del ego es compatible con que todos los eventos del
 cerebro sean causados por eventos anteriores, siempre que haya un nivel de
 descripción en el que el ego sea la condición necesaria del acto como acto
 humano.
-[168] Parmenides, DK 28 B 3: «Lo mismo es el pensar y el ser.» El poema
+[168] Parménides, DK 28 B 3: «Lo mismo es el pensar y el ser.» El poema
 parmenídeo establece que el ser simplemente es —no puede no ser, no puede
 provenir del no-ser, no puede retornar al no-ser. La identidad del ser
 consigo mismo es la primera tesis ontológica de la filosof ía occidental. En el
@@ -8448,6 +8443,10 @@ tiempo.
 [170] Ricoeur, Paul. Tiempo y narración (1983-1985), Vol. III, Cap. 6: «El
 tiempo narrado». El concepto de identidad narrativa en Ricoeur integra la
 dimensión temporal de la existencia humana: el sí mismo no es una
+sustancia inmutable sino el autor de una historia en curso. La síntesis
+narrativa —la integración de los eventos dispersos de la vida en una trama
+coherente— es lo que constituye la identidad del sujeto como identidad
+temporal. En los términos de este libro: la segunda mediación es el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8457,10 +8456,6 @@ A.C.
 
 CAOS
 
-sustancia inmutable sino el autor de una historia en curso. La síntesis
-narrativa —la integración de los eventos dispersos de la vida en una trama
-coherente— es lo que constituye la identidad del sujeto como identidad
-temporal. En los términos de este libro: la segunda mediación es el
 mecanismo de esa síntesis narrativa. Cada colapso integrado a la integral es
 un evento incorporado a la trama. El ego completo —la integral cerrada en
 la muerte— es la historia total, el relato que puede leerse como unidad.
@@ -8489,6 +8484,11 @@ cosmogónica, seguido por Gea, Tártaro y Eros; del Cháos surgen Érebo y
 Noche. El término se ha interpretado frecuentemente como abertura o
 hendidura originaria, no como «desorden» en el sentido coloquial
 moderno. Véase la nota [171].
+[174] Kierkegaard, Søren. La enfermedad mortal (1849). La «desesperación»
+en Kierkegaard es la condición del yo que no puede ser sí mismo o que no
+quiere serlo. Hay desesperación de debilidad —el yo que no puede soportar
+ser sí mismo— y desesperación de desaf ío —el yo que se niega a ser sí
+mismo tal como es, que quiere ser diferente de lo que es. La antítesis de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8499,11 +8499,6 @@ A.C.
 
 CAOS
 
-[174] Kierkegaard, Søren. La enfermedad mortal (1849). La «desesperación»
-en Kierkegaard es la condición del yo que no puede ser sí mismo o que no
-quiere serlo. Hay desesperación de debilidad —el yo que no puede soportar
-ser sí mismo— y desesperación de desaf ío —el yo que se niega a ser sí
-mismo tal como es, que quiere ser diferente de lo que es. La antítesis de la
 desesperación es la fe —no en el sentido confesional necesariamente, sino
 en el sentido de la aceptación de sí mismo como ser que depende de algo que
 lo trasciende. En los términos de este libro: la desesperación kierkegaardiana
@@ -10415,7 +10410,7 @@ perspectiva de los observadores.
 [199] Heisenberg, Werner. «Über den anschaulichen Inhalt der
 quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
 1927. El artículo original del principio de incertidumbre. Heisenberg derivó
-la relación Δx · Δp ≥ ℏ/2 y la interpreta inicialmente en términos de la
+la relación Δx · Δp ≥ ℏ/2 e interpretó inicialmente en términos de la
 perturbación que el acto de medición introduce en el sistema: para medir la
 posición de un electrón con precisión, se necesita luz de longitud de onda
 corta (alta frecuencia), que al interactuar con el electrón le transfiere un
