@@ -1122,8 +1122,8 @@ que él mismo ha explorado en relación con las tradiciones budistas.
 [4] La posición eliminativista en filosof ía de la mente está representada
 principalmente por Churchland, Paul. Materia y conciencia (1984), y
 Churchland, Patricia. Neurophilosophy (1986). Los eliminativistas sostienen
-que la psicología popular (folk psychology) —el sistema de creencias, deseos e
-intenciones con que explicamos el comportamiento— es una teoría
+que la psicología popular (folk psychology) —el sistema de creencias, deseos
+e intenciones con que explicamos el comportamiento— es una teoría
 empírica que la neurociencia terminará por reemplazar, del mismo modo
 que la química moderna reemplazó a la alquimia.
 [5] Descartes, René. Meditaciones metafísicas (1641), Segunda Meditación. La
@@ -1190,13 +1190,13 @@ Gage, caso Elliot) conservan intacta su capacidad de razonamiento abstracto
 pero pierden la capacidad de tomar decisiones adaptativas en la vida real: la
 emoción no interfiere con la razón, la hace posible.
 [11] Damasio, Antonio. El sentimiento de lo que ocurre (1999). La distinción
-entre proto-self, core self y self autobiográfico corresponde a niveles crecientes
-de complejidad y temporalidad: el proto-self está en el presente inmediato
-del estado interno; el core self emerge en el acto de conocer y tiene la
-duración del momento; el self autobiográfico se extiende a lo largo del
-tiempo mediante la memoria episódica y la proyección al futuro. Los tres
-niveles son neurológicamente distinguibles y se afectan diferencialmente
-por distintos tipos de lesión.
+entre proto-self, core self y self autobiográfico corresponde a niveles
+crecientes de complejidad y temporalidad: el proto-self está en el presente
+inmediato del estado interno; el core self emerge en el acto de conocer y
+tiene la duración del momento; el self autobiográfico se extiende a lo largo
+del tiempo mediante la memoria episódica y la proyección al futuro. Los
+tres niveles son neurológicamente distinguibles y se afectan
+diferencialmente por distintos tipos de lesión.
 [12] Chalmers, David. La mente consciente (1996). Los «problemas fáciles»
 de la conciencia incluyen explicar cómo el cerebro discrimina estímulos,
 integra información, controla el comportamiento y produce reportes
@@ -2402,11 +2402,11 @@ CAOS
 un sistema cuántico independientemente de la medición. Bohr insistía en
 que la mecánica cuántica no describe la realidad tal como es «en sí misma»
 sino tal como aparece en el contexto de los aparatos de medición clásicos.
-[42] La interpretación de los Muchos Mundos (Many-Worlds Interpretation,
-MWI) fue propuesta por Hugh Everett III en su tesis doctoral de 1957. Según
-la MWI, la función de onda nunca colapsa: en cada «medición» o
-interacción el universo se ramifica en todas las posibilidades, cada una
-actualizándose en una rama separada. No hay elección, no hay
+[42] La interpretación de los Muchos Mundos (Many-Worlds
+Interpretation, MWI) fue propuesta por Hugh Everett III en su tesis doctoral
+de 1957. Según la MWI, la función de onda nunca colapsa: en cada
+«medición» o interacción el universo se ramifica en todas las posibilidades,
+cada una actualizándose en una rama separada. No hay elección, no hay
 determinación singular: todo lo posible ocurre, en universos paralelos. La
 MWI evita el problema del colapso a costa de una ontología de universos
 múltiples. Para los propósitos de este libro, la MWI es la interpretación
@@ -10289,26 +10289,26 @@ proyecta el estado |ψ⟩ sobre uno de los autovectores |aₙ⟩ con probabilida
 ψ⟩ es una superposición de autovectores, y la medición «selecciona» uno de
 ellos. El colapso es la proyección del vector de estado sobre una dimensión
 del espacio de Hilbert.
-Bell, John S. «On the Einstein Podolsky Rosen Paradox», Physics Physique
-Fizika, vol. 1, n.º 3 (1964), pp. 195-200. El teorema de Bell constituye uno de
-los resultados fundamentales de la f ísica del siglo XX para la comprensión
-de la mecánica cuántica. Bell demostró que las teorías de variables ocultas
-locales, bajo los supuestos de localidad causal e independencia de las
-configuraciones de medición, deben satisfacer determinadas desigualdades
-estadísticas. La mecánica cuántica predice correlaciones que violan estas
-desigualdades, y los experimentos de Aspect (1982) y sus sucesores,
-especialmente las pruebas de 2015, confirmaron tales violaciones con
-creciente rigor experimental. La consecuencia es que ninguna teoría de
-variables ocultas que satisfaga conjuntamente los supuestos del teorema
-puede reproducir todas las correlaciones cuánticas observadas. La realidad
-cuántica no puede, por tanto, comprenderse simplemente como un
-conjunto de propiedades locales previamente determinadas que la medición
-se limita a revelar. Las correlaciones observadas exigen abandonar al menos
-uno de los supuestos de esa explicación, sin que el teorema establezca por sí
-solo cuál debe abandonarse ni excluya toda interpretación determinista. Lo
-decisivo es que esta imposibilidad no representa una mera insuficiencia de
-nuestro conocimiento: constituye una restricción experimental sobre las
-estructuras físicas capaces de explicar los fenómenos cuánticos. En relación
+[193] Bell, John S. «On the Einstein Podolsky Rosen Paradox», Physics
+Physique Fizika, vol. 1, n.º 3 (1964), pp. 195-200. El teorema de Bell
+constituye uno de los resultados fundamentales de la f ísica del siglo XX para
+la comprensión de la mecánica cuántica. Bell demostró que las teorías de
+variables ocultas locales, bajo los supuestos de localidad causal e
+independencia de las configuraciones de medición, deben satisfacer
+determinadas desigualdades estadísticas. La mecánica cuántica predice
+correlaciones que violan estas desigualdades, y los experimentos de Aspect
+(1982) y sus sucesores, especialmente las pruebas de 2015, confirmaron tales
+violaciones con creciente rigor experimental. La consecuencia es que
+ninguna teoría de variables ocultas que satisfaga conjuntamente los
+supuestos del teorema puede reproducir todas las correlaciones cuánticas
+observadas. La realidad cuántica no puede, por tanto, comprenderse
+simplemente como un conjunto de propiedades locales previamente
+determinadas que la medición se limita a revelar. Las correlaciones
+observadas exigen abandonar al menos uno de los supuestos de esa
+explicación, sin que el teorema establezca por sí solo cuál debe abandonarse
+ni excluya toda interpretación determinista. Lo decisivo es que esta
+imposibilidad no representa una mera insuficiencia de nuestro
+conocimiento: constituye una restricción experimental sobre las estructuras
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -10319,11 +10319,12 @@ A.C.
 
 CAOS
 
-con la ontología desarrollada en este libro, el resultado permite distinguir
-entre la determinación efectiva de un acontecimiento y la suposición de que
-esa determinación consiste necesariamente en revelar una propiedad local
-que ya estaba fijada de antemano. Esta distinción es pertinente para
-comprender el colapso como determinación de una posibilidad.
+físicas capaces de explicar los fenómenos cuánticos. En relación con la
+ontología desarrollada en este libro, el resultado permite distinguir entre la
+determinación efectiva de un acontecimiento y la suposición de que esa
+determinación consiste necesariamente en revelar una propiedad local que
+ya estaba fijada de antemano. Esta distinción es pertinente para comprender
+el colapso como determinación de una posibilidad.
 [194] Von Neumann, John. Mathematische Grundlagen der
 Quantenmechanik (Fundamentos matemáticos de la mecánica cuántica),
 1932. Este libro establece el formalismo matemático de la mecánica cuántica
@@ -10351,8 +10352,7 @@ superposición cuántica a objetos macroscópicos: el gato a la vez vivo y
 muerto es obviamente absurdo, luego algo en la cadena de razonamiento
 debe ser incorrecto. El experimento mental sigue siendo el símbolo más
 reconocido del problema de la medición.
-[196] La decoherencia cuántica (Zeh, H.D. «On the Interpretation of
-Measurement in Quantum Theory», Foundations of Physics, 1970; Zurek,
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -10362,6 +10362,8 @@ A.C.
 
 CAOS
 
+[196] La decoherencia cuántica (Zeh, H.D. «On the Interpretation of
+Measurement in Quantum Theory», Foundations of Physics, 1970; Zurek,
 Wojciech. «Pointer Basis of Quantum Apparatus: Into What Mixture Does
 the Wave Packet Collapse?», Physical Review D, 1981) es el mecanismo
 físico por el cual los sistemas macroscópicos pierden sus propiedades
@@ -10394,8 +10396,6 @@ Observamos el mundo como clásico porque los estados que sobreviven a la
 decoherencia son precisamente aquellos que producen muchas copias
 redundantes de sí mismos en el entorno. Esta «selección
 ambiental» (einselection) determina cuáles estados son los «punteros»
-estables que emergen de la decoherencia. El darwinismo cuántico es
-importante para el argumento de este apéndice porque ofrece una respuesta
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -10406,6 +10406,8 @@ A.C.
 
 CAOS
 
+estables que emergen de la decoherencia. El darwinismo cuántico es
+importante para el argumento de este apéndice porque ofrece una respuesta
 físicamente precisa a la pregunta de por qué los colapsos son irreversibles: los
 estados que colapsan se vuelven redundantemente inscritos en el entorno, y
 esa redundancia es lo que los hace objetivos e irreversibles desde la
@@ -10437,8 +10439,6 @@ estructura del formalismo matemático de la mecánica cuántica. Las
 observables que no conmutan (cuyo conmutador es no nulo) no pueden
 tener simultáneamente valores definidos. La incompatibilidad no es
 epistemológica sino ontológica.
-[201] Heisenberg, Werner, «Über den anschaulichen Inhalt der
-quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -10449,6 +10449,8 @@ A.C.
 
 CAOS
 
+[201] Heisenberg, Werner, «Über den anschaulichen Inhalt der
+quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
 43 (1927), pp. 172–198, especialmente la discusión de los experimentos de
 medición; véase también Kennard, E. H., «Zur Quantenmechanik
 einfacher Bewegungstypen» (1927), y Robertson, H. P., «The Uncertainty
@@ -10481,8 +10483,6 @@ colapso de la función de onda no ocurre nunca: la ecuación de Schrödinger
 es universalmente válida, incluyendo el proceso de medición. Cuando un
 aparato mide un sistema cuántico en superposición, el estado combinado
 aparato-sistema entra en una superposición de resultados posibles. Pero
-desde la perspectiva del observador, que forma parte del sistema, cada rama
-de la superposición es experimentada como un resultado definido. El
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -10492,6 +10492,8 @@ A.C.
 
 CAOS
 
+desde la perspectiva del observador, que forma parte del sistema, cada rama
+de la superposición es experimentada como un resultado definido. El
 «colapso» no es un proceso f ísico que ocurre en la realidad: es el proceso por
 el cual un observador particular se «correlaciona» con una rama particular
 de la función de onda universal. La teoría de Everett fue originalmente
@@ -10522,8 +10524,6 @@ variables ocultas locales) pero viola la relatividad especial en su espíritu,
 aunque no en sus predicciones experimentales.
 [207] Zurek, Wojciech H., «Quantum Darwinism», Nature Physics, 5
 (2009), pp. 181–188, DOI: 10.1038/nphys1202; véanse también las notas [196],
-[197] y [198]. El programa del darwinismo cuántico estudia la proliferación
-de registros redundantes de ciertos estados del sistema en diferentes
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -10533,6 +10533,8 @@ A.C.
 
 CAOS
 
+[197] y [198]. El programa del darwinismo cuántico estudia la proliferación
+de registros redundantes de ciertos estados del sistema en diferentes
 fragmentos del entorno, lo que puede explicar la estabilidad y accesibilidad
 intersubjetiva de información clásica.
 [208] Bell, John S., «On the Einstein Podolsky Rosen Paradox», Physics
