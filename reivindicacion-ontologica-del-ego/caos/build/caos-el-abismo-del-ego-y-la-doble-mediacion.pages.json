@@ -1,6 +1,6 @@
 {
   "pdf": "caos-el-abismo-del-ego-y-la-doble-mediacion.pdf",
-  "total_pages": 280,
+  "total_pages": 281,
   "contents": [
     {
       "key": "notas-autor",
@@ -34,50 +34,50 @@
       "key": "cap-Capítulo IV",
       "label": "Capítulo IV · Las escalas del colapso",
       "kind": "chapter",
-      "physical_page": 97,
-      "printed_page": "90"
+      "physical_page": 98,
+      "printed_page": "91"
     },
     {
       "key": "cap-Capítulo V",
       "label": "Capítulo V · La mediación",
       "kind": "chapter",
-      "physical_page": 125,
-      "printed_page": "118"
+      "physical_page": 126,
+      "printed_page": "119"
     },
     {
       "key": "cap-Capítulo VI",
       "label": "Capítulo VI · La doble mediación",
       "kind": "chapter",
-      "physical_page": 153,
-      "printed_page": "146"
+      "physical_page": 154,
+      "printed_page": "147"
     },
     {
       "key": "cap-Capítulo VII",
       "label": "Capítulo VII · El ego como condición mínima causal",
       "kind": "chapter",
-      "physical_page": 182,
-      "printed_page": "175"
+      "physical_page": 183,
+      "printed_page": "176"
     },
     {
       "key": "ap-el-colapso-en-las-matematicas",
       "label": "Apéndice I · El colapso en las matemáticas",
       "kind": "appendix",
-      "physical_page": 207,
-      "printed_page": "200"
+      "physical_page": 208,
+      "printed_page": "201"
     },
     {
       "key": "ap-el-colapso-en-la-fisica-cuantica",
       "label": "Apéndice II · El colapso en la física cuántica",
       "kind": "appendix",
-      "physical_page": 229,
-      "printed_page": "222"
+      "physical_page": 230,
+      "printed_page": "223"
     },
     {
       "key": "ap-glosario-tecnico",
       "label": "Apéndice III · Glosario técnico",
       "kind": "appendix",
-      "physical_page": 255,
-      "printed_page": "248"
+      "physical_page": 256,
+      "printed_page": "249"
     }
   ]
 }

@@ -70,31 +70,31 @@ Capítulo III · Caos
 
 Capítulo IV · Las escalas del colapso
 
-90
+91
 
 Capítulo V · La mediación
 
-118
+119
 
 Capítulo VI · La doble mediación
 
-146
+147
 
 Capítulo VII · El ego como condición mínima causal
 
-175
+176
 
 Apéndice I · El colapso en las matemáticas
 
-200
+201
 
 Apéndice II · El colapso en la física cuántica
 
-222
+223
 
 Apéndice III · Glosario técnico
 
-248
+249
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3566,6 +3566,15 @@ A.C.
 
 CAOS
 
+Notas
+Las siguientes notas amplían los interlocutores filosóficos, científicos e
+históricos citados en el cuerpo del capítulo. Están pensadas para el lector que
+desee profundizar en los debates específicos sin interrumpir la lectura del
+argumento principal.
+
+────────────────────────────────────────────────────────
+NOTAS
+────────────────────────────────────────────────────────
 [59] Hesíodo, Teogonía, versos 116-122. El texto griego usa el término
 «Chaos» (Χάος) derivado probablemente del verbo «chainein», que
 significa abrirse o abrirse paso —el abismo que se abre, la grieta fértil. La
@@ -3590,13 +3599,6 @@ es que el tohu wa-bohu no es la nada absoluta: es la condición previa a la
 separación y la organización que Dios realiza mediante sus actos. La
 teología cristiana posterior —especialmente en Agustín y Aquino— tendió
 a interpretar el caos como creación ex nihilo, vaciando la indeterminación
-original de cualquier contenido positivo. Pero la lectura más cercana al
-texto hebreo preserva la idea de que antes de la separación hay algo —no
-nada, sino indistinción.
-[62] Platón, Timeo (ca. 360 a.C.), 52d-53b. El «Receptáculo» (hypodoche) o
-«nodriza del devenir» es la descripción platónica más cercana al caos
-hesiódico: es el espacio indeterminado, que no tiene forma propia, en el que
-las formas llegan a ser. El Receptáculo no es la materia (que tiene
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3607,6 +3609,13 @@ A.C.
 
 CAOS
 
+original de cualquier contenido positivo. Pero la lectura más cercana al
+texto hebreo preserva la idea de que antes de la separación hay algo —no
+nada, sino indistinción.
+[62] Platón, Timeo (ca. 360 a.C.), 52d-53b. El «Receptáculo» (hypodoche) o
+«nodriza del devenir» es la descripción platónica más cercana al caos
+hesiódico: es el espacio indeterminado, que no tiene forma propia, en el que
+las formas llegan a ser. El Receptáculo no es la materia (que tiene
 propiedades) ni el espacio vacío (que es mera extensión): es la condición de
 posibilidad de la localización, el «donde» anterior a cualquier
 determinación. Cornford, Francis MacDonald. Plato's Cosmology (1937) es el
@@ -3633,13 +3642,6 @@ trabajo, anterior al de Lorenz en más de sesenta años, muestra que la
 sensibilidad a las condiciones iniciales —el corazón del caos determinista—
 era ya conocida a principios del siglo XX aunque no había recibido el
 nombre ni la sistematización que la teoría del caos moderna le daría.
-[65] Prigogine, Ilya y Isabelle Stengers. La nueva alianza: metamorfosis de la
-ciencia (1979). Prigogine recibió el Nobel de Química en 1977 precisamente
-por su trabajo sobre las «estructuras disipativas»: sistemas que se mantienen
-lejos del equilibrio termodinámico mediante el intercambio de energía con
-el entorno. En estos sistemas, el «caos» determinista no es el opuesto del
-orden sino su condición de producción: en los puntos de bifurcación, el
-sistema debe «elegir» entre múltiples trayectorias posibles, y pequeñas
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3650,6 +3652,13 @@ A.C.
 
 CAOS
 
+[65] Prigogine, Ilya y Isabelle Stengers. La nueva alianza: metamorfosis de la
+ciencia (1979). Prigogine recibió el Nobel de Química en 1977 precisamente
+por su trabajo sobre las «estructuras disipativas»: sistemas que se mantienen
+lejos del equilibrio termodinámico mediante el intercambio de energía con
+el entorno. En estos sistemas, el «caos» determinista no es el opuesto del
+orden sino su condición de producción: en los puntos de bifurcación, el
+sistema debe «elegir» entre múltiples trayectorias posibles, y pequeñas
 fluctuaciones determinan qué camino se toma. La forma emerge del caos,
 no a pesar de él.
 [66] Mandelbrot, Benoît. Los objetos fractales (1975) y La geometría fractal
@@ -3677,12 +3686,6 @@ ha sido confirmado empíricamente.
 «cosmología conforme cíclica» (CCC): el universo pasa por ciclos sucesivos,
 cada uno comenzando con un Big Bang que es el límite conforme del ciclo
 anterior. En este modelo no hay un «antes» del universo en sentido
-absoluto: la secuencia de ciclos es infinita en ambas direcciones.
-Independientemente de si esta cosmología es correcta, ilustra la dificultad
-de hablar con rigor sobre «antes del tiempo»: la pregunta misma presupone
-que hay un marco temporal desde el que se realiza, lo cual es precisamente lo
-que se pone en cuestión.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3692,6 +3695,11 @@ A.C.
 
 CAOS
 
+absoluto: la secuencia de ciclos es infinita en ambas direcciones.
+Independientemente de si esta cosmología es correcta, ilustra la dificultad
+de hablar con rigor sobre «antes del tiempo»: la pregunta misma presupone
+que hay un marco temporal desde el que se realiza, lo cual es precisamente lo
+que se pone en cuestión.
 [69] Hawking, Stephen y Roger Penrose. «The Singularities of
 Gravitational Collapse and Cosmology» (1970), Proceedings of the Royal
 Society. Los teoremas de singularidad de Hawking-Penrose demostraron
@@ -3721,11 +3729,6 @@ sucesión de las percepciones: si no hay ninguna sucesión en las percepciones,
 no hay ninguna idea de tiempo. El tiempo no es percibido directamente
 sino inferido de la sucesión. Esto tiene la consecuencia de que el tiempo es
 una idea relacional y no una entidad independiente: no hay tiempo sin
-eventos que se sucedan, y la sucesión misma es una relación entre eventos,
-no un evento entre otros.
-[72] Kant, Immanuel. Crítica de la razón pura (1781), «Estética
-trascendental», §§ 4-7. Para Kant, el tiempo no es ni una propiedad de las
-cosas en sí mismas ni una relación entre ellas: es la forma del sentido
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3735,6 +3738,11 @@ A.C.
 
 CAOS
 
+eventos que se sucedan, y la sucesión misma es una relación entre eventos,
+no un evento entre otros.
+[72] Kant, Immanuel. Crítica de la razón pura (1781), «Estética
+trascendental», §§ 4-7. Para Kant, el tiempo no es ni una propiedad de las
+cosas en sí mismas ni una relación entre ellas: es la forma del sentido
 interno, la manera en que la mente organiza sus representaciones internas.
 El tiempo es una intuición pura a priori: está en el sujeto que intuye, no en
 las cosas intuidas. Esta posición —el tiempo como forma de la intuición
@@ -3764,11 +3772,6 @@ ella no hay genuino flujo temporal), pero que la serie A es contradictoria
 incompatibles). Concluye que el tiempo es irreal. Lo que este libro toma de
 McTaggart no es su conclusión sino su distinción: el tiempo de los relojes es
 la serie B (relaciones fijas entre eventos); el tiempo vivido es la serie A (la
-perspectiva en primera persona que convierte «anterior a» en «pasado» y
-«futuro» en «no-todavía»).
-[75] Heidegger, Martin. Ser y tiempo (1927), § 65. La temporalidad originaria
-del Dasein es, para Heidegger, lo que hace posible la unidad de las tres
-dimensiones temporales: el Dasein se proyecta hacia sus posibilidades futuras
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3778,6 +3781,11 @@ A.C.
 
 CAOS
 
+perspectiva en primera persona que convierte «anterior a» en «pasado» y
+«futuro» en «no-todavía»).
+[75] Heidegger, Martin. Ser y tiempo (1927), § 65. La temporalidad originaria
+del Dasein es, para Heidegger, lo que hace posible la unidad de las tres
+dimensiones temporales: el Dasein se proyecta hacia sus posibilidades futuras
 (existencialidad), retorna a su condición fáctica pasada (facticidad) y
 encuentra el presente como el lugar donde hace frente a los entes
 intramundanos (caída). Esta estructura extática de la temporalidad no es
@@ -3806,12 +3814,7 @@ función del sujeto que conoce.
 [78] Husserl, Edmund. Meditaciones cartesianas (1929), Segunda Meditación,
 §§ 12-15. El problema de la intersubjetividad es uno de los más dif íciles de la
 fenomenología husserliana. Husserl intenta derivar la experiencia del otro
-ego (alter ego) a partir del ego trascendental propio mediante el concepto de
-«appresentación» (Appräsentation): el otro no es dado directamente sino
-como analogon de mí mismo, presentado de manera indirecta a través del
-cuerpo del otro que funciona como índice de una vida subjetiva similar a la
-mía. La dificultad de esta derivación llevó a Merleau-Ponty, Levinas y otros
-a proponer soluciones alternativas al problema del otro.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3821,6 +3824,12 @@ A.C.
 
 CAOS
 
+ego (alter ego) a partir del ego trascendental propio mediante el concepto de
+«appresentación» (Appräsentation): el otro no es dado directamente sino
+como analogon de mí mismo, presentado de manera indirecta a través del
+cuerpo del otro que funciona como índice de una vida subjetiva similar a la
+mía. La dificultad de esta derivación llevó a Merleau-Ponty, Levinas y otros
+a proponer soluciones alternativas al problema del otro.
 [79] Levinas, Emmanuel. Totalidad e infinito (1961), Parte III: «El rostro y
 la exterioridad». La ética de Levinas comienza con el reconocimiento de
 que el otro no puede reducirse a una proyección del yo propio: el rostro del
@@ -3848,13 +3857,7 @@ pone el límite en el lenguaje, este libro lo pone en el colapso: el mundo del
 ego es el mundo tal como el ego puede colapsarlo. Lo que está más allá de los
 límites del propio colapso no es incognoscible: es simplemente inaccessible
 desde la perspectiva del ego que colapsa en su propia esfera.
-[82] Kierkegaard, Søren. El concepto de la angustia (1844). Kierkegaard
-distingue entre el miedo (que tiene un objeto determinado) y la angustia
-(que no lo tiene: es el vértigo de la libertad misma). La angustia no es miedo
-a algo: es el estado en que el sujeto se enfrenta a su propia libertad, a la
-posibilidad de ser cualquier cosa, de hacer cualquier cosa. «La angustia es el
-vértigo de la libertad», escribe Kierkegaard. Lo que este libro precisa es que
-ese vértigo no es ante la nada —como a veces se ha interpretado— sino ante
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3864,6 +3867,13 @@ A.C.
 
 CAOS
 
+[82] Kierkegaard, Søren. El concepto de la angustia (1844). Kierkegaard
+distingue entre el miedo (que tiene un objeto determinado) y la angustia
+(que no lo tiene: es el vértigo de la libertad misma). La angustia no es miedo
+a algo: es el estado en que el sujeto se enfrenta a su propia libertad, a la
+posibilidad de ser cualquier cosa, de hacer cualquier cosa. «La angustia es el
+vértigo de la libertad», escribe Kierkegaard. Lo que este libro precisa es que
+ese vértigo no es ante la nada —como a veces se ha interpretado— sino ante
 el caos: ante la posibilidad absoluta, ante el infinito de lo que puede ser y no
 ha sido todavía determinado.
 [83] Sartre, Jean-Paul. El ser y la nada (1943), Introducción y Parte I. La
@@ -3891,6 +3901,15 @@ ego lo determina.
 [85] Pascal, Blaise. Pensamientos (postumos, 1670), fragmento Lafuma 199
 (Brunschvicg 72): «El silencio eterno de estos espacios infinitos me aterra.»
 Pascal experimenta el infinito del universo no como plenitud sino como
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+89
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 amenaza: la pequeñez del ser humano ante la vastedad del cosmos genera
 terror. Lo que este libro propone es una rehabilitación de ese mismo
 infinito: el caos —la posibilidad absoluta, el espacio de todos los eventos
@@ -3898,10 +3917,11 @@ posibles— no es amenaza sino condición de posibilidad del ego. Sin caos,
 sin posibilidad absoluta, sin el infinito ante el cual el sujeto colapsa, no
 habría determinación posible. El terror pascaliano es la respuesta equivocada
 al caos; el asombro aristotélico sería la correcta.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-89
+90
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3937,7 +3957,7 @@ emergen de la colisión entre una estructura y un mundo que la condiciona.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-90
+91
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3980,7 +4000,7 @@ universo sin determinarlo de manera que excluya la determinación de las
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-91
+92
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4021,7 +4041,7 @@ actualidad, en los que la célula pasa de poder-ser-esto-o-aquello a ser-esto-yn
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-92
+93
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4064,7 +4084,7 @@ condición de posibilidad del colapso del ego: sin él, no hay campo en el que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-93
+94
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4107,7 +4127,7 @@ accidente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-94
+95
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4150,7 +4170,7 @@ mecanismo celular que hubiera podido producir o evitar la mutación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-95
+96
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4194,7 +4214,7 @@ sujeto que fue afectado por el accidente no es responsable del accidente en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-96
+97
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4237,7 +4257,7 @@ decido esté limitado por el asma. La limitación del campo es real y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-97
+98
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4280,7 +4300,7 @@ condiciones que la cultura ha puesto, o que la crianza ha puesto, o que la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-98
+99
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4323,7 +4343,7 @@ ocurre— se reduce hasta desaparecer?
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-99
+100
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4366,7 +4386,7 @@ disociativas, flashbacks, hipervigilancia y otras manifestaciones que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-100
+101
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4409,7 +4429,7 @@ pobreza extrema, de violencia sistémica, de privación educativa severa, de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-101
+102
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4452,7 +4472,7 @@ de que la violación ocurriera. Lo que tenía antes era una integral que no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-102
+103
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4495,7 +4515,7 @@ académica raramente trata con la atención que merece: la dimensión
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-103
+104
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4538,7 +4558,7 @@ libro: ¿hay una escala de colapso que excede la escala humana de la misma
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-104
+105
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4581,7 +4601,7 @@ escala de colapso de Dios —si existe— opera en un dominio que excede el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-105
+106
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4624,7 +4644,7 @@ ninguna escala agote ni sustituya a la suprema.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-106
+107
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4666,7 +4686,7 @@ permeables pero causalmente impermeables. Lo que ocurre en una escala
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-107
+108
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4708,7 +4728,7 @@ de escalas de colapso: ¿hay una escala que excede la humana de la misma
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-108
+109
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4734,10 +4754,28 @@ del ego, primero hay que entender qué es la mediación en general, cómo
 opera cuando no hay ego, y por qué el ego no puede existir sin ella aunque la
 mediación pueda existir sin ego.
 A eso vamos.
+Notas
+Las siguientes notas amplían los interlocutores filosóficos y científicos
+citados en el cuerpo del capítulo. Están pensadas para el lector que desee
+profundizar en los debates específicos sin interrumpir la lectura del
+argumento principal.
 
+────────────────────────────────────────────────────────
+NOTAS
+────────────────────────────────────────────────────────
 [86] Anderson, Philip W. «More Is Different» (1972), Science 177:393-396.
 Anderson, premio Nobel de Física, argumentó en este influyente artículo
 que en cada nivel de organización de la materia emergen propiedades
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+110
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 genuinamente nuevas que no pueden deducirse de los principios del nivel
 inferior: «A cada nivel nuevo de complejidad aparecen propiedades
 completamente nuevas, y la comprensión de los nuevos comportamientos
@@ -4746,16 +4784,6 @@ como cualquier otra.» Este principio —«more is different»— es el
 argumento científico más poderoso contra el reduccionismo entre escalas: lo
 que ocurre en la escala de la mecánica cuántica no determina
 completamente lo que ocurre en la escala de la química, que a su vez no
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-109
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 determina completamente lo que ocurre en la biología, que a su vez no
 determina completamente lo que ocurre en la psicología o la sociología.
 [87] Maturana, Humberto y Francisco Varela. El árbol del conocimiento
@@ -4782,6 +4810,16 @@ social— tiene su propia dinámica de acoplamiento estructural, y los niveles
 se afectan mutuamente sin que ninguno determine completamente al otro.
 Esta jerarquía de acoplamientos es af ín a la jerarquía de escalas de colapso
 que este capítulo trabaja.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+111
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 [89] Paul Weiss, «The Cell as Unit», Journal of Theoretical Biology 5(3),
 389–397 (1963). DOI 10.1016/0022-5193(63)90085-7. Weiss fue uno de los
 primeros biólogos en insistir en que el comportamiento de las células en un
@@ -4790,15 +4828,6 @@ propiedades aisladas: el contexto del organismo completo modifica el
 comportamiento celular de maneras que no pueden deducirse del estudio de
 células aisladas. Esta bidireccionalidad —las células afectan al organismo, el
 organismo afecta a las células— es el modelo de la relación entre escalas de
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-110
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 colapso que este capítulo desarrolla: la permeabilidad material no implica
 reducción causal en ninguna dirección.
 [90] Aristóteles, Metaf ísica, Libro V (Delta), Cap. 30, 1025a14-34. El
@@ -4824,6 +4853,16 @@ accidente más literalmente biológico: un colapso de escala inferior que
 modifica el campo de escala superior sin que el ego superior lo haya
 producido ni pueda simplemente eliminarlo mediante su propia
 determinación.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+112
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 [92] La teoría de la «causalidad descendente» fue propuesta por Campbell,
 Donald T. «Downward Causation in Hierarchically Organised Biological
 Systems» (1974), en Studies in the Philosophy of Biology, eds. Ayala y
@@ -4833,15 +4872,6 @@ comportamientos posibles de los elementos del nivel inferior. Por ejemplo:
 las leyes de la mecánica cuántica permiten muchas configuraciones
 moleculares posibles, pero las restricciones impuestas por la estructura del
 organismo vivo seleccionan cuáles de esas configuraciones se actualizan. La
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-111
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 escala superior no viola las leyes de la escala inferior: las restringe,
 selecciona, canaliza. Esto es exactamente lo que el argumento de este
 capítulo llama «permeabilidad material con impermeabilidad causal»: el
@@ -4867,6 +4897,16 @@ el ego individual a un vehículo de mecanismos genéticos de escala inferior.
 Sin embargo, el propio Dawkins reconoce que la evolución de sistemas
 nerviosos complejos permite una emancipación progresiva de los
 organismos como agentes de decisión, capaces de anticipar acontecimientos
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+113
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 y actuar sobre esa anticipación. En el capítulo XI afirma que podemos
 «rebelarnos contra la tiranía de los replicadores egoístas». Esta posibilidad
 puede interpretarse, desde la ontología desarrollada en el presente libro,
@@ -4876,15 +4916,6 @@ interponga la deliberación.
 [95] Nagel, Thomas. «What Is It Like to Be a Bat?» (1974), Philosophical
 Review. El argumento de Nagel es que la experiencia subjetiva de los
 murciélagos —la experiencia del sonar, de la percepción del mundo a través
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-112
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 de la ecolocalización— no puede capturarse desde ninguna descripción
 objetiva en tercera persona, por completa que sea. «Hay algo que se siente
 como ser un murciélago», y ese algo no es accesible desde fuera de la
@@ -4910,6 +4941,15 @@ Mientras existe ese espacio —por estrecho que sea— existe el ego como
 posibilidad de colapso.
 [97] Herman, Judith. Trauma y recuperación (1992). Herman es la
 investigadora que sistematizó el estudio del trauma psicológico severo —
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+114
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 especialmente el trauma relacionado con la violencia sexual, la guerra y la
 tortura— y mostró que el trauma no es simplemente una experiencia dif ícil
 que debe superarse: es una perturbación de los sistemas neurofisiológicos que
@@ -4918,16 +4958,6 @@ del sujeto de actuar deliberadamente, de acceder a sus propias
 representaciones mentales, de regular sus emociones. En términos del
 argumento de este libro: el trauma severo puede reducir el campo de acción
 del ego hasta aproximarlo a cero, sin que el sujeto haya «elegido» esa
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-113
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 reducción. La responsabilidad ética de la sociedad ante las víctimas de
 trauma no puede ignorar esta reducción.
 [98] van der Kolk, Bessel. El cuerpo lleva la cuenta (2014). Van der Kolk
@@ -4954,6 +4984,16 @@ sistema que debe ser manejado, no como un agente que debe ser
 responsabilizado. Esta distinción de Strawson es filosóficamente af ín al
 argumento de este capítulo: la imputación de responsabilidad requiere que
 haya habido campo de acción para la primera mediación. Donde no hay
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+115
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 campo, corresponde la perspectiva objetiva de Strawson, no la actitud
 reactiva de la responsabilización.
 [100] Ricoeur, Paul. Sí mismo como otro (1990). Ricoeur distingue entre dos
@@ -4962,15 +5002,6 @@ permanece idéntico a lo largo del tiempo, el sustrato material y las
 disposiciones estables) y la «ipse-identidad» (la ipseidad: la identidad del
 sujeto que se mantiene a sí mismo en el tiempo mediante la promesa y la
 responsabilidad narrativa). La identidad narrativa es la síntesis de ambas: la
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-114
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 historia de vida que el sujeto narra de sí mismo, integrando lo que ha
 ocurrido —incluyendo los accidentes, las rupturas, las discontinuidades—
 en una trama coherente. En términos del argumento de este libro: el regreso
@@ -4997,6 +5028,15 @@ véanse su testimonio sobre las posibilidades de actitud frente al sufrimiento
 ineludible y la exposición de la logoterapia. Frankl sitúa la búsqueda de
 sentido en el centro de su comprensión de la existencia, aun bajo
 circunstancias de extrema privación. La tesis de que un ego pueda
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+116
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 reconstruir su campo de acción después de un accidente mediante nuevas
 mediaciones constituye la interpretación de este libro, no una fórmula
 literal de Frankl. La posibilidad de construir sentido no convierte el daño en
@@ -5005,15 +5045,6 @@ víctimas una obligación de superación. Véase también la nota [96].
 [103] Aquino, Tomás de. Suma Teológica (1265-1274), Parte I, Cuestión 13:
 «Los nombres de Dios». Aquino desarrolló la teoría de la «analogía del
 ser» como respuesta al problema de cómo puede hablarse de Dios sin
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-115
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 reducirlo a las categorías de los entes finitos. El lenguaje sobre Dios no es
 unívoco (los términos significan exactamente lo mismo que cuando se
 aplican a las creaturas) ni equívoco (los términos no tienen ninguna
@@ -5040,6 +5071,15 @@ modos sin reducirse a ninguno de ellos.
 [105] El argumento cosmológico sobre Dios —que hay algo más allá del
 universo observable que constituye su causa o fundamento— tiene múltiples
 versiones en la historia de la filosof ía. El argumento kalam (Al-Ghazali,
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+117
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+CAOS
+
 siglo XI; versión contemporánea de William Lane Craig) sostiene que todo
 lo que comienza a existir tiene una causa, el universo comenzó a existir,
 luego el universo tiene una causa que es Dios. El argumento de la
@@ -5048,16 +5088,6 @@ podría no haber existido— y que la razón suficiente de su existencia debe se
 una entidad necesaria. El argumento que este libro ofrece no es ninguno de
 estos: no argumenta desde la causalidad ni desde la contingencia sino desde
 la escala del colapso. Si hay una escala de colapso que excede a la humana de
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-116
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-CAOS
-
 la misma manera que la humana excede a la celular, esa escala merece el
 nombre de Dios en el sentido de una organización de la realidad que opera
 más allá de los límites de la esfera humana. Este argumento no prueba ni
@@ -5066,7 +5096,7 @@ refuta la existencia de Dios en ninguno de los sentidos teológicos habituales.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-117
+118
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5103,7 +5133,7 @@ voluntad se orienta hacia algo —cuando el ego quiere esto y no aquello,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-118
+119
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5146,7 +5176,7 @@ que lo componen, por los usos que lo definen, por las manos que lo usan. El
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-119
+120
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5189,7 +5219,7 @@ que determina la composición de la atmósfera. Ninguno de estos procesos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-120
+121
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5232,7 +5262,7 @@ la simple proyección de ninguna voluntad humana.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-121
+122
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5274,7 +5304,7 @@ propia precisión.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-122
+123
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5317,7 +5347,7 @@ una comprensión de las relaciones entre los objetos. Köhler llamó a esto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-123
+124
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5360,7 +5390,7 @@ voluntad. La persona, en este sentido, puede querer dejar de desear el alcohol
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-124
+125
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5402,7 +5432,7 @@ emerge en la colisión entre el sujeto y el mundo. Esa colisión no puede
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-125
+126
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5445,7 +5475,7 @@ más abstractos tienden a ignorar: el ego no habita el mundo como una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-126
+127
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5488,7 +5518,7 @@ del acto—, entonces la teoría de la responsabilidad debe comenzar con la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-127
+128
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5531,7 +5561,7 @@ causales que no controlaba.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-128
+129
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5575,7 +5605,7 @@ puede imputársele.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-129
+130
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5615,7 +5645,7 @@ Esta reflexividad —la capacidad de ser a la vez sujeto y objeto del propio
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-130
+131
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5658,7 +5688,7 @@ presupone.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-131
+132
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5699,7 +5729,7 @@ incrustado en «formas de vida»: prácticas compartidas que le confieren su
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-132
+133
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5742,7 +5772,7 @@ El discurso que naturaliza la desigualdad, que hace invisible el sufrimiento,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-133
+134
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5783,7 +5813,7 @@ lleno de determinaciones.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-134
+135
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5824,7 +5854,7 @@ título al libro— es lo que transforma la mediación en autodeterminación,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-135
+136
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5866,7 +5896,7 @@ mediación es ontológicamente fundamental —más fundamental que la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-136
+137
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5909,7 +5939,7 @@ humanos: es una realidad técnica con su propio modo de existir, su propio
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-137
+138
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5952,7 +5982,7 @@ experimentos de Köhler con chimpancés mostraron comportamientos que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-138
+139
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5995,7 +6025,7 @@ opera desde deseos de primer orden sin reflexividad) y la primera mediación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-139
+140
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6038,7 +6068,7 @@ capítulo es que una parte importante de las mediaciones del ego ocurre a
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-140
+141
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6081,7 +6111,7 @@ derecho penal, la distinción entre dolo (intención), culpa (imprudencia) y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-141
+142
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6125,7 +6155,7 @@ noemático: el acto intencional es siempre conciencia de algo, aunque ese
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-142
+143
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6168,7 +6198,7 @@ ilocucionario (lo que se hace al decirlo: prometer, ordenar, declarar,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-143
+144
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6212,7 +6242,7 @@ interpretación y acción. Desde la perspectiva de esta ontología, esa
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-144
+145
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6248,7 +6278,7 @@ un componente de respuesta al otro que no es deliberado sino estructural.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-145
+146
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6285,7 +6315,7 @@ colapsar hacia una orientación determinada.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-146
+147
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6328,7 +6358,7 @@ estado mental que causó el movimiento corporal.[133] Lo que Davidson
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-147
+148
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6372,7 +6402,7 @@ la deliberación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-148
+149
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6413,7 +6443,7 @@ aunque esa capacidad haya operado de manera deficiente (en la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-149
+150
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6456,7 +6486,7 @@ niño pequeño cuya capacidad de primera mediación no está desarrollada, el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-150
+151
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6499,7 +6529,7 @@ propia naturaleza como causa adecuada. En los términos de este libro: la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-151
+152
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6542,7 +6572,7 @@ precisar. El acto no solo no puede deshacerse: una vez producido, modifica el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-152
+153
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6585,7 +6615,7 @@ es el proceso por el cual el acto se integra a esta síntesis narrativa: el acto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-153
+154
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6628,7 +6658,7 @@ libro, el ego no supera sus colapsos: los integra. No hay Aufhebung en la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-154
+155
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6670,7 +6700,7 @@ función; el ego es la función misma.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-155
+156
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6714,7 +6744,7 @@ función actual como la historia que la define. El ego es la integral de sus
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-156
+157
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6757,7 +6787,7 @@ maneras diferentes, con consecuencias diferentes— y el análisis de esos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-157
+158
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6799,7 +6829,7 @@ negativamente desde el mismo momento en que ocurre.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-158
+159
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6842,7 +6872,7 @@ que no puede integrar el pasado —que no puede querer que lo que fue haya
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-159
+160
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6884,7 +6914,7 @@ produjo la acción desde esa orientación. No cualquier condición necesaria
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-160
+161
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6927,7 +6957,7 @@ lo que efectivamente hace.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-161
+162
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6970,7 +7000,7 @@ pregunta que el capítulo final trabajará.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-162
+163
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7013,7 +7043,7 @@ costumbre. Kant la recuperó como categoría a priori del entendimiento. La
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-163
+164
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7055,7 +7085,7 @@ objeto representado como deseable y la acción se orienta hacia ese objeto.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-164
+165
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7099,7 +7129,7 @@ primera mediación es que la intención no es un epifenómeno añadido a la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-165
+166
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7142,7 +7172,7 @@ fondo intervenga, y parece plenamente responsable aunque no podría haber
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-166
+167
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7185,7 +7215,7 @@ incluye de hecho elementos de «suerte moral»: los resultados de las acciones
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-167
+168
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7229,7 +7259,7 @@ trama coherente. La segunda mediación, en los términos de Ricoeur, es el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-168
+169
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7272,7 +7302,7 @@ y el perdón. Para Hegel, el acto singular no permanece como una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-169
+170
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7316,7 +7346,7 @@ libro responde a Parfit desde la segunda mediación: la continuidad del ego
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-170
+171
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7364,7 +7394,7 @@ Lustprinzips (Más allá del principio de placer, 1920), particularmente el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-171
+172
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7407,7 +7437,7 @@ voluntad orientada?). Un acto puede evaluarse como dañoso sin que el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-172
+173
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7450,7 +7480,7 @@ cargado de valor: cada acto confirma, viola o transforma la orientación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-173
+174
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7463,7 +7493,7 @@ morales.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-174
+175
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7499,7 +7529,7 @@ calienta el hierro. Observamos que la bola de billar A golpea a la bola B y B
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-175
+176
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7542,7 +7572,7 @@ temporal. Kant preserva la necesidad de la conexión causal a costa de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-176
+177
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7585,7 +7615,7 @@ permanece intacto.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-177
+178
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7628,7 +7658,7 @@ de causa interna del agente funda la responsabilidad: no cualquier motivo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-178
+179
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7669,7 +7699,7 @@ condición, el evento no ocurre.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-179
+180
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7712,7 +7742,7 @@ sujeto con esta historia de colapsos, con esta función acumulativa, con esta
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-180
+181
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7755,7 +7785,7 @@ no deliberan sobre sus respuestas, no pueden ser interpeladas después del acto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-181
+182
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7798,7 +7828,7 @@ segunda mediación. El mundo simplemente cambia de estado. El ego, en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-182
+183
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7841,7 +7871,7 @@ dos años que rompe un jarrón no tiene primera mediación en el sentido que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-183
+184
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7884,7 +7914,7 @@ exterior elimina el campo de acción de la víctima. El adicto puede estar en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-184
+185
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7927,7 +7957,7 @@ causal —el ego— colisiona con las condiciones del mundo y produce un
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-185
+186
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -7970,7 +8000,7 @@ produciría azar, no libertad: si el acto depende de fluctuaciones cuánticas, e
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-186
+187
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8012,7 +8042,7 @@ cuatro niveles no se contradicen sino que se necesitan —que el ego completo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-187
+188
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8055,7 +8085,7 @@ que vive es siempre una pregunta en curso —una función abierta que tiende
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-188
+189
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8098,7 +8128,7 @@ principio porque toda filosof ía del ego que se tome en serio debe comenzar
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-189
+190
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8140,7 +8170,7 @@ puede identificar pero que la vida misma debe encarnar. Si el ego es el caos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-190
+191
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8183,7 +8213,7 @@ polo objetivo puro: es el colapso que produce la intersección de los dos. Y ese
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-191
+192
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8225,7 +8255,7 @@ ha adquirido la expectativa de que B seguirá a A.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-192
+193
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8269,7 +8299,7 @@ demonio de Laplace es el adversario filosófico más poderoso de cualquier
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-193
+194
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8312,7 +8342,7 @@ cuya sola presencia garantiza el evento: una temperatura suficientemente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-194
+195
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8356,7 +8386,7 @@ imputamos sino tratamos, no responsabilizamos sino gestionamos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-195
+196
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8400,7 +8430,7 @@ irreductible a la causalidad de eventos: no puede describirse en términos de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-196
+197
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8443,7 +8473,7 @@ dimensión temporal de la existencia humana: el sí mismo no es una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-197
+198
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8485,7 +8515,7 @@ mundo, no los hechos; no lo que puede expresarse mediante el lenguaje. En
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-198
+199
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8515,7 +8545,7 @@ infinito: hace algo con él.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-199
+200
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8551,7 +8581,7 @@ verificable mediante la sola aritmética de los números reales.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-200
+201
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8589,7 +8619,7 @@ la condición 0 < |x − x₀|) mientras exige que x esté a distancia menor que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-201
+202
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8630,7 +8660,7 @@ todos los colapsos que lo rodean, que convergen hacia el punto presente.[178]
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-202
+203
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8667,7 +8697,7 @@ f es continua en x₀ si y solo si:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-203
+204
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8709,7 +8739,7 @@ cuadrados perfectos tienen la misma cardinalidad, aunque los cuadrados
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-204
+205
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8746,7 +8776,7 @@ r₁, r₂, r₃, r₄, …
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-205
+206
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8782,7 +8812,7 @@ produce siempre algo que excede al proceso mismo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-206
+207
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8821,7 +8851,7 @@ número finito de pasos.[184] Esta posición —el intuicionismo— tiene una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-207
+208
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8861,7 +8891,7 @@ definida caso por caso.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-208
+209
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8902,7 +8932,7 @@ momento. El ego es esa función, no su espectro.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-209
+210
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8941,7 +8971,7 @@ recta es:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-210
+211
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -8976,7 +9006,7 @@ inmediato. Y nada más que eso es necesario.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-211
+212
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9014,7 +9044,7 @@ Teorema 3 (Bolzano-Weierstrass)
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-212
+213
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9056,7 +9086,7 @@ intersección de todas las etapas.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-213
+214
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9096,7 +9126,7 @@ ser.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-214
+215
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9138,7 +9168,7 @@ conjunto de colapsos contiene todos sus propios puntos de acumulación, ya
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-215
+216
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9180,7 +9210,7 @@ Notas
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-216
+217
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9224,7 +9254,7 @@ si x es irracional, es el ejemplo estándar de una función sin límite en ning�
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-217
+218
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9267,7 +9297,7 @@ Mannigfaltigkeitslehre» (1891). Este breve artículo, de apenas tres páginas,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-218
+219
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9311,7 +9341,7 @@ reales» como un objeto completado era una confusión categorial: el infinito
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-219
+220
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9353,7 +9383,7 @@ de notas de estudiantes, publicadas postumamente). El teorema de BolzanoWeierstr
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-220
+221
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9388,7 +9418,7 @@ entre colapsos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-221
+222
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9424,7 +9454,7 @@ la interpretación de la función de onda. Max Born propuso en 1926 que la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-222
+223
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9465,7 +9495,7 @@ una combinación de todos los vectores base. El espacio de Hilbert cuántico
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-223
+224
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9505,7 +9535,7 @@ La mecánica cuántica estándar —en la formulación de von Neumann de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-224
+225
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9545,7 +9575,7 @@ operación permitida por la mecánica cuántica. La información sobre los
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-225
+226
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9588,7 +9618,7 @@ Para un grano de polvo de un micrómetro, el tiempo de decoherencia en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-226
+227
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9627,7 +9657,7 @@ Para posición y momentum, esto da:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-227
+228
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9669,7 +9699,7 @@ interpretación es la correcta: no existe ninguna teoría de variables ocultas
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-228
+229
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9711,7 +9741,7 @@ de incertidumbre en la observable complementaria.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-229
+230
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9751,7 +9781,7 @@ sí misma.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-230
+231
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9793,7 +9823,7 @@ superposición en que se encuentra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-231
+232
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9834,7 +9864,7 @@ comparten— es la que el libro requiere. Esa estructura es:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-232
+233
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9872,7 +9902,7 @@ no-localidad), y GRW lo preserva haciendo del colapso un evento f ísico real
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-233
+234
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9910,7 +9940,7 @@ ONTOLOGÍA DEL EGO: Pesos de las posibilidades en el caos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-234
+235
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9945,7 +9975,7 @@ DEL EGO: Constitución intersubjetiva del ego
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-235
+236
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -9986,7 +10016,7 @@ independientemente a múltiples observadores— e irreversible —la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-236
+237
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10029,7 +10059,7 @@ después de cada determinación. El ego que ha colapsado no ha eliminado el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-237
+238
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10072,7 +10102,7 @@ al ego son genuinas: el ego emerge de las interacciones, no preexiste a ellas.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-238
+239
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10113,7 +10143,7 @@ colapso ni modifica sus disposiciones. La segunda mediación es específica del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-239
+240
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10155,7 +10185,7 @@ nivel más básico conocido, está construido del mismo material que el ego:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-240
+241
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10197,7 +10227,7 @@ uno de los dos estados pero no sepamos cuál. La superposición es el estado
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-241
+242
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10240,7 +10270,7 @@ desigualdades estadísticas. La mecánica cuántica viola estas desigualdades.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-242
+243
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10283,7 +10313,7 @@ muerto es obviamente absurdo, luego algo en la cadena de razonamiento
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-243
+244
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10326,7 +10356,7 @@ estados que colapsan se vuelven redundantemente inscritos en el entorno, y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-244
+245
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10367,7 +10397,7 @@ epistemológica sino ontológica.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-245
+246
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10410,7 +10440,7 @@ un resultado diferente. DeWitt calculó que las bifurcaciones ocurren con
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-246
+247
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10452,7 +10482,7 @@ información del observador.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-247
+248
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10488,7 +10518,7 @@ determinación es asumida mediante la segunda mediación; no sustituye al
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-248
+249
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10528,7 +10558,7 @@ ego, desde el que cada colapso toma su punto de partida. El caos no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-249
+250
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10568,7 +10598,7 @@ mediación (intencionalidad presupuesta) e integración a la integral
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-250
+251
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10608,7 +10638,7 @@ c: T → E, c irreversible ⟺ ∄ φ tal que φ(c(t)) = c(t − ε) para ε > 0
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-251
+252
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10648,7 +10678,7 @@ neutral, acto, intencionalidad
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-252
+253
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10687,7 +10717,7 @@ dirección determinada antes de que el acto la exteriorice.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-253
+254
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10727,7 +10757,7 @@ presupuesta, campo de acción, responsabilidad, imputación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-254
+255
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10767,7 +10797,7 @@ siempre está delimitado por las condiciones del cuerpo del sujeto, sus
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-255
+256
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10808,7 +10838,7 @@ más estudiado clínicamente es la compulsión de repetición (Freud): cuando
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-256
+257
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10848,7 +10878,7 @@ ciertas trayectorias I₀ y actos a y b, φ₂(b,φ₂(a,I₀)) ≠ φ₂(a,φ�
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-257
+258
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10888,7 +10918,7 @@ sentido técnico de esta ontología. «Necesaria»: sin doble mediación no hay
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-258
+259
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10929,7 +10959,7 @@ no haya ocurrido.[213]
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-259
+260
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -10967,7 +10997,7 @@ colapso asumido / c_asumido
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-260
+261
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11007,7 +11037,7 @@ total.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-261
+262
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11048,7 +11078,7 @@ continuidad del proceso de acumulación. El ego de hoy no necesita ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-262
+263
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11089,7 +11119,7 @@ superiores como condicionamiento del campo; las escalas superiores pueden
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-263
+264
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11130,7 +11160,7 @@ el campo modificado por el accidente, esa acción es su acto —con primera
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-264
+265
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11171,7 +11201,7 @@ primera mediación en este momento —si hubiera reaccionado
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-265
+266
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11212,7 +11242,7 @@ responsabilidad reducida proporcional al campo; (c) campo normal: hay
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-266
+267
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11251,7 +11281,7 @@ variable t de la f ísica—: es el tiempo vivido, la estructura de pasadopresen
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-267
+268
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11293,7 +11323,7 @@ distinción entre el soporte material del ego y el ego como proceso. Tiene
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-268
+269
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11336,7 +11366,7 @@ por causas externas). Física, III, 201b. También es paralela a la distinción
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-269
+270
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11380,7 +11410,7 @@ ellas.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-270
+271
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11423,7 +11453,7 @@ jurídica que el sistema normativo asigna al hecho imputable). Este glosario
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-271
+272
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -11438,6 +11468,6 @@ sistema normativo en que opera la imputación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-272
+273
 
 
