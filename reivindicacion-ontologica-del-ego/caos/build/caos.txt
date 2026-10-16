@@ -11401,13 +11401,13 @@ tienen mayor peso en la determinación de la función actual) o como
 constante (todos los colapsos tienen el mismo peso en la integral). El libro
 no postula ninguna forma específica de w(τ): la integral acumulativa es la
 estructura general, y las distintas concepciones de la memoria e identidad
-corresponden a distintas elecciones de w. peso temporal w(τ)
-La función de ponderación w modela la distinta relevancia de las
-contribuciones asumidas. Si el peso de un colapso depende de su antigüedad
-respecto del instante actual t, puede escribirse w_t(τ) = W(t − τ), donde W
-decrece con la antigüedad. Por ejemplo, W(s) = e^(−λs) con λ > 0. El libro no
-impone ninguna ley de ponderación específica; esta notación solo aclara la
-lectura temporal de un posible peso decreciente.
+corresponden a distintas elecciones de w. Peso temporal w(τ). La función de
+ponderación w modela la distinta relevancia de las contribuciones asumidas.
+Si el peso de un colapso depende de su antigüedad respecto del instante
+actual t, puede escribirse w_t(τ) = W(t − τ), donde W decrece con la
+antigüedad. Por ejemplo, W(s) = e^(−λs) con λ > 0. El libro no impone
+ninguna ley de ponderación específica; esta notación solo aclara la lectura
+temporal de un posible peso decreciente.
 [215] El concepto de escala en f ísica tiene una formulación precisa en el
 «grupo de renormalización» (Wilson, K.G. «The Renormalization Group
 and Critical Phenomena», Nobel Lecture, 1982): la descripción de un
@@ -11421,6 +11421,7 @@ escala. El concepto de impermeabilidad causal entre escalas en este libro
 tiene una estructura análoga: las leyes efectivas de la escala superior no son
 deducibles directamente de las de la escala inferior, aunque emergen de
 ellas.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
