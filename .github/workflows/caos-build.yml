@@ -84,6 +84,8 @@ jobs:
           pdftoppm -f 1 -l 1 -singlefile -jpeg -r 100 "$PDF" "$REVIEW/portada"
           pdftoppm -f 2 -l 2 -singlefile -jpeg -r 100 "$PDF" "$REVIEW/portadilla"
           pdftoppm -f "$TOTAL" -l "$TOTAL" -singlefile -jpeg -r 100 "$PDF" "$REVIEW/contraportada"
+          # Páginas físicas 241–242 corresponden a las páginas impresas 234–235.
+          pdftoppm -f 241 -l 242 -jpeg -r 150 "$PDF" "$REVIEW/isomorfismo"
           python - <<'PY'
           from pathlib import Path
           from PIL import Image, ImageDraw
