@@ -32,7 +32,7 @@ MATH_GLYPH_RE = re.compile(
     r"\u2190-\u21ff\u2200-\u22ff\u27c0-\u27ef"
     r"\u2980-\u29ff\u2a00-\u2aff])"
 )
-MATH_SCRIPT_START_RE = re.compile(r"([A-Za-zΑ-ω]+|[0-9]+|[∪∩ΣΠ∫])([_^])\\\\{")
+MATH_SCRIPT_START_RE = re.compile(r"([A-Za-zΑ-ω]+|[0-9]+|[∪∩ΣΠ∫])([_^])\{")
 
 
 def format_math_scripts(value: str) -> str:
