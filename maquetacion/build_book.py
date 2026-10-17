@@ -26,7 +26,7 @@ SUBSCRIPT_GLYPH_RE = re.compile(r"([\u2080-\u209F])")
 MATH_GLYPH_FALLBACK = False
 MATH_GLYPH_RE = re.compile(
     r"([A-Za-z][\u0300-\u036f]+|"
-    r"[\u0370-\u03ff\u2070-\u209f\u2100-\u214f"
+    r"[\u0370-\u03ff\u1d00-\u1d7f\u2070-\u209f\u2100-\u214f"
     r"\u2190-\u21ff\u2200-\u22ff\u27c0-\u27ef"
     r"\u2980-\u29ff\u2a00-\u2aff])"
 )
