@@ -23,11 +23,24 @@ MOTTO = "La fuerza interior nos impulsa, un pequeño apoyo de los demás nos ben
 md = MarkdownIt("commonmark", {"html": True}).enable("table")
 
 SUBSCRIPT_GLYPH_RE = re.compile(r"([\u2080-\u209F])")
+MATH_GLYPH_RE = re.compile(
+    r"([A-Za-z][\u0300-\u036f]+|"
+    r"[\u0370-\u03ff\u2070-\u209f\u2100-\u214f"
+    r"\u2190-\u21ff\u2200-\u22ff\u27c0-\u27ef"
+    r"\u2980-\u29ff\u2a00-\u2aff])"
+)
+
+
+def format_math_text(value: str) -> str:
+    value = re.sub(r"([A-Za-zΑ-ω]+)_\{([^{}]+)\}", r"\1<sub>\2</sub>", value)
+    value = re.sub(r"([A-Za-zΑ-ω0-9|])\^\{([^{}]+)\}", r"\1<sup>\2</sup>", value)
+    value = SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\1</span>', value)
+    return MATH_GLYPH_RE.sub(r'<span class="math-glyph">\1</span>', value)
 
 
 def render_markdown(raw: str) -> str:
     rendered = md.render(raw)
-    return SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\1</span>', rendered)
+    return re.sub(r"(?<=>)([^<>]+)(?=<)", lambda match: format_math_text(match.group(1)), rendered)
 
 
 @dataclass(frozen=True)
@@ -353,7 +366,7 @@ def document_html(
     sections.append(f'<section class="cover-page"><img src="{back}"></section>')
     return (
         '<!doctype html><html lang="es"><head><meta charset="utf-8">'
-        f'<style>{css}\n.math-subscript {{ font-family: "DejaVu Serif", serif; }}</style></head><body>{header}{"".join(sections)}</body></html>'
+        f'<style>{css}\n.math-subscript, .math-glyph {{ font-family: "DejaVu Serif", serif; }}\nsup, sub {{ font-size: .72em; line-height: 0; }}\nsup {{ vertical-align: super; }}\nsub {{ vertical-align: sub; }}</style></head><body>{header}{"".join(sections)}</body></html>'
     )
 
 
