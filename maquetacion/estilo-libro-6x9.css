@@ -127,3 +127,5 @@ th { background: #F5F5F2; }
 .toc-table .col-label { width: 72%; }
 .toc-table .col-leader { width: 18%; }
 .toc-table .col-page { width: 10%; }
+
+table td code { white-space: nowrap; word-break: keep-all; overflow-wrap: normal; }
