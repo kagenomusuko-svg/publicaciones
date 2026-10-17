@@ -23,6 +23,7 @@ MOTTO = "La fuerza interior nos impulsa, un pequeño apoyo de los demás nos ben
 md = MarkdownIt("commonmark", {"html": True}).enable("table")
 
 SUBSCRIPT_GLYPH_RE = re.compile(r"([\u2080-\u209F])")
+MATH_GLYPH_FALLBACK = False
 MATH_GLYPH_RE = re.compile(
     r"([A-Za-z][\u0300-\u036f]+|"
     r"[\u0370-\u03ff\u2070-\u209f\u2100-\u214f"
@@ -40,6 +41,8 @@ def format_math_text(value: str) -> str:
 
 def render_markdown(raw: str) -> str:
     rendered = md.render(raw)
+    if not MATH_GLYPH_FALLBACK:
+        return SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\1</span>', rendered)
     return re.sub(r"(?<=>)([^<>]+)(?=<)", lambda match: format_math_text(match.group(1)), rendered)
 
 
@@ -364,9 +367,16 @@ def document_html(
         else:
             sections.append(render_piece(piece, markers))
     sections.append(f'<section class="cover-page"><img src="{back}"></section>')
+    math_css = (
+        '\n.math-subscript, .math-glyph { font-family: "DejaVu Serif", serif; }'
+        '\nsup, sub { font-size: .72em; line-height: 0; }'
+        '\nsup { vertical-align: super; }\nsub { vertical-align: sub; }'
+        if config.get("math_glyph_fallback")
+        else '\n.math-subscript { font-family: "DejaVu Serif", serif; }'
+    )
     return (
         '<!doctype html><html lang="es"><head><meta charset="utf-8">'
-        f'<style>{css}\n.math-subscript, .math-glyph {{ font-family: "DejaVu Serif", serif; }}\nsup, sub {{ font-size: .72em; line-height: 0; }}\nsup {{ vertical-align: super; }}\nsub {{ vertical-align: sub; }}</style></head><body>{header}{"".join(sections)}</body></html>'
+        f'<style>{css}{math_css}</style></head><body>{header}{"".join(sections)}</body></html>'
     )
 
 
@@ -428,6 +438,8 @@ def compute_toc_numbers(pages: dict[str, int], entries: list[TocEntry]) -> dict[
 
 def build(root: Path, output: Path, stylesheet: Path) -> None:
     config = load_config(root)
+    global MATH_GLYPH_FALLBACK
+    MATH_GLYPH_FALLBACK = bool(config.get("math_glyph_fallback", False))
     for asset in (config["cover"], config["back_cover"]):
         if not (root / asset).exists():
             raise FileNotFoundError(f"Falta el activo editorial: {root / asset}")
