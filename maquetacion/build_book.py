@@ -23,6 +23,8 @@ MOTTO = "La fuerza interior nos impulsa, un pequeño apoyo de los demás nos ben
 md = MarkdownIt("commonmark", {"html": True}).enable("table")
 
 SUBSCRIPT_GLYPH_RE = re.compile(r"([\u2080-\u209F])")
+MODIFIER_SCRIPT_RE = re.compile(r"([ᵇᵗᵢ])")
+MODIFIER_SCRIPT_TAGS = {"ᵇ": ("sup", "b"), "ᵗ": ("sup", "t"), "ᵢ": ("sub", "i")}
 MATH_GLYPH_FALLBACK = False
 MATH_GLYPH_RE = re.compile(
     r"([A-Za-z][\u0300-\u036f]+|"
@@ -35,6 +37,10 @@ MATH_GLYPH_RE = re.compile(
 def format_math_text(value: str) -> str:
     value = re.sub(r"([A-Za-zΑ-ω]+)_\{([^{}]+)\}", r"\1<sub>\2</sub>", value)
     value = re.sub(r"([A-Za-zΑ-ω0-9|])\^\{([^{}]+)\}", r"\1<sup>\2</sup>", value)
+    value = MODIFIER_SCRIPT_RE.sub(
+        lambda match: f"<{MODIFIER_SCRIPT_TAGS[match.group(1)][0]}>{MODIFIER_SCRIPT_TAGS[match.group(1)][1]}</{MODIFIER_SCRIPT_TAGS[match.group(1)][0]}>",
+        value,
+    )
     value = SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\1</span>', value)
     return MATH_GLYPH_RE.sub(r'<span class="math-glyph">\1</span>', value)
 
