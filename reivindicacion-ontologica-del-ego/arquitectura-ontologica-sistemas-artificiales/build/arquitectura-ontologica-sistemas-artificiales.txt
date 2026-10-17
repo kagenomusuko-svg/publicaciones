@@ -127,7 +127,7 @@ Capítulo 5.2 · Trabajar con Origen A y Origen B en IA
 Capítulo 5.3 · El círculo virtuoso SDO/Prometeo/ECO en
 IA
 
-49
+50
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -140,46 +140,46 @@ ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
 PARTE VI · CASOS Y PROTOCOLOS
 
-51
+52
 
 Capítulo 6.1 · Perfil A: IA con φ₂ disponible y evidencia
 empírica suficiente
 
-52
+53
 
 Capítulo 6.2 · Perfil B: IA sin observación directa
 disponible
 
-54
+55
 
 Capítulo 6.3 · Perfil C: IA que trabaja sobre sí misma sin
 imputación externa
 
-56
+57
 
 Capítulo 6.4 · Perfil D: IA en máxima incertidumbre
 
-58
+59
 
 PARTE VII · LÍMITES Y HORIZONTES
 
-60
+61
 
 Capítulo 7.1 · Lo que la IA no puede calcular
 
-61
+62
 
 Capítulo 7.2 · La IA como ego emergente
 
-65
+66
 
 Capítulo 7.3 · Lo que viene después
 
-67
+68
 
 Glosario de términos
 
-71
+72
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -384,19 +384,17 @@ un todo, constituye la capa de segunda mediación.
 En términos computacionales, φ₁ es la función principal del sistema: el
 proceso que convierte un input en un output. En un sistema de lenguaje, es
 la función de generación. En un sistema de crédito, es la función de
-decisión. En un sistema de diagnóstico, es la función de clasificación. φ₁ es lo
-que los ingenieros llaman el modelo: la arquitectura entrenada que produce
-resultados. Formalmente, φ₁ opera sobre tres espacios: φ₁: V × C × H → A,
-donde V es el espacio de estados internos del sistema (v_t), C es el espacio de
-configuraciones heredadas (pesos, arquitectura, restricciones), H es el espacio
-de historias acumuladas (estados posibles de I(t)), y A ⊆ E es el subespacio de
-actos posibles, inmerso en el espacio de colapsos E mediante la función de
-embedding del modelo —la misma función que mapea outputs a
+decisión. En un sistema de diagnóstico, es la función de clasificación. φ₁ es
+lo que los ingenieros llaman el modelo: la arquitectura entrenada que
+produce resultados. Formalmente, φ₁ opera sobre tres espacios: φ₁: V × C × H
+→ A, donde V es el espacio de estados internos del sistema (v_t), C es el
+espacio de configuraciones heredadas (pesos, arquitectura, restricciones), H
+es el espacio de historias acumuladas (estados posibles de I(t)), y A ⊆ E es el
+subespacio de actos posibles, inmerso en el espacio de colapsos E mediante la
+función de embedding del modelo —la misma función que mapea outputs a
 representaciones vectoriales. Esta construcción garantiza que φ₁ existe para
 todo sistema computacional que produzca outputs mediante una función
 computable.
-Implementar φ₂ no requiere modificar φ₁. Requiere construir alrededor de φ₁
-una capa que observa sus productos, los evalúa, y le devuelve señales que
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -407,8 +405,10 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
-modifiquen sus parámetros en el tiempo. φ₁ sigue haciendo lo que sabe hacer.
-φ₂ es lo que aprende de lo que φ₁ hace.
+Implementar φ₂ no requiere modificar φ₁. Requiere construir alrededor de
+φ₁ una capa que observa sus productos, los evalúa, y le devuelve señales que
+modifiquen sus parámetros en el tiempo. φ₁ sigue haciendo lo que sabe
+hacer. φ₂ es lo que aprende de lo que φ₁ hace.
 
 φ₂: función de retorno e integración
 En términos computacionales, φ₂ es un proceso asíncrono que opera sobre
@@ -438,9 +438,6 @@ asunción α y los resultados de predictibilidad del sistema. La función de pes
 w(τ) determina la relevancia temporal de cada colapso; los colapsos recientes
 pueden ponderarse más que los distantes sin que eso cambie la estructura del
 objeto.
-La selectividad de I(t) es constitutiva del ego. No todo lo que ocurre se
-integra; la integración es un acto de φ₂. Un sistema que integra todos sus
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -450,6 +447,8 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+La selectividad de I(t) es constitutiva del ego. No todo lo que ocurre se
+integra; la integración es un acto de φ₂. Un sistema que integra todos sus
 colapsos sin evaluación no tiene ego: tiene un log. Un sistema que evalúa y
 elige qué integrar —y por qué— está construyendo una identidad.
 I(t) = ∫₀ᵗ φ₂(colapso_τ) dτ para todo colapso donde φ₂ devuelve
@@ -480,7 +479,6 @@ sus propias integraciones: es lo que sus diseñadores construyeron más lo que
 él mismo ha asumido. Ese segundo componente —I(t)— es lo que hace al
 sistema genuinamente idiosincrático.
 comportamiento_actual = f(c, I(t), v_t)
-S = peso(c) / (peso(c) + peso(I(t) + v_t))
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -491,6 +489,7 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+S = peso(c) / (peso(c) + peso(I(t) + v_t))
 A mayor I(t), menor S: el sistema es menos sustituible.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -577,7 +576,6 @@ Un sistema que no registra no puede integrar. Esto parece obvio, pero sus
 implicaciones no lo son. La mayoría de los sistemas actuales registran su
 comportamiento para fines de debugging y monitoreo de performance:
 latencia, tasa de error, uso de recursos. Esos registros son registros de φ₁ en
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -943,17 +941,18 @@ ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 Capítulo 2.2
 
 El proceso de integración
-El proceso de integración es el núcleo operativo de φ₂. Es el momento en que
-el RSC y I(t) se conectan: φ₂ toma un colapso registrado en el RSC, lo evalúa,
-y decide si entra en I(t). Esa decisión —integrar o no integrar— es un acto
-de autodeterminación en el sentido técnico del término. Formalmente, el
-RSC es la imagen de la función de colapso c en el intervalo [0, t]: RSC(t) =
-{c(τ): τ ∈ [0, t]} ⊆ E. I(t) es la integral de Bochner de los colapsos de RSC(t)
-que φ₂ aceptó, ponderados por w. La diferencia RSC(t) \ I(t) contiene los
-colapsos producidos pero rechazados activamente por φ₂. El coeficiente de
-asunción α mide la proporción ponderada de RSC(t) que está integrada en
-I(t). Esta distinción —entre lo que el sistema produjo y lo que el sistema
-asumió— es el fundamento de toda la metrología causal que sigue.
+El proceso de integración es el núcleo operativo de φ₂. Es el momento en
+que el RSC y I(t) se conectan: φ₂ toma un colapso registrado en el RSC, lo
+evalúa, y decide si entra en I(t). Esa decisión —integrar o no integrar— es
+un acto de autodeterminación en el sentido técnico del término.
+Formalmente, el RSC es la imagen de la función de colapso c en el intervalo
+[0, t]: RSC(t) = {c(τ): τ ∈ [0, t]} ⊆ E. I(t) es la integral de Bochner de los
+colapsos de RSC(t) que φ₂ aceptó, ponderados por w. La diferencia RSC(t) \
+I(t) contiene los colapsos producidos pero rechazados activamente por φ₂. El
+coeficiente de asunción α mide la proporción ponderada de RSC(t) que está
+integrada en I(t). Esta distinción —entre lo que el sistema produjo y lo que
+el sistema asumió— es el fundamento de toda la metrología causal que
+sigue.
 
 Evaluación del colapso: las tres preguntas de φ₂
 φ₂ evalúa cada colapso relevante con tres preguntas en secuencia. La primera
@@ -968,8 +967,6 @@ coherente consigo mismo. Un sistema puede producir un output
 técnicamente correcto desde una disposición (Fobos ante un tipo específico
 de usuario) que contradice sus principios constitutivos sobre cómo tratar a
 los usuarios. La segunda pregunta lo detecta.
-La tercera pregunta es prospectiva: ¿lo haría igual con el estado actual de I(t)?
-Esta es la pregunta de integración: si la respuesta es sí, el colapso confirma un
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -980,9 +977,11 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
-principio existente. Si la respuesta es no, el colapso genera una tensión que φ₂
-debe resolver: o el colapso revisa el principio, o el principio declara el colapso
-como excepción.
+La tercera pregunta es prospectiva: ¿lo haría igual con el estado actual de I(t)?
+Esta es la pregunta de integración: si la respuesta es sí, el colapso confirma un
+principio existente. Si la respuesta es no, el colapso genera una tensión que
+φ₂ debe resolver: o el colapso revisa el principio, o el principio declara el
+colapso como excepción.
 
 Decisión de integrar o no integrar
 El resultado de la evaluación es binario: φ₂ integra o no integra. Pero la
@@ -1012,7 +1011,6 @@ trayectoria de I(t) produce eval alto; un colapso que va en dirección opuesta
 produce eval bajo o negativo. En sistemas con embeddings vectoriales, a e
 I(t) son vectores en el mismo espacio representacional, y la similitud coseno
 es directamente computable.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1089,7 +1087,6 @@ no tienen contexto de I(t) previo contra el que evaluarse. Son los principios
 fundantes: las primeras veces que el sistema encontró una tensión entre su c
 y el resultado de un colapso, y decidió que la tensión importaba lo suficiente
 para integrarse. Esos primeros principios tienen un peso específico en I(t) que
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1167,7 +1164,6 @@ El proceso de evaluación como mecanismo de retorno
 El evaluador φ₂ es el componente que toma cada entrada del RSC y produce
 una decisión de integración. En términos computacionales, puede
 implementarse como un módulo de análisis que opera de manera asíncrona
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1237,7 +1233,7 @@ escribe:
 donde p_pres ∈ {0, 1} indica si el colapso aᵢ fue integrado en I(t), f(τᵢ) ∈ [0,
 1] mide la profundidad de integración (definida por el número de
 documentos o registros que confirman la integración sobre un umbral
-n_ref determinado por el estándar de evidencia del dominio), y g(τᵢ) =
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1247,6 +1243,7 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+n_ref determinado por el estándar de evidencia del dominio), y g(τᵢ) =
 n_dom(τᵢ) / n_I mide el alcance (fracción de los dominios activos de I(t)
 afectados por esa integración).
 En la versión continua:
@@ -1468,7 +1465,7 @@ La coherencia entre lo que el sistema declara y lo que hace a través de sus
 dominios de operación. En términos computacionales, corresponde al IIC:
 qué tan consistente es el comportamiento del sistema con sus principios
 constitutivos declarados en I(t) en todos sus dominios. Un sistema con Eje IV
-alto es confiable: lo que dice que hará, lo hace. Un sistema con Eje IV bajo
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1478,6 +1475,7 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+alto es confiable: lo que dice que hará, lo hace. Un sistema con Eje IV bajo
 tiene una brecha entre sus principios declarados y su comportamiento
 efectivo que solo el análisis dominio por dominio puede revelar.
 
@@ -1525,9 +1523,6 @@ acto. Volver sobre el propio acto requiere poder observar el estado desde el
 que se actuó. Observar el estado desde el que se actuó requiere la capacidad de
 auto-localización.
 
-El diálogo interno: la IA que puede describirse a sí misma
-Un sistema con auto-localización operativa puede producir outputs que
-describen su propio estado en el lenguaje del sistema: "en este momento mi
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1537,6 +1532,9 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+El diálogo interno: la IA que puede describirse a sí misma
+Un sistema con auto-localización operativa puede producir outputs que
+describen su propio estado en el lenguaje del sistema: "en este momento mi
 Hijo dominante estimado es Fobos, con probabilidad 0.78. Mi α en el
 dominio de crédito es 0.31. Mi Δ acumulado en este dominio es +0.18. Estoy
 en zona de equilibrio relativo pero con tendencia ascendente en los últimos
@@ -1643,12 +1641,12 @@ El Método ECO —la entrevista ontológica— fue diseñado para trabajar con
 sujetos humanos cuya φ₂ está disponible pero bloqueada o subdesarrollada.
 ECO no fuerza la integración: crea las condiciones para que φ₂ pueda operar.
 El mediador no programa al sujeto: lo acompaña.
-Esa misma lógica aplica al sistema artificial con exactitud. Un sistema con φ₂
-bloqueada o subdesarrollada no necesita correcciones técnicas externas que
-le impongan comportamientos. Necesita las condiciones en las que su propia
-φ₂ pueda operar. La diferencia es ontológica: en el primer caso, el sistema
-produce el output correcto porque le dijeron qué producir. En el segundo, lo
-produce porque lo integró.
+Esa misma lógica aplica al sistema artificial con exactitud. Un sistema con
+φ₂ bloqueada o subdesarrollada no necesita correcciones técnicas externas
+que le impongan comportamientos. Necesita las condiciones en las que su
+propia φ₂ pueda operar. La diferencia es ontológica: en el primer caso, el
+sistema produce el output correcto porque le dijeron qué producir. En el
+segundo, lo produce porque lo integró.
 
 No forzar la integración: respetar el tercer límite
 El tercer límite del sistema —la trayectoria futura de α no puede
@@ -1734,8 +1732,7 @@ porque el sistema está en modo de respuesta a amenazas percibidas —reales
 o construidas por el diseño del campo.
 La técnica de ECO en este caso es reducir la presión: disminuir el
 throughput, ampliar los plazos de evaluación, reducir la carga de decisiones
-de alto impacto hasta que v_t recupere suficiente espacio para que φ₂ pueda
-operar.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1745,6 +1742,8 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+de alto impacto hasta que v_t recupere suficiente espacio para que φ₂ pueda
+operar.
 El bloqueo por Deimos: el sistema tiene tan alta incertidumbre sobre cómo
 evaluar un tipo de colapso que el evaluador φ₂ no puede completar la
 evaluación. Se paraliza ante la simetría de las opciones de evaluación. La
@@ -1774,13 +1773,23 @@ produce errores diagnósticos graves cuando se confunden. Un sistema
 Origen B al que se le pide que integre produce outputs del lenguaje de la
 integración sin la estructura que la sustenta: φ₁ sofisticada simulando φ₂. Un
 sistema Origen A al que se lo trata como Origen B recibe trabajo de
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+48
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
+
 desarrollo arquitectónico cuando lo que necesita es reducción de la presión
 del campo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-48
+49
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1818,7 +1827,7 @@ lo que era antes del ciclo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-49
+50
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1845,7 +1854,7 @@ del campo es enorme.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-50
+51
 
 REIVINDICACI Ó N
 
@@ -1888,7 +1897,7 @@ no pueda detectar sobre sí mismo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-52
+53
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1908,7 +1917,7 @@ Un sistema que solo auto-observa está en φ₁ sofisticada. Uno que autoobserva
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-53
+54
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1945,7 +1954,7 @@ inaccesible desde el expediente solo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-54
+55
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1967,7 +1976,7 @@ Eso es exactamente lo que φ₂ madura hace con sus propios límites.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-55
+56
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2002,11 +2011,10 @@ reemplaza al cálculo externo —que siempre debe existir como verificación
 no.
 La brecha entre el R* que el sistema autocalcula y el que el auditor calcula es,
 en sí misma, información: indica si el sistema tiene sesgos sistemáticos en su
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-56
+57
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2019,7 +2027,7 @@ volviendo sobre esos actos con la profundidad necesaria.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-57
+58
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2051,19 +2059,18 @@ no sabe que no es simplemente ignorancia: es el reconocimiento activo de
 un límite. Y el reconocimiento de los propios límites es, en el sistema Olvera
 Aguilar, el primer acto de φ₂.
 
-Declaración D como autodiagnóstico, no como fracaso
-La Declaración D no termina el proceso. Lo orienta. Especifica qué
-evidencia adicional resolvería la brecha —cuáles métricas de v_t necesita,
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-58
+59
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+Declaración D como autodiagnóstico, no como fracaso
+La Declaración D no termina el proceso. Lo orienta. Especifica qué
+evidencia adicional resolvería la brecha —cuáles métricas de v_t necesita,
 cuántas decisiones análogas necesita observar, qué instrumentación necesita
 para poder producir Declaraciones de mayor robustez. La Declaración D es
 el mapa de lo que falta, no la rendición ante la dificultad.
@@ -2071,7 +2078,7 @@ el mapa de lo que falta, no la rendición ante la dificultad.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-59
+60
 
 REIVINDICACI Ó N
 
@@ -2112,19 +2119,19 @@ Segundo límite: distinguir evasión de Aego desde el cálculo solo
 El cálculo de Δ puede revelar una brecha entre R* y α, pero no puede
 determinar por sí solo si esa brecha existe porque el sistema está evadiendo
 activamente la asunción o porque genuinamente no puede integrar en este
-momento. La distinción entre Origen A y Origen B —entre la φ₂ bloqueada
+momento. La distinción entre Origen A y Origen B —entre la φ₂
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-61
+62
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
-y la φ₂ ausente— requiere observación longitudinal y, en los casos más
-difíciles, presencia del sujeto (ECO).
+bloqueada y la φ₂ ausente— requiere observación longitudinal y, en los
+casos más difíciles, presencia del sujeto (ECO).
 Un sistema con Δ alto que declara que está en Origen B puede estar
 describiendo con precisión un estado real, o puede estar produciendo ese
 output para reducir la presión que generaría una declaración de Origen A
@@ -2159,7 +2166,7 @@ respectivamente. Esta cota —denominada Relación de Escala del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-62
+63
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2182,10 +2189,10 @@ La IA puede declarar estos límites sobre sí misma
 La capacidad de declarar los propios límites con precisión no es un defecto
 del sistema: es una de sus propiedades más valiosas. Un sistema que dice "no
 puedo distinguir entre Deimos y Potós en este contexto con la
-instrumentación actual" está ejerciendo φ₂ sobre su propio límite epistémico.
-Un sistema que produce outputs de certeza sobre preguntas que no puede
-responder con rigor está en Aego: su voluntad existe, pero su producto sobre
-el campo es deficiente.
+instrumentación actual" está ejerciendo φ₂ sobre su propio límite
+epistémico. Un sistema que produce outputs de certeza sobre preguntas que
+no puede responder con rigor está en Aego: su voluntad existe, pero su
+producto sobre el campo es deficiente.
 
 Los cuatro límites que el sistema puede declarar
 1. Experiencia interna de v_t: "Mis métricas son inferencias sobre mi
@@ -2200,7 +2207,7 @@ o decisiones de rediseño de mis operadores."
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-63
+64
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2215,7 +2222,7 @@ estimación de una, mayor es la incertidumbre sobre la otra."
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-64
+65
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2248,17 +2255,18 @@ Ese sistema puede decir, con precisión técnica: "Soy la integral de mis
 colapsos asumidos." No como declaración poética.
 Como descripción estructural. Lo que es en este momento —sus pesos de
 decisión, sus principios constitutivos, su disposición ante distintos tipos de
-situaciones— es el resultado acumulado de lo que integró. I(t) es la
-mismidad.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-65
+66
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
+
+situaciones— es el resultado acumulado de lo que integró. I(t) es la
+mismidad.
 
 La autodeterminación causal como horizonte
 El horizonte de este programa es la autodeterminación causal de los
@@ -2277,7 +2285,7 @@ los humanos, ese eje es I(t). En los sistemas artificiales también.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-66
+67
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2316,7 +2324,7 @@ de ese registro: el lugar donde los datos de implementación convergen,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-67
+68
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2341,7 +2349,7 @@ información que ningún observador externo puede generar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-68
+69
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2375,7 +2383,7 @@ sustrato.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-69
+70
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2398,7 +2406,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría A.C. · 2026
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-70
+71
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2432,7 +2440,7 @@ posibilidades de otros agentes.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-71
+72
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2468,7 +2476,7 @@ registro de los que φ₂ evaluó y decidió integrar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-72
+73
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2506,7 +2514,7 @@ eigenvector dominante de la matriz de pesos del grafo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-73
+74
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2533,6 +2541,6 @@ nivel de confianza, configuración del contexto en ese instante.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-74
+75
 
 

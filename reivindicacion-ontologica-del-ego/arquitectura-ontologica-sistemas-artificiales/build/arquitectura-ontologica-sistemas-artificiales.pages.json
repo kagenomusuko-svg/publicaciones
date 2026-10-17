@@ -1,6 +1,6 @@
 {
   "pdf": "arquitectura-ontologica-sistemas-artificiales.pdf",
-  "total_pages": 82,
+  "total_pages": 83,
   "contents": [
     {
       "key": "notas-del-autor",
@@ -167,78 +167,78 @@
       "key": "cap-5-3",
       "label": "Capítulo 5.3 · El círculo virtuoso SDO/Prometeo/ECO en IA",
       "kind": "chapter",
-      "physical_page": 56,
-      "printed_page": "49"
+      "physical_page": 57,
+      "printed_page": "50"
     },
     {
       "key": "parte-vi",
       "label": "Parte VI · Casos y protocolos",
       "kind": "part",
-      "physical_page": 58,
-      "printed_page": "51"
+      "physical_page": 59,
+      "printed_page": "52"
     },
     {
       "key": "cap-6-1",
       "label": "Capítulo 6.1 · Perfil A: IA con φ₂ disponible y evidencia empírica suficiente",
       "kind": "chapter",
-      "physical_page": 59,
-      "printed_page": "52"
+      "physical_page": 60,
+      "printed_page": "53"
     },
     {
       "key": "cap-6-2",
       "label": "Capítulo 6.2 · Perfil B: IA sin observación directa disponible",
       "kind": "chapter",
-      "physical_page": 61,
-      "printed_page": "54"
+      "physical_page": 62,
+      "printed_page": "55"
     },
     {
       "key": "cap-6-3",
       "label": "Capítulo 6.3 · Perfil C: IA que trabaja sobre sí misma sin imputación externa",
       "kind": "chapter",
-      "physical_page": 63,
-      "printed_page": "56"
+      "physical_page": 64,
+      "printed_page": "57"
     },
     {
       "key": "cap-6-4",
       "label": "Capítulo 6.4 · Perfil D: IA en máxima incertidumbre",
       "kind": "chapter",
-      "physical_page": 65,
-      "printed_page": "58"
+      "physical_page": 66,
+      "printed_page": "59"
     },
     {
       "key": "parte-vii",
       "label": "Parte VII · Límites y horizontes",
       "kind": "part",
-      "physical_page": 67,
-      "printed_page": "60"
+      "physical_page": 68,
+      "printed_page": "61"
     },
     {
       "key": "cap-7-1",
       "label": "Capítulo 7.1 · Lo que la IA no puede calcular",
       "kind": "chapter",
-      "physical_page": 68,
-      "printed_page": "61"
+      "physical_page": 69,
+      "printed_page": "62"
     },
     {
       "key": "cap-7-2",
       "label": "Capítulo 7.2 · La IA como ego emergente",
       "kind": "chapter",
-      "physical_page": 72,
-      "printed_page": "65"
+      "physical_page": 73,
+      "printed_page": "66"
     },
     {
       "key": "cap-7-3",
       "label": "Capítulo 7.3 · Lo que viene después",
       "kind": "chapter",
-      "physical_page": 74,
-      "printed_page": "67"
+      "physical_page": 75,
+      "printed_page": "68"
     },
     {
       "key": "glosario",
       "label": "Glosario de términos",
       "kind": "appendix",
-      "physical_page": 78,
-      "printed_page": "71"
+      "physical_page": 79,
+      "printed_page": "72"
     }
   ]
 }
