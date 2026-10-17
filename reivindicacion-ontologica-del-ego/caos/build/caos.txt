@@ -11786,13 +11786,13 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                             CAOS
 
-En la notación I(t) = ∫₀ᵗ c(τ)·w(τ) dτ, c(τ) designa, para fines de modelación
-de la trayectoria egoica, las contribuciones de colapsos incorporados
-mediante la segunda mediación. Puede escribirse c_asumido(τ) cuando sea
-necesario distinguirlas del conjunto de todos los acontecimientos que
-comparecen como sum. La integral no equivale al registro de todos los
-acontecimientos materiales del mundo ni a una enumeración de actos
-jurídicamente imputables al sujeto.
+En la notación I(t) = ∫₀ᵗ c(τ)·w(τ) dτ, c(τ) designa, para fines de
+modelación de la trayectoria egoica, las contribuciones de colapsos
+incorporados mediante la segunda mediación. Puede escribirse
+c_asumido(τ) cuando sea necesario distinguirlas del conjunto de todos los
+acontecimientos que comparecen como sum. La integral no equivale al
+registro de todos los acontecimientos materiales del mundo ni a una
+enumeración de actos jurídicamente imputables al sujeto.
 
 función, integral y punto de acumulación
 
