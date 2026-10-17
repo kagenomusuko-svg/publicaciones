@@ -9615,7 +9615,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                               CAOS
 
-C = [0,1] \ ∪_{k} I_k
+C = [0,1] \ ∪k I_k
 
 donde los Iₖ son todos los tercios centrales retirados en todos los pasos. El
 conjunto de Cantor tiene propiedades que parecen paradójicas pero que son
