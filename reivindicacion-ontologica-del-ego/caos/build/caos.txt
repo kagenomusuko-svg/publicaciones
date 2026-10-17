@@ -10544,8 +10544,8 @@ La tabla del isomorfismo es la siguiente:
   Coeficientes αₙ de la                     Pesos de las posibilidades en el caos
   superposición
 
-  Medición / interacción con el             Primera mediación: voluntad orientada hacia un
-  entorno                                   objeto
+  Medición / interacción con el             Primera mediación: voluntad orientada hacia un objeto
+  entorno
 
 
 
@@ -10575,9 +10575,10 @@ A.C.
   Evolución unitaria entre                  Acumulación de la integral entre colapsos
   mediciones
 
-  No-conmutatividad:                        Tensión entre posibilidad y determinación: el colapso
-  [x
-   ̂, ̂p] = iℏ                              destruye el caos que lo hizo posible
+  No-conmutatividad: [x
+                      ̂, ̂
+                         p]                 Tensión entre posibilidad y determinación: el colapso
+  = iℏ                                      destruye el caos que lo hizo posible
 
   Principio de incertidumbre:               Determinación en un acto abre posibilidad en otros
   Δx·Δp ≥ ℏ/2
@@ -10599,7 +10600,6 @@ El isomorfismo no es por tanto total en este nivel: el caos filosófico es más
 radical que la superposición cuántica. La superposición cuántica es un caso
 particular de la posibilidad organizada —una posibilidad que ya tiene la
 estructura de las probabilidades asignadas a los distintos resultados. El caos
-
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
