@@ -128,5 +128,4 @@ th { background: #F5F5F2; }
 .toc-table .col-leader { width: 18%; }
 .toc-table .col-page { width: 10%; }
 
-
-.dirac { white-space: nowrap; font-family: "EB Garamond", Garamond, serif; letter-spacing: 0; }
+table td code { white-space: nowrap; word-break: keep-all; overflow-wrap: normal; }
