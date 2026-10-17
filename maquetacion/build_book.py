@@ -22,12 +22,12 @@ MOTTO = "La fuerza interior nos impulsa, un pequeño apoyo de los demás nos ben
 
 md = MarkdownIt("commonmark", {"html": True}).enable("table")
 
-SUBSCRIPT_GLYPH_RE = re.compile(r"([\\u2080-\\u209F])")
+SUBSCRIPT_GLYPH_RE = re.compile(r"([\u2080-\u209F])")
 
 
 def render_markdown(raw: str) -> str:
     rendered = md.render(raw)
-    return SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\\1</span>', rendered)
+    return SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\1</span>', rendered)
 
 
 @dataclass(frozen=True)
