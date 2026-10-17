@@ -661,8 +661,8 @@ por el cual un sujeto es genuinamente el origen de sus actos, no en el sentido
 ingenuo de que los produce desde la nada, sino en el sentido preciso de que
 en la cadena que produce el acto hay un operador que es el sujeto mismo: la
 voluntad. La fórmula puede expresarse así:
-Sesgo → Voluntad → Primera mediación → Acto → Segunda mediación →
-Ego
+Sesgo → Voluntad → Primera mediación → Acto → Segunda mediación
+→ Ego
 El sesgo es el punto de partida: el conjunto de predisposiciones, historias,
 marcos de referencia y presupuestos que el sujeto lleva consigo antes de
 cualquier acto. Nadie elige su sesgo inicial —viene dado por la historia, la
@@ -710,6 +710,7 @@ Y aquí está el punto que hace a la segunda fórmula más peligrosa que la
 primera: es indistinguible desde afuera. El acto que produce es el mismo. La
 diferencia es invisible al observador externo. Solo el sujeto puede saberla —y
 solo el sujeto que aún tiene acceso a su propia voz puede notarla. El que lleva
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1066,6 +1067,7 @@ sujeto que se reconoce en el acto.
 V. La disforia con ego operante: la que duele
 La primera forma de disforia de la identidad es la que duele. Y duele
 precisamente porque el ego sigue operando.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
