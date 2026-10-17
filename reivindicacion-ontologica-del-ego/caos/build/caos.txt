@@ -9317,8 +9317,8 @@ todos los subconjuntos de A— tiene cardinalidad estrictamente mayor que
 A.
 
 Este teorema produce una jerarquía infinita de infinitos:
-
-|ℕ| = ℵ₀ < |ℙ(ℕ)| = 2ℵ₀ < |ℙ(ℙ(ℕ))| = 2^{2ℵ₀} < …
+                                                           ℵ₀
+|ℕ| = ℵ₀ < |ℙ(ℕ)| = 2ℵ₀ < |ℙ(ℙ(ℕ))| = 22 < …
 
 El símbolo ℵ₀ («alef sub cero») designa la cardinalidad de los naturales —
 el más pequeño de los infinitos. La cardinalidad de los reales es 2ℵ₀ porque
