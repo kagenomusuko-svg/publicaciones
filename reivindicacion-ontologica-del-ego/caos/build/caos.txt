@@ -9446,15 +9446,15 @@ como el límite de las sumas de Riemann:
 
 Definición 4 (Integral de Riemann)
 
-Para una partición P = {a = x₀ < x₁ < … < xₙ = b} y puntos de muestra cᵢ ∈
-[xᵢ₋₁, xᵢ], la suma de Riemann es:
+Para una partición P = {a = x₀ < x₁ < … < xₙ = b} y puntos de muestra ci ∈
+[xi₋₁, xi], la suma de Riemann es:
 
-S(f, P) = Σᵢ f(cᵢ) · (xᵢ − xᵢ₋₁)
+S(f, P) = Σi f(ci) · (xi − xi₋₁)
 
 La integral es el límite de estas sumas cuando el grosor máximo de la
 partición tiende a cero:
 
-∫ₐᵇ f(x) dx = lim||P||→0 S(f, P)
+∫ₐb f(x) dx = lim||P||→0 S(f, P)
 
 La integral acumula la contribución de cada valor de f ponderada por el
 «peso» del intervalo sobre el que se toma. La integral de la función de
@@ -11607,7 +11607,7 @@ a la integral. El resultado es un ego que actúa pero no crece: sus colapsos lo
 atraviesan sin constituirlo.
 
 Notación formal. Si a = φ₁(v, c) es el resultado de la primera mediación y
-I(t) = ∫₀ᵗ c(τ) w(τ) dτ es la integral acumulativa del ego hasta el momento t,
+I(t) = ∫₀t c(τ) w(τ) dτ es la integral acumulativa del ego hasta el momento t,
 la segunda mediación es la operación φ₂: A × I → I' que produce la integral
 modificada I' = I ∪ {a}: la integral que incluye el colapso reciente como
 parte de la función acumulativa.
@@ -11752,7 +11752,7 @@ integral acumulativa loc. s.f.
        2. Formalmente: dada la función de colapso c: T → E y la función de
           peso w: T → ℝ₊, la integral acumulativa hasta el tiempo t es:
 
-I(t) = ∫₀ᵗ c(τ) · w(τ) dτ
+I(t) = ∫₀t c(τ) · w(τ) dτ
 
 La integral acumulativa es el modelo matemático de la identidad del ego a
 lo largo del tiempo. El ego no es ningún colapso individual —ningún acto
@@ -11786,7 +11786,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                             CAOS
 
-En la notación I(t) = ∫₀ᵗ c(τ)·w(τ) dτ, c(τ) designa, para fines de
+En la notación I(t) = ∫₀t c(τ)·w(τ) dτ, c(τ) designa, para fines de
 modelación de la trayectoria egoica, las contribuciones de colapsos
 incorporados mediante la segunda mediación. Puede escribirse
 c_asumido(τ) cuando sea necesario distinguirlas del conjunto de todos los
@@ -12205,7 +12205,7 @@ del sujeto) y pasión (el modo cuya causa adecuada es parcialmente externa).
 Ética, III, def. 2.
 
 [214] La noción de función matemática como modelo del ego fue
-desarrollada en el Apéndice I. La integral acumulativa I(t) = ∫₀ᵗ c(τ) w(τ) dτ
+desarrollada en el Apéndice I. La integral acumulativa I(t) = ∫₀t c(τ) w(τ) dτ
 es una idealización: en la práctica los colapsos son discretos y no todos
 tienen el mismo peso. La integral continua es el límite de la suma discreta
 Σₖ₌₁ⁿ c(τₖ) w(τₖ) Δτ cuando los intervalos entre colapsos se hacen
