@@ -66,7 +66,7 @@ Notas del autor                                              VI
     Capítulo VII · El ego como condición mínima causal      175
 Apéndice I · El colapso en las matemáticas                 200
 Apéndice II · El colapso en la física cuántica              222
-Apéndice III · Glosario técnico                            249
+Apéndice III · Glosario técnico                             250
 
 
 
@@ -2532,7 +2532,8 @@ Niels Bohr y Werner Heisenberg en la segunda mitad de los años veinte, es
 la interpretación ortodoxa de la mecánica cuántica. Sus tesis centrales son:
 (1) la función de onda proporciona una descripción completa de la realidad
 física, (2) la medición colapsa la función de onda a un autovalor del
-observable medido, (3) es imposible en principio hablar de las propiedades de
+
+
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             53
@@ -2540,6 +2541,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                         CAOS
 
+observable medido, (3) es imposible en principio hablar de las propiedades de
 un sistema cuántico independientemente de la medición. Bohr insistía en
 que la mecánica cuántica no describe la realidad tal como es «en sí misma»
 sino tal como aparece en el contexto de los aparatos de medición clásicos.
@@ -2576,8 +2578,6 @@ interacción constante con el entorno (los fotones del aire, las moléculas
 circundantes) destruye la coherencia de la superposición en tiempos
 extremadamente cortos —del orden de 10⁻²⁰ segundos para objetos de
 tamaño molecular. La decoherencia no resuelve completamente el
-problema de la medición (sigue existiendo el problema de por qué emerge
-
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                            54
@@ -2585,6 +2585,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                              CAOS
 
+problema de la medición (sigue existiendo el problema de por qué emerge
 un único resultado), pero explica la transición práctica entre el mundo
 cuántico y el mundo clásico.
 
@@ -2621,7 +2622,6 @@ Dasein habita: es la estructura misma del ser del Dasein.
 (1883-1885), «De la visión y el enigma» y «El convaleciente». La doctrina
 del eterno retorno tiene en Nietzsche al menos dos dimensiones que es
 necesario distinguir: una cosmológica (el universo se repite cíclicamente en
-ciclos de tiempo infinito) y una existencial (el imperativo de vivir de tal
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -2630,6 +2630,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
 
+ciclos de tiempo infinito) y una existencial (el imperativo de vivir de tal
 manera que puedas querer la repetición infinita de tu vida). La
 interpretación existencial es la filosóficamente más fértil y la que este libro
 desarrolla: el eterno retorno no es una descripción del universo sino un
@@ -2666,7 +2667,6 @@ tiempo distingue entre la «retención» (la conciencia del pasado inmediato
 que aún resuena en el presente), el «punto-fuente» (el ahora vivo) y la
 «protención» (la anticipación del futuro inmediato que ya está presente
 como horizonte). Esta estructura tripartita hace que el presente no sea un
-punto instantáneo sin extensión sino un «presente vivo» que incluye en sí
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -2675,6 +2675,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
 
+punto instantáneo sin extensión sino un «presente vivo» que incluye en sí
 mismo el horizonte inmediato del pasado y el futuro. Para Husserl, la
 conciencia del tiempo no es la conciencia de tres momentos separados: es la
 unidad de una estructura intencional que sintetiza pasado, presente y futuro
@@ -2711,7 +2712,6 @@ presente como atención. Esta interiorización del tiempo anticipa el análisis
 husserliano y es filosóficamente af ín a la tesis de que el tiempo es el nombre
 que el ego da a la sucesión de sus colapsos. Sin ego no hay tiempo vivido,
 aunque haya tiempo f ísico medible. La distinción entre tiempo vivido y
-
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3903,7 +3903,6 @@ que se pone en cuestión.
 Gravitational Collapse and Cosmology» (1970), Proceedings of the Royal
 Society. Los teoremas de singularidad de Hawking-Penrose demostraron
 que, bajo supuestos generales de la relatividad general, el universo tuvo una
-
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                              84
@@ -5386,8 +5385,8 @@ expresa a través de una acción, y la acción modifica el mundo. La
 mediación, en esta imagen, es el puente entre la voluntad y el mundo: el
 paso entre lo interior y lo exterior, entre el querer y el hacer, entre la
 intención y el resultado. La fórmula podría escribirse así: voluntad →
-mediación → acto → resultado. El sujeto está en el polo izquierdo, el
-mundo en el polo derecho, y la mediación en el medio.
+mediación → acto → resultado. El sujeto está en el polo izquierdo, el mundo
+en el polo derecho, y la mediación en el medio.
 
 Esta imagen es tan familiar que parece incuestionable. Y sin embargo, como
 toda imagen filosófica que parece incuestionable, oculta precisamente los
@@ -9042,7 +9041,7 @@ un entorno perforado del punto x₀ (es decir, definida para todos los x
 suficientemente cercanos a x₀, quizás excepto para x₀ mismo). Decimos que
 el límite de f(x) cuando x tiende a x₀ es L, y escribimos:
 
-lim_{x → x₀} f(x) = L
+limx → x₀ f(x) = L
 
 si y solo si se cumple la siguiente condición:
 
@@ -9071,24 +9070,25 @@ de δ puede depender del valor de ε: para tolerancias más pequeñas puede ser
 necesaria mayor proximidad. La existencia de δ para cada ε dado es el
 contenido sustancial de la definición.
 
-La condición 0 < |x − x₀| < δ excluye explícitamente el punto x₀ mismo (por
-la condición 0 < |x − x₀|) mientras exige que x esté a distancia menor que δ
+
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                            201
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
+                                                                         CAOS
 
-de x₀. Esta exclusión del punto mismo es filosóficamente decisiva: el límite
-en x₀ es independiente del valor de f en x₀, e incluso puede existir cuando f
-no está definida en x₀. El límite no interroga a la función en el punto: la
-interroga en la vecindad del punto.
+La condición 0 < |x − x₀| < δ excluye explícitamente el punto x₀ mismo
+(por la condición 0 < |x − x₀|) mientras exige que x esté a distancia menor
+que δ de x₀. Esta exclusión del punto mismo es filosóficamente decisiva: el
+límite en x₀ es independiente del valor de f en x₀, e incluso puede existir
+cuando f no está definida en x₀. El límite no interroga a la función en el
+punto: la interroga en la vecindad del punto.
 
-La condición |f(x) − L| < ε dice que el valor de la función está dentro de ε del
-límite L. No dice que es exactamente L: solo que la distancia entre f(x) y L es
-menor que ε.
+La condición |f(x) − L| < ε dice que el valor de la función está dentro de ε
+del límite L. No dice que es exactamente L: solo que la distancia entre f(x) y
+L es menor que ε.
 
 1.3 El límite como colapso: una lectura filosófica
 Leída filosóficamente, la definición ε-δ describe un colapso. La función f
@@ -9113,18 +9113,17 @@ función vale en x₀: es lo que la función vale al acercarse a x₀ desde el
 exterior. Esta independencia del límite respecto del valor en el punto mismo
 es exactamente la estructura del ego como integral de sus colapsos pasados: el
 ego en el presente no está completamente determinado por el «valor» de
-ningún colapso individual (ningún x₀ particular), sino por la integral de
-todos los colapsos que lo rodean, que convergen hacia el punto presente.[178]
 
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             202
+                                                                           202
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                               CAOS
+                                                                            CAOS
 
-
+ningún colapso individual (ningún x₀ particular), sino por la integral de
+todos los colapsos que lo rodean, que convergen hacia el punto presente.[178]
 
 1.4 Ejemplos estructuralmente relevantes
 Consideremos la función más sencilla que ilustra la separación entre el
@@ -9133,9 +9132,9 @@ límite y el valor en el punto. Sea:
 f(x) = x² para x ≠ 0, y f(0) = 17.
 
 ¿Cuál es el límite de f cuando x tiende a 0? La respuesta es 0, no 17. Para
-cualquier ε > 0, basta tomar δ = √ε: si |x| < δ entonces |f(x) − 0| = |x²| = x² < δ²
-= ε. El límite existe y vale 0, aunque la función en el punto mismo valga 17.
-La función es «discontinua» en x = 0 en el sentido de que el límite no
+cualquier ε > 0, basta tomar δ = √ε: si |x| < δ entonces |f(x) − 0| = |x²| = x² <
+δ² = ε. El límite existe y vale 0, aunque la función en el punto mismo valga
+17. La función es «discontinua» en x = 0 en el sentido de que el límite no
 coincide con el valor.
 
 Un segundo ejemplo ilumina el caso de un límite que no existe. La función
@@ -9161,17 +9160,16 @@ f es continua en x₀ si y solo si:
 
 (i) f está definida en x₀,
 
-(ii) lim_{x→x₀} f(x) existe, y
-
-
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                 203
+                                                                              203
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
+                                                                           CAOS
 
-(iii) lim_{x→x₀} f(x) = f(x₀).
+(ii) limx→x₀ f(x) existe, y
+
+(iii) limx→x₀ f(x) = f(x₀).
 
 La continuidad es la condición donde pasado y presente son coherentes:
 donde la tendencia que la función exhibe en la vecindad del punto es
@@ -9194,9 +9192,9 @@ los matemáticos preferían evitar. Zenón había mostrado que si el espacio y
 el tiempo son infinitamente divisibles, el movimiento parece imposible.
 Galileo había observado que los cuadrados perfectos —1, 4, 9, 16, 25, ...—
 parecen ser «menos» que los naturales, y sin embargo pueden ponerse en
-correspondencia biunívoca con ellos (1↔1, 2↔4, 3↔9, ...). El infinito
-parecía violar las reglas de la aritmética ordinaria: el todo y la parte podían
-ser «del mismo tamaño».
+correspondencia biunívoca con ellos (1↔1, 2↔4, 3↔9, ...). El infinito parecía
+violar las reglas de la aritmética ordinaria: el todo y la parte podían ser «del
+mismo tamaño».
 
 La resolución de estas paradojas requería redefinir qué significa que dos
 conjuntos tengan «el mismo tamaño». Georg Cantor ofreció esa
@@ -9205,16 +9203,16 @@ puede establecerse entre ellos una correspondencia biunívoca —una función
 que asigna a cada elemento de uno exactamente un elemento del otro, sin
 repeticiones ni omisiones. La «misma cantidad de elementos» no requiere
 ningún número: solo la existencia de la función de correspondencia. Esta
-definición hace precisas las observaciones de Galileo: los naturales y los
-cuadrados perfectos tienen la misma cardinalidad, aunque los cuadrados
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            204
+                                                                             204
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                         CAOS
 
+definición hace precisas las observaciones de Galileo: los naturales y los
+cuadrados perfectos tienen la misma cardinalidad, aunque los cuadrados
 sean un subconjunto propio de los naturales. En el infinito, la parte puede
 tener la misma cardinalidad que el todo.
 
@@ -9225,8 +9223,8 @@ incontables.
 
 Definición 3 (Conjunto numerable)
 
-Un conjunto A es numerable si existe una biyección f: ℕ → A, es decir, si
-sus elementos pueden enumerarse en una sucesión a₁, a₂, a₃, ...
+Un conjunto A es numerable si existe una biyección f: ℕ → A, es decir, si sus
+elementos pueden enumerarse en una sucesión a₁, a₂, a₃, ...
 
 Los conjuntos numerables son «tan grandes como» los naturales —pueden
 indexarse por los naturales. Los naturales ℕ mismos son numerables
@@ -9251,8 +9249,6 @@ Supongamos, para derivar una contradicción, que los reales del intervalo
 [0,1] son numerables. Entonces existe una enumeración:
 
 r₁, r₂, r₃, r₄, …
-
-
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -9322,11 +9318,11 @@ A.
 
 Este teorema produce una jerarquía infinita de infinitos:
 
-|ℕ| = ℵ₀ < |ℙ(ℕ)| = 2^{ℵ₀} < |ℙ(ℙ(ℕ))| = 2^{2^{ℵ₀}} < …
+|ℕ| = ℵ₀ < |ℙ(ℕ)| = 2ℵ₀ < |ℙ(ℙ(ℕ))| = 2^{2ℵ₀} < …
 
 El símbolo ℵ₀ («alef sub cero») designa la cardinalidad de los naturales —
-el más pequeño de los infinitos. La cardinalidad de los reales es 2^{ℵ₀}
-porque los reales pueden identificarse con los subconjuntos de los naturales
+el más pequeño de los infinitos. La cardinalidad de los reales es 2ℵ₀ porque
+los reales pueden identificarse con los subconjuntos de los naturales
 (mediante la expansión binaria). La cadena de desigualdades estrictas se
 extiende sin final: no hay un «infinito máximo» porque siempre puede
 tomarse el conjunto de partes del infinito dado, produciendo uno mayor.
@@ -9345,8 +9341,7 @@ estructuralmente mayor que cualquier enumeración de los colapsos pasados.
 2.4 El infinito como proceso: la respuesta a Poincaré
 Poincaré objetó el infinito actual de Cantor con el argumento de que solo
 son legítimas las entidades matemáticas que pueden construirse en un
-
-
+número finito de pasos.[184] Esta posición —el intuicionismo— tiene una
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                          207
@@ -9354,7 +9349,6 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
 
-número finito de pasos.[184] Esta posición —el intuicionismo— tiene una
 fuerza filosófica real: hay algo genuinamente misterioso en hablar de «el
 conjunto de todos los reales» como si fuera un objeto completado, cuando
 ningún proceso finito puede construirlo.
@@ -9460,7 +9454,7 @@ S(f, P) = Σᵢ f(cᵢ) · (xᵢ − xᵢ₋₁)
 La integral es el límite de estas sumas cuando el grosor máximo de la
 partición tiende a cero:
 
-∫ₐᵇ f(x) dx = lim_{||P||→0} S(f, P)
+∫ₐᵇ f(x) dx = lim||P||→0 S(f, P)
 
 La integral acumula la contribución de cada valor de f ponderada por el
 «peso» del intervalo sobre el que se toma. La integral de la función de
@@ -9500,7 +9494,7 @@ cambios en x —en la pendiente.
 
 Para una función general, la «pendiente» en un punto es la derivada:
 
-f'(x₀) = lim_{h→0} [f(x₀ + h) − f(x₀)] / h
+f'(x₀) = limh→0 [f(x₀ + h) − f(x₀)] / h
 
 si este límite existe. La derivada en un punto captura la tendencia local de la
 función: la razón a la que la función cambia en la vecindad inmediata del
@@ -9588,7 +9582,7 @@ términos de la sucesión (si no, la sucesión tendría solo finitos términos,
 contradicción). Llamemos I₁ a esa mitad. Repetimos: dividimos I₁ en dos
 mitades, al menos una contiene infinitos términos de la sucesión,
 llamémosla I₂. Continuamos produciendo una cadena de intervalos
-anidados I₁ ⊇ I ₂ ⊇ I ₃ ⊇ ... cuyas longitudes tienden a cero. Por el principio
+anidados I₁ ⊇ I₂ ⊇ I₃ ⊇ ... cuyas longitudes tienden a cero. Por el principio
 de completitud de los reales, existe exactamente un punto p en la
 intersección ∩ₙ Iₙ. Ese punto p es el punto de acumulación: para cualquier ε
 > 0, el intervalo (p − ε, p + ε) contiene al Iₙ con n suficientemente grande,
@@ -9800,7 +9794,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                              217
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                              CAOS
+                                                                           CAOS
 
 Esta separación entre la existencia del límite y el valor de la función en el
 punto es la estructura del colapso que el apéndice analiza.
@@ -9817,16 +9811,16 @@ cuya función no converge: cada punto es una indeterminación perpetua, sin
 colapso posible.
 
 [180] La definición de continuidad ε-δ, en paralelo con la definición de
-límite, dice: f es continua en x₀ si y solo si para todo ε > 0 existe δ > 0 tal que
-para todo x en el dominio, si |x - x₀| < δ entonces |f(x) - f(x₀)| < ε. La
+límite, dice: f es continua en x₀ si y solo si para todo ε > 0 existe δ > 0 tal
+que para todo x en el dominio, si |x - x₀| < δ entonces |f(x) - f(x₀)| < ε. La
 diferencia crucial entre continuidad y existencia del límite es que la
 continuidad requiere además que el límite en x₀ sea igual al valor de la
-función en x₀: lim_{x→x₀} f(x) = f(x₀). Una función puede tener límite en
-un punto sin ser continua allí (si el valor de la función en el punto es
-distinto del límite), y no puede ser continua en un punto que no esté en su
-dominio. La continuidad es el caso donde el «colapso» y el «valor actual»
-coinciden: donde el ego que emerge de la integral de sus colapsos pasados es
-consistente con el colapso que está ocurriendo ahora.
+función en x₀: limx→x₀ f(x) = f(x₀). Una función puede tener límite en un
+punto sin ser continua allí (si el valor de la función en el punto es distinto
+del límite), y no puede ser continua en un punto que no esté en su dominio.
+La continuidad es el caso donde el «colapso» y el «valor actual» coinciden:
+donde el ego que emerge de la integral de sus colapsos pasados es consistente
+con el colapso que está ocurriendo ahora.
 
 [181] Cantor, Georg. «Über eine Eigenschaft des Inbegriffes aller reellen
 algebraischen Zahlen» (1874). Este es el artículo donde Cantor demostró
@@ -9841,7 +9835,7 @@ notable porque la existencia de números trascendentes ya era conocida
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                218
+                                                                              218
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -9868,14 +9862,14 @@ argumenta— en la filosof ía del sujeto.
 reales en «Über eine Eigenschaft des Inbegriffes aller reellen algebraischen
 Zahlen» (1874) y los desarrolló en «Beiträge zur Begründung der
 transfiniten Mengenlehre» (1895-1897). La hipótesis del continuo —la
-conjetura de que no hay cardinalidad entre ℵ₀ y |ℝ| = 2^{ℵ₀}— fue el
-primer problema de la lista de Hilbert (1900). Gödel demostró en 1940 que
-la hipótesis del continuo es consistente con los axiomas ZF (no puede
+conjetura de que no hay cardinalidad entre ℵ₀ y |ℝ| = 2ℵ₀— fue el primer
+problema de la lista de Hilbert (1900). Gödel demostró en 1940 que la
+hipótesis del continuo es consistente con los axiomas ZF (no puede
 refutarse), y Cohen demostró en 1963 que su negación también es
 consistente (no puede demostrarse). La hipótesis del continuo es por tanto
 independiente de los axiomas estándar de la teoría de conjuntos: es una
 cuestión que los axiomas de ZFC no determinan. Desde la perspectiva del
-argumento de este apéndice: el espacio entre ℵ₀ y 2^{ℵ₀} es un «caos» en el
+argumento de este apéndice: el espacio entre ℵ₀ y 2ℵ₀ es un «caos» en el
 sentido de este libro —un espacio de posibilidad cuya determinación los
 axiomas no alcanzan.
 
@@ -9959,13 +9953,13 @@ ciertas condiciones de cerramiento bajo uniones e intersecciones. En este
 marco, un punto x es punto de acumulación de un conjunto A si todo
 abierto que contiene a x contiene también algún punto de A distinto de x.
 La ventaja del lenguaje topológico es que hace explícita la estructura de
-«vecindad» que el análisis ε-δ presupone: la distancia ε no es el único modo
-de definir vecindad. El espacio topológico más general abstrae la noción de
-«proximidad» de manera que no requiere ninguna distancia numérica. El
-ego como punto de acumulación de su historia de colapsos es una afirmación
-topológica: el ego emerge en el límite de las aproximaciones de sus colapsos
-pasados, independientemente de cómo se mida la «distancia» entre
-colapsos.
+«vecindad» que el análisis ε-δ presupone: la distancia ε no es el único
+modo de definir vecindad. El espacio topológico más general abstrae la
+noción de «proximidad» de manera que no requiere ninguna distancia
+numérica. El ego como punto de acumulación de su historia de colapsos es
+una afirmación topológica: el ego emerge en el límite de las aproximaciones
+de sus colapsos pasados, independientemente de cómo se mida la
+«distancia» entre colapsos.
 
 
 
@@ -10004,22 +9998,23 @@ potencial V(r, t), el hamiltoniano es:
 
 La ecuación de Schrödinger tiene dos propiedades que son las más
 importantes para el argumento de este apéndice. La primera es que es lineal:
-si ψ₁ y ψ₂ son soluciones, entonces cualquier combinación lineal αψ₁ + βψ₂
-también lo es.[190] La segunda es que es determinista: dado el estado inicial
-ψ(r, 0), la ecuación determina de manera única el estado ψ(r, t) para todo
-tiempo futuro t > 0. La ecuación no tiene nada de probabilístico en sí
+si ψ₁ y ψ₂ son soluciones, entonces cualquier combinación lineal αψ₁ +
+βψ₂ también lo es.[190] La segunda es que es determinista: dado el estado
+inicial ψ(r, 0), la ecuación determina de manera única el estado ψ(r, t) para
+todo tiempo futuro t > 0. La ecuación no tiene nada de probabilístico en sí
 misma: es tan determinista como las ecuaciones de Newton o Maxwell.
 
-Entonces, ¿de dónde vienen las probabilidades en la mecánica cuántica? De
-la interpretación de la función de onda. Max Born propuso en 1926 que la
+
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                           222
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                             CAOS
+                                                                           CAOS
 
+Entonces, ¿de dónde vienen las probabilidades en la mecánica cuántica? De
+la interpretación de la función de onda. Max Born propuso en 1926 que la
 cantidad |ψ(r, t)|² debe interpretarse como una densidad de probabilidad: la
 probabilidad de encontrar la partícula en el volumen dV alrededor del punto
 r en el tiempo t es |ψ(r, t)|² dV.[191] La función de onda no describe dónde
@@ -10029,8 +10024,8 @@ encontrada si se realiza una medición de posición.
 1.2 La superposición de estados
 La linealidad de la ecuación de Schrödinger tiene una consecuencia que no
 tiene paralelo en la f ísica clásica: los estados cuánticos se suman. Si un
-electrón puede estar en el estado |↑⟩ (spin hacia arriba) o en el estado |↓⟩ (spin
-hacia abajo), la ecuación de Schrödinger permite también el estado:
+electrón puede estar en el estado |↑⟩ (spin hacia arriba) o en el estado |↓⟩
+(spin hacia abajo), la ecuación de Schrödinger permite también el estado:
 
 |ψ⟩ = α|↑⟩ + β|↓⟩
 
@@ -10044,8 +10039,8 @@ La superposición cuántica es lo que el libro llama caos: el estado donde todas
 las posibilidades coexisten simultáneamente antes de que ninguna
 determinación haya ocurrido. La diferencia con el caos hesiódico es que la
 superposición cuántica es matemáticamente precisa —tiene una estructura
-definida dada por los coeficientes α y β— mientras que el caos filosófico es el
-infinito atemporal anterior a toda estructura. Pero la arquitectura es la
+definida dada por los coeficientes α y β— mientras que el caos filosófico es
+el infinito atemporal anterior a toda estructura. Pero la arquitectura es la
 misma: antes de la determinación, las posibilidades coexisten; la
 determinación produce una y elimina las demás.
 
@@ -10054,17 +10049,15 @@ como un vector en un espacio de Hilbert —un espacio vectorial complejo de
 dimensión en general infinita.[192] El estado |ψ⟩ es simultáneamente todos
 los estados en la superposición: no ocupa un punto del espacio de fases (como
 un estado clásico) sino que se extiende sobre todo el espacio de Hilbert como
-una combinación de todos los vectores base. El espacio de Hilbert cuántico
-
-
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                               223
+                                                                             223
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                         CAOS
 
+una combinación de todos los vectores base. El espacio de Hilbert cuántico
 es el análogo matemático del caos: el espacio de todas las posibles
 determinaciones antes de que ninguna haya ocurrido.
 
@@ -10095,12 +10088,6 @@ sus partes. El entrelazamiento es la forma en que la mecánica cuántica
 describe la imposibilidad de reducir el todo a la suma de las partes.
 
 
-II. El problema de la medición: el colapso como evento
-irreversible
-
-2.1 El proceso de medición y la proyección
-La mecánica cuántica estándar —en la formulación de von Neumann de
-1932—[194] describe el proceso de medición mediante dos reglas distintas:
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -10109,11 +10096,22 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
 
+
+
+
+II. El problema de la medición: el colapso como evento
+irreversible
+
+2.1 El proceso de medición y la proyección
+La mecánica cuántica estándar —en la formulación de von Neumann de
+1932—[194] describe el proceso de medición mediante dos reglas distintas:
+
 Regla 1 — Evolución unitaria (Proceso 2):
 
-Entre mediciones, el estado cuántico |ψ⟩ evoluciona de manera determinista
-y continua según la ecuación de Schrödinger: |ψ(t)⟩ = Û(t)|ψ(0)⟩, donde Û(t)
-= e^{−iĤt/ℏ} es el operador de evolución temporal, que es unitario: Û†Û = 1.
+Entre mediciones, el estado cuántico |ψ⟩ evoluciona de manera
+determinista y continua según la ecuación de Schrödinger: |ψ(t)⟩ = Û(t)|
+ψ(0)⟩, donde Û(t) = e−iĤt/ℏ es el operador de evolución temporal, que es
+unitario: Û†Û = 1.
 
 Regla 2 — Colapso por medición (Proceso 1):
 
@@ -10136,6 +10134,17 @@ obedecen la mecánica cuántica— no entra en superposición con el sistema
 que mide? ¿Por qué el gato de Schrödinger no está genuinamente a la vez
 vivo y muerto?[195]
 
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                            225
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                        CAOS
+
+
+
 2.2 La irreversibilidad del colapso
 Antes de examinar las respuestas al problema de la medición, conviene
 precisar la estructura del colapso que todos los intérpretes reconocen,
@@ -10146,14 +10155,6 @@ propiedades del colapso del ego que el libro describe:
 
 Primero, la irreversibilidad. Una vez que el estado |ψ⟩ ha colapsado en el
 autovector |aₙ⟩, el estado anterior no puede recuperarse mediante ninguna
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            225
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                        CAOS
-
 operación permitida por la mecánica cuántica. La información sobre los
 otros coeficientes de la superposición original se pierde —o, más
 precisamente, se difunde irreversiblemente en el entorno mediante la
@@ -10179,6 +10180,17 @@ perspectiva del observador que registra el resultado. En el ego: el colapso
 produce un acto único, no varios actos simultáneos. El ego que actúa actúa
 de esta manera, no de múltiples maneras a la vez.
 
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                          226
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
+
+
 2.3 La decoherencia y la emergencia de lo clásico
 El mecanismo de decoherencia cuántica ofrece una respuesta parcial al
 problema de la medición.[197] Un sistema cuántico en superposición, al
@@ -10188,15 +10200,6 @@ grados de libertad ambientales. El estado combinado sistema-entorno
 continúa evolucionando unitariamente, pero si solo se observa el sistema sin
 el entorno, el estado reducido del sistema parece una mezcla estadística
 clásica en lugar de una superposición cuántica.
-
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                          226
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
 
 La decoherencia ocurre extremadamente rápido para objetos macroscópicos.
 Para un grano de polvo de un micrómetro, el tiempo de decoherencia en
@@ -10218,6 +10221,17 @@ la decoherencia: el «colapso subjetivo» —por qué esta rama y no aquella—
 permanece como pregunta sin respuesta f ísica completa.[198]
 
 
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                            227
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                      CAOS
+
+
+
+
 III. El principio de incertidumbre: estructura de la realidad,
 no del conocimiento
 
@@ -10225,23 +10239,14 @@ no del conocimiento
 El principio de incertidumbre de Heisenberg, en su formulación
 matemática precisa, es una consecuencia de la estructura del espacio de
 Hilbert y de la no-conmutatividad de ciertos pares de operadores.[199] Para
-los operadores de posición x̂ y de momentum p̂, el conmutador es:
+los operadores de posición x̂ y de momentum p̂ , el conmutador es:
 
-[x̂, p̂] ≡ x̂p̂ − p̂x̂ = iℏ
+[x̂ , p̂ ] ≡ x̂ p̂ − p̂ x̂ = iℏ
 
 La versión general de Robertson[200] establece que para cualquier par de
 observables Â y B̂:
 
 ΔA · ΔB ≥ (1/2) |⟨[Â, B̂]⟩|
-
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            227
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                     CAOS
 
 donde ΔA = √(⟨Â²⟩ − ⟨Â⟩²) es la desviación estándar de A en el estado |ψ⟩.
 Para posición y momentum, esto da:
@@ -10261,6 +10266,15 @@ viceversa.
 La interpretación correcta del principio de incertidumbre ha sido debatida
 desde su formulación. Heisenberg mismo lo interpretó inicialmente como
 una limitación del conocimiento producida por la perturbación del sistema
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                        228
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                       CAOS
+
 durante la medición.[201] Esta interpretación «de perturbación» tiene el
 atractivo de ser intuitiva —la medición disturba al sistema— pero es
 incorrecta en su formulación general.
@@ -10279,14 +10293,6 @@ incertidumbre cuántica no es un defecto del conocimiento. No es que la
 partícula tenga posición y momentum definidos y simplemente no podamos
 conocerlos simultáneamente. La partícula no tiene posición y momentum
 simultáneamente definidos: la indeterminación es ontológica, no
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                       228
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                       CAOS
-
 epistemológica. Las desigualdades de Bell[202] confirman que esta
 interpretación es la correcta: no existe ninguna teoría de variables ocultas
 locales que pueda restaurar los valores definidos detrás de la pantalla
@@ -10298,13 +10304,21 @@ matemática particularmente elegante. La función de onda en el espacio de
 posiciones, ψ(x), y la función de onda en el espacio de momenta, φ(p), son
 transformadas de Fourier una de la otra:
 
-φ(p) = (1/√(2πℏ)) ∫ ψ(x) e^{−ipx/ℏ} dx
+φ(p) = (1/√(2πℏ)) ∫ ψ(x) e−ipx/ℏ dx
 
 La propiedad matemática de la transformada de Fourier —demostrable con
 análisis estándar— es que un pulso concentrado en el espacio de posiciones
 (pequeño Δx) corresponde a un pulso extendido en el espacio de frecuencias
 (grande Δp), y viceversa. La relación de incertidumbre posición-momentum
 es simplemente la relación de incertidumbre de Fourier para las funciones
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                         229
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                        CAOS
+
 de onda cuánticas: no un resultado f ísico contingente sino una propiedad
 matemática necesaria de cualquier par de bases que estén relacionadas por la
 transformada de Fourier.
@@ -10322,15 +10336,6 @@ dimensión preserva el caos en la dimensión complementaria.
 El proceso de medición, en la formulación de von Neumann, reduce la
 incertidumbre de la observable medida a cero: después del colapso, la
 partícula tiene un valor definido para esa observable. Pero esa reducción de
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                         229
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                        CAOS
-
 incertidumbre en la observable medida viene acompañada de un aumento
 de incertidumbre en la observable complementaria.
 
@@ -10352,6 +10357,15 @@ redistribuye, se reorganiza, permanece como el suelo desde el que el
 siguiente colapso será posible.
 
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                          230
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                        CAOS
+
+
+
+
 IV. Copenhague versus Muchos Mundos: el colapso que
 importa
 
@@ -10367,15 +10381,6 @@ formularse así:
 
 (1) La función de onda no describe la realidad f ísica directamente. Describe
 lo que puede decirse sobre los resultados de las mediciones futuras. La
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                          230
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
-
 mecánica cuántica es una teoría sobre experimentos, no sobre la realidad en
 sí misma.
 
@@ -10397,6 +10402,14 @@ esa frontera.
 La interpretación de Copenhague es instrumentalista: no pretende describir
 la realidad cuántica sino proporcionar reglas para calcular probabilidades de
 resultados experimentales. Bohr insistió en que preguntar qué «realmente»
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                           231
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
 hace el electrón entre mediciones es una pregunta sin respuesta: la mecánica
 cuántica no describe la realidad independiente del observador sino la
 relación entre el sistema y el aparato de medición.
@@ -10413,14 +10426,6 @@ combinado observador-sistema entra en una superposición de estados. En
 uno de los términos de la superposición, el observador ha obtenido el
 resultado a₁ y el sistema está en |a₁⟩. En otro, el observador ha obtenido el
 resultado a₂ y el sistema está en |a₂⟩. Everett llama a estos términos «estados
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             231
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
-
 relativos»: el resultado que el observador registra es relativo a la rama de la
 superposición en que se encuentra.
 
@@ -10440,6 +10445,15 @@ observador dentro de una rama.
 4.3 Por qué el argumento del libro requiere el colapso y no la proliferación
 Para el argumento filosófico de este libro, la decisión entre Copenhague y
 muchos mundos no es indiferente. El libro requiere una estructura específica
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                             232
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
 que la interpretación de los muchos mundos no puede proporcionar: el
 colapso como producción de determinación irreversible desde la perspectiva
 del ego que actúa y registra
@@ -10459,12 +10473,6 @@ La interpretación de Copenhague —o más precisamente, la estructura que
 todas las interpretaciones que incluyen el colapso como evento real
 comparten— es la que el libro requiere. Esa estructura es:
 
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             232
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                        CAOS
-
 Antes del colapso: hay superposición, hay posibilidad, hay caos. Todas las
 determinaciones posibles coexisten en la función de onda. No hay ningún
 resultado definido.
@@ -10483,6 +10491,15 @@ irreversiblemente (mediante la decoherencia en el entorno).
 Esta estructura —posibilidad que colapsa en determinación irreversible
 desde la perspectiva del ego que registra— es el isomorfismo que el libro
 postula con la estructura del colapso del ego. La interpretación de los
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                             233
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                        CAOS
+
 muchos mundos rompe el isomorfismo porque niega la premisa del colapso
 como evento real: no hay determinación, solo bifurcación.
 
@@ -10497,17 +10514,6 @@ isomorfismo del libro, aunque por rutas diferentes: la mecánica de Bohm lo
 preserva manteniendo la determinación siempre presente (al precio de la
 no-localidad), y GRW lo preserva haciendo del colapso un evento f ísico real
 (al precio de modificar la ecuación de Schrödinger).
-
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                           233
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                                               CAOS
-
-
 
 
 V. El isomorfismo explícito: la ontología cuántica y la
@@ -10530,58 +10536,64 @@ determinación, con las mismas propiedades de irreversibilidad, producción
 de valor definido donde no lo había, y unicidad del resultado desde la
 perspectiva del observador.
 
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                          234
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                                                  CAOS
+
 La tabla del isomorfismo es la siguiente:
 
-  Ontología cuántica                        Ontología del ego
+  Ontología cuántica                         Ontología del ego
 
-  Estado cuántico |ψ⟩ en                    Caos: posibilidad absoluta antes del colapso
+  Estado cuántico |ψ⟩ en                     Caos: posibilidad absoluta antes del colapso
   superposición
 
-  Función de onda ψ(r, t)                   Función del sujeto antes de la primera mediación
+  Función de onda ψ(r, t)                    Función del sujeto antes de la primera mediación
 
-  Espacio de Hilbert                        Espacio de posibilidades del caos
+  Espacio de Hilbert                         Espacio de posibilidades del caos
 
-  Coeficientes αₙ de la                     Pesos de las posibilidades en el caos
+  Coeficientes αₙ de la                      Pesos de las posibilidades en el caos
   superposición
 
-  Medición / interacción con el             Primera mediación: voluntad orientada hacia un objeto
+  Medición / interacción con el              Primera mediación: voluntad orientada hacia un
+  entorno                                    objeto
+
+  Colapso de la función de onda              Colapso del ego: acto irreversible
+
+  Autovalor aₙ obtenido en la                Determinación producida por el acto
+  medición
+
+  |⟨aₙ|ψ⟩|² = probabilidad del               Probabilidad del colapso condicionada por el campo
+  resultado
+
+  Decoherencia: inscripción en el            Segunda mediación: integración del acto a la integral
   entorno
+
+  Estado post-colapso |aₙ⟩                   Ego modificado después del acto
+
+  Evolución unitaria entre                   Acumulación de la integral entre colapsos
+  mediciones
+
+  No-conmutatividad:                         Tensión entre posibilidad y determinación: el colapso
+  [x̂ , p̂ ] = iℏ                            destruye el caos que lo hizo posible
+
+  Principio de incertidumbre:                Determinación en un acto abre posibilidad en otros
+  Δx·Δp ≥ ℏ/2
+
+  Entrelazamiento cuántico                   Constitución intersubjetiva del ego
 
 
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                                234
+                                                                                                     235
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                                                 CAOS
-
-
-  Ontología cuántica                        Ontología del ego
-
-  Colapso de la función de onda             Colapso del ego: acto irreversible
-
-  Autovalor aₙ obtenido en la               Determinación producida por el acto
-  medición
-
-  |⟨aₙ|ψ⟩|² = probabilidad del              Probabilidad del colapso condicionada por el campo
-  resultado
-
-  Decoherencia: inscripción en el           Segunda mediación: integración del acto a la integral
-  entorno
-
-  Estado post-colapso |aₙ⟩                  Ego modificado después del acto
-
-  Evolución unitaria entre                  Acumulación de la integral entre colapsos
-  mediciones
-
-  No-conmutatividad:                        Tensión entre posibilidad y determinación: el colapso
-  [x̂ , p̂ ] = iℏ                           destruye el caos que lo hizo posible
-
-  Principio de incertidumbre:               Determinación en un acto abre posibilidad en otros
-  Δx·Δp ≥ ℏ/2
-
-  Entrelazamiento cuántico                  Constitución intersubjetiva del ego
+                                                                         CAOS
 
 
 
@@ -10598,14 +10610,6 @@ El isomorfismo no es por tanto total en este nivel: el caos filosófico es más
 radical que la superposición cuántica. La superposición cuántica es un caso
 particular de la posibilidad organizada —una posibilidad que ya tiene la
 estructura de las probabilidades asignadas a los distintos resultados. El caos
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                                    235
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                        CAOS
-
 filosófico precede incluso a esa organización: es la posibilidad antes de que
 ninguna distribución de probabilidad la organice.
 
@@ -10626,6 +10630,16 @@ campos que lo permean. Esta inscripción es redundante: múltiples copias del
 resultado quedan registradas en el entorno. Es precisamente esta
 redundancia lo que hace que el resultado sea objetivo —accesible
 independientemente a múltiples observadores— e irreversible —la
+
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                           236
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                            CAOS
+
 información no puede borrarse sin interactuar con todos los grados de
 libertad del entorno, lo cual es prácticamente imposible.
 
@@ -10639,17 +10653,6 @@ el acto ha sido inscrito en demasiados registros simultáneos. La segunda
 mediación es el proceso por el cual esta inscripción retorna al ego como
 modificación de su propia función: el ego integra lo que el entorno ha
 recibido y retorna al ego como imagen de sí mismo.
-
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                          236
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                            CAOS
-
-
 
 5.4 El principio de incertidumbre y la apertura del caos
 El principio de incertidumbre en su relación con el colapso ofrece una
@@ -10673,6 +10676,14 @@ hace accesibles.
 El principio de incertidumbre cuántico garantiza que el colapso nunca
 agota el caos: siempre hay una dimensión en la que la posibilidad se reabre
 después de cada determinación. El ego que ha colapsado no ha eliminado el
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                              237
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                         CAOS
+
 caos: lo ha redistribuido. El caos es inagotable no por ninguna razón mística
 sino por la misma razón por la que la incertidumbre cuántica es inagotable:
 la determinación en una dimensión es constitutivamente la apertura de la
@@ -10685,21 +10696,13 @@ intersubjetiva del ego. El ego no emerge en soledad: emerge en la
 interacción con otros egos, con el lenguaje que heredó, con las instituciones
 que lo recibieron, con el mundo social que lo formó. La función del ego está
 entrelazada con las funciones de los otros egos con los que ha interactuado,
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              237
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                         CAOS
-
 de manera que la «separabilidad» del ego —la posibilidad de describir
 completamente al ego sin referencia a los otros con los que se ha constituido
 — es tan imposible como la separabilidad de dos partículas entrelazadas.
 
-El estado entrelazado |Φ⁺⟩ = (1/√2)(|↑⟩₁|↑⟩₂ + |↓⟩₁|↓⟩₂) no puede escribirse
-como el producto de estados individuales de cada partícula porque las
-partículas han perdido su independencia. Análogamente, el ego que ha
+El estado entrelazado |Φ⁺⟩ = (1/√2)(|↑⟩₁|↑⟩₂ + |↓⟩₁|↓⟩₂) no puede
+escribirse como el producto de estados individuales de cada partícula porque
+las partículas han perdido su independencia. Análogamente, el ego que ha
 interactuado con otros egos —que ha amado, disputado, aprendido,
 comprometido— no puede describirse completamente sin referencia a esas
 interacciones. La identidad del ego es no-separable de la misma manera que
@@ -10717,6 +10720,16 @@ función de colapso— no pueden explicarse mediante ninguna propiedad del
 ego que existiera antes de la interacción. Las interacciones que constituyen
 al ego son genuinas: el ego emerge de las interacciones, no preexiste a ellas.
 
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                            238
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                           CAOS
+
+
+
 5.6 Los límites del isomorfismo
 Precisar el isomorfismo requiere también precisar sus límites. Hay aspectos
 de la mecánica cuántica que no tienen paralelo en la ontología del ego, y
@@ -10729,14 +10742,6 @@ organismo completo: una función extraordinariamente compleja en un
 espacio de Hilbert de dimensión astronómica, que evoluciona de manera
 que la decoherencia hace completamente clásica a escala macroscópica en
 tiempos de 10⁻²³ segundos o menos. La mecánica cuántica de las neuronas y
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            238
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
-
 las moléculas del cerebro no produce superposición de decisiones a escala del
 ego: la decoherencia destruye cualquier superposición macroscópica antes de
 que pueda influir en ningún proceso cognitivo relevante. La propuesta de
@@ -10759,6 +10764,15 @@ mediación, ningún proceso por el cual el colapso retorna al sistema y lo
 modifica a la manera en que los actos del ego modifican la función del ego.
 El sistema cuántico que ha colapsado en |a₁⟩ no «aprende» nada de ese
 colapso ni modifica sus disposiciones. La segunda mediación es específica del
+
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                             239
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                         CAOS
+
 ego: el nivel de organización en que los colapsos retornan al sistema como
 información que modifica el sistema.
 
@@ -10772,15 +10786,6 @@ diferencia es la que distingue la responsabilidad del ego de la «indiferencia»
 cuántica: el ego puede ser imputado porque hubo primera mediación; el
 sistema cuántico no puede ser imputado porque el colapso cuántico ocurre
 sin ninguna orientación intencional.
-
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             239
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                         CAOS
 
 Este apéndice ha establecido el isomorfismo estructural entre el colapso
 cuántico y el colapso del ego, precisando tanto las correspondencias como
@@ -10805,6 +10810,14 @@ irreversible, unicidad del resultado desde la perspectiva que registra,
 inagotabilidad de la posibilidad frente a cualquier determinación finita— es
 una estructura de la realidad a su nivel más fundamental. El universo, en su
 nivel más básico conocido, está construido del mismo material que el ego:
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                           240
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
 colapsos de posibilidad en determinación, irreversibles, que producen lo
 actual sin agotar lo posible.
 
@@ -10820,14 +10833,6 @@ NOTAS
 
 [189] Schrödinger, Erwin. «Quantisierung als Eigenwertproblem» (La
 cuantización como problema de autovalores), Annalen der Physik, 1926.
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                           240
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
-
 Cuatro artículos publicados entre enero y junio de 1926, en los que
 Schrödinger desarrolla la mecánica ondulatoria. El primero aplica la
 ecuación al átomo de hidrógeno y recupera los niveles de energía correctos.
@@ -10850,6 +10855,14 @@ puede ser una superposición de estados con propiedades f ísicas definidas, y e
 ese estado el sistema no tiene ningún valor definido para la observable en
 cuestión. La superposición no es ignorancia: no es que la partícula esté en
 uno de los dos estados pero no sepamos cuál. La superposición es el estado
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                            241
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                         CAOS
+
 real del sistema antes de la medición: la partícula genuinamente no tiene
 posición definida, o spin definido, o energía definida. Esta afirmación —que
 la superposición es ontológicamente real y no solo epistémica— es el núcleo
@@ -10864,14 +10877,6 @@ encontrar la partícula en una región determinada del espacio es
 proporcional a la integral de |ψ|² sobre esa región. Esta interpretación
 probabilística —conocida como la «regla de Born»— fue inmediatamente
 controvertida. Einstein, en particular, resistió esta interpretación toda su
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            241
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                         CAOS
-
 vida: «Dios no juega a los dados.» Born recibió el Premio Nobel de Física en
 1954 precisamente por esta interpretación, que en la actualidad es el pilar de
 la física cuántica estándar.
@@ -10894,6 +10899,14 @@ constituye uno de los resultados fundamentales de la f ísica del siglo XX para
 la comprensión de la mecánica cuántica. Bell demostró que las teorías de
 variables ocultas locales, bajo los supuestos de localidad causal e
 independencia de las configuraciones de medición, deben satisfacer
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                           242
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                           CAOS
+
 determinadas desigualdades estadísticas. La mecánica cuántica predice
 correlaciones que violan estas desigualdades, y los experimentos de Aspect
 (1982) y sus sucesores, especialmente las pruebas de 2015, confirmaron tales
@@ -10908,14 +10921,6 @@ explicación, sin que el teorema establezca por sí solo cuál debe abandonarse
 ni excluya toda interpretación determinista. Lo decisivo es que esta
 imposibilidad no representa una mera insuficiencia de nuestro
 conocimiento: constituye una restricción experimental sobre las estructuras
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                           242
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
-
 físicas capaces de explicar los fenómenos cuánticos. En relación con la
 ontología desarrollada en este libro, el resultado permite distinguir entre la
 determinación efectiva de un acontecimiento y la suposición de que esa
@@ -10938,6 +10943,14 @@ condiciones hacen que el proceso 2 se «detenga» y el proceso 1 ocurra.
 
 [195] El experimento mental del gato de Schrödinger fue propuesto por
 Schrödinger en 1935 en «Die gegenwärtige Situation in der
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                             243
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
 Quantenmechanik» (La situación actual en la mecánica cuántica),
 Naturwissenschaften. Un gato está encerrado en una caja junto con un
 dispositivo que libera veneno si un átomo radioactivo decae. El átomo, antes
@@ -10951,15 +10964,6 @@ superposición cuántica a objetos macroscópicos: el gato a la vez vivo y
 muerto es obviamente absurdo, luego algo en la cadena de razonamiento
 debe ser incorrecto. El experimento mental sigue siendo el símbolo más
 reconocido del problema de la medición.
-
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             243
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
 
 [196] La decoherencia cuántica (Zeh, H.D. «On the Interpretation of
 Measurement in Quantum Theory», Foundations of Physics, 1970; Zurek,
@@ -10983,6 +10987,14 @@ definido y no en el otro.
 [197] Schlosshauer, Maximilian, «Decoherence, the Measurement Problem,
 and Interpretations of Quantum Mechanics», Reviews of Modern Physics,
 76 (2005), pp. 1267–1305, DOI: 10.1103/RevModPhys.76.1267. La interacción
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                            244
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                           CAOS
+
 entre un sistema y su entorno produce entrelazamiento y, al tomar la traza
 parcial sobre los grados de libertad ambientales, suprime eficazmente las
 coherencias observables del estado reducido del sistema en una base
@@ -10997,14 +11009,6 @@ Observamos el mundo como clásico porque los estados que sobreviven a la
 decoherencia son precisamente aquellos que producen muchas copias
 redundantes de sí mismos en el entorno. Esta «selección
 ambiental» (einselection) determina cuáles estados son los «punteros»
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            244
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                            CAOS
-
 estables que emergen de la decoherencia. El darwinismo cuántico es
 importante para el argumento de este apéndice porque ofrece una respuesta
 físicamente precisa a la pregunta de por qué los colapsos son irreversibles: los
@@ -11027,27 +11031,27 @@ corrección la haría Kennard en el mismo año, demostrando que la relación
 Δx · Δp ≥ ℏ/2 es una consecuencia matemática del formalismo, no de
 ninguna consideración sobre el proceso de medición.
 
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                             245
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
 [200] Robertson, Howard. «The Uncertainty Principle», Physical Review,
 1929. Robertson derivó la versión general del principio de incertidumbre
 para operadores arbitrarios. Para dos observables A y B representadas por
 operadores hermíticos Â y B̂, el principio de incertidumbre Robertson
-establece: ΔA · ΔB ≥ (1/2)|⟨[Â, B̂]⟩|, donde [Â, B̂] = ÂB̂ − B̂Â es el conmutador
-de los dos operadores. La relación de Heisenberg es el caso especial donde Â
-= x̂ (operador posición) y B̂ = p̂ (operador momentum), cuyo conmutador es
-[x̂, p̂] = iℏ. El principio de incertidumbre no es, por tanto, un resultado
-sobre la medición ni sobre el conocimiento: es un resultado sobre la
-estructura del formalismo matemático de la mecánica cuántica. Las
-observables que no conmutan (cuyo conmutador es no nulo) no pueden
-tener simultáneamente valores definidos. La incompatibilidad no es
-epistemológica sino ontológica.
-
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              245
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
+establece: ΔA · ΔB ≥ (1/2)|⟨[Â, B̂]⟩|, donde [Â, B̂] = ÂB̂ − B̂Â es el
+conmutador de los dos operadores. La relación de Heisenberg es el caso
+especial donde Â = x̂ (operador posición) y B̂ = p̂ (operador momentum),
+cuyo conmutador es [x̂ , p̂ ] = iℏ. El principio de incertidumbre no es, por
+tanto, un resultado sobre la medición ni sobre el conocimiento: es un
+resultado sobre la estructura del formalismo matemático de la mecánica
+cuántica. Las observables que no conmutan (cuyo conmutador es no nulo)
+no pueden tener simultáneamente valores definidos. La incompatibilidad
+no es epistemológica sino ontológica.
 
 [201] Heisenberg, Werner, «Über den anschaulichen Inhalt der
 quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
@@ -11055,9 +11059,10 @@ quantentheoretischen Kinematik und Mechanik», Zeitschrift für Physik,
 medición; véase también Kennard, E. H., «Zur Quantenmechanik
 einfacher Bewegungstypen» (1927), y Robertson, H. P., «The Uncertainty
 Principle» (1929). El análisis de Heisenberg emplea experimentos mentales
-relativos a la perturbación asociada a la medición, pero la desigualdad Δx·Δp
-≥ ℏ/2 puede establecerse como propiedad estadística de un estado cuántico
-sin describir una intervención experimental. Véase también la nota [199].
+relativos a la perturbación asociada a la medición, pero la desigualdad
+Δx·Δp ≥ ℏ/2 puede establecerse como propiedad estadística de un estado
+cuántico sin describir una intervención experimental. Véase también la nota
+[199].
 
 [202] Bell, John S., «On the Einstein Podolsky Rosen Paradox», Physics
 Physique Fizika, 1 (1964), pp. 195–200, DOI: 10.1103/PhysicsPhysiqueFizika.
@@ -11070,6 +11075,14 @@ han observado tales violaciones. Véase la nota [193].
 Atomic Theory», Nature, 1928. Este artículo es la exposición más clara de la
 interpretación de Copenhague por su propio autor. Bohr introduce el
 concepto de «complementariedad»: onda y partícula son descripciones
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                            246
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
 complementarias del sistema cuántico, ninguna completa por sí sola. La
 descripción ondulatoria (función de onda, interferencia) y la descripción
 corpuscular (partícula con posición y momentum definidos) son
@@ -11086,14 +11099,6 @@ colapso de la función de onda no ocurre nunca: la ecuación de Schrödinger
 es universalmente válida, incluyendo el proceso de medición. Cuando un
 aparato mide un sistema cuántico en superposición, el estado combinado
 aparato-sistema entra en una superposición de resultados posibles. Pero
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            246
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
-
 desde la perspectiva del observador, que forma parte del sistema, cada rama
 de la superposición es experimentada como un resultado definido. El
 «colapso» no es un proceso f ísico que ocurre en la realidad: es el proceso por
@@ -11115,6 +11120,13 @@ grande de universos paralelos. Esta proliferación ontológica fue el principal
 punto de crítica de la interpretación: es acusada de violar la parsimonia (la
 navaja de Occam) al postular infinitos universos en lugar de un solo colapso.
 
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                            247
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                        CAOS
+
 [206] Bohm, David. «A Suggested Interpretation of the Quantum Theory
 in Terms of Hidden Variables», Physical Review, 1952. Bohm propuso una
 interpretación de la mecánica cuántica en términos de variables ocultas que
@@ -11131,14 +11143,6 @@ aunque no en sus predicciones experimentales.
 
 [207] Zurek, Wojciech H., «Quantum Darwinism», Nature Physics, 5
 (2009), pp. 181–188, DOI: 10.1038/nphys1202; véanse también las notas [196],
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            247
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                        CAOS
-
 [197] y [198]. El programa del darwinismo cuántico estudia la proliferación
 de registros redundantes de ciertos estados del sistema en diferentes
 fragmentos del entorno, lo que puede explicar la estabilidad y accesibilidad
@@ -11160,6 +11164,14 @@ Hameroff en la hipótesis «Orch-OR» (reducción objetiva orquestada), que
 propone que el colapso cuántico en los microtúbulos de las neuronas está
 relacionado con la conciencia. Aunque la hipótesis Orch-OR no cuenta con
 apoyo experimental sólido, la propuesta de Penrose de un colapso objetivo es
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                          248
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                        CAOS
+
 filosóficamente relevante porque intenta hacer del colapso un proceso f ísico
 real —un evento en el mundo— en lugar de una mera actualización de la
 información del observador.
@@ -11168,7 +11180,7 @@ información del observador.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                          248
+                                                                          249
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -11212,7 +11224,7 @@ determinación es asumida mediante la segunda mediación; no sustituye al
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             249
+                                                                             250
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11259,7 +11271,7 @@ caos s.m.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            250
+                                                                             251
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                                CAOS
@@ -11306,7 +11318,7 @@ colapso s.m.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                  251
+                                                                                 252
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11352,7 +11364,7 @@ c: T → E, c irreversible ⟺ ∄ φ tal que φ(c(t)) = c(t − ε) para ε > 0
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            252
+                                                                             253
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
@@ -11399,7 +11411,7 @@ neutral, acto, intencionalidad
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            253
+                                                                           254
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11445,7 +11457,7 @@ primera mediación loc. s.f.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            254
+                                                                              255
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
@@ -11491,7 +11503,7 @@ presupuesta, campo de acción, responsabilidad, imputación
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            255
+                                                                           256
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                              CAOS
@@ -11538,7 +11550,7 @@ siempre está delimitado por las condiciones del cuerpo del sujeto, sus
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                  256
+                                                                                  257
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11584,7 +11596,7 @@ más estudiado clínicamente es la compulsión de repetición (Freud): cuando
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            257
+                                                                             258
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11594,9 +11606,9 @@ abierta que el sujeto revive sin que la segunda mediación pueda incorporarla
 a la integral. El resultado es un ego que actúa pero no crece: sus colapsos lo
 atraviesan sin constituirlo.
 
-Notación formal. Si a = φ₁(v, c) es el resultado de la primera mediación y I(t)
-= ∫₀ᵗ c(τ) w(τ) dτ es la integral acumulativa del ego hasta el momento t, la
-segunda mediación es la operación φ₂: A × I → I' que produce la integral
+Notación formal. Si a = φ₁(v, c) es el resultado de la primera mediación y
+I(t) = ∫₀ᵗ c(τ) w(τ) dτ es la integral acumulativa del ego hasta el momento t,
+la segunda mediación es la operación φ₂: A × I → I' que produce la integral
 modificada I' = I ∪ {a}: la integral que incluye el colapso reciente como
 parte de la función acumulativa.
 
@@ -11630,7 +11642,7 @@ ciertas trayectorias I₀ y actos a y b, φ₂(b,φ₂(a,I₀)) ≠ φ₂(a,φ�
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             258
+                                                                            259
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11660,8 +11672,8 @@ t.
 
 convención del tiempo t y del ciclo t+1
 
-En Ego(t) = φ₂(φ₁(v_t,c_t),I(t)), el índice t puede emplearse para designar la
-operación constitutiva correspondiente al momento considerado. Si se
+En Ego(t) = φ₂(φ₁(v_t,c_t),I(t)), el índice t puede emplearse para designar
+la operación constitutiva correspondiente al momento considerado. Si se
 distingue expresamente el estado previo del estado resultante, se escribe a_t
 = φ₁(v_t,c_t), I(t+1) = φ₂(a_t,I(t)). Se trata de dos convenciones de
 indexación de una misma articulación: acto actual, historia previamente
@@ -11676,7 +11688,7 @@ La doble mediación es la condición necesaria y suficiente del ego en el
 sentido técnico de esta ontología. «Necesaria»: sin doble mediación no hay
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            259
+                                                                            260
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -11722,7 +11734,7 @@ no haya ocurrido.[213]
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             260
+                                                                              261
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11769,7 +11781,7 @@ colapso asumido / c_asumido
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             261
+                                                                            262
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                             CAOS
@@ -11815,7 +11827,7 @@ ego s.m.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              262
+                                                                              263
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -11861,7 +11873,7 @@ continuidad del proceso de acumulación. El ego de hoy no necesita ser
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                263
+                                                                                264
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -11907,7 +11919,7 @@ superiores como condicionamiento del campo; las escalas superiores pueden
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             264
+                                                                             265
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                             CAOS
@@ -11953,7 +11965,7 @@ el campo modificado por el accidente, esa acción es su acto —con primera
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              265
+                                                                              266
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                                CAOS
@@ -11999,7 +12011,7 @@ primera mediación en este momento —si hubiera reaccionado
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                 266
+                                                                                 267
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -12045,7 +12057,7 @@ responsabilidad reducida proporcional al campo; (c) campo normal: hay
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             267
+                                                                             268
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                               CAOS
@@ -12092,7 +12104,7 @@ tiempo del ego loc. s.m.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                268
+                                                                                269
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
@@ -12138,7 +12150,7 @@ distinción entre el soporte material del ego y el ego como proceso. Tiene
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                           269
+                                                                           270
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
@@ -12183,7 +12195,7 @@ por causas externas). Física, III, 201b. También es paralela a la distinción
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                           270
+                                                                            271
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
@@ -12208,8 +12220,8 @@ corresponden a distintas elecciones de w.
 Peso temporal w(τ). La función de ponderación w modela la distinta
 relevancia de las contribuciones asumidas. Si el peso de un colapso depende
 de su antigüedad respecto del instante actual t, puede escribirse w_t(τ) = W(t
-− τ), donde W decrece con la antigüedad. Por ejemplo, W(s) = e^(−λs) con λ
-> 0. El libro no impone ninguna ley de ponderación específica; esta
+− τ), donde W decrece con la antigüedad. Por ejemplo, W(s) = e^(−λs) con
+λ > 0. El libro no impone ninguna ley de ponderación específica; esta
 notación solo aclara la lectura temporal de un posible peso decreciente.
 
 [215] El concepto de escala en f ísica tiene una formulación precisa en el
@@ -12226,9 +12238,8 @@ tiene una estructura análoga: las leyes efectivas de la escala superior no son
 
 
 
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            271
+                                                                           272
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -12273,7 +12284,7 @@ acto como acto.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            272
+                                                                             273
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                       CAOS
@@ -12292,6 +12303,6 @@ sistema normativo en que opera la imputación.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                         273
+                                                                        274
 A.C.
 
