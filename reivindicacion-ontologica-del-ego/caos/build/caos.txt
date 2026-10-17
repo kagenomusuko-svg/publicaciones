@@ -10575,10 +10575,8 @@ A.C.
   Evolución unitaria entre                  Acumulación de la integral entre colapsos
   mediciones
 
-  No-conmutatividad: [x
-                      ̂, ̂
-                         p]                 Tensión entre posibilidad y determinación: el colapso
-  = iℏ                                      destruye el caos que lo hizo posible
+  No-conmutatividad:                        Tensión entre posibilidad y determinación: el colapso
+  [x̂ , p̂ ] = iℏ                           destruye el caos que lo hizo posible
 
   Principio de incertidumbre:               Determinación en un acto abre posibilidad en otros
   Δx·Δp ≥ ℏ/2
