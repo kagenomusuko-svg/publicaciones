@@ -129,3 +129,5 @@ th { background: #F5F5F2; }
 .toc-table .col-page { width: 10%; }
 
 table td code { white-space: nowrap; word-break: keep-all; overflow-wrap: normal; }
+
+.dirac { white-space: nowrap; font-family: "EB Garamond", Garamond, serif; letter-spacing: 0; }
