@@ -22,6 +22,13 @@ MOTTO = "La fuerza interior nos impulsa, un pequeño apoyo de los demás nos ben
 
 md = MarkdownIt("commonmark", {"html": True}).enable("table")
 
+SUBSCRIPT_GLYPH_RE = re.compile(r"([\\u2080-\\u209F])")
+
+
+def render_markdown(raw: str) -> str:
+    rendered = md.render(raw)
+    return SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\\1</span>', rendered)
+
 
 @dataclass(frozen=True)
 class TocEntry:
@@ -305,7 +312,7 @@ def render_piece(piece: Piece, markers: bool) -> str:
         "glossary": "glossary",
         "body": "warning-page",
     }[piece.kind]
-    return f'<section class="{css_class}">{marker(piece.key, markers)}{md.render(piece.raw)}</section>'
+    return f'<section class="{css_class}">{marker(piece.key, markers)}{render_markdown(piece.raw)}</section>'
 
 
 def document_html(
@@ -329,12 +336,12 @@ def document_html(
     sections = [
         f'<section class="cover-page"><img src="{cover}"></section>',
         title_page(root, config),
-        f'<section class="legal-page">{md.render((root / "02.md").read_text(encoding="utf-8"))}</section>',
+        f'<section class="legal-page">{render_markdown((root / "02.md").read_text(encoding="utf-8"))}</section>',
     ]
     pre_toc_stems = config["pre_toc"] if "pre_toc" in config else ["03"]
     for stem in pre_toc_stems:
         raw = (root / f"{stem}.md").read_text(encoding="utf-8")
-        sections.append(f'<section class="epigraph-page">{md.render(raw)}</section>')
+        sections.append(f'<section class="epigraph-page">{render_markdown(raw)}</section>')
     sections.append(toc_page(toc_entries, toc_numbers))
     part_seen = 0
     for piece in pieces:
@@ -346,7 +353,7 @@ def document_html(
     sections.append(f'<section class="cover-page"><img src="{back}"></section>')
     return (
         '<!doctype html><html lang="es"><head><meta charset="utf-8">'
-        f'<style>{css}</style></head><body>{header}{"".join(sections)}</body></html>'
+        f'<style>{css}\n.math-subscript { font-family: "DejaVu Serif", serif; }</style></head><body>{header}{"".join(sections)}</body></html>'
     )
 
 
