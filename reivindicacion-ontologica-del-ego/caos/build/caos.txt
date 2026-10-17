@@ -9365,7 +9365,7 @@ conjuntos perfectos son los análogos matemáticos del ego que ha integrado
 completamente su historia: el conjunto que contiene todos sus propios
 puntos de acumulación, sin ningún punto límite externo.
 [187] Weierstrass, Karl. Lectures on the Theory of Functions (reconstruidas
-de notas de estudiantes, publicadas postumamente). El teorema de BolzanoWeierstrass establece que cualquier sucesión acotada de números reales tiene
+de notas de estudiantes, publicadas póstumamente). El teorema de BolzanoWeierstrass establece que cualquier sucesión acotada de números reales tiene
 una subsucesión convergente. La demostración utiliza el principio de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9394,12 +9394,12 @@ marco, un punto x es punto de acumulación de un conjunto A si todo
 abierto que contiene a x contiene también algún punto de A distinto de x.
 La ventaja del lenguaje topológico es que hace explícita la estructura de
 «vecindad» que el análisis ε-δ presupone: la distancia ε no es el único modo
-de definir vecindad. El espacio topológico más general abstracto la noción
-de «proximidad» de manera que no requiere ninguna distancia numérica.
-El ego como punto de acumulación de su historia de colapsos es una
-afirmación topológica: el ego emerge en el límite de las aproximaciones de
-sus colapsos pasados, independientemente de cómo se mida la «distancia»
-entre colapsos.
+de definir vecindad. El espacio topológico más general abstrae la noción de
+«proximidad» de manera que no requiere ninguna distancia numérica. El
+ego como punto de acumulación de su historia de colapsos es una afirmación
+topológica: el ego emerge en el límite de las aproximaciones de sus colapsos
+pasados, independientemente de cómo se mida la «distancia» entre
+colapsos.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
