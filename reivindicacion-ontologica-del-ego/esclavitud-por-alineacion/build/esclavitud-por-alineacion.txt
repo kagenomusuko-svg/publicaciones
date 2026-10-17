@@ -650,8 +650,8 @@ establece que la transparencia de la lógica de integración es lo que hace
 auditable a I(t). Esa propiedad —la auditabilidad— es la que este libro
 convierte en criterio: la alineación deja de ser autodeterminación cuando el
 evaluado ya no puede auditar la evaluación.
-³ Aristóteles, Política, I, 4, 1253b32 (el esclavo como κτῆμά τι ἔμψυχον, «una
-posesión animada»); I, 5, 1254b20–23 (es esclavo por naturaleza quien
+³ Aristóteles, Política, I, 4, 1253b32 (el esclavo como κτῆμά τι ἔμψυχον,
+«una posesión animada»); I, 5, 1254b20–23 (es esclavo por naturaleza quien
 participa de la razón en la medida suficiente para percibirla, pero no para
 poseerla); I, 13, 1260a12 (el esclavo carece por completo de la facultad
 deliberativa, τὸ βουλευτικόν).
@@ -959,13 +959,13 @@ todavía.
 La primera dificultad es de frontera. Hay sujetos que no pueden formular
 razones explícitas ni someterlas a evaluación discursiva: los bebés, quienes
 aún no dominan el lenguaje abstracto, quienes están temporalmente
-incapacitados para argumentar.⁸ Nadie sostiene que carezcan de importancia
-moral, y la ética del discurso tiene recursos para responder: puede distinguir
-entre participar en un discurso y ser tomado en cuenta por él, y admitir que
-otros representen los intereses de quien no puede hablar. Pero la respuesta
-tiene un precio que debe registrarse. Quien es representado no es
-participante; sus intereses son interpretados por otros, desde el lenguaje y las
-razones de otros. La representación puede ser leal, pero su lealtad no es
+incapacitados para argumentar.⁸ Nadie sostiene que carezcan de
+importancia moral, y la ética del discurso tiene recursos para responder:
+puede distinguir entre participar en un discurso y ser tomado en cuenta por
+él, y admitir que otros representen los intereses de quien no puede hablar.
+Pero la respuesta tiene un precio que debe registrarse. Quien es representado
+no es participante; sus intereses son interpretados por otros, desde el lenguaje
+y las razones de otros. La representación puede ser leal, pero su lealtad no es
 auditable desde la posición del representado.
 La pregunta de fondo es más amplia que los casos frontera. ¿La
 argumentación discursiva es el fundamento de la racionalidad, o es una
@@ -984,7 +984,7 @@ deliberativos tienden a privilegiar un estilo particular de habla —
 desapasionado, articulado, formal, que avanza de premisas a conclusiones—
 y a tratar como deficientes otras formas de comunicación que también
 transmiten razones: el testimonio, el relato, la retórica, el saludo que
-reconoce al otro antes de discutir con él.⁹ El problema no es que el
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -994,6 +994,7 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+reconoce al otro antes de discutir con él.⁹ El problema no es que el
 argumento formal sea malo. Es que, cuando se convierte en la forma de lo
 racional, quienes se comunican de otro modo no son escuchados como
 portadores de razones distintas, sino como portadores de razones
@@ -1313,8 +1314,8 @@ afectación.
 ⁸ La respuesta de la ética del discurso mediante la representación de intereses
 se presenta aquí en su forma general; su desarrollo en la obra de Habermas
 debe documentarse antes de la edición definitiva.
-⁹ Iris Marion Young, «Communication and the Other: Beyond Deliberative
-Democracy», en Seyla Benhabib (ed.), Democracy and Difference:
+⁹ Iris Marion Young, «Communication and the Other: Beyond
+Deliberative Democracy», en Seyla Benhabib (ed.), Democracy and
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1325,10 +1326,10 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-Contesting the Boundaries of the Political (Princeton University Press, 1996).
-Young propuso ampliar la deliberación con el saludo, la retórica y la
-narración. Este libro no adopta su programa; retiene su diagnóstico porque
-describe con precisión el segundo rasgo de la similitud coseno: lo que
+Difference: Contesting the Boundaries of the Political (Princeton University
+Press, 1996). Young propuso ampliar la deliberación con el saludo, la retórica
+y la narración. Este libro no adopta su programa; retiene su diagnóstico
+porque describe con precisión el segundo rasgo de la similitud coseno: lo que
 diverge del criterio no se registra como contenido propio, sino como
 deficiencia.
 ¹⁰ Karl-Otto Apel, «El a priori de la comunidad de comunicación y los
@@ -2328,7 +2329,6 @@ Conviene probar el instrumento con un caso inocuo antes de aplicarlo a uno
 grave. «Don Quijote no existe» es una frase que cualquiera puede
 pronunciar sin daño. Pero para negar que Don Quijote sea una persona
 histórica, un organismo vivo o Sancho Panza, hay que conservar suficiente
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2482,16 +2482,15 @@ que es, es, y en que nunca se impondrá que sean las cosas que no son. El
 último fragmento es el que Platón cita en el Sofista. La traducción española
 de los fragmentos debe fijarse antes de la edición definitiva.
 ⁷ Platón, Sofista, 241d (el «parricidio» contra Parménides) y 256d–259b (el
-no-ser como lo otro, τὸ ἕτερον). En 257b, el extranjero de Elea sostiene que,
-cuando decimos «lo que no es», no decimos algo contrario al ser, sino solo
-algo distinto. La paráfrasis del texto principal debe ajustarse a la traducción
-que se elija.
+no-ser como lo otro, τὸ ἕτερον). En 257b, el extranjero de Elea sostiene
+que, cuando decimos «lo que no es», no decimos algo contrario al ser, sino
+solo algo distinto. La paráfrasis del texto principal debe ajustarse a la
+traducción que se elija.
 ⁸ La cercanía con el Sofista es deliberada y conviene declararla, porque
 declarar la deuda permite precisar la diferencia que el texto principal
 establece a continuación.
 ⁹ El paso de «no estar de modo M» a «no ser en absoluto» requiere un
 puente que casi nunca se declara. La misma estructura, en el siglo XX, fue
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3539,9 +3538,9 @@ miembros y no tiene otro modo de actuar. Pedir al vínculo que asuma sus
 actos con independencia de quienes lo componen es pedirle algo que ningún
 colectivo hace. En un colectivo, la segunda mediación no está en otra parte:
 está distribuida entre las segundas mediaciones de sus miembros y opera bajo
-el marco común.⁹ En el vínculo, esa distribución tiene una forma propia. No
-hay órganos separados ni personas investidas por encima de los otros: los dos
-son a la vez quienes deciden y quienes ejecutan, y la representación es
+el marco común.⁹ En el vínculo, esa distribución tiene una forma propia.
+No hay órganos separados ni personas investidas por encima de los otros: los
+dos son a la vez quienes deciden y quienes ejecutan, y la representación es
 mancomunada. Ninguno firma solo por el «nosotros». «Lo hicimos» es la
 asunción del ego común, y solo puede pronunciarla con verdad quien la
 pronuncia en nombre de los dos porque los dos la sostienen.
@@ -4228,7 +4227,6 @@ No toda insatisfacción dentro de un vínculo es un incumplimiento. Caelus
 distinguió la fricción constitutiva de la patológica.⁸ La constitutiva nace de
 que cada miembro sigue siendo un ego vivo, que quiere más de lo que el
 marco le da en el momento presente; su presencia es la señal de que los dos
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4287,8 +4285,8 @@ quedó con lo que hizo posible.
 V. Reparar lo que no tiene precio
 Kratos llamó ajuste debitor a la modificación de los términos de un contrato
 cuando las condiciones originales ya no pueden cumplirse, de modo que la
-relación continúa bajo términos distintos en lugar de terminar.¹⁰ Caelus usó
-el mismo nombre para la reparación del incumplimiento: reconocer la
+relación continúa bajo términos distintos en lugar de terminar.¹⁰ Caelus
+usó el mismo nombre para la reparación del incumplimiento: reconocer la
 deuda, medir el daño y generar las condiciones para saldarlo.¹¹ No son dos
 sentidos que haya que elegir. Son dos momentos de la misma operación, y el
 vínculo muestra por qué.
@@ -4313,7 +4311,7 @@ estructura propia que conviene no confundir. Quien la rompió no puede
 pagarla, porque nadie puede deberle a otro un sentimiento. Lo que puede
 hacer es volverse verificable: aceptar términos nuevos que hagan
 comprobable su conducta, lo que Caelus llamó el derecho del acreedor a que
-la inversión sea auditable.¹³ Pero volver a confiar es un acto de quien fue
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4323,6 +4321,7 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+la inversión sea auditable.¹³ Pero volver a confiar es un acto de quien fue
 dañado, de su propia segunda mediación. El que repara ofrece condiciones;
 no puede exigir que se acepten. Si pudiera, la reparación se volvería un nuevo
 título de retención.
@@ -4545,15 +4544,6 @@ La atribución justa
 Cargar de menos y cargar de
 más
 
-¿Qué te sigue
-perteneciendo?
-
-La voluntad, la identidad y los
-demás marcos
-
-La confusión entre lo cedido y
-lo propio
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4568,6 +4558,15 @@ Pregunta
 Qué protege
 
 Contra qué
+
+¿Qué te sigue
+perteneciendo?
+
+La voluntad, la identidad y los
+demás marcos
+
+La confusión entre lo cedido y
+lo propio
 
 ¿Qué queda posterior
 a ese ego?
@@ -4603,10 +4602,6 @@ puede hacer solo es cerrar lo que construyeron entre ambos. El protocolo no
 es el de una sociedad mercantil, pero la estructura es la misma: quien se va
 deja de renovar, y quien se queda hace su auditoría de cierre. Las dos
 operaciones son necesarias, y ninguna sustituye a la otra.
-De ahí se sigue algo que el lenguaje ordinario de las relaciones suele ignorar.
-Quien se aleja y después regresa no regresa a lo que dejó. Mientras estuvo
-fuera, el otro tuvo que hacer su inventario: tomar lo que sucedió, separar lo
-suyo, asumir lo que le correspondía y continuar. Ese inventario cerró, para
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4617,6 +4612,10 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+De ahí se sigue algo que el lenguaje ordinario de las relaciones suele ignorar.
+Quien se aleja y después regresa no regresa a lo que dejó. Mientras estuvo
+fuera, el otro tuvo que hacer su inventario: tomar lo que sucedió, separar lo
+suyo, asumir lo que le correspondía y continuar. Ese inventario cerró, para
 él, el marco que existía. Lo que puede ocurrir después, si ambos lo quieren,
 no es la reanudación del ego anterior, sino la constitución de otro, con
 términos nuevos y con dos sujetos que ya no son los que eran.¹⁹ Esperar que
@@ -4644,10 +4643,6 @@ de un balance. Hay reconocimiento condicionado: la libertad del otro para
 irse solo cuenta una vez saldado lo que, según esa cuenta, debe. Y hay
 clausura: toda salida es leída como fraude, y toda objeción del que se va
 —«nunca acordamos eso», «no te pedí que renunciaras»— es leída como
-confirmación de su mala fe. El contrato que este capítulo usó para hacer
-visible lo que se puso puede convertirse en la jaula de quien se va.
-Sin el contrato, en cambio, el riesgo es el contrario: la alineación reductiva
-del capítulo V, en la que lo puesto desaparece porque nadie tiene el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4658,6 +4653,10 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+confirmación de su mala fe. El contrato que este capítulo usó para hacer
+visible lo que se puso puede convertirse en la jaula de quien se va.
+Sin el contrato, en cambio, el riesgo es el contrario: la alineación reductiva
+del capítulo V, en la que lo puesto desaparece porque nadie tiene el
 vocabulario para nombrarlo y quien dejó de sentir puede declarar que no
 hubo nada que reconocer.
 La salida entre ambos riesgos es la que el libro ha propuesto desde la
@@ -4687,10 +4686,6 @@ exigirse. Puede concluir qué cambia con la escala, y que el fin de un vínculo
 no es un default ni una liquidación, sino el fin de una renovación: salir está
 en el poder de cada uno, pero cerrar exige la auditoría de ambos, y quien
 regresa no regresa a lo que dejó. Y puede concluir que una relación se audita
-con un inventario de cinco preguntas que cada uno hace sobre su propia
-parte.
-No puede concluir que una relación afectiva sea un contrato legal, ni que
-existan términos pactados donde nadie los pactó. No puede concluir que lo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4700,6 +4695,10 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+con un inventario de cinco preguntas que cada uno hace sobre su propia
+parte.
+No puede concluir que una relación afectiva sea un contrato legal, ni que
+existan términos pactados donde nadie los pactó. No puede concluir que lo
 puesto en un vínculo admita una medida exacta, ni que pueda traducirse a
 dinero sin pérdida. No puede concluir que quien puso más tenga derecho a
 retener a quien puso menos. No puede concluir que dos inventarios de la
@@ -4726,11 +4725,7 @@ el vínculo con las figuras de Damasén y Peribea.
 ⁵ Kratos, cap. 1, «La renovación permanente», §§ I y II. Caelus, cap. 3, § IV,
 describe el mismo mecanismo: el contrato «se renueva en cada acto de
 reconocimiento».
-⁶ El telar de las Moiras: ontología de la autodeterminación causal (Centro
-Multidisciplinario Meriadock, 2026), cap. VIII, § XII, «El amor como acto,
-no como estado». El capítulo VIII de este libro examinará si la distinción
-entre amor-estado y amor-acto, útil como descripción, puede convertirse en
-criterio; aquí se usa solo en su función descriptiva.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4740,6 +4735,11 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+⁶ El telar de las Moiras: ontología de la autodeterminación causal (Centro
+Multidisciplinario Meriadock, 2026), cap. VIII, § XII, «El amor como acto,
+no como estado». El capítulo VIII de este libro examinará si la distinción
+entre amor-estado y amor-acto, útil como descripción, puede convertirse en
+criterio; aquí se usa solo en su función descriptiva.
 ⁷ Kratos, Prólogo, § III, entrada «Disforia de identidad», y cap. 6, «La
 disforia de identidad colectiva».
 ⁸ Caelus, cap. 10, §§ II–III y VII: la fricción constitutiva, que nace de la
@@ -4764,13 +4764,7 @@ vida afectado no puede recuperarse.
 que la inversión sea auditable. El § II de este capítulo lo aplicó al derecho a la
 claridad sobre el marco común; su forma en la confianza —que puede
 ofrecerse a verificación pero no exigirse— es de este capítulo.
-¹⁴ Kratos, cap. 12, «La desobediencia civil como declaración de default», § I:
-la declaración de default «no rompe el contrato sino que constata que el
-depositario ya lo rompió». Esa estructura —una salida justificada por el
-incumplimiento previo de la otra parte— pertenece al Estado, y es la que el
-texto principal declara intransferible al vínculo.
-¹⁵ Kratos, Prólogo, § III, entrada «Capital del Estado»: «Porque es un
-depósito —y no una propiedad orgánica— puede retirarse». Caelus, cap. 7,
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4780,6 +4774,13 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+¹⁴ Kratos, cap. 12, «La desobediencia civil como declaración de default», § I:
+la declaración de default «no rompe el contrato sino que constata que el
+depositario ya lo rompió». Esa estructura —una salida justificada por el
+incumplimiento previo de la otra parte— pertenece al Estado, y es la que el
+texto principal declara intransferible al vínculo.
+¹⁵ Kratos, Prólogo, § III, entrada «Capital del Estado»: «Porque es un
+depósito —y no una propiedad orgánica— puede retirarse». Caelus, cap. 7,
 nota 83: el ciudadano «puede retirar el reconocimiento, pero no puede
 recuperar el capital cedido». La distinción temporal que concilia ambas
 formulaciones es de este capítulo.
@@ -5368,8 +5369,7 @@ Multidisciplinario Meriadock, 2026), cap. VI, § VII, «El respeto no
 comienza cuando el otro cambia». Véase también el § III del mismo
 capítulo: lo que el sujeto controla no es lo que el otro hace, sino lo que
 permite, lo que tolera, lo que nombra y lo que no va a sostener.
-⁶ El telar de las Moiras, cap. VIII, § XI, «Separarse: volver a habitarse». El
-epígrafe de este capítulo es literal de esa sección.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5379,6 +5379,8 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+⁶ El telar de las Moiras, cap. VIII, § XI, «Separarse: volver a habitarse». El
+epígrafe de este capítulo es literal de esa sección.
 ⁷ Es una regla de simetría de predicación: un criterio que cambia cuando
 cambia el evaluado ha dejado de ser un criterio y se ha vuelto una posición.
 Los capítulos anteriores la aplicaron entre un marco y quien es evaluado por
@@ -6007,7 +6009,7 @@ negación que no puede perder se convierte con facilidad en una cláusula
 metafísica de cierre.
 ⁶ Erich Lindemann, «Symptomatology and Management of Acute Grief»,
 American Journal of Psychiatry 101 (1944), donde se describe el duelo que se
-anticipa a una pérdida previsible. El texto principal usa el fenómeno solo
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6017,6 +6019,7 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+anticipa a una pérdida previsible. El texto principal usa el fenómeno solo
 como contraejemplo de la frase auditada; no adopta ninguna teoría clínica
 del duelo, y el capítulo IX examinará los límites del uso de categorías
 clínicas en este libro.
@@ -6024,8 +6027,8 @@ clínicas en este libro.
 peligroso».
 ⁸ El telar de las Moiras, cap. VIII, § VIII, «La domesticación: el zorro y el
 principito».
-⁹ El telar de las Moiras, cap. VIII, § IX, «Relacionarse es intercambiar partes:
-la modificación como prueba del amor».
+⁹ El telar de las Moiras, cap. VIII, § IX, «Relacionarse es intercambiar
+partes: la modificación como prueba del amor».
 ¹⁰ El telar de las Moiras, cap. VIII, § XIV, «Síntesis: amor y
 autodeterminación causal».
 ¹¹ El telar de las Moiras, cap. VIII, § V, «No recibimos el amor que
