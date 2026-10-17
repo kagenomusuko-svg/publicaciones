@@ -9075,12 +9075,11 @@ La condición 0 < |x − x₀| < δ excluye explícitamente el punto x₀ mismo 
 la condición 0 < |x − x₀|) mientras exige que x esté a distancia menor que δ
 
 
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                            201
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                             CAOS
+                                                                           CAOS
 
 de x₀. Esta exclusión del punto mismo es filosóficamente decisiva: el límite
 en x₀ es independiente del valor de f en x₀, e incluso puede existir cuando f
@@ -9110,18 +9109,17 @@ convergencia.
 
 La condición 0 < |x − x₀| < δ excluye x₀ mismo por una razón que es tanto
 técnica como filosóficamente reveladora. El límite en x₀ no es lo que la
-función vale en x₀: es lo que la función vale al acercarse a x₀ desde el exterior.
-Esta independencia del límite respecto del valor en el punto mismo es
-exactamente la estructura del ego como integral de sus colapsos pasados: el
+función vale en x₀: es lo que la función vale al acercarse a x₀ desde el
+exterior. Esta independencia del límite respecto del valor en el punto mismo
+es exactamente la estructura del ego como integral de sus colapsos pasados: el
 ego en el presente no está completamente determinado por el «valor» de
 ningún colapso individual (ningún x₀ particular), sino por la integral de
 todos los colapsos que lo rodean, que convergen hacia el punto presente.[178]
 
 
 
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                               202
+                                                                             202
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                                CAOS
@@ -9295,13 +9293,12 @@ reales de [0,1]. Contradicción. La suposición de que los reales son
 numerables es falsa.[182]
 
 El argumento diagonal es un colapso en el sentido exacto del libro. La lista
-r₁, r₂, r₃, ... es el intento de enumerar todo el infinito de lo real. El número d
-es la determinación que emerge de la colisión entre esa enumeración y la
+r₁, r₂, r₃, ... es el intento de enumerar todo el infinito de lo real. El número
+d es la determinación que emerge de la colisión entre esa enumeración y la
 estructura diagonal: el colapso que la enumeración produce en sí misma al
 aplicarse a su propia estructura. Y el resultado del colapso —d— es
 necesariamente externo a la enumeración: el proceso de determinación
 produce siempre algo que excede al proceso mismo.
-
 
 
 
@@ -9348,7 +9345,7 @@ estructuralmente mayor que cualquier enumeración de los colapsos pasados.
 2.4 El infinito como proceso: la respuesta a Poincaré
 Poincaré objetó el infinito actual de Cantor con el argumento de que solo
 son legítimas las entidades matemáticas que pueden construirse en un
-número finito de pasos.[184] Esta posición —el intuicionismo— tiene una
+
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -9357,6 +9354,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
 
+número finito de pasos.[184] Esta posición —el intuicionismo— tiene una
 fuerza filosófica real: hay algo genuinamente misterioso en hablar de «el
 conjunto de todos los reales» como si fuera un objeto completado, cuando
 ningún proceso finito puede construirlo.
@@ -9590,7 +9588,7 @@ términos de la sucesión (si no, la sucesión tendría solo finitos términos,
 contradicción). Llamemos I₁ a esa mitad. Repetimos: dividimos I₁ en dos
 mitades, al menos una contiene infinitos términos de la sucesión,
 llamémosla I₂. Continuamos produciendo una cadena de intervalos
-anidados I₁ ⊇ I₂ ⊇ I₃ ⊇ ... cuyas longitudes tienden a cero. Por el principio
+anidados I₁ ⊇ I ₂ ⊇ I ₃ ⊇ ... cuyas longitudes tienden a cero. Por el principio
 de completitud de los reales, existe exactamente un punto p en la
 intersección ∩ₙ Iₙ. Ese punto p es el punto de acumulación: para cualquier ε
 > 0, el intervalo (p − ε, p + ε) contiene al Iₙ con n suficientemente grande,
@@ -9656,11 +9654,11 @@ globalmente «grande» (con una estructura acumulativa inagotable).
 La conexión central de este apéndice puede ahora formularse con la
 precisión matemática que los conceptos previos hacen posible.
 
-Sea {cₙ}ₙ₌₁^∞ la sucesión de colapsos del ego ordenados temporalmente —los
-actos, decisiones, palabras, compromisos producidos a lo largo de la vida del
-sujeto. Esta sucesión toma valores en el espacio E de posibles
-determinaciones del ego: el espacio de todo lo que el ego puede hacer, decir,
-ser.
+Sea {cₙ}ₙ₌₁^∞ la sucesión de colapsos del ego ordenados temporalmente —
+los actos, decisiones, palabras, compromisos producidos a lo largo de la vida
+del sujeto. Esta sucesión toma valores en el espacio E de posibles
+
+
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -9668,6 +9666,9 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                         CAOS
+
+determinaciones del ego: el espacio de todo lo que el ego puede hacer, decir,
+ser.
 
 El ego en el presente es el punto de acumulación de esta sucesión en el
 espacio E. No es ningún colapso cₙ individual —ningún acto particular es el
@@ -9703,9 +9704,6 @@ afuera del conjunto actual de sus colapsos pasados. El ego vivo es siempre
 incompleto: hay siempre puntos de acumulación que todavía no han sido
 alcanzados, posibilidades que todavía no han colapsado.
 
-El ego en la muerte tiene la estructura de un conjunto cerrado —un
-conjunto perfecto, en el sentido de Cantor: C = C'. La integral se cierra, el
-conjunto de colapsos contiene todos sus propios puntos de acumulación, ya
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -9714,6 +9712,9 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
 
+El ego en la muerte tiene la estructura de un conjunto cerrado —un
+conjunto perfecto, en el sentido de Cantor: C = C'. La integral se cierra, el
+conjunto de colapsos contiene todos sus propios puntos de acumulación, ya
 no hay «siguiente colapso» que añadir. El ego muerto es topológicamente
 completo: no en el sentido de que sea exhaustivo o que haya realizado todas
 sus posibilidades, sino en el sentido de que ya no tiene frontera abierta.
@@ -9747,10 +9748,6 @@ teorema de Bolzano-Weierstrass.
 El lector matemático encontrará, esperamos, que estas conexiones no
 fuerzan los conceptos matemáticos a decir lo que no dicen: la estructura
 formal del análisis real y la teoría de conjuntos tiene, en sí misma, la riqueza
-filosófica que el libro le atribuye. La matemática no ilustra el argumento
-filosófico —lo funda.
-
-Notas
 
 
 
@@ -9758,7 +9755,12 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                              216
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
+                                                                          CAOS
+
+filosófica que el libro le atribuye. La matemática no ilustra el argumento
+filosófico —lo funda.
+
+Notas
 
 Las notas de este apéndice ofrecen referencias históricas y técnicas sobre los
 conceptos matemáticos tratados en el texto, así como conexiones
@@ -9792,19 +9794,19 @@ todavía contiene referencias temporales («cuando», «sucesivamente»), que
 Weierstrass eliminaría. Pero la intuición fundamental ya está presente: el
 límite no es el valor que la función toma en el punto, sino el valor al que los
 valores de la función se aproximan cuando la variable se aproxima al punto.
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                             217
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                              CAOS
+
 Esta separación entre la existencia del límite y el valor de la función en el
 punto es la estructura del colapso que el apéndice analiza.
 
 [179] La función de Dirichlet, definida por D(x) = 1 si x es racional y D(x) = 0
 si x es irracional, es el ejemplo estándar de una función sin límite en ningún
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              217
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                              CAOS
-
 punto. Como los racionales y los irracionales son ambos densos en los reales
 —entre cualquier dos números hay tanto un racional como un irracional
 —, para cualquier punto x₀ y cualquier δ > 0, el intervalo (x₀ - δ, x₀ + δ)
@@ -9836,20 +9838,20 @@ enumeración y completitud que anticipa el argumento diagonal, aunque la
 forma diagonal explícita aparece en el artículo de 1891. El artículo de 1874 es
 notable porque la existencia de números trascendentes ya era conocida
 (Liouville había construido uno en 1844; Hermite había demostrado que e
+
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+                                                                                218
+A.C.
+          REIVINDICACIÓN ONTOLÓGICA DEL EGO
+                                                                          CAOS
+
 era trascendente en 1873), pero Cantor demostró que los trascendentes son
 «más» que los algebraicos en el sentido preciso de la cardinalidad.
 
 [182] Cantor, Georg. «Über eine elementare Frage der
 Mannigfaltigkeitslehre» (1891). Este breve artículo, de apenas tres páginas,
 contiene el argumento diagonal en su forma más pura y general. Cantor
-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                 218
-A.C.
-          REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
-
 demuestra que para cualquier conjunto M, el conjunto de todas las funciones
 de M en {0, 1} (equivalentemente, el conjunto de todos los subconjuntos de
 M) tiene cardinalidad estrictamente mayor que M. La demostración es
@@ -9880,12 +9882,6 @@ axiomas no alcanzan.
 [184] Poincaré, Henri. «La valeur de la science» (1905) y «Science et
 méthode» (1908). Poincaré fue el matemático que más profundamente
 reflexionó sobre la naturaleza del infinito matemático desde una perspectiva
-filosófica. Su intuicionismo —la posición de que las entidades matemáticas
-solo existen si pueden ser construidas en un número finito de pasos— lo
-llevó a rechazar el infinito actual de Cantor como matemáticamente
-ilegítimo. Para Poincaré, hablar de «el conjunto de todos los números
-reales» como un objeto completado era una confusión categorial: el infinito
-es un proceso, no un objeto. Esta posición —que el apéndice trata de manera
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -9894,6 +9890,12 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
 
+filosófica. Su intuicionismo —la posición de que las entidades matemáticas
+solo existen si pueden ser construidas en un número finito de pasos— lo
+llevó a rechazar el infinito actual de Cantor como matemáticamente
+ilegítimo. Para Poincaré, hablar de «el conjunto de todos los números
+reales» como un objeto completado era una confusión categorial: el infinito
+es un proceso, no un objeto. Esta posición —que el apéndice trata de manera
 crítica aunque con respeto— captura algo genuino sobre la naturaleza del
 caos como posibilidad: el infinito del ego es infinito en el sentido de proceso
 (la integral nunca está completada en vida) aunque no en el sentido de
@@ -9924,13 +9926,6 @@ concepto de los números ordinales transfinitos: los conjuntos derivados de
 orden infinito. El proceso de derivación termina cuando se alcanza un
 conjunto «perfecto» —un conjunto que es igual a su propio derivado. Los
 conjuntos perfectos son los análogos matemáticos del ego que ha integrado
-completamente su historia: el conjunto que contiene todos sus propios
-puntos de acumulación, sin ningún punto límite externo.
-
-[187] Weierstrass, Karl. Lectures on the Theory of Functions (reconstruidas
-de notas de estudiantes, publicadas póstumamente). El teorema de Bolzano-
-Weierstrass establece que cualquier sucesión acotada de números reales tiene
-una subsucesión convergente. La demostración utiliza el principio de
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -9939,6 +9934,13 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
 
+completamente su historia: el conjunto que contiene todos sus propios
+puntos de acumulación, sin ningún punto límite externo.
+
+[187] Weierstrass, Karl. Lectures on the Theory of Functions (reconstruidas
+de notas de estudiantes, publicadas póstumamente). El teorema de Bolzano-
+Weierstrass establece que cualquier sucesión acotada de números reales tiene
+una subsucesión convergente. La demostración utiliza el principio de
 bisección: se divide el intervalo que contiene la sucesión en dos mitades; al
 menos una de ellas contiene infinitos términos de la sucesión; se itera la
 bisección sobre esa mitad, produciendo una sucesión de intervalos anidados
@@ -10144,7 +10146,6 @@ propiedades del colapso del ego que el libro describe:
 
 Primero, la irreversibilidad. Una vez que el estado |ψ⟩ ha colapsado en el
 autovector |aₙ⟩, el estado anterior no puede recuperarse mediante ninguna
-operación permitida por la mecánica cuántica. La información sobre los
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -10153,6 +10154,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                         CAOS
 
+operación permitida por la mecánica cuántica. La información sobre los
 otros coeficientes de la superposición original se pierde —o, más
 precisamente, se difunde irreversiblemente en el entorno mediante la
 decoherencia.[196] En el ego: una vez que el acto ha ocurrido, no puede
@@ -10187,8 +10189,7 @@ continúa evolucionando unitariamente, pero si solo se observa el sistema sin
 el entorno, el estado reducido del sistema parece una mezcla estadística
 clásica en lugar de una superposición cuántica.
 
-La decoherencia ocurre extremadamente rápido para objetos macroscópicos.
-Para un grano de polvo de un micrómetro, el tiempo de decoherencia en
+
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -10197,6 +10198,8 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
 
+La decoherencia ocurre extremadamente rápido para objetos macroscópicos.
+Para un grano de polvo de un micrómetro, el tiempo de decoherencia en
 condiciones normales es del orden de 10⁻²³ segundos —doce órdenes de
 magnitud más rápido que cualquier proceso f ísico ordinario. Para objetos
 más grandes, el tiempo es aún menor. Esto explica por qué no vemos
@@ -10231,9 +10234,6 @@ observables Â y B̂:
 
 ΔA · ΔB ≥ (1/2) |⟨[Â, B̂]⟩|
 
-donde ΔA = √(⟨Â²⟩ − ⟨Â⟩²) es la desviación estándar de A en el estado |ψ⟩.
-Para posición y momentum, esto da:
-
 
 
 
@@ -10241,7 +10241,10 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             227
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                       CAOS
+                                                                     CAOS
+
+donde ΔA = √(⟨Â²⟩ − ⟨Â⟩²) es la desviación estándar de A en el estado |ψ⟩.
+Para posición y momentum, esto da:
 
 Δx · Δp ≥ ℏ/2 ≈ 5.27 × 10⁻³⁵ J·s
 
@@ -10276,17 +10279,16 @@ incertidumbre cuántica no es un defecto del conocimiento. No es que la
 partícula tenga posición y momentum definidos y simplemente no podamos
 conocerlos simultáneamente. La partícula no tiene posición y momentum
 simultáneamente definidos: la indeterminación es ontológica, no
-epistemológica. Las desigualdades de Bell[202] confirman que esta
-interpretación es la correcta: no existe ninguna teoría de variables ocultas
-
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                         228
+                                                                       228
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                        CAOS
 
+epistemológica. Las desigualdades de Bell[202] confirman que esta
+interpretación es la correcta: no existe ninguna teoría de variables ocultas
 locales que pueda restaurar los valores definidos detrás de la pantalla
 cuántica.
 
@@ -10320,8 +10322,6 @@ dimensión preserva el caos en la dimensión complementaria.
 El proceso de medición, en la formulación de von Neumann, reduce la
 incertidumbre de la observable medida a cero: después del colapso, la
 partícula tiene un valor definido para esa observable. Pero esa reducción de
-incertidumbre en la observable medida viene acompañada de un aumento
-de incertidumbre en la observable complementaria.
 
 
 
@@ -10330,6 +10330,9 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                         CAOS
+
+incertidumbre en la observable medida viene acompañada de un aumento
+de incertidumbre en la observable complementaria.
 
 Si se mide la posición de una partícula con precisión Δx muy pequeña —
 proyectando la función de onda sobre un autovector casi-puntual de
@@ -10364,9 +10367,6 @@ formularse así:
 
 (1) La función de onda no describe la realidad f ísica directamente. Describe
 lo que puede decirse sobre los resultados de las mediciones futuras. La
-mecánica cuántica es una teoría sobre experimentos, no sobre la realidad en
-sí misma.
-
 
 
 
@@ -10375,6 +10375,9 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
+
+mecánica cuántica es una teoría sobre experimentos, no sobre la realidad en
+sí misma.
 
 (2) El colapso de la función de onda ocurre en el momento de la medición.
 Antes de la medición, la pregunta «¿en qué estado está el sistema?» carece
@@ -10410,9 +10413,6 @@ combinado observador-sistema entra en una superposición de estados. En
 uno de los términos de la superposición, el observador ha obtenido el
 resultado a₁ y el sistema está en |a₁⟩. En otro, el observador ha obtenido el
 resultado a₂ y el sistema está en |a₂⟩. Everett llama a estos términos «estados
-relativos»: el resultado que el observador registra es relativo a la rama de la
-superposición en que se encuentra.
-
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -10420,6 +10420,9 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
+
+relativos»: el resultado que el observador registra es relativo a la rama de la
+superposición en que se encuentra.
 
 DeWitt popularizó esta interpretación bajo el nombre «muchos mundos»:
 [205] en cada medición cuántica, el universo se bifurca en tantas copias
@@ -10455,9 +10458,6 @@ múltiples egos que se bifurcan.
 La interpretación de Copenhague —o más precisamente, la estructura que
 todas las interpretaciones que incluyen el colapso como evento real
 comparten— es la que el libro requiere. Esa estructura es:
-
-
-
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                              232
@@ -10691,20 +10691,20 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                               237
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                            CAOS
+                                                                         CAOS
 
 de manera que la «separabilidad» del ego —la posibilidad de describir
 completamente al ego sin referencia a los otros con los que se ha constituido
 — es tan imposible como la separabilidad de dos partículas entrelazadas.
 
-El estado entrelazado |Φ⁺⟩ = (1/√2)(|↑⟩₁|↑⟩₂ + |↓⟩₁|↓⟩₂) no puede escribirse como
-el producto de estados individuales de cada partícula porque las partículas
-han perdido su independencia. Análogamente, el ego que ha interactuado
-con otros egos —que ha amado, disputado, aprendido, comprometido— no
-puede describirse completamente sin referencia a esas interacciones. La
-identidad del ego es no-separable de la misma manera que un estado
-entrelazado es no-separable: no hay ego «puro» detrás de las interacciones,
-como no hay partícula «pura» detrás del entrelazamiento.
+El estado entrelazado |Φ⁺⟩ = (1/√2)(|↑⟩₁|↑⟩₂ + |↓⟩₁|↓⟩₂) no puede escribirse
+como el producto de estados individuales de cada partícula porque las
+partículas han perdido su independencia. Análogamente, el ego que ha
+interactuado con otros egos —que ha amado, disputado, aprendido,
+comprometido— no puede describirse completamente sin referencia a esas
+interacciones. La identidad del ego es no-separable de la misma manera que
+un estado entrelazado es no-separable: no hay ego «puro» detrás de las
+interacciones, como no hay partícula «pura» detrás del entrelazamiento.
 
 Las desigualdades de Bell[208] demuestran que el entrelazamiento cuántico
 no puede explicarse mediante ningún acuerdo previo entre las partículas —
@@ -10732,7 +10732,7 @@ tiempos de 10⁻²³ segundos o menos. La mecánica cuántica de las neuronas y
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              238
+                                                                            238
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -10870,7 +10870,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             241
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
+                                                                         CAOS
 
 vida: «Dios no juega a los dados.» Born recibió el Premio Nobel de Física en
 1954 precisamente por esta interpretación, que en la actualidad es el pilar de
@@ -10882,11 +10882,11 @@ cuántica moderna. Un estado cuántico es un vector |ψ⟩ en un espacio de
 Hilbert (un espacio vectorial complejo con producto interno). Las
 observables f ísicas son operadores hermíticos que actúan sobre ese espacio.
 La medición de una observable Â con autovalores aₙ y autovectores |aₙ⟩
-proyecta el estado |ψ⟩ sobre uno de los autovectores |aₙ⟩ con probabilidad |⟨aₙ|
-ψ⟩|². La notación de Dirac hace explícita la estructura del colapso: el estado |
-ψ⟩ es una superposición de autovectores, y la medición «selecciona» uno de
-ellos. El colapso es la proyección del vector de estado sobre una dimensión
-del espacio de Hilbert.
+proyecta el estado |ψ⟩ sobre uno de los autovectores |aₙ⟩ con probabilidad |
+⟨aₙ|ψ⟩|². La notación de Dirac hace explícita la estructura del colapso: el
+estado |ψ⟩ es una superposición de autovectores, y la medición «selecciona»
+uno de ellos. El colapso es la proyección del vector de estado sobre una
+dimensión del espacio de Hilbert.
 
 [193] Bell, John S. «On the Einstein Podolsky Rosen Paradox», Physics
 Physique Fizika, vol. 1, n.º 3 (1964), pp. 195-200. El teorema de Bell
@@ -10911,7 +10911,7 @@ conocimiento: constituye una restricción experimental sobre las estructuras
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             242
+                                                                           242
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -11629,7 +11629,6 @@ La integración de una secuencia de actos puede depender de su orden. Para
 ciertas trayectorias I₀ y actos a y b, φ₂(b,φ₂(a,I₀)) ≠ φ₂(a,φ₂(b,I₀)). Esto no
 
 
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                              258
 A.C.
@@ -11675,7 +11674,6 @@ pero cuya segunda mediación falla, de modo que actúa sin construirse.
 
 La doble mediación es la condición necesaria y suficiente del ego en el
 sentido técnico de esta ontología. «Necesaria»: sin doble mediación no hay
-
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             259
@@ -12225,14 +12223,18 @@ efectivas» a cada escala emergen de las leyes de la escala inferior mediante
 un proceso de integración sobre los grados de libertad irrelevantes a esa
 escala. El concepto de impermeabilidad causal entre escalas en este libro
 tiene una estructura análoga: las leyes efectivas de la escala superior no son
-deducibles directamente de las de la escala inferior, aunque emergen de
-ellas.
+
+
+
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             271
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
+
+deducibles directamente de las de la escala inferior, aunque emergen de
+ellas.
 
 [216] La noción de «propiedad emergente» (Anderson, P.W. «More Is
 Different», Science, 1972) es el antecedente científico más preciso de la
@@ -12267,18 +12269,19 @@ primera mediación) no habría ocurrido si no hubiera habido un ego con
 primera mediación. El movimiento f ísico podría haber ocurrido, pero no el
 acto como acto.
 
-[219] La imputación como relación entre el ego y sus actos tiene una doble
-estructura en el derecho: la imputación de hecho (Zurechnung der Tat, en la
-terminología de Kelsen) y la imputación de derecho (la consecuencia
-jurídica que el sistema normativo asigna al hecho imputable). Este glosario
+
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             272
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                     CAOS
+                                                                      CAOS
 
+[219] La imputación como relación entre el ego y sus actos tiene una doble
+estructura en el derecho: la imputación de hecho (Zurechnung der Tat, en la
+terminología de Kelsen) y la imputación de derecho (la consecuencia
+jurídica que el sistema normativo asigna al hecho imputable). Este glosario
 usa «imputación» en el sentido de la imputación de hecho: la atribución
 del acto al ego como su condición sine qua non con primera mediación. La
 consecuencia normativa que se asigna a esa imputación —la responsabilidad
@@ -12289,6 +12292,6 @@ sistema normativo en que opera la imputación.
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                        273
+                                                                         273
 A.C.
 
