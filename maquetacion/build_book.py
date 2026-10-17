@@ -353,7 +353,7 @@ def document_html(
     sections.append(f'<section class="cover-page"><img src="{back}"></section>')
     return (
         '<!doctype html><html lang="es"><head><meta charset="utf-8">'
-        f'<style>{css}\n.math-subscript { font-family: "DejaVu Serif", serif; }</style></head><body>{header}{"".join(sections)}</body></html>'
+        f'<style>{css}\n.math-subscript {{ font-family: "DejaVu Serif", serif; }}</style></head><body>{header}{"".join(sections)}</body></html>'
     )
 
 
