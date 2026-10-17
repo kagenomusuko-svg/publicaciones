@@ -32,11 +32,39 @@ MATH_GLYPH_RE = re.compile(
     r"\u2190-\u21ff\u2200-\u22ff\u27c0-\u27ef"
     r"\u2980-\u29ff\u2a00-\u2aff])"
 )
+MATH_SCRIPT_START_RE = re.compile(r"([A-Za-zΑ-ω]+|[0-9]+|[∪∩ΣΠ∫])([_^])\\\\{")
+
+
+def format_math_scripts(value: str) -> str:
+    output: list[str] = []
+    position = 0
+    while position < len(value):
+        match = MATH_SCRIPT_START_RE.search(value, position)
+        if not match:
+            output.append(value[position:])
+            break
+        output.append(value[position:match.start()])
+        start = match.end()
+        depth = 1
+        end = start
+        while end < len(value) and depth:
+            if value[end] == "{":
+                depth += 1
+            elif value[end] == "}":
+                depth -= 1
+            end += 1
+        if depth:
+            output.append(value[match.start():])
+            break
+        tag = "sub" if match.group(2) == "_" else "sup"
+        content = format_math_scripts(value[start:end - 1])
+        output.append(f"{match.group(1)}<{tag}>{content}</{tag}>")
+        position = end
+    return "".join(output)
 
 
 def format_math_text(value: str) -> str:
-    value = re.sub(r"([A-Za-zΑ-ω∪∩ΣΠ∫]+)_\{([^{}]+)\}", r"\1<sub>\2</sub>", value)
-    value = re.sub(r"([A-Za-zΑ-ω0-9|])\^\{([^{}]+)\}", r"\1<sup>\2</sup>", value)
+    value = format_math_scripts(value)
     value = MODIFIER_SCRIPT_RE.sub(
         lambda match: f"<{MODIFIER_SCRIPT_TAGS[match.group(1)][0]}>{MODIFIER_SCRIPT_TAGS[match.group(1)][1]}</{MODIFIER_SCRIPT_TAGS[match.group(1)][0]}>",
         value,
