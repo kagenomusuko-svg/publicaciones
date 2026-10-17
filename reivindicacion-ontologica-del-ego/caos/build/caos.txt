@@ -9262,9 +9262,8 @@ diferencia crucial entre continuidad y existencia del límite es que la
 continuidad requiere además que el límite en x₀ sea igual al valor de la
 función en x₀: lim_{x→x₀} f(x) = f(x₀). Una función puede tener límite en
 un punto sin ser continua allí (si el valor de la función en el punto es
-distinto del límite), y también puede ser continua en un punto sin que el
-punto esté en el dominio (en cuyo caso la continuidad en ese punto no tiene
-sentido). La continuidad es el caso donde el «colapso» y el «valor actual»
+distinto del límite), y no puede ser continua en un punto que no esté en su
+dominio. La continuidad es el caso donde el «colapso» y el «valor actual»
 coinciden: donde el ego que emerge de la integral de sus colapsos pasados es
 consistente con el colapso que está ocurriendo ahora.
 [181] Cantor, Georg. «Über eine Eigenschaft des Inbegriffes aller reellen
@@ -9281,6 +9280,7 @@ era trascendente en 1873), pero Cantor demostró que los trascendentes son
 «más» que los algebraicos en el sentido preciso de la cardinalidad.
 [182] Cantor, Georg. «Über eine elementare Frage der
 Mannigfaltigkeitslehre» (1891). Este breve artículo, de apenas tres páginas,
+contiene el argumento diagonal en su forma más pura y general. Cantor
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -9290,7 +9290,6 @@ A.C.
 
 CAOS
 
-contiene el argumento diagonal en su forma más pura y general. Cantor
 demuestra que para cualquier conjunto M, el conjunto de todas las funciones
 de M en {0, 1} (equivalentemente, el conjunto de todos los subconjuntos de
 M) tiene cardinalidad estrictamente mayor que M. La demostración es
@@ -9324,6 +9323,7 @@ solo existen si pueden ser construidas en un número finito de pasos— lo
 llevó a rechazar el infinito actual de Cantor como matemáticamente
 ilegítimo. Para Poincaré, hablar de «el conjunto de todos los números
 reales» como un objeto completado era una confusión categorial: el infinito
+es un proceso, no un objeto. Esta posición —que el apéndice trata de manera
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9334,7 +9334,6 @@ A.C.
 
 CAOS
 
-es un proceso, no un objeto. Esta posición —que el apéndice trata de manera
 crítica aunque con respeto— captura algo genuino sobre la naturaleza del
 caos como posibilidad: el infinito del ego es infinito en el sentido de proceso
 (la integral nunca está completada en vida) aunque no en el sentido de
@@ -9367,6 +9366,7 @@ completamente su historia: el conjunto que contiene todos sus propios
 puntos de acumulación, sin ningún punto límite externo.
 [187] Weierstrass, Karl. Lectures on the Theory of Functions (reconstruidas
 de notas de estudiantes, publicadas postumamente). El teorema de BolzanoWeierstrass establece que cualquier sucesión acotada de números reales tiene
+una subsucesión convergente. La demostración utiliza el principio de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -9376,7 +9376,6 @@ A.C.
 
 CAOS
 
-una subsucesión convergente. La demostración utiliza el principio de
 bisección: se divide el intervalo que contiene la sucesión en dos mitades; al
 menos una de ellas contiene infinitos términos de la sucesión; se itera la
 bisección sobre esa mitad, produciendo una sucesión de intervalos anidados
