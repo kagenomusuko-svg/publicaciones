@@ -440,8 +440,8 @@ Capítulo 1
 Antes de la determinación
 Caos, colapso y la frontera del no-ser
 
-«ἦτοι μὲν πρώτιστα Χάος γένετ'» En verdad, al principio fue el
-Caos. — Hesíodo, Teogonía, v. 116
+«ἦτοι μὲν πρώτιστα Χάος γένετ'» En verdad, al principio fue el Caos. —
+Hesíodo, Teogonía, v. 116
 
 I. Caos no es desorden
 Antes de que haya algo determinado, hay lo que Hesíodo llamó Caos.
@@ -938,13 +938,13 @@ dos cosas separadas sino los dos ejes del mismo fenómeno.
 ¿Qué relación existe entre aquello que es y aquello que está?
 Esa es la pregunta que el siguiente capítulo tiene que responder.
 
-¹ Hesíodo, Teogonía, v. 116: «ἦτοι μὲν πρώτιστα Χάος γένετ'». La
-palabra χάος nombra la hendidura, la apertura, el abismo — no el
-desorden. M.L. West subraya que la imagen hesiódica es la de una brecha
-abierta en el espacio desde la cual emergen las primeras potencias cósmicas:
-Hesiod, Theogony (Oxford: Clarendon Press, 1966), pp. 192-193. Que el Caos
-no sea la nada sino la apertura es constitutivo para el argumento: la nada no
-produce; la apertura sí.
+¹ Hesíodo, Teogonía, v. 116: «ἦτοι μὲν πρώτιστα Χάος γένετ'». La palabra χάος
+nombra la hendidura, la apertura, el abismo — no el desorden. M.L. West
+subraya que la imagen hesiódica es la de una brecha abierta en el espacio
+desde la cual emergen las primeras potencias cósmicas: Hesiod, Theogony
+(Oxford: Clarendon Press, 1966), pp. 192-193. Que el Caos no sea la nada sino
+la apertura es constitutivo para el argumento: la nada no produce; la
+apertura sí.
 ² Aristóteles, Física, I.4, 187a12-20; Metafísica, I.3, 983b6-18. La crítica
 aristotélica a los filósofos que postularon un principio (ἀρχή) sin
 determinación — ya sea el agua de Tales, el ápeiron de Anaximandro, el aire
@@ -978,27 +978,26 @@ objeto dentro del modelo. Esto no equivale a decir que el Caos en el sentido
 de este libro existía antes — equivale a disolver la pregunta f ísica. La
 pregunta ontológica que este libro plantea es distinta y no queda disuelta
 por el modelo de Hartle-Hawking.
-⁵ Aristóteles, Física, I.9, 192a3-8; Metafísica, VII.3, 1029a20-26. La ὕλη
-πρώτη como sustrato sin cualidades propias que subyace a todo cambio
-sustancial. La diferencia con el Caos: la materia prima es una noción dentro
-de la metaf ísica de la forma y la sustancia — es lo que recibe formas, y ese
-ser-receptivo es ya una determinación. El Caos precede incluso a la
-distinción entre lo receptivo y lo recibido.
-⁶ Aristóteles, Metafísica, IX (Θ), 1045b27-1051b2. La distinción entre
-δύναμις (potencia) y ἐνέργεια (acto). La potencia no es no-ser: es ser en
-potencia, el ser que puede llegar a ser algo que todavía no es en acto. Un
-trozo de madera tiene en potencia la forma de la estatua; la estatua es ese
-trozo de madera en acto. La transición de potencia a acto no es tránsito por
-el no-ser sino despliegue del ser desde un modo al otro.
+⁵ Aristóteles, Física, I.9, 192a3-8; Metafísica, VII.3, 1029a20-26. La ὕλη πρώτη
+como sustrato sin cualidades propias que subyace a todo cambio sustancial.
+La diferencia con el Caos: la materia prima es una noción dentro de la
+metafísica de la forma y la sustancia — es lo que recibe formas, y ese serreceptivo es ya una determinación. El Caos precede incluso a la distinción
+entre lo receptivo y lo recibido.
+⁶ Aristóteles, Metafísica, IX (Θ), 1045b27-1051b2. La distinción entre δύναμις
+(potencia) y ἐνέργεια (acto). La potencia no es no-ser: es ser en potencia, el
+ser que puede llegar a ser algo que todavía no es en acto. Un trozo de madera
+tiene en potencia la forma de la estatua; la estatua es ese trozo de madera en
+acto. La transición de potencia a acto no es tránsito por el no-ser sino
+despliegue del ser desde un modo al otro.
 ⁷ Parménides, Sobre la naturaleza, fragmentos DK 28 B 2-8, especialmente
-B 6: «χρὴ τὸ λέγειν τε νοεῖν τ' ἐὸν ἔμμεναι» — es necesario que lo
-que puede decirse y pensarse sea. La lectura de G.E.L. Owen en «Eleatic
-Questions», Classical Quarterly 10 (1960): 84-102, distingue entre la vía del
-ser, la vía del no-ser y la vía de lo que es y no es. Owen argumenta que
-Parménides no niega la experiencia sensible sino que la ubica en la tercera
-vía — la vía de los mortales que mezclan ser y no-ser sin advertirlo. La
-lectura del sum es compatible con la de Owen: Parménides establece la
-frontera sin exigir que el mundo sensible sea ilusorio.
+B 6: «χρὴ τὸ λέγειν τε νοεῖν τ' ἐὸν ἔμμεναι» — es necesario que lo que puede
+decirse y pensarse sea. La lectura de G.E.L. Owen en «Eleatic Questions»,
+Classical Quarterly 10 (1960): 84-102, distingue entre la vía del ser, la vía del
+no-ser y la vía de lo que es y no es. Owen argumenta que Parménides no
+niega la experiencia sensible sino que la ubica en la tercera vía — la vía de
+los mortales que mezclan ser y no-ser sin advertirlo. La lectura del sum es
+compatible con la de Owen: Parménides establece la frontera sin exigir que
+el mundo sensible sea ilusorio.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1016,12 +1015,12 @@ del espacio y del tiempo que Aristóteles rechaza con la distinción entre el
 continuo y sus partes potenciales. La interpretación del sum: el problema no
 es el modelo del espacio sino la premisa de que el movimiento implica
 tránsito por el no-ser.
-⁹ Parménides, DK 28 B 7: «οὐ γὰρ μήποτε τοῦτο δαμῇ εἶναι μὴ
-ἐόντα» — nunca podría esto doblegarse: que las cosas que no son, sean. Y B
-6: «μὴ ἐόν» — lo que no es — no puede ser pensado ni dicho sin ya darle
-un tipo de ser. La trampa que la ontología tiene que evitar: hablar del no-ser
-como si fuera un objeto produce siempre una contradicción, porque el acto
-mismo de nombrarlo lo convierte en algo que es.
+⁹ Parménides, DK 28 B 7: «οὐ γὰρ μήποτε τοῦτο δαμῇ εἶναι μὴ ἐόντα» —
+nunca podría esto doblegarse: que las cosas que no son, sean. Y B 6: «μὴ ἐόν»
+— lo que no es — no puede ser pensado ni dicho sin ya darle un tipo de ser.
+La trampa que la ontología tiene que evitar: hablar del no-ser como si fuera
+un objeto produce siempre una contradicción, porque el acto mismo de
+nombrarlo lo convierte en algo que es.
 ¹⁰ Meinong, Alexius, «Über Gegenstandstheorie» (1904), en
 Untersuchungen zur Gegenstandstheorie und Psychologie. La teoría de los
 objetos: hay objetos que subsisten sin existir (los objetos abstractos), objetos
@@ -1422,8 +1421,8 @@ forma en que el estar se despliega a lo largo de la trayectoria del ser. El río
 que fluye no es el mismo en cada instante en el sentido de que sus
 propiedades específicas cambian constantemente. Pero es el mismo río en el
 sentido de que su ser persiste a través de ese cambio — y de hecho, Heráclito
-lo dice: «en los ríos que entran los mismos, fluyen aguas distintas».⁵ No
-dice que sea otro río. Dice que las aguas son distintas. El río — su ser — es el
+lo dice: «en los ríos que entran los mismos, fluyen aguas distintas».⁵ No dice
+que sea otro río. Dice que las aguas son distintas. El río — su ser — es el
 mismo. Las aguas — su estar — fluyen.
 Heráclito vio algo que Parménides tendía a oscurecer: que la permanencia
 sin devenir no es permanencia del ser sino parálisis. El fuego que deja de
@@ -1792,10 +1791,10 @@ dependiente) en el Abhidharmakośa de Vasubandhu y en el pensamiento
 mādhyamaka de Nāgārjuna. No hay sustancia permanente: solo eventos,
 relaciones, procesos interdependientes. La persona es una designación
 convencional sobre un flujo de dharmas, no una entidad sustancial.
-⁵ Heráclito, fragmento DK 22 B 12: «ποταμοῖσι τοῖσιν αὐτοῖσιν
-ἐμβαίνουσιν, ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ». El fragmento más
-preciso sobre el río — no B 91, que es de Plutarco. Heráclito no dice que sea
-otro río: dice que son otras aguas. El río permanece; las aguas fluyen.
+⁵ Heráclito, fragmento DK 22 B 12: «ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν,
+ἕτερα καὶ ἕτερα ὕδατα ἐπιρρεῖ». El fragmento más preciso sobre el río — no
+B 91, que es de Plutarco. Heráclito no dice que sea otro río: dice que son otras
+aguas. El río permanece; las aguas fluyen.
 ⁶ Aristóteles, Física, II, 1, 192b8-23; Metafísica, IX, 6-9, 1048a25-1051b2. La
 distinción entre potencia (dynamis) y acto (energeia). La teleología
 aristotélica: la potencia tiende naturalmente hacia el acto que le es propio, el
@@ -1874,9 +1873,9 @@ sentido en ambos casos, aunque los modos de ser sean radicalmente
 diferentes. La univocidad es del predicado, no de aquello de lo que se
 predica.
 Esta distinción es exactamente la que el sum necesita. La univocidad
-ontológica que Νικόμαχος defiende no afirma que la roca, el humano y
-Zeus sean lo mismo. Afirma que cuando se dice que la roca es, que el
-humano es, y que Zeus es, el predicado «es» conserva el mismo sentido en
+ontológica que Νικόμαχος defiende no afirma que la roca, el
+humano y Zeus sean lo mismo. Afirma que cuando se dice que la roca es, que
+el humano es, y que Zeus es, el predicado «es» conserva el mismo sentido en
 los tres casos — el sentido que los capítulos anteriores construyeron: ser
 determinado, tener trayectoria, estar de algún modo dentro del infinito del
 Caos, haber comparecido como consecuencia de un colapso. Lo que varía
@@ -2122,14 +2121,14 @@ roca, al número primo, a Don Quijote, a Zeus. Y si se deja fuera a todos esos
 seres, la univocidad ontológica que el sum establece no produce ninguna
 explicitación constitutiva: solo produce una propiedad que algunos seres
 tienen y otros no.
-El argumento de Νικόμαχος exige comenzar más atrás. La dignidad no
-puede fundarse en la racionalidad sin excluir a los seres no racionales. No
-puede fundarse en la capacidad de sufrir sin excluir a los seres incapaces de
-sufrir. No puede fundarse en la conciencia, en la agencia, en la moralidad,
-en ninguna propiedad que solo algunos seres tengan. Si la dignidad se funda
-en alguna de esas propiedades, deja de ser una explicitación constitutiva del
-ser qua ser y se convierte en una propiedad que se predica de ciertos modos
-del ser.
+El argumento de Νικόμαχος exige comenzar más atrás. La
+dignidad no puede fundarse en la racionalidad sin excluir a los seres no
+racionales. No puede fundarse en la capacidad de sufrir sin excluir a los seres
+incapaces de sufrir. No puede fundarse en la conciencia, en la agencia, en la
+moralidad, en ninguna propiedad que solo algunos seres tengan. Si la
+dignidad se funda en alguna de esas propiedades, deja de ser una
+explicitación constitutiva del ser qua ser y se convierte en una propiedad que
+se predica de ciertos modos del ser.
 La dignidad tiene que comenzar antes que el humano. Antes que la
 conciencia. Antes que la racionalidad. Antes que la capacidad de sufrir.
 Tiene que comenzar donde comienza el ser.
@@ -2675,6 +2674,7 @@ que el libro tiene que desmontar por separado.
 El primer error: «si la predicación es parcial, entonces no dice nada real
 sobre X — solo dice algo sobre cómo X aparece desde esta perspectiva, no
 sobre lo que X es». Ese error convierte la parcialidad en relativismo: si toda
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3904,16 +3904,17 @@ Aristóteles no fue maestro de Alejandro. La rigidez de la referencia no
 implica que ninguna propiedad del referente sea esencial — implica que el
 nombre fija la referencia independientemente de las propiedades.
 ⁴ Aristóteles, Categorías, caps. 4-9 (1b25-11b14). Las diez categorías: sustancia
-(οὐσία), cantidad (ποσόν), cualidad (ποιόν), relación (πρός τι), lugar
-(ποῦ), tiempo (ποτέ), posición (κεῖσθαι), estado (ἔχειν), acción
-(ποιεῖν), pasión (πάσχειν). No todo puede predicarse de todo: la
-categoría del predicado tiene que ser compatible con la categoría del sujeto
-para que la predicación tenga sentido. La cualidad «blanco» puede
-predicarse de la sustancia «Pedro»; la sustancia «Pedro» no puede
-predicarse de la cualidad «blanco».
+(οὐσία), cantidad (ποσόν), cualidad (ποιόν), relación (πρός τι), lugar (ποῦ),
+tiempo (ποτέ), posición (κεῖσθαι), estado (ἔχειν), acción (ποιεῖν), pasión
+(πάσχειν). No todo puede predicarse de todo: la categoría del predicado tiene
+que ser compatible con la categoría del sujeto para que la predicación tenga
+sentido. La cualidad «blanco» puede predicarse de la sustancia «Pedro»; la
+sustancia «Pedro» no puede predicarse de la cualidad «blanco».
 ⁵ Korzybski, Alfred, Science and Sanity (1933): «el mapa no es el territorio».
 La confusión entre la representación y lo representado es la fuente de
 algunos de los errores más persistentes en el pensamiento humano. Para los
+propósitos de este libro: la predicación no es el ser del predicado, del mismo
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3923,7 +3924,6 @@ A.C.
 
 NIKOMACHOS
 
-propósitos de este libro: la predicación no es el ser del predicado, del mismo
 modo en que el mapa no es el territorio que representa. Un mapa muy
 preciso puede ser enormemente útil sin dejar de ser un mapa.
 
@@ -5054,7 +5054,7 @@ esa medición dice algo sobre el desempeño de Pedro en un conjunto
 específico de tareas bajo condiciones específicas. No dice nada sobre la
 capacidad cognitiva de Pedro en general — mucho menos sobre su ser qua
 ser. Un test de inteligencia es un instrumento que mide cierto tipo de
-
+rendimiento en cierto tipo de tareas. El error de confundir ese instrumento
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5064,7 +5064,6 @@ A.C.
 
 NIKOMACHOS
 
-rendimiento en cierto tipo de tareas. El error de confundir ese instrumento
 con una medición del ser qua ser de la inteligencia de Pedro ha producido
 consecuencias históricas que el siglo XX documentó abundantemente.
 
@@ -5095,6 +5094,7 @@ precisión que no tiene rival en la historia de la ciencia. No mide la
 partículas cuánticas en sí mismas continúa y es genuinamente filosófico.⁶ Lo
 que mide la física cuántica son propiedades operacionalmente definidas —
 posición, momento, espín, carga — con procedimientos de medición que
+producen valores con incertidumbre conocida. Esas mediciones son
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5105,7 +5105,6 @@ A.C.
 
 NIKOMACHOS
 
-producen valores con incertidumbre conocida. Esas mediciones son
 conocimiento real. No son conocimiento exhaustivo del ser qua ser de las
 partículas.
 La neurociencia mide la actividad cerebral con resoluciones espaciales y
@@ -5424,6 +5423,7 @@ en Collected Papers, vol. 2. La abducción como el tercer modo de
 razonamiento, distinto de la deducción y la inducción: el razonamiento que
 va de efectos a causas, de fenómenos a hipótesis explicativas. También «A
 Neglected Argument for the Reality of God» (1908): la abducción como la
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5765,9 +5765,9 @@ A.C.
 NIKOMACHOS
 
 VI. Noúmeno como frontera
-El noúmeno — del griego νοούμενον, «lo pensado» — es el objeto
-pensado independientemente de las condiciones de la intuición sensible.
-Kant lo introdujo en dos sentidos que es importante distinguir.
+El noúmeno — del griego νοούμενον, «lo pensado» — es el objeto pensado
+independientemente de las condiciones de la intuición sensible. Kant lo
+introdujo en dos sentidos que es importante distinguir.
 En sentido negativo: el noúmeno es el concepto de un objeto que no es
 objeto de la intuición sensible. No es el objeto de ningún conocimiento
 teórico posible. Es el concepto del límite — aquello que marca el borde más
@@ -5794,6 +5794,7 @@ objeto que el conocimiento pueda tomar como tal.
 VII. Lo que no comparece exhaustivamente
 Lo que Kant estableció — y que el argumento del sum puede usar
 directamente, sin necesidad de comprometerse con toda la arquitectura
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6099,24 +6100,24 @@ solo usando la distinción entre razón teórica y razón práctica que el propi
 Kant estableció — es que hay una tensión entre los dos dominios que el
 sistema no resuelve en el nivel del sujeto específico.
 Esa tensión es la crítica interna. No requiere ninguna premisa de
-Νικόμαχος para producirse — requiere solo tomar en serio lo que la
-Crítica de la razón pura establece y aplicarlo al dominio que la Crítica de la
-razón práctica pretende gobernar.
+Νικόμαχος para producirse — requiere solo tomar en serio lo
+que la Crítica de la razón pura establece y aplicarlo al dominio que la Crítica
+de la razón práctica pretende gobernar.
 La crítica autoral viene después, y conviene declararla explícitamente para
-no mezclarla con la interna. Νικόμαχος no funda la dignidad en la
-racionalidad — la funda en el ser qua ser. Esa divergencia de fundamento
-tiene consecuencias que difieren de las kantianas: la dignidad no depende de
-la racionalidad y por tanto no puede retirarse cuando la racionalidad falla o
-está ausente. La imputabilidad no requiere acceso al noúmeno del sujeto —
-requiere la estructura de la doble mediación que Caos construyó, que opera
-en el nivel del fenómeno sin necesitar el noúmeno. Esas son divergencias
-autorales, y se presentan como tales: son consecuencias de premisas propias,
-no tensiones dentro del sistema kantiano.
+no mezclarla con la interna. Νικόμαχος no funda la dignidad
+en la racionalidad — la funda en el ser qua ser. Esa divergencia de
+fundamento tiene consecuencias que difieren de las kantianas: la dignidad
+no depende de la racionalidad y por tanto no puede retirarse cuando la
+racionalidad falla o está ausente. La imputabilidad no requiere acceso al
+noúmeno del sujeto — requiere la estructura de la doble mediación que
+Caos construyó, que opera en el nivel del fenómeno sin necesitar el
+noúmeno. Esas son divergencias autorales, y se presentan como tales: son
+consecuencias de premisas propias, no tensiones dentro del sistema
+kantiano.
 La crítica interna muestra que Kant tiene un problema que su propio
 sistema no resuelve al nivel del sujeto específico. La crítica autoral muestra
-que Νικόμαχος resuelve ese problema de otra manera — no recuperando
-el noúmeno, sino disolviendo la dependencia del noúmeno.
-
+que Νικόμαχος resuelve ese problema de otra manera — no
+recuperando el noúmeno, sino disolviendo la dependencia del noúmeno.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6226,8 +6227,8 @@ consistencia. La analogía con el límite kantiano no es formal — Gödel
 habla de sistemas formales, Kant de la experiencia posible — pero la
 estructura es análoga: el sistema no puede cerrarse sobre sí mismo desde
 adentro.
-⁵ Kant, Immanuel, Crítica de la razón práctica (1788), Libro I, Cap. III:
-«De los motores de la razón pura práctica». La distinción entre el sujeto
+⁵ Kant, Immanuel, Crítica de la razón práctica (1788), Libro I, Cap. III: «De
+los motores de la razón pura práctica». La distinción entre el sujeto
 fenoménico (determinado causalmente) y el sujeto noumenal (libre, capaz
 de actuar por la ley moral). También Fundamentación de la metafísica de
 las costumbres (1785), Sección III: «Tránsito de la metaf ísica de las
@@ -6896,13 +6897,13 @@ permiten identificar con precisión. Y esa precisión no debilita la crítica: l
 hace más honesta y, por eso mismo, más dif ícil de ignorar.
 
 ¹ Aristóteles, Metafísica, IX (Θ), especialmente 1045b27-1051b2. La
-distinción entre potencia (δύναμις) y acto (ἐνέργεια/ἐντελέχεια). El
-acto es la realización de la potencia — lo que puede ser en tanto es. Para la
-relación entre acto y determinación en el sentido del sum: el acto
-aristotélico actualiza una potencia preexistente; el acto del sum colapsa una
-posibilidad en una determinación irreversible. La diferencia es la teleología:
-Aristóteles necesita que la potencia tienda hacia el acto; el sum no necesita
-esa dirección.
+distinción entre potencia (δύναμις) y acto (ἐνέργεια/ἐντελέχεια). El acto es la
+realización de la potencia — lo que puede ser en tanto es. Para la relación
+entre acto y determinación en el sentido del sum: el acto aristotélico
+actualiza una potencia preexistente; el acto del sum colapsa una posibilidad
+en una determinación irreversible. La diferencia es la teleología: Aristóteles
+necesita que la potencia tienda hacia el acto; el sum no necesita esa
+dirección.
 ² La primera mediación como el espacio entre estímulo y respuesta es la
 terminología de Caos: El abismo del ego y la doble mediación (2026). La
 primera mediación es la condición de posibilidad de la imputabilidad: el
@@ -6916,7 +6917,8 @@ actividad que ocurre directamente entre seres humanos sin la mediación de
 objetos o materia — y en ella el agente se revela a quienes lo rodean. «Con
 palabras y acciones nos insertamos en el mundo humano.» La acción revela
 el quién — no el qué del agente.
-
+⁴ MacIntyre, Alasdair, Tras la virtud (1981), cap. 15: «Las virtudes, la unidad
+de la vida humana y el concepto de tradición». Los actos son ininteligibles
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6926,8 +6928,6 @@ A.C.
 
 NIKOMACHOS
 
-⁴ MacIntyre, Alasdair, Tras la virtud (1981), cap. 15: «Las virtudes, la unidad
-de la vida humana y el concepto de tradición». Los actos son ininteligibles
 sin las narrativas en las que están inscritos: «somos los coautores de nuestras
 propias narrativas, pero nunca sus autores únicos». La unidad de la vida
 humana como narrativa: el concepto de identidad personal que puede
@@ -6959,6 +6959,9 @@ conecta los actos pasados con el sujeto presente.
 ⁸ Aristóteles, Ética Nicomáquea, Libro II, 1103a14-b25. La formación del
 carácter a través del hábito: «nos hacemos justos practicando actos justos, y
 valientes practicando actos valientes». El carácter virtuoso no es innato sino
+adquirido mediante la repetición de actos hasta que las disposiciones se
+incorporen como parte del quién del sujeto. Para la confirmación
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6968,15 +6971,13 @@ A.C.
 
 NIKOMACHOS
 
-adquirido mediante la repetición de actos hasta que las disposiciones se
-incorporen como parte del quién del sujeto. Para la confirmación
 psicológica contemporánea, véase Duhigg, Charles, El poder de los hábitos
 (2012) y Baumeister, Roy, y Tierney, John, Willpower (2011).
-⁹ Ricoeur, Paul, Sí mismo como otro (1990), Estudio V-VI. La distinción
-entre identidad-idem (mismidad: lo que permanece igual a través del
-cambio) e identidad-ipse (ipseidad: el quién del sujeto que se mantiene fiel a
-sus compromisos). La narrativa como la forma en que el sujeto integra las
-dos dimensiones de su identidad: «¿quién soy yo?» se responde contando la
+⁹ Ricoeur, Paul, Sí mismo como otro (1990), Estudio V-VI. La distinción entre
+identidad-idem (mismidad: lo que permanece igual a través del cambio) e
+identidad-ipse (ipseidad: el quién del sujeto que se mantiene fiel a sus
+compromisos). La narrativa como la forma en que el sujeto integra las dos
+dimensiones de su identidad: «¿quién soy yo?» se responde contando la
 historia de mi vida. Para la relación con la imputabilidad, véanse los
 Estudios VII-VIII: el sujeto responsable es el que puede imputarse sus propios
 actos como parte de la historia que lo constituye.
@@ -7182,6 +7183,7 @@ reconstrucción causal, de determinación de intenciones, de evaluación de
 circunstancias. La maldad del ser de Pedro ya explica cualquier acto que
 Pedro cometa, porque ese es el tipo de ser que es. Y esa conclusión — que el
 ser del agente explica sus actos sin necesidad de examinar los actos — es
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7302,9 +7304,9 @@ monstruo para cometerse — si los produjo un hombre mediocre con
 pensamiento superficial y voluntad de carrera —, entonces la categoría
 «monstruo» no describe al agente que los cometió. Describe el horror de lo
 que ocurrió, no la naturaleza del ser que lo produjo.
-Νικόμαχος lleva esa observación un paso más lejos que Arendt. Arendt
-mostró que el criminal extremo puede seguir siendo humano — que la
-
+Νικόμαχος lleva esa observación un paso más lejos que Arendt.
+Arendt mostró que el criminal extremo puede seguir siendo humano — que
+la humanidad no se pierde con el crimen, por extremo que sea. El
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7314,12 +7316,11 @@ A.C.
 
 NIKOMACHOS
 
-humanidad no se pierde con el crimen, por extremo que sea. El argumento
-de este libro añade: no solo el criminal extremo sigue siendo humano. El
-crimen extremo fue un acto profundamente humano. No humanitario. No
-bueno. No frecuente. Sino humano en el único sentido que importa para la
-imputabilidad: producido por un humano, con la primera mediación de un
-humano, desde la trayectoria de un humano.
+argumento de este libro añade: no solo el criminal extremo sigue siendo
+humano. El crimen extremo fue un acto profundamente humano. No
+humanitario. No bueno. No frecuente. Sino humano en el único sentido que
+importa para la imputabilidad: producido por un humano, con la primera
+mediación de un humano, desde la trayectoria de un humano.
 
 IX. El criminal sigue siendo humano
 La afirmación de que el criminal extremo sigue siendo humano produce dos
@@ -7345,6 +7346,7 @@ humano en el humano que cometió ese crimen y lo integró a su trayectoria.
 Eso es enormemente grave. No es una mutación ontológica.
 Primo Levi, que sobrevivió a Auschwitz y pasó el resto de su vida
 examinando lo que había visto, describió la «zona gris» — el espacio entre
+víctimas y verdugos donde el horror producía seres que no podían
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7355,7 +7357,6 @@ A.C.
 
 NIKOMACHOS
 
-víctimas y verdugos donde el horror producía seres que no podían
 describirse en los términos simples del bien y el mal.³ Los Sonderkommando
 que ayudaban a los nazis a gestionar las cámaras de gas para sobrevivir unos
 meses más. Los kapos que ejercían violencia sobre otros prisioneros para
@@ -7386,6 +7387,7 @@ Humano(x) ∧ Realizó(x, A) → ActoHumano(A)
 Lo que un humano produce es un acto humano. Eso no es una benedición
 sobre A. Es la preservación del dominio dentro del cual A puede ser juzgado,
 imputado, respondido. Y es la consecuencia filosóficamente más incómoda
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8735,9 +8737,9 @@ el acto A, evaluado desde los criterios morales o jurídicos que se declaran, es
 condenable. Y desde ahí puede seguirse la imputación de A a x, la sanción
 correspondiente, la reparación debida, las medidas de protección
 justificadas. Todo eso sin cruzar la frontera que el argumento protege.
-Νικόμαχος no debe convertir la renuncia a la ontologización en
-indulgencia. La responsabilidad sin juicio ontológico es más exigente que la
-responsabilidad con juicio ontológico — no más indulgente. Porque la
+Νικόμαχος no debe convertir la renuncia a la ontologización
+en indulgencia. La responsabilidad sin juicio ontológico es más exigente que
+la responsabilidad con juicio ontológico — no más indulgente. Porque la
 responsabilidad con juicio ontológico puede siempre apelar a «pero ese ser es
 malo» cuando los argumentos fallan. La responsabilidad sin juicio
 ontológico no tiene ese recurso: tiene que sostener cada operación con sus
@@ -8746,7 +8748,7 @@ propios instrumentos declarados.
 X. Caelus
 Caelus — el quinto volumen de Afrodita Areia — llega aquí tarde y como
 aplicación del aparato previo. Eso es exactamente donde debe entrar: no
-como fundamento del argumento de Νικόμαχος, que está construido
+como fundamento del argumento de Νικόμαχος, que está
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8757,8 +8759,8 @@ A.C.
 
 NIKOMACHOS
 
-desde el Capítulo I, sino como el caso más exigente al que ese aparato puede
-aplicarse.
+construido desde el Capítulo I, sino como el caso más exigente al que ese
+aparato puede aplicarse.
 Caelus construyó la teoría del Estado como ego colectivo — el ego que
 emerge cuando los egos soberanos colapsan en alteridad y producen, en ese
 colapso, una entidad nueva con su propia identidad, su propia primera
@@ -8766,17 +8768,18 @@ mediación y su propia capacidad de autodeterminarse. Ese ego colectivo es el
 Estado. Y el contrato fiscal es la estructura que describe qué cede el ego
 soberano para que el Estado emerja, qué recibe a cambio, y qué
 consecuencias tiene el incumplimiento de esa estructura para ambas partes.
-Lo que Νικόμαχος añade a Caelus — la pregunta que Caelus no se hizo
-porque no era su objeto — es esta: ¿qué ocurre con el título de coerción del
-Estado cuando el exilio ontológico pretende modificar el dominio sobre el
-que ese título se fundó? ¿Puede el Estado declarar a un sujeto fuera del
-dominio humano y conservar al mismo tiempo la jurisdicción que se
-construyó para los seres de ese dominio?
+Lo que Νικόμαχος añade a Caelus — la pregunta que Caelus no
+se hizo porque no era su objeto — es esta: ¿qué ocurre con el título de
+coerción del Estado cuando el exilio ontológico pretende modificar el
+dominio sobre el que ese título se fundó? ¿Puede el Estado declarar a un
+sujeto fuera del dominio humano y conservar al mismo tiempo la
+jurisdicción que se construyó para los seres de ese dominio?
 Esa pregunta no es la pregunta de Caelus. Es la pregunta nueva que el
-aparato de Νικόμαχος produce cuando se aplica al territorio de Caelus. Y
-la respuesta que ese aparato genera confirma lo que Caelus estableció por
-otro camino: el Estado que embarga la dignidad del condenado se priva de
-los instrumentos que necesitaría para mantener su jurisdicción sobre él.
+aparato de Νικόμαχος produce cuando se aplica al territorio de
+Caelus. Y la respuesta que ese aparato genera confirma lo que Caelus
+estableció por otro camino: el Estado que embarga la dignidad del
+condenado se priva de los instrumentos que necesitaría para mantener su
+jurisdicción sobre él.
 
 XI. Libertad cedible
 El ego soberano tiene libertad. En el sentido técnico que Caos y Caelus
@@ -8787,7 +8790,6 @@ como el sujeto de las determinaciones que produce.
 Esa libertad es cedible. No porque el ego pueda desprenderse de su segunda
 mediación en sentido absoluto — eso equivaldría al descolapso, a la pérdida
 de las condiciones que hacen al ego ser lo que es. Sino porque el ego puede
-cambiar el marco desde el que opera su segunda mediación: puede orientar
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8798,6 +8800,7 @@ A.C.
 
 NIKOMACHOS
 
+cambiar el marco desde el que opera su segunda mediación: puede orientar
 su autodeterminación dentro de las condiciones que el colectivo establece,
 en lugar de dentro del solo marco del ego individual. Esa reorientación del
 marco es la cesión de libertad que el contrato fiscal describe.
@@ -8828,8 +8831,6 @@ La diferencia con Rousseau es precisa. En Rousseau, el individuo cede su
 voluntad particular a la voluntad general, que es algo distinto de la suma de
 las voluntades individuales — es el interés común que trasciende el interés
 privado. Para que esa cesión funcione, la voluntad general tiene que existir
-antes de recibirla, lo que produce el problema del Estado que precede a los
-individuos que lo constituyen.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8840,6 +8841,8 @@ A.C.
 
 NIKOMACHOS
 
+antes de recibirla, lo que produce el problema del Estado que precede a los
+individuos que lo constituyen.
 En Caelus, el ego soberano no cede su voluntad — cede su libertad. La
 voluntad permanece en el ego. Lo que cambia es el marco desde el que el ego
 opera su segunda mediación. Y el Estado que emerge de esa cesión no
@@ -8868,8 +8871,6 @@ mediación que habría permitido producir cualquier colapso sin restricción
 El capital coercitivo no es la fuerza bruta que el Estado puede desplegar. Es el
 título que convierte esa fuerza en ejercicio legítimo de la coerción. La fuerza
 sin título es violencia; la fuerza con título es sanción. Y el título es
-exactamente la cesión previa del ciudadano — el capital que el ciudadano
-depositó en la institución que ahora lo coerciona.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8880,6 +8881,8 @@ A.C.
 
 NIKOMACHOS
 
+exactamente la cesión previa del ciudadano — el capital que el ciudadano
+depositó en la institución que ahora lo coerciona.
 El capital coercitivo tiene una estructura contable: el Estado cobra al
 ciudadano la parte de su libertad que el contrato establece que corresponde,
 y el ciudadano tiene derecho a la contraprestación que el contrato establece
@@ -8909,9 +8912,6 @@ recibe a cambio, qué consecuencias tiene el incumplimiento. Esa
 descripción es ontológica porque no depende de que el Estado acepte ningún
 principio moral: depende de la estructura del colapso que constituyó al
 Estado.
-Lo que el contrato fiscal hace posible es un fundamento del título de
-coerción más robusto que el fundamento moral. Un Estado que funda su
-coerción en la moral puede ser cuestionado por quien rechace esa moral. Un
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8922,6 +8922,9 @@ A.C.
 
 NIKOMACHOS
 
+Lo que el contrato fiscal hace posible es un fundamento del título de
+coerción más robusto que el fundamento moral. Un Estado que funda su
+coerción en la moral puede ser cuestionado por quien rechace esa moral. Un
 Estado que funda su coerción en el capital que recibió no puede ser
 cuestionado con el mismo argumento: el capital está, la deuda existe, el
 título emerge de esa deuda con independencia de si el deudor acepta o no la
@@ -8950,8 +8953,6 @@ aplicar la sanción que el sistema establece. Pero no puede pretender que el
 condenado dejó de ser acreedor del régimen que el contrato garantiza.
 Eso tiene consecuencias directas sobre cómo el condenado debe ser tratado
 dentro del sistema penal: con las garantías que el contrato fiscal establece
-para todos los egos soberanos que lo constituyeron. No por benevolencia.
-Por deuda.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8961,6 +8962,9 @@ A.C.
 AFRODITA AREIA · VI
 
 NIKOMACHOS
+
+para todos los egos soberanos que lo constituyeron. No por benevolencia.
+Por deuda.
 
 XVI. Humanidad, ciudadanía y pertenencia contractual
 El contrato fiscal introduce distinciones que el pensamiento ordinario
@@ -8990,9 +8994,6 @@ perdido o tenido suspendida su ciudadanía plena (ciudadanía). Pero sigue
 siendo parte del contrato fiscal — sigue siendo acreedor del régimen que ese
 contrato establece (pertenencia contractual) — precisamente porque cedió
 la libertad que el contrato describe.
-El error que el embargo ontológico produce es colapsar esas tres categorías:
-declarar al condenado fuera del dominio humano como si la pérdida de la
-humanidad se siguiera de la sanción penal, o como si la suspensión de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9003,6 +9004,9 @@ A.C.
 
 NIKOMACHOS
 
+El error que el embargo ontológico produce es colapsar esas tres categorías:
+declarar al condenado fuera del dominio humano como si la pérdida de la
+humanidad se siguiera de la sanción penal, o como si la suspensión de la
 ciudadanía equivaliera a la pérdida de la pertenencia contractual. Ninguna
 de esas inferencias está autorizada — son cambios de escala sin puente
 declarado, exactamente el tipo de tránsito que la gramática del Capítulo V
@@ -9031,9 +9035,6 @@ no tenía instrumentos para procesar.
 La imagen hace visible lo que le ocurre al sistema punitivo cuando el exilio
 ontológico ha retirado al condenado del dominio que ese sistema fue
 construido para administrar. Si el condenado ya no es humano — si el exilio
-ha tenido «éxito» —, entonces el sistema penal construido para los egos
-humanos soberanos que participaron del contrato fiscal ya no tiene
-instrumentos para procesarlo. El condenado es ahora un pagano respecto del
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9044,6 +9045,9 @@ A.C.
 
 NIKOMACHOS
 
+ha tenido «éxito» —, entonces el sistema penal construido para los egos
+humanos soberanos que participaron del contrato fiscal ya no tiene
+instrumentos para procesarlo. El condenado es ahora un pagano respecto del
 infierno del sistema: su vida —su ser— es de un tipo que el sistema declaró
 que no le corresponde, y por tanto el sistema ha perdido los instrumentos
 que justificaban su intervención.
@@ -9054,8 +9058,8 @@ que puede conservar, sino el título que convierte ese poder en ejercicio
 legítimo de la coerción.
 
 XVIII. Si expulsas al sujeto, ¿qué conserva tu jurisdicción?
-La pregunta que el norte editorial fija como la que Νικόμαχος debe
-responder y que Caelus no se formuló:
+La pregunta que el norte editorial fija como la que Νικόμαχος
+debe responder y que Caelus no se formuló:
 Si has retirado la condición mediante la cual fundabas el título de tu
 coerción, ¿qué conserva ahora ese título?
 La pregunta no es retórica. Tiene una estructura que el argumento puede
@@ -9071,8 +9075,6 @@ corresponde el régimen que el contrato establece —, entonces la coerción
 que el Estado ejerce sobre él ya no puede fundarse en el contrato. El
 condenado ya no es, en la declaración del exilio, el tipo de ser que cedió
 libertad al Estado. Luego el Estado no tiene el capital que fundaba su título.
-Luego la coerción que ejerce no tiene el título que la convertiría en ejercicio
-legítimo de la coerción.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9083,6 +9085,8 @@ A.C.
 
 NIKOMACHOS
 
+Luego la coerción que ejerce no tiene el título que la convertiría en ejercicio
+legítimo de la coerción.
 Lo que queda, si el exilio ontológico tiene «éxito», es coerción sin título.
 Fuerza sin fundamento contractual. Violencia disfrazada de sanción.
 Esa es la consecuencia que el exilio ontológico produce cuando se examina
@@ -9111,9 +9115,6 @@ como destinatario normativo — como ser que puede comprenderlas y que el
 contrato fiscal establece como sujeto de ellas. Nada en esa cadena requiere
 que el ser qua ser del condenado sea de un tipo diferente del de los demás
 ciudadanos.
-La coerción con embargo de dignidad dice adicionalmente: el condenado es
-el tipo de ser que comete actos de ese tipo, su ser qua ser es el de un ser
-deficitario respecto del dominio humano, y por tanto el régimen que se le
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9124,6 +9125,9 @@ A.C.
 
 NIKOMACHOS
 
+La coerción con embargo de dignidad dice adicionalmente: el condenado es
+el tipo de ser que comete actos de ese tipo, su ser qua ser es el de un ser
+deficitario respecto del dominio humano, y por tanto el régimen que se le
 aplica es diferente del que se aplicaría a quien pertenece plenamente a ese
 dominio. Esa pretensión adicional no tiene respaldo epistémico, produce el
 problema de jurisdicción que la imagen de Rimbaud hace visible, y destruye
@@ -9151,10 +9155,6 @@ predicar del ser qua ser del agente sin los instrumentos que operarían a ese
 nivel — instrumentos que no están disponibles para ningún observador que
 también sea. Ese límite no destruye el conocimiento: lo demarca. Y la
 predicación que sabe dónde termina su jurisdicción es más honesta — y más
-difícil de refutar — que la que pretende más de lo que sus instrumentos
-pueden producir.
-La responsabilidad basta. El sistema normativo puede ejercer su coerción
-con toda la fuerza que el contrato fiscal le confiere — fundada en el capital
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9165,6 +9165,10 @@ A.C.
 
 NIKOMACHOS
 
+difícil de refutar — que la que pretende más de lo que sus instrumentos
+pueden producir.
+La responsabilidad basta. El sistema normativo puede ejercer su coerción
+con toda la fuerza que el contrato fiscal le confiere — fundada en el capital
 que el ciudadano cedió, dirigida al destinatario normativo que el ciudadano
 sigue siendo — sin necesitar la sentencia ontológica que embarga la
 dignidad del condenado. Y la coerción que no embarga la dignidad conserva
@@ -9192,8 +9196,6 @@ tienen la cristiandad para ir al infierno.» La imagen funciona como
 estructura de jurisdicción: el infierno es un sistema punitivo construido para
 administrar las consecuencias de una economía moral específica; quien está
 fuera de esa economía moral no es destinatario del sistema que la
-administra, no porque su vida sea mejor sino porque es de un tipo que el
-sistema no tiene instrumentos para procesar.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9203,6 +9205,9 @@ A.C.
 AFRODITA AREIA · VI
 
 NIKOMACHOS
+
+administra, no porque su vida sea mejor sino porque es de un tipo que el
+sistema no tiene instrumentos para procesar.
 
 Νικόμαχος
 El límite de la predicación
