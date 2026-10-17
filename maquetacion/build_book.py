@@ -35,7 +35,7 @@ MATH_GLYPH_RE = re.compile(
 
 
 def format_math_text(value: str) -> str:
-    value = re.sub(r"([A-Za-zΑ-ω]+)_\{([^{}]+)\}", r"\1<sub>\2</sub>", value)
+    value = re.sub(r"([A-Za-zΑ-ω∪∩ΣΠ∫]+)_\{([^{}]+)\}", r"\1<sub>\2</sub>", value)
     value = re.sub(r"([A-Za-zΑ-ω0-9|])\^\{([^{}]+)\}", r"\1<sup>\2</sup>", value)
     value = MODIFIER_SCRIPT_RE.sub(
         lambda match: f"<{MODIFIER_SCRIPT_TAGS[match.group(1)][0]}>{MODIFIER_SCRIPT_TAGS[match.group(1)][1]}</{MODIFIER_SCRIPT_TAGS[match.group(1)][0]}>",
