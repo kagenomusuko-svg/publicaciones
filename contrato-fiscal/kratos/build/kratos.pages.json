@@ -1,6 +1,6 @@
 {
   "pdf": "kratos.pdf",
-  "total_pages": 153,
+  "total_pages": 155,
   "contents": [
     {
       "key": "prologo",
@@ -69,36 +69,36 @@
       "key": "cap-9",
       "label": "Capítulo 9 · La defraudación voluntaria",
       "kind": "chapter",
-      "physical_page": 92,
-      "printed_page": "81"
+      "physical_page": 93,
+      "printed_page": "82"
     },
     {
       "key": "cap-10",
       "label": "Capítulo 10 · El soberano activo como ego que reclama su segunda mediación",
       "kind": "chapter",
-      "physical_page": 104,
-      "printed_page": "93"
+      "physical_page": 105,
+      "printed_page": "94"
     },
     {
       "key": "cap-11",
       "label": "Capítulo 11 · El gradiente de la exigencia",
       "kind": "chapter",
-      "physical_page": 113,
-      "printed_page": "102"
+      "physical_page": 115,
+      "printed_page": "104"
     },
     {
       "key": "cap-12",
       "label": "Capítulo 12 · La desobediencia civil como declaración de default",
       "kind": "chapter",
-      "physical_page": 124,
-      "printed_page": "113"
+      "physical_page": 126,
+      "printed_page": "115"
     },
     {
       "key": "cap-13",
       "label": "Capítulo 13 · El cambio de idiosincrasia como restauración de la segunda mediación colectiva",
       "kind": "chapter",
-      "physical_page": 135,
-      "printed_page": "124"
+      "physical_page": 137,
+      "printed_page": "126"
     }
   ]
 }
