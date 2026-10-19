@@ -73,8 +73,16 @@ def format_math_text(value: str) -> str:
     return MATH_GLYPH_RE.sub(r'<span class="math-glyph">\1</span>', value)
 
 
+SUPERSCRIPT_DIGIT_RE = re.compile(r"([⁰¹²³⁴⁵⁶⁷⁸⁹]+)")
+SUPERSCRIPT_TRANSLATION = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
+
+
 def render_markdown(raw: str) -> str:
     rendered = md.render(raw)
+    rendered = SUPERSCRIPT_DIGIT_RE.sub(
+        lambda match: f"<sup>{match.group(1).translate(SUPERSCRIPT_TRANSLATION)}</sup>",
+        rendered,
+    )
     if not MATH_GLYPH_FALLBACK:
         return SUBSCRIPT_GLYPH_RE.sub(r'<span class="math-subscript">\1</span>', rendered)
     return re.sub(r"(?<=>)([^<>]+)(?=<)", lambda match: format_math_text(match.group(1)), rendered)
@@ -238,7 +246,7 @@ def parse_part(raw: str) -> tuple[str, str, str, str] | None:
 
 def parse_body_files(root: Path, stems: list[str], config: dict) -> list[Piece]:
     pieces: list[Piece] = []
-    part_index = 0
+    seen_parts: set[str] = set()
     inserted_parts = config.get("parts_before", {})
     for stem in stems:
         inserted = inserted_parts.get(stem)
@@ -246,24 +254,27 @@ def parse_body_files(root: Path, stems: list[str], config: dict) -> list[Piece]:
             part = str(inserted["part"])
             subtitle = str(inserted["subtitle"])
             descriptor = str(inserted.get("epigraph", ""))
-            part_index += 1
-            pieces.append(
-                Piece(
-                    "part",
-                    slug_key("parte", part.split()[-1]),
-                    f"{part} · {subtitle}",
-                    part=part,
-                    subtitle=subtitle,
-                    epigraph=descriptor,
+            key = slug_key("parte", part.split()[-1])
+            if key not in seen_parts:
+                pieces.append(
+                    Piece(
+                        "part",
+                        key,
+                        f"{part} · {subtitle}",
+                        part=part,
+                        subtitle=subtitle,
+                        epigraph=descriptor,
+                    )
                 )
-            )
+                seen_parts.add(key)
         raw = (root / f"{stem}.md").read_text(encoding="utf-8")
         parsed_part = parse_part(raw)
         if parsed_part:
             part, subtitle, descriptor, raw = parsed_part
-            part_index += 1
             key = slug_key("parte", part.split()[-1])
-            pieces.append(Piece("part", key, f"{part} · {subtitle}", part=part, subtitle=subtitle, epigraph=descriptor))
+            if key not in seen_parts:
+                pieces.append(Piece("part", key, f"{part} · {subtitle}", part=part, subtitle=subtitle, epigraph=descriptor))
+                seen_parts.add(key)
             if not raw.strip():
                 continue
 
