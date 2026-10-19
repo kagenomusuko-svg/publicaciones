@@ -9,6 +9,7 @@ on:
       - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/Contra portada Vol I.png'
       - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/maquetacion/build_full.py'
       - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/maquetacion.json'
+      - 'reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/maquetacion/estilo-notas.css'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/sobre-la-pasion-full.yml'
@@ -46,7 +47,11 @@ jobs:
 
       - name: Generar libro completo
         run: |
+          cat maquetacion/estilo-libro-6x9.css \
+            reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/maquetacion/estilo-notas.css \
+            > "$RUNNER_TEMP/estilo-sobre-la-pasion.css"
           python maquetacion/build_book.py \
+            --stylesheet "$RUNNER_TEMP/estilo-sobre-la-pasion.css" \
             --root reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion \
             --output reivindicacion-ontologica-del-ego/afrodita-areia/sobre-la-pasion/build/afrodita-areia-vol-i-sobre-la-pasion.pdf
 

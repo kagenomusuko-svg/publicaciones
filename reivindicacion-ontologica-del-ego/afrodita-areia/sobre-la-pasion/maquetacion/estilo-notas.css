@@ -1,0 +1,18 @@
+/* Ajustes exclusivos de Afrodita Areia I: sobre la pasión. */
+.chapter h3.notes-heading,
+.appendix h3.notes-heading {
+  font-style: normal;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+.chapter h3.notes-heading ~ p,
+.appendix h3.notes-heading ~ p {
+  font-size: 9.5pt;
+  line-height: 1.2;
+  margin-bottom: 1mm;
+  orphans: 3;
+  widows: 3;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
