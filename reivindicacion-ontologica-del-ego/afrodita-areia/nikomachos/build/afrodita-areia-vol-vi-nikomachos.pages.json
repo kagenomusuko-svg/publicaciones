@@ -1,6 +1,6 @@
 {
   "pdf": "afrodita-areia-vol-vi-nikomachos.pdf",
-  "total_pages": 243,
+  "total_pages": 244,
   "contents": [
     {
       "key": "prologo",
@@ -55,43 +55,43 @@
       "key": "cap-7",
       "label": "Capítulo 7 · Conocer siendo",
       "kind": "chapter",
-      "physical_page": 121,
-      "printed_page": "108"
+      "physical_page": 122,
+      "printed_page": "109"
     },
     {
       "key": "cap-8",
       "label": "Capítulo 8 · La frontera de la razón",
       "kind": "chapter",
-      "physical_page": 142,
-      "printed_page": "129"
+      "physical_page": 143,
+      "printed_page": "130"
     },
     {
       "key": "cap-9",
       "label": "Capítulo 9 · El acto soy yo",
       "kind": "chapter",
-      "physical_page": 161,
-      "printed_page": "148"
+      "physical_page": 162,
+      "printed_page": "149"
     },
     {
       "key": "cap-10",
       "label": "Capítulo 10 · Criticar sin sentenciar el ser",
       "kind": "chapter",
-      "physical_page": 179,
-      "printed_page": "166"
+      "physical_page": 180,
+      "printed_page": "167"
     },
     {
       "key": "cap-11",
       "label": "Capítulo 11 · La ley no manda al tornado",
       "kind": "chapter",
-      "physical_page": 197,
-      "printed_page": "184"
+      "physical_page": 198,
+      "printed_page": "185"
     },
     {
       "key": "cap-12",
       "label": "Capítulo 12 · Responsabilidad sin juicio ontológico",
       "kind": "chapter",
-      "physical_page": 215,
-      "printed_page": "202"
+      "physical_page": 216,
+      "printed_page": "203"
     }
   ]
 }
