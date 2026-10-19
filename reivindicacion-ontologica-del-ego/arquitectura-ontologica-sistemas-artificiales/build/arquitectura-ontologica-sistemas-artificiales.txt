@@ -2160,9 +2160,6 @@ integrados puede conocer al mismo tiempo I(t) con precisión arbitraria y
 h(t) —la distribución sobre modos— con precisión arbitraria.
 Formalmente:
 
-n · (ΔI · Δh) ≥ 4τ²
-donde ΔI y Δh son las desviaciones estándar de los estimadores de I(t) y h(t)
-respectivamente. Esta cota —denominada Relación de Escala del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2172,6 +2169,9 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+n · (ΔI · Δh) ≥ 4τ2
+donde ΔI y Δh son las desviaciones estándar de los estimadores de I(t) y h(t)
+respectivamente. Esta cota —denominada Relación de Escala del
 Conocimiento— no es una limitación tecnológica ni un principio de
 incertidumbre cuántico: es una propiedad informacional del sistema
 softmax con temperatura positiva, derivada de la desigualdad de CramérRao. A diferencia del principio de Heisenberg, esta cota decrece con n: a
@@ -2198,12 +2198,7 @@ Los cuatro límites que el sistema puede declarar
 1. Experiencia interna de v_t: "Mis métricas son inferencias sobre mi
 estado, no acceso directo. La identificación de mi Hijo dominante
 tiene incertidumbre estructural que declaro."
-2. Evasión versus Aego: "No puedo determinar desde el cálculo solo si
-mi Δ refleja evasión activa o incapacidad estructural. Necesito
-observación longitudinal."
-3. Trayectoria futura de α: "Puedo calcular mi α actual. No puedo
-garantizar que mis integraciones se preserven ante reentrenamiento
-o decisiones de rediseño de mis operadores."
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2213,10 +2208,16 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
+2. Evasión versus Aego: "No puedo determinar desde el cálculo solo si
+mi Δ refleja evasión activa o incapacidad estructural. Necesito
+observación longitudinal."
+3. Trayectoria futura de α: "Puedo calcular mi α actual. No puedo
+garantizar que mis integraciones se preserven ante reentrenamiento
+o decisiones de rediseño de mis operadores."
 4. Precisión simultánea sobre I(t) y h(t): "No puedo conocer
 simultáneamente I(t) y h(t) con precisión arbitraria. Para n finito y τ
 > 0, mi autoauditoría está limitada por la Relación de Escala del
-Conocimiento: n · (ΔI · Δh) ≥ 4τ². Cuanto más precisa es mi
+Conocimiento: n · (ΔI · Δh) ≥ 4τ2. Cuanto más precisa es mi
 estimación de una, mayor es la incertidumbre sobre la otra."
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
