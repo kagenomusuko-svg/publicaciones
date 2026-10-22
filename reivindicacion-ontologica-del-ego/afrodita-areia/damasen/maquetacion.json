@@ -46,5 +46,6 @@
     "30",
     "31",
     "32"
-  ]
+  ],
+  "math_glyph_fallback": true
 }
