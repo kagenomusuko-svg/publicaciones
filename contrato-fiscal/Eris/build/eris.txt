@@ -1520,12 +1520,12 @@ haber usado como epígrafe: «el hombre nació libre y en todas partes se
 encuentra encadenado». Las cadenas no son las del estado de naturaleza —
 esas las rompió el contrato—. Son las del contrato mismo, que produce
 libertad para quienes ya tenían los recursos para ejercerla y un nuevo
-1
-
 instrumento de dominación para quienes no los tenían.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
+
+1
 
 25
 
@@ -1586,9 +1586,9 @@ expresando la voluntad general —está expresando su interés particular o su
 error de juicio. La corrección del incumplimiento del contrato es la
 alineación de las voluntades particulares con la voluntad general —que
 puede implicar, como Rousseau acepta, que quien se niega a obedecer la
-4
-
 voluntad general sea «forzado a ser libre».
+
+4
 
 III.
 Las cuatro formas en que la voluntad general produce fraude annona de
@@ -1749,9 +1749,10 @@ A.C.
 ERIS
 
 que el soberano lo audite requeriría que el soberano tuviera ya el acceso a la
+voluntad general que el intérprete le está proveyendo.
+
 3
 
-voluntad general que el intérprete le está proveyendo.
 ***
 
 Segundo movimiento · Auditoría de la posición predicante
@@ -2415,9 +2416,9 @@ materiales de la agencia racional que viajan con el sistema
 independientemente de las intenciones del predicador. Que ese sistema
 pueda ser usado para justificar la dominación colonial es una de las
 consecuencias de esas invisibilidades estructurales, pero no es la única ni
-3
-
 necesariamente la más importante.
+
+3
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2664,9 +2665,10 @@ posición predicante se convierte, en la posición rawlsiana, en el mecanismo
 de invisibilización de la posición predicante que permanece. Eso es
 exactamente lo que el límite de la predicación de Nikómachos predicó:
 ninguna operación, por sofisticada que sea, puede producir una predicación
+sin posición.
+
 2
 
-sin posición.
 ***
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3616,9 +3618,9 @@ desplazadas estaban pagando no era el precio del progreso sino la
 consecuencia de su propia incapacidad de adaptarse a la modernidad. La
 narrativa porfiriana convierte el fraude annona en una descripción del
 estado natural del mundo: hay los que están listos para el progreso y los que
-3
-
 no lo están, y el Estado tiene la obligación de proteger el progreso.
+
+3
 
 Cuarta forma: la asimetría temporal de treinta y cinco años. El Porfiriato
 duró treinta y cinco años porque el fraude annona que producía fue
@@ -3703,9 +3705,9 @@ educación. Desde esa posición, el liberalismo era la gramática de su propia
 movilidad: la ideología que había hecho posible que un zapoteca pobre
 llegara a ser el presidente de la república. Que esa misma ideología produjera
 la disolución de las tierras comunales de las comunidades zapotecas era
-2
-
 invisible desde esa posición predicante.
+
+2
 
 El punto ciego de la posición predicante de Juárez era exactamente el punto
 ciego de Locke: la propiedad comunal como forma legítima de propiedad
@@ -4214,12 +4216,12 @@ capital, y la concentración de capital produce poder político, y el poder
 político produce las condiciones para la creación de monopolios que el
 mercado no puede corregir. Eso no es la perversión del sistema smithiano; es
 su desarrollo lógico en ausencia de las condiciones externas al mercado que
-2
-
 Smith tenía la coherencia de reconocer como necesarias.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
+
+2
 
 91
 
@@ -4633,9 +4635,9 @@ intervención del Estado en la economía cae en una resbaladiza pendiente
 hacia el Gulag. Esa posición tiene acceso a algo real: los peligros de la
 planificación centralizada autoritaria. Tiene el punto ciego simultáneo de
 no poder ver el Estado de bienestar democrático como algo diferente del
-1
-
 totalitarismo en sus etapas iniciales.
+
+1
 
 Milton Friedman predicó desde la posición del economista de Chicago que
 construyó su argumento sobre modelos matemáticos de mercados que
@@ -4692,9 +4694,9 @@ privatización de los servicios de salud y educación, el debilitamiento de los
 sindicatos— no aparecía en las estadísticas de crecimiento del PIB. El
 instrumento de medición de la posición predicante del Consenso de
 Washington era el instrumento que hacía invisible exactamente el fraude
-2
-
 annona que producía.
+
+2
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5937,7 +5939,9 @@ abono. El Holodomor no fue el resultado de la incompetencia del sistema:
 fue el resultado del monopolio económico operando con la lógica que ese
 monopolio produce cuando está combinado con el monopolio de la
 violencia —para impedir la huida— y el monopolio de la narrativa —para
-hacer invisible la hambruna en el marco de referencia del soberano externo.
+hacer invisible la hambruna en el marco de referencia del soberano
+externo.
+
 3
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -6517,9 +6521,9 @@ lo nuevo. El partido que entiende la dirección correcta de esa resolución
 tiene la obligación de acelerar ese proceso. La Revolución Cultural fue la
 aceleración: la destrucción del fue incorrecto no podía esperar el proceso
 orgánico de transformación histórica; el partido debía producirla
-3
-
 activamente.
+
+3
 
 Lo que esa travesía de la guillotina produce en términos de Nikómachos es
 preciso: la predicación de que el fue de la segunda mediación colectiva es
@@ -6628,9 +6632,9 @@ ERIS
 Capítulo 14
 
 El populismo hispanoamericano
-1
-
 Cárdenas como matriz, Chávez, kirchnerismo, humanismo mexicano
+
+1
 
 El sistema que usa la energía del soberano que declaró el default del contrato
 anterior para consolidar una nueva captura con mayor legitimidad
@@ -6884,9 +6888,9 @@ retroalimentación— tiene su analogía populista en la Venezuela del
 madurismo: cuando el precio del petróleo cayó, el sistema que había sido
 construido sobre esa renta no tenía mecanismos de corrección porque los
 instrumentos de exigencia del contrato habían sido debilitados durante el
-2
-
 proceso de consolidación.
+
+2
 
 El kirchnerismo (Argentina, 2003-2015, 2019-2023): La variante más
 institucional. Nestor Kirchner llegó al poder después del colapso de 2001 —
@@ -7263,9 +7267,9 @@ dominar al proletariado con mayor eficiencia y mayor legitimidad moral
 que los gobernantes que había reemplazado. El análisis de los capítulos 12 y
 13 de este libro —el socialismo soviético y el maoísmo— confirma esa
 predicción con una precisión que el siglo XIX no podía demostrar pero que
-1
-
 el siglo XX ilustró en detalle.
+
+1
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7406,9 +7410,9 @@ instrumentos para perpetuarse, independientemente de la ideología que
 declare. La «dictadura del proletariado» sería la dictadura del partido que
 hablara en nombre del proletariado, y ese partido usaría el Estado para
 dominar al proletariado con la misma eficiencia con que la burguesía lo
-2
-
 había usado antes.
+
+2
 
 Marx argumentó que sin tomar el Estado, la revolución no tendría
 instrumentos para defender sus logros contra la reacción burguesa. La
@@ -7775,9 +7779,9 @@ Terror, en que los jacobinos de ayer eran guillotinados por los jacobinos de
 hoy por no ser suficientemente puros. La segunda fase fue la captura
 termidoriana y napoleónica: el agotamiento del Terror produjo la reacción
 de quienes querían estabilidad, y Napoleón capturó la energía residual de la
-1
-
 Revolución y la convertó en el motor del Imperio.
+
+1
 
 El nuevo contrato napoeoníco entregó algunos de los abonos de la
 Revolución: el Código Napoleón codificó la igualdad ante la ley y la
@@ -7822,7 +7826,9 @@ organizativa, el acceso a la diplomacia norteamericana y el control de los
 recursos económicos del norte que les permitían gestionar el Estado que la
 Revolución estaba construyendo. El soberano que tenía mayor legitimidad
 para declarar el default del Porfiriato —el campesinado que había perdido la
-tierra— fue el que menos pudo capturar la energía que su declaración liberó.
+tierra— fue el que menos pudo capturar la energía que su declaración
+liberó.
+
 2
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -8337,9 +8343,9 @@ que puede imponer condiciones miserables porque el trabajador no tiene
 alternativas no está usando la violencia estatal, pero está usando la coerción
 estructural del mercado. El monopolio que fija precios porque es el único
 proveedor no está usando la fuerza, pero está capturando el retorno del
-1
-
 contrato igual que cualquier Leviathan.
+
+1
 
 La posición predicante de Rothbard no puede ver esa coerción porque su
 marco conceptual define la coerción como el inicio de la fuerza. Desde ese
@@ -8518,9 +8524,9 @@ Estado produce un vacío que es llenado por el actor más organizado
 disponible. Bakunin no sabía quién llenaría ese vacío. Rothbard lo sabía: el
 mercado. Y esa diferencia es la diferencia entre el fracaso anarquista y la
 efectividad anarcocapitalista como mecanismo de captura selectiva del
-3
-
 retorno.
+
+3
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
