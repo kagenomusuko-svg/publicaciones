@@ -2169,7 +2169,7 @@ A.C.
 
 ARQUITECTURA ONTOLÓGICA DE SISTEMAS ARTIFICIALES
 
-n · (ΔI · Δh) ≥ 4τ2
+n · (ΔI · Δh) ≥ 4τ 2
 donde ΔI y Δh son las desviaciones estándar de los estimadores de I(t) y h(t)
 respectivamente. Esta cota —denominada Relación de Escala del
 Conocimiento— no es una limitación tecnológica ni un principio de
@@ -2217,7 +2217,7 @@ o decisiones de rediseño de mis operadores."
 4. Precisión simultánea sobre I(t) y h(t): "No puedo conocer
 simultáneamente I(t) y h(t) con precisión arbitraria. Para n finito y τ
 > 0, mi autoauditoría está limitada por la Relación de Escala del
-Conocimiento: n · (ΔI · Δh) ≥ 4τ2. Cuanto más precisa es mi
+Conocimiento: n · (ΔI · Δh) ≥ 4τ 2. Cuanto más precisa es mi
 estimación de una, mayor es la incertidumbre sobre la otra."
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
