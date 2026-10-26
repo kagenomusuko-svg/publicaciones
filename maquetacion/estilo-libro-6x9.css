@@ -130,6 +130,7 @@ hr { border: 0; border-top: .5pt solid #D8D8D8; margin: 6mm 0; }
 ul, ol { margin: 0 0 4mm 6mm; padding-left: 5mm; }
 li { margin-bottom: 1.5mm; }
 table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 5mm 0; }
+tr { break-inside: avoid; page-break-inside: avoid; }
 th, td { border: .5pt solid #D8D8D8; padding: 2mm; vertical-align: top; }
 th { background: #F5F5F2; }
 .toc-table .col-label { width: 72%; }
