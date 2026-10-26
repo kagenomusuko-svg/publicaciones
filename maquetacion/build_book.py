@@ -339,7 +339,11 @@ def build_plan(root: Path, config: dict) -> tuple[list[Piece], list[TocEntry]]:
     return pieces, toc
 
 
-def toc_page(entries: list[TocEntry], numbers: dict[str, str] | None = None) -> str:
+def toc_page(
+    entries: list[TocEntry],
+    numbers: dict[str, str] | None = None,
+    compact: bool = False,
+) -> str:
     numbers = numbers or {}
     rows = []
     for entry in entries:
@@ -348,8 +352,9 @@ def toc_page(entries: list[TocEntry], numbers: dict[str, str] | None = None) -> 
             f'<tr class="toc-{entry.kind}"><td class="toc-label">{html.escape(entry.label)}</td>'
             f'<td class="toc-leader"></td><td class="toc-page">{html.escape(page_no)}</td></tr>'
         )
+    toc_class = "toc toc-compact" if compact else "toc"
     return (
-        '<section class="toc"><h1>ÍNDICE</h1><table class="toc-table">'
+        f'<section class="{toc_class}"><h1>ÍNDICE</h1><table class="toc-table">'
         '<colgroup><col class="col-label"><col class="col-leader"><col class="col-page"></colgroup>'
         f'<tbody>{"".join(rows)}</tbody></table></section>'
     )
@@ -403,7 +408,9 @@ def document_html(
     for stem in pre_toc_stems:
         raw = (root / f"{stem}.md").read_text(encoding="utf-8")
         sections.append(f'<section class="epigraph-page">{render_markdown(raw)}</section>')
-    sections.append(toc_page(toc_entries, toc_numbers))
+    sections.append(
+        toc_page(toc_entries, toc_numbers, compact=bool(config.get("compact_toc")))
+    )
     part_seen = 0
     for piece in pieces:
         if piece.kind == "part":
