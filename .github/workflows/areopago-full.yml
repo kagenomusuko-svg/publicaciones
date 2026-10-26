@@ -154,6 +154,6 @@ jobs:
           git add reivindicacion-ontologica-del-ego/afrodita-areia/areopago/build/afrodita-areia-vol-iv-contacto.jpg
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera Afrodita Areia Vol. IV completo"
-            git pull --rebase origin main
+            git pull --rebase -X theirs origin main
             git push
           fi
