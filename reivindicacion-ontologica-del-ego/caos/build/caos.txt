@@ -2470,7 +2470,7 @@ función de onda, ℏ es la constante de Planck reducida, y Ĥ es el operador
 hamiltoniano que representa la energía total del sistema. La función de
 onda no describe la posición de la partícula sino la amplitud de probabilidad
 de encontrarla en cada posición posible. El módulo al cuadrado de la
-función de onda —|ψ|2— da la distribución de probabilidad. Antes del
+función de onda —|ψ| 2— da la distribución de probabilidad. Antes del
 colapso, esta distribución puede estar extendida sobre múltiples
 posibilidades; el colapso la reduce a una sola.
 
@@ -2576,7 +2576,7 @@ Joos a partir de los años ochenta, ofrece un mecanismo f ísico para entender
 por qué los objetos macroscópicos no exhiben comportamiento cuántico: la
 interacción constante con el entorno (los fotones del aire, las moléculas
 circundantes) destruye la coherencia de la superposición en tiempos
-extremadamente cortos —del orden de 10⁻20 segundos para objetos de
+extremadamente cortos —del orden de 10⁻ 20 segundos para objetos de
 tamaño molecular. La decoherencia no resuelve completamente el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3880,7 +3880,7 @@ términos.
 
 [67] La cosmología moderna sitúa el origen del universo observable en el
 Big Bang, hace aproximadamente 13,800 millones de años. Antes del tiempo
-de Planck (10⁻43 segundos después del Big Bang), las leyes f ísicas conocidas
+de Planck (10⁻ 43 segundos después del Big Bang), las leyes f ísicas conocidas
 dejan de aplicarse: las cuatro fuerzas fundamentales estaban unificadas y la
 densidad y temperatura eran infinitas. No es correcto decir que «antes del
 Big Bang no había nada»: el estado previo al Big Bang —si esta expresión
@@ -7042,7 +7042,7 @@ el argumento tenga la fuerza que le corresponde.
 
 Una función matemática no es un objeto: es una regla de correspondencia
 que asigna a cada elemento del dominio un elemento del codominio. La
-función f(x) = x2 no es ningún número en particular: es la regla que asigna el
+función f(x) = x 2 no es ningún número en particular: es la regla que asigna el
 cuadrado a cada número real. Tiene infinitos valores —uno para cada punto
 del dominio—, pero no es ninguno de esos valores sino la regla que los
 genera. El ego, como función, tiene esta estructura: no es ningún colapso
@@ -9056,7 +9056,7 @@ filosofía dentro.
 
 El símbolo ε (epsilon) representa la tolerancia de error que estamos
 dispuestos a aceptar en el valor de la función. Puede ser cualquier número
-positivo, por pequeño que sea: 0.1, 0.001, 10⁻100. Decir «para todo ε > 0»
+positivo, por pequeño que sea: 0.1, 0.001, 10⁻ 100. Decir «para todo ε > 0»
 significa que la condición debe cumplirse sin importar cuán pequeña sea la
 tolerancia que exijamos. La cláusula «para todo ε» es la exigencia de
 precisión arbitraria: el límite no es «aproximadamente» L sino
@@ -9120,7 +9120,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                            202
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                            CAOS
+                                                                              CAOS
 
 ningún colapso individual (ningún x₀ particular), sino por la integral de
 todos los colapsos que lo rodean, que convergen hacia el punto presente.[178]
@@ -9129,11 +9129,11 @@ todos los colapsos que lo rodean, que convergen hacia el punto presente.[178]
 Consideremos la función más sencilla que ilustra la separación entre el
 límite y el valor en el punto. Sea:
 
-f(x) = x2 para x ≠ 0, y f(0) = 17.
+f(x) = x 2 para x ≠ 0, y f(0) = 17.
 
 ¿Cuál es el límite de f cuando x tiende a 0? La respuesta es 0, no 17. Para
-cualquier ε > 0, basta tomar δ = √ε: si |x| < δ entonces |f(x) − 0| = |x2| = x2 <
-δ2 = ε. El límite existe y vale 0, aunque la función en el punto mismo valga
+cualquier ε > 0, basta tomar δ = √ε: si |x| < δ entonces |f(x) − 0| = |x 2| = x 2 <
+δ 2 = ε. El límite existe y vale 0, aunque la función en el punto mismo valga
 17. La función es «discontinua» en x = 0 en el sentido de que el límite no
 coincide con el valor.
 
@@ -9162,7 +9162,7 @@ f es continua en x₀ si y solo si:
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              203
+                                                                                203
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -9994,7 +9994,7 @@ Planck reducida, y Ĥ es el operador hamiltoniano —el operador que
 representa la energía total del sistema. Para una partícula de masa m en un
 potencial V(r, t), el hamiltoniano es:
 
-Ĥ = − (ℏ2/2m) ∇2 + V(r, t)
+Ĥ = − (ℏ 2/2m) ∇ 2 + V(r, t)
 
 La ecuación de Schrödinger tiene dos propiedades que son las más
 importantes para el argumento de este apéndice. La primera es que es lineal:
@@ -10015,9 +10015,9 @@ A.C.
 
 Entonces, ¿de dónde vienen las probabilidades en la mecánica cuántica? De
 la interpretación de la función de onda. Max Born propuso en 1926 que la
-cantidad |ψ(r, t)|2 debe interpretarse como una densidad de probabilidad: la
+cantidad |ψ(r, t)| 2 debe interpretarse como una densidad de probabilidad: la
 probabilidad de encontrar la partícula en el volumen dV alrededor del punto
-r en el tiempo t es |ψ(r, t)|2 dV.[191] La función de onda no describe dónde
+r en el tiempo t es |ψ(r, t)| 2 dV.[191] La función de onda no describe dónde
 está la partícula: describe la distribución de probabilidad de dónde será
 encontrada si se realiza una medición de posición.
 
@@ -10029,7 +10029,7 @@ electrón puede estar en el estado |↑⟩ (spin hacia arriba) o en el estado |�
 
 |ψ⟩ = α|↑⟩ + β|↓⟩
 
-donde α y β son números complejos con |α|2 + |β|2 = 1. Este estado no es el
+donde α y β son números complejos con |α| 2 + |β| 2 = 1. Este estado no es el
 estado del spin hacia arriba ni el del spin hacia abajo: es una superposición de
 ambos. En este estado, el spin del electrón no tiene ningún valor definido.
 No es que el electrón tenga spin hacia arriba pero no lo sepamos:
@@ -10117,7 +10117,7 @@ Regla 2 — Colapso por medición (Proceso 1):
 
 Cuando se realiza una medición de la observable Â con autovalores aₙ y
 autovectores |aₙ⟩, el estado |ψ⟩ colapsa en uno de los autovectores |aₙ⟩ con
-probabilidad |⟨aₙ|ψ⟩|2. El resultado obtenido es el autovalor aₙ
+probabilidad |⟨aₙ|ψ⟩| 2. El resultado obtenido es el autovalor aₙ
 correspondiente.
 
 La coexistencia de estas dos reglas es el núcleo del problema de la medición.
@@ -10203,7 +10203,7 @@ clásica en lugar de una superposición cuántica.
 
 La decoherencia ocurre extremadamente rápido para objetos macroscópicos.
 Para un grano de polvo de un micrómetro, el tiempo de decoherencia en
-condiciones normales es del orden de 10⁻23 segundos —doce órdenes de
+condiciones normales es del orden de 10⁻ 23 segundos —doce órdenes de
 magnitud más rápido que cualquier proceso f ísico ordinario. Para objetos
 más grandes, el tiempo es aún menor. Esto explica por qué no vemos
 superposiciones cuánticas a escala macroscópica: se destruyen en tiempos tan
@@ -10212,8 +10212,8 @@ cortos que son completamente inobservables.
 Sin embargo, la decoherencia no resuelve completamente el problema de la
 medición. Convierte la superposición en una mezcla estadística, pero no
 explica por qué se obtiene este resultado particular y no otro. La mezcla
-estadística dice: «con probabilidad |α|2 el sistema está en |a₁⟩ y con
-probabilidad |β|2 está en |a₂⟩.» Pero en el experimento real, siempre se
+estadística dice: «con probabilidad |α| 2 el sistema está en |a₁⟩ y con
+probabilidad |β| 2 está en |a₂⟩.» Pero en el experimento real, siempre se
 obtiene uno de los dos —nunca los dos simultáneamente, nunca ninguno.
 El paso de la mezcla estadística al resultado definido sigue sin explicación en
 términos puramente f ísicos. El problema de la medición persiste incluso con
@@ -10227,7 +10227,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             227
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                      CAOS
+                                                                       CAOS
 
 
 
@@ -10248,10 +10248,10 @@ observables Â y B̂:
 
 ΔA · ΔB ≥ (1/2) |⟨[Â, B̂]⟩|
 
-donde ΔA = √(⟨Â2⟩ − ⟨Â⟩2) es la desviación estándar de A en el estado |ψ⟩.
+donde ΔA = √(⟨Â 2⟩ − ⟨Â⟩ 2) es la desviación estándar de A en el estado |ψ⟩.
 Para posición y momentum, esto da:
 
-Δx · Δp ≥ ℏ/2 ≈ 5.27 × 10⁻35 J·s
+Δx · Δp ≥ ℏ/2 ≈ 5.27 × 10⁻ 35 J·s
 
 Este resultado es una desigualdad entre desviaciones estándar de
 distribuciones de probabilidad: no dice que sea imposible conocer
@@ -10270,7 +10270,7 @@ una limitación del conocimiento producida por la perturbación del sistema
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                        228
+                                                                         228
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                        CAOS
@@ -10567,7 +10567,7 @@ La tabla del isomorfismo es la siguiente:
   Autovalor aₙ obtenido en la                Determinación producida por el acto
   medición
 
-  |⟨aₙ|ψ⟩|2 = probabilidad del               Probabilidad del colapso condicionada por el campo
+  |⟨aₙ|ψ⟩| 2 = probabilidad del              Probabilidad del colapso condicionada por el campo
   resultado
 
   Decoherencia: inscripción en el            Segunda mediación: integración del acto a la integral
@@ -10741,7 +10741,7 @@ sentido literal de la mecánica cuántica— es la función de onda del
 organismo completo: una función extraordinariamente compleja en un
 espacio de Hilbert de dimensión astronómica, que evoluciona de manera
 que la decoherencia hace completamente clásica a escala macroscópica en
-tiempos de 10⁻23 segundos o menos. La mecánica cuántica de las neuronas y
+tiempos de 10⁻ 23 segundos o menos. La mecánica cuántica de las neuronas y
 las moléculas del cerebro no produce superposición de decisiones a escala del
 ego: la decoherencia destruye cualquier superposición macroscópica antes de
 que pueda influir en ningún proceso cognitivo relevante. La propuesta de
@@ -10871,10 +10871,10 @@ mayores dificultades filosóficas.
 
 [191] Born, Max. «Zur Quantenmechanik der Stoßvorgänge» (Sobre la
 mecánica cuántica de los procesos de colisión), Zeitschrift für Physik, 1926.
-Born propuso que el módulo al cuadrado de la función de onda, |ψ|2, debe
+Born propuso que el módulo al cuadrado de la función de onda, |ψ| 2, debe
 interpretarse como una densidad de probabilidad: la probabilidad de
 encontrar la partícula en una región determinada del espacio es
-proporcional a la integral de |ψ|2 sobre esa región. Esta interpretación
+proporcional a la integral de |ψ| 2 sobre esa región. Esta interpretación
 probabilística —conocida como la «regla de Born»— fue inmediatamente
 controvertida. Einstein, en particular, resistió esta interpretación toda su
 vida: «Dios no juega a los dados.» Born recibió el Premio Nobel de Física en
@@ -10888,7 +10888,7 @@ Hilbert (un espacio vectorial complejo con producto interno). Las
 observables f ísicas son operadores hermíticos que actúan sobre ese espacio.
 La medición de una observable Â con autovalores aₙ y autovectores |aₙ⟩
 proyecta el estado |ψ⟩ sobre uno de los autovectores |aₙ⟩ con probabilidad |
-⟨aₙ|ψ⟩|2. La notación de Dirac hace explícita la estructura del colapso: el
+⟨aₙ|ψ⟩| 2. La notación de Dirac hace explícita la estructura del colapso: el
 estado |ψ⟩ es una superposición de autovectores, y la medición «selecciona»
 uno de ellos. El colapso es la proyección del vector de estado sobre una
 dimensión del espacio de Hilbert.
