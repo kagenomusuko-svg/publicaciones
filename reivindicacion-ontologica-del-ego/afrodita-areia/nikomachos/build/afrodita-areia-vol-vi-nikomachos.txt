@@ -456,7 +456,7 @@ vulnerado. El caos, en ese sentido, presupone un orden respecto del cual es
 desorden.
 El Caos hesiódico no es eso. En la Teogonía, el Caos no es el estado previo al
 orden que el orden viene a corregir. Es algo más antiguo y estructuralmente
-diferente: la apertura, el abismo, el campo anterior a toda forma.1 No el
+diferente: la apertura, el abismo, el campo anterior a toda forma. 1 No el
 desorden de las formas revueltas sino la ausencia de forma en absoluto — no
 porque alguien haya desordenado lo que estaba ordenado, sino porque
 todavía no ha habido ningún colapso que produzca ninguna forma de
@@ -528,7 +528,7 @@ determinado.
 No es la nada. Este punto tiene que decirse con cuidado porque la tentación
 de igualar Caos y nada es vieja y persistente. Aristóteles criticó a los primeros
 filósofos que postularon un principio sin determinación como si ese
-principio fuera un tipo de nada disfrazada de algo.2 La nada, en sentido
+principio fuera un tipo de nada disfrazada de algo. 2 La nada, en sentido
 estricto, es la ausencia de todo predicado — incluyendo el predicado de ser
 apertura, de ser condición de posibilidad, de ser el campo desde el cual algo
 puede emerger. La nada no tiene siquiera esa dignidad funcional. El Caos,
@@ -556,7 +556,7 @@ A.C.
 
 NIKOMACHOS
 
-que evalúa.3 El Caos es anterior a los mundos posibles y al criterio que los
+que evalúa. 3 El Caos es anterior a los mundos posibles y al criterio que los
 ordena. No es que en el Caos todo sea posible: es que en el Caos la distinción
 entre lo posible y lo imposible todavía no se ha trazado.
 
@@ -601,7 +601,7 @@ La singularidad del Big Bang introduce la dificultad adicional de que los
 físicos no están de acuerdo sobre si las leyes de la f ísica aplican ahí, sobre si
 el tiempo tiene sentido antes de ella, sobre si es coherente preguntar qué
 había antes. Stephen Hawking propuso que preguntar qué había antes del
-Big Bang es como preguntar qué hay al sur del Polo Sur.4 Esa respuesta es
+Big Bang es como preguntar qué hay al sur del Polo Sur. 4 Esa respuesta es
 filosóficamente interesante, pero no equivale a decir que antes del Big Bang
 había el Caos en el sentido de este libro: equivale a decir que la pregunta
 carece de objeto dentro del marco de la f ísica conocida. El Caos de este libro
@@ -610,7 +610,7 @@ posibilidad de que haya cualquier determinación, incluidas las
 determinaciones f ísicas.
 Lo mismo ocurre con la materia prima aristotélica, que llega más cerca que
 el espacio o el tiempo porque Aristóteles la concibió precisamente como
-aquello que no tiene forma propia y que puede recibir cualquier forma.5
+aquello que no tiene forma propia y que puede recibir cualquier forma. 5
 Pero incluso la materia prima aristotélica es algo: es la capacidad de recibir
 formas, que es una determinación — la determinación de ser receptivo, de
 ser el sustrato sobre el cual las formas actúan. Ser un sustrato con capacidad
@@ -663,8 +663,8 @@ Aristóteles lo vio antes que nadie y respondió con la distinción entre
 potencia y acto. Lo posible — la dynamis — no es no-ser: es el ser en
 potencia, el ser que puede llegar a ser algo que todavía no es en acto. La
 semilla que puede devenir árbol tiene esa posibilidad como parte de lo que
-es, no como ausencia de ser.6 La distinción es genuinamente útil y marca un
-avance real sobre cualquier ontología que identifique posible con no-ser.
+es, no como ausencia de ser. 6 La distinción es genuinamente útil y marca
+un avance real sobre cualquier ontología que identifique posible con no-ser.
 Pero tiene un costo que Aristóteles asumió conscientemente: la potencia
 necesita una dirección, una forma hacia la cual tiende, un acto más perfecto
 que la actualiza. Sin esa teleología, la potencia se convierte en apertura pura
@@ -780,7 +780,7 @@ puede ser pensado, no percibido, entonces la percepción nos conduce por
 mal camino.
 Todas esas lecturas extraen del poema de Parménides más de lo que el poema
 puede sostener, y en el proceso oscurecen lo que el poema sí puede sostener:
-la frontera.7
+la frontera. 7
 La frontera parmenídea no es una descripción del ser como cosa estática. Es
 la constatación de que la predicación tiene condiciones — de que para que
 algo pueda decirse de algo ese algo tiene que ser, y que el ser no puede
@@ -808,7 +808,7 @@ que estaba al comienzo no habrá pasado por el no-ser en el trayecto. Lo que
 cambia es el estar. Lo que permanece — lo que la frontera parmenídea
 protege — es el eje del ser a través de ese cambio.
 Zenón de Elea, el discípulo de Parménides, creyó que la única manera de
-defender al maestro era demostrar que el movimiento es imposible.8 Sus
+defender al maestro era demostrar que el movimiento es imposible. 8 Sus
 paradojas — Aquiles y la tortuga, la flecha en vuelo, el estadio — son
 brillantes, pero la operación filosófica que realizan parte de una premisa que
 Parménides no necesitaba: que el movimiento implica tránsito por el noser. Si cada instante es una posición discreta, y si entre una posición y la
@@ -846,11 +846,11 @@ NIKOMACHOS
 
 que ser de algún modo; pero si es, ya no pertenece al no-ser. El propio
 Parménides lo señaló: incluso pensar el no-ser es ya una forma de darle ser, y
-esa es exactamente la trampa que hay que evitar.9
+esa es exactamente la trampa que hay que evitar. 9
 La ontología analítica del siglo XX intentó resolver el problema con
 distintos recursos. Meinong propuso que hay objetos que no tienen
 existencia pero que sí tienen ser — los objetos que meramente subsisten,
-como los seres ficticios o los objetos imposibles.10 Russell respondió que eso
+como los seres ficticios o los objetos imposibles. 10 Russell respondió que eso
 es hablar de forma gramaticalmente correcta de nada, y que el análisis
 lógico de las oraciones sobre lo inexistente muestra que no predican nada de
 ningún objeto real. La controversia sigue abierta, pero el sum tiene una
@@ -994,12 +994,12 @@ metafísica de la forma y la sustancia — es lo que recibe formas, y ese serrec
 entre lo receptivo y lo recibido.
 6
 
-Aristóteles, Metafísica, IX (Θ), 1045b27-1051b2. La distinción entre δύναμις
-(potencia) y ἐνέργεια (acto). La potencia no es no-ser: es ser en potencia, el
-ser que puede llegar a ser algo que todavía no es en acto. Un trozo de madera
-tiene en potencia la forma de la estatua; la estatua es ese trozo de madera en
-acto. La transición de potencia a acto no es tránsito por el no-ser sino
-despliegue del ser desde un modo al otro.
+Aristóteles, Metafísica, IX (Θ), 1045b27-1051b2. La distinción entre
+δύναμις (potencia) y ἐνέργεια (acto). La potencia no es no-ser: es ser en
+potencia, el ser que puede llegar a ser algo que todavía no es en acto. Un
+trozo de madera tiene en potencia la forma de la estatua; la estatua es ese
+trozo de madera en acto. La transición de potencia a acto no es tránsito por
+el no-ser sino despliegue del ser desde un modo al otro.
 7
 
 Parménides, Sobre la naturaleza, fragmentos DK 28 B 2-8, especialmente
@@ -1108,7 +1108,7 @@ determinación particular, que son lo que son con independencia de cómo
 estén en el mundo sensible. Platón pensó las Ideas en esos términos: el Bien
 en sí, lo Bello en sí, la Justicia en sí — formas que existen con independencia
 de las instancias sensibles que participan de ellas, que no necesitan estar en
-ningún lugar ni en ningún tiempo para ser lo que son.1 El Dios de la
+ningún lugar ni en ningún tiempo para ser lo que son. 1 El Dios de la
 teología medieval heredó esa estructura: el ser necesario que no depende de
 ninguna condición externa para existir, que es puro acto sin potencia, que
 está más allá de toda determinación finita.
@@ -1146,7 +1146,7 @@ uno mismo, lo que se encuentra es siempre una percepción particular —
 calor o frío, amor u odio, placer o dolor — y entre una percepción y la
 siguiente, nada. Ningún testigo permanente. Ninguna sustancia que observe
 el desfile de experiencias desde una posición fija. Solo el flujo, continuo y
-variable, de las percepciones mismas.2 La consecuencia que Hume extrajo
+variable, de las percepciones mismas. 2 La consecuencia que Hume extrajo
 fue radical: el yo, tal como habitualmente lo concebimos — como sustancia
 permanente que persiste a través del cambio — es una ficción que la
 imaginación construye sobre la base de la semejanza y la contigüidad entre
@@ -1236,7 +1236,7 @@ condición constitutiva: cuando la separación se produce, el objeto de la
 predicación desaparece. No se empobrece: desaparece como aquello que se
 intentaba predicar.
 Aristóteles distinguió entre lo que pertenece esencialmente a algo y lo que le
-pertenece accidentalmente.3 La distinción es útil y prefigura algo de lo que
+pertenece accidentalmente. 3 La distinción es útil y prefigura algo de lo que
 el sum describe, pero no es la misma distinción. Para Aristóteles, los
 accidentes pueden separarse conceptualmente del sujeto sin que el sujeto deje
 de ser lo que es en sus notas esenciales. El ser humano puede no ser músico,
@@ -1321,7 +1321,7 @@ portador, un accidente sin sustancia. Esa imagen tiene una historia larga. La
 filosofía budista, en algunas de sus versiones, va en esa dirección: no hay
 sustancias permanentes, solo eventos, solo dharmas — unidades mínimas de
 experiencia que surgen y desaparecen sin que haya nada que persista a través
-de ellas.4 La f ísica cuántica, mal leída filosóficamente, también ha sido
+de ellas. 4 La física cuántica, mal leída filosóficamente, también ha sido
 reclutada para esa posición: si las partículas no tienen propiedades definidas
 antes de la medición, quizás la realidad es solo relaciones, eventos, procesos
 — sin sustrato alguno.
@@ -1442,8 +1442,8 @@ forma en que el estar se despliega a lo largo de la trayectoria del ser. El río
 que fluye no es el mismo en cada instante en el sentido de que sus
 propiedades específicas cambian constantemente. Pero es el mismo río en el
 sentido de que su ser persiste a través de ese cambio — y de hecho, Heráclito
-lo dice: «en los ríos que entran los mismos, fluyen aguas distintas».5 No dice
-que sea otro río. Dice que las aguas son distintas. El río — su ser — es el
+lo dice: «en los ríos que entran los mismos, fluyen aguas distintas». 5 No
+dice que sea otro río. Dice que las aguas son distintas. El río — su ser — es el
 mismo. Las aguas — su estar — fluyen.
 Heráclito vio algo que Parménides tendía a oscurecer: que la permanencia
 sin devenir no es permanencia del ser sino parálisis. El fuego que deja de
@@ -1539,7 +1539,7 @@ y captura algo real, pero tiene un costo: supone una teleología — una
 dirección predeterminada del cambio hacia su forma perfecta. La semilla
 «tiende» hacia el árbol porque el árbol es la actualización de su potencia
 propia. El cambio tiene dirección, y esa dirección está inscrita en la
-naturaleza del ser que cambia.6
+naturaleza del ser que cambia. 6
 El sum no necesita esa teleología. Lo que el sum requiere para que el cambio
 no exija tránsito por el no-ser es más económico: que el cambio ocurra
 dentro del estar sin que el ser pierda su eje. La semilla no se convierte en un
@@ -1570,7 +1570,7 @@ deja abierto — es que la conjunción constante sin ningún eje de
 permanencia no explica por qué la sucesión de percepciones de Hume es la
 sucesión de percepciones del mismo sujeto y no de varios sujetos distintos
 que se suceden sin conexión. Hume reconoció el problema y lo dejó sin
-solución satisfactoria en el Apéndice al Tratado.7 El sum ofrece esa solución:
+solución satisfactoria en el Apéndice al Tratado. 7 El sum ofrece esa solución:
 el eje del ser no es la sustancia cartesiana que Hume buscaba y no
 encontraba, sino la permanencia a través del cambio del estar que hace que
 la sucesión sea la sucesión de algo.
@@ -1903,7 +1903,7 @@ contra la analogia entis tomista, argumentó que el ser tiene que predicarse
 en el mismo sentido de Dios y de las criaturas para que cualquier predicación
 sobre Dios tenga contenido — si «ser» significara algo completamente
 diferente cuando se predica de Dios y cuando se predica de una piedra, el
-lenguaje teológico sería imposible.1 Pero Escoto no afirmó que Dios y la
+lenguaje teológico sería imposible. 1 Pero Escoto no afirmó que Dios y la
 piedra sean lo mismo: afirmó que el predicado «ser» conserva el mismo
 sentido en ambos casos, aunque los modos de ser sean radicalmente
 diferentes. La univocidad es del predicado, no de aquello de lo que se
@@ -1933,9 +1933,9 @@ NIKOMACHOS
 para hacerlo dentro de su propia metaf ísica — porque su sistema necesitaba
 distinguir entre distintos tipos de ser: la sustancia como ser en sentido
 primario, y los accidentes como modos derivados de ser que dependen de la
-sustancia.2 Para Aristóteles, el ser no se predica unívocamente de la sustancia
-y del accidente porque el accidente es solo en tanto es accidente de algo,
-mientras que la sustancia es en sí misma. La univocidad destruiría esa
+sustancia. 2 Para Aristóteles, el ser no se predica unívocamente de la
+sustancia y del accidente porque el accidente es solo en tanto es accidente de
+algo, mientras que la sustancia es en sí misma. La univocidad destruiría esa
 jerarquía y con ella la metaf ísica de la sustancia entera.
 El sum no necesita la metaf ísica de la sustancia, y por eso puede defender la
 univocidad sin destruir ninguna jerarquía que importe para el argumento.
@@ -1983,7 +1983,7 @@ de la univocidad ontológica sin mediación explícita.
 Don Quijote es — es un ser determinado, tiene modo de ser narrativo e
 histórico-cultural, ha modificado el mundo de maneras que ningún ser que
 no fuera puede modificar, tiene trayectoria, puede ser objeto de
-predicaciones verdaderas.3 Gandhi es — es un ser determinado, tiene modo
+predicaciones verdaderas. 3 Gandhi es — es un ser determinado, tiene modo
 de ser histórico-biográfico-material, actuó en el mundo de maneras que
 ningún ser que no fuera puede actuar, tiene trayectoria, puede ser objeto de
 predicaciones verdaderas. Que Don Quijote no pueda votar no es una
@@ -1994,7 +1994,7 @@ tiene modo de ser que lo haga miembro de esa escala. La exclusión es
 categorial, no ontológica.
 Zeus es — es un ser determinado en el modo religioso, mitológico y
 cultural, con una historia de más de dos milenios y medio de
-determinaciones que lo hacen ser lo que es.4 Una partícula subatómica es —
+determinaciones que lo hacen ser lo que es. 4 Una partícula subatómica es —
 es un ser determinado en el modo f ísico, con propiedades que la f ísica
 describe con precisión admirable. Que uno sea objeto de culto y el otro de
 experimento no es una consecuencia de que uno sea más que el otro en el
@@ -2025,12 +2025,12 @@ nada en la teología, nada en el derecho, nada en el sentido común, le
 atribuye a la roca el tipo de ser que le atribuiría a un humano. Kant, que
 fundó la dignidad en la racionalidad, excluyó explícitamente a los seres no
 racionales: solo los seres con voluntad racional tienen dignidad; los objetos
-tienen precio.5 Bentham, que fundó la consideración moral en la capacidad
-de sufrir, excluyó a la roca por las mismas razones: la roca no puede sufrir.6
+tienen precio. 5 Bentham, que fundó la consideración moral en la capacidad
+de sufrir, excluyó a la roca por las mismas razones: la roca no puede sufrir. 6
 Spinoza, que vio algo más profundo cuando describió el conatus — la
 tendencia de toda cosa a perseverar en su ser —, reconoció esa tendencia en
 la roca tanto como en el humano, pero no derivó de ella ninguna dignidad
-compartida.7
+compartida. 7
 ¿Qué hace el sum con la roca?
 La roca es. Está determinada — material, geológica, f ísicamente. Tiene
 trayectoria — se formó en condiciones específicas, ha persistido a través de
@@ -2119,7 +2119,7 @@ comience.
 Los romanos conocieron la dignitas como posición social — la dignidad del
 senador, del magistrado, del ciudadano libre, que era una dignidad
 diferencial y jerarquizada: más dignidad para quien ocupara una posición
-más alta.8 La teología medieval heredó el término y lo transformó: la
+más alta. 8 La teología medieval heredó el término y lo transformó: la
 dignidad ya no era un privilegio de posición sino una cualidad inherente a
 todo ser humano en cuanto imagen y semejanza de Dios. Aquí el
 movimiento es genuino — la dignidad se democratiza dentro del dominio
@@ -2136,14 +2136,14 @@ A.C.
 NIKOMACHOS
 
 sigue siendo teológico, y el dominio sigue siendo el de los seres creados a
-imagen divina.9
+imagen divina. 9
 Kant dio el siguiente paso y lo dio con una radicalidad que pocos han
 igualado. La dignidad no depende de la posición social ni de la imagen
 divina: depende de la racionalidad. Todo ser racional tiene dignidad —
 tiene un valor que no tiene precio, que no puede ser equiparado con nada y
 que no puede ser reemplazado por otra cosa. La fórmula kantiana es precisa:
 «actúa de tal modo que trates a la humanidad, tanto en tu persona como en
-la de cualquier otro, siempre como un fin y nunca solo como un medio».10
+la de cualquier otro, siempre como un fin y nunca solo como un medio». 10
 La dignidad es el valor del ser racional en cuanto fin en sí mismo.
 El movimiento kantiano amplía el dominio respecto de la teología
 medieval — ya no requiere ser imagen divina, sino ser racional — y al
@@ -2151,7 +2151,7 @@ mismo tiempo lo restringe respecto del argumento de este libro: solo los
 seres racionales tienen dignidad. La roca queda fuera. El árbol queda fuera.
 El animal no racional queda fuera, aunque Singer y la tradición del
 bienestarismo animal hayan intentado extender la consideración moral a
-los seres capaces de sufrir sin invocar la racionalidad.11 Pero la capacidad de
+los seres capaces de sufrir sin invocar la racionalidad. 11 Pero la capacidad de
 sufrir como fundamento de la consideración moral todavía deja fuera a la
 roca, al número primo, a Don Quijote, a Zeus. Y si se deja fuera a todos esos
 seres, la univocidad ontológica que el sum establece no produce ninguna
@@ -2224,7 +2224,7 @@ composición, su masa, su órbita, su historia geológica, su modo de
 existencia en el sistema solar — no varió cuando la votación se produjo.
 Varió la categoría bajo la cual los astrónomos lo describen. Esas son dos cosas
 distintas, y confundirlas es exactamente el tipo de error que la teoría de la
-predicación de este libro tiene que desmontar.12
+predicación de este libro tiene que desmontar. 12
 Del mismo modo, un humano al que se le aplican adjetivos degradantes —
 monstruo, bestia, infrahumano, no-persona — no varía en su ser por eso.
 Varía la clasificación que alguien le impone desde fuera. Y si la dignidad es la
@@ -2352,7 +2352,7 @@ mismo modo, la dignidad no puede retirarse del ser sin que el ser deje de ser
 intentaba embargar.
 Hay una tradición de pensar la gracia, la santidad, el honor como
 propiedades que algunos seres tienen y que pueden perderse — que pueden
-ser manchadas, retiradas, destruidas por los actos del sujeto que las porta.13
+ser manchadas, retiradas, destruidas por los actos del sujeto que las porta. 13
 Esa tradición opera en las escalas de la teología, la moral y el honor social,
 que tienen sus propias reglas. El sum no niega esas escalas ni sus reglas: las
 deja operar en sus propios dominios. Lo que el sum establece es que la
@@ -2455,8 +2455,8 @@ jerarquía categorial del ser es incompatible con la univocidad, que pondría a
 todos en el mismo nivel.
 3
 
-Cervantes, Miguel de, El ingenioso hidalgo don Quijote de la Mancha (1605,
-1615). El caso de Don Quijote como ser narrativo-histórico-cultural es
+Cervantes, Miguel de, El ingenioso hidalgo don Quijote de la Mancha
+(1605, 1615). El caso de Don Quijote como ser narrativo-histórico-cultural es
 filosóficamente rico porque su modo de existencia ha modificado el mundo
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -2474,13 +2474,13 @@ historia de efectos causales sobre la cultura, el lenguaje, la imaginación y la
 filosofía. Esa historia de efectos es parte de su ser en el modo narrativocultural.
 4
 
-La problemática del ser de las divinidades mitológicas ha sido abordada de
-maneras muy diferentes. Desde la evemerización (los dioses fueron humanos
-históricos divinizados), hasta el alegorismo estoico (los dioses son fuerzas
-naturales personificadas), hasta la ontología de los mundos posibles (los
-dioses son seres posibles que existen en algún mundo accesible). Ninguna de
-esas aproximaciones requiere negar que Zeus sea — cada una ofrece una
-descripción de su modo de ser. El sum no toma partido entre esas
+La problemática del ser de las divinidades mitológicas ha sido abordada
+de maneras muy diferentes. Desde la evemerización (los dioses fueron
+humanos históricos divinizados), hasta el alegorismo estoico (los dioses son
+fuerzas naturales personificadas), hasta la ontología de los mundos posibles
+(los dioses son seres posibles que existen en algún mundo accesible).
+Ninguna de esas aproximaciones requiere negar que Zeus sea — cada una
+ofrece una descripción de su modo de ser. El sum no toma partido entre esas
 descripciones: acepta cualquiera que sea capaz de dar cuenta del modo de ser
 específico de Zeus sin negar el ser en tanto ser.
 5
@@ -2535,15 +2535,15 @@ dentro del dominio humano pero requiere el fundamento teológico: los
 seres sin alma racional no participan de la imagen divina.
 10
 
-Kant, Immanuel, Fundamentación de la metafísica de las costumbres, Ak.
-4:429. Segunda formulación del imperativo categórico. La humanidad
+Kant, Immanuel, Fundamentación de la metafísica de las costumbres,
+Ak. 4:429. Segunda formulación del imperativo categórico. La humanidad
 como fin en sí mismo — no meramente como medio — es el fundamento
 de la dignidad kantiana. La racionalidad práctica es la propiedad que
 confiere esa dignidad.
 11
 
-Singer, Peter, Animal Liberation (1975). El criterio de la sensibilidad como
-fundamento de la consideración moral: si un ser puede sufrir, tiene un
+Singer, Peter, Animal Liberation (1975). El criterio de la sensibilidad
+como fundamento de la consideración moral: si un ser puede sufrir, tiene un
 interés en no sufrir, y ese interés merece consideración moral equiparable a
 los intereses similares de cualquier otro ser. La tradición del bienestarismo
 animal amplía el dominio de la consideración moral más allá de los seres
@@ -2667,7 +2667,7 @@ Platón realizó ese movimiento con la razón como criterio del ser pleno. Los
 seres que participan de la Idea con más perfección son seres más plenos; los
 que participan con menos perfección son seres más deficitarios respecto del
 ideal. La materia es el principio de la imperfección — lo que hace que los
-seres sensibles sean copias imperfectas de las Ideas que realizan.1 No es que la
+seres sensibles sean copias imperfectas de las Ideas que realizan. 1 No es que la
 piedra sea menos ser que el humano porque la piedra sea una piedra
 defectuosa: es que la piedra realiza la Idea con menos perfección que el
 humano. Esa jerarquía no es evaluativa en el sentido ordinario — no dice
@@ -2681,7 +2681,7 @@ y racional; la planta tiene solo vegetativa; la piedra no tiene ninguna. Esa
 diferencia es real para Aristóteles y tiene consecuencias: el alma racional es
 lo que hace al humano ser humano en plenitud, y los seres sin alma racional
 son seres de una especie inferior — no seres disminuidos en sentido
-peyorativo, pero sí seres en un peldaño más bajo de la escala.2
+peyorativo, pero sí seres en un peldaño más bajo de la escala. 2
 Hegel llevó la jerarquía al nivel histórico. El Espíritu se despliega en el
 tiempo, y los pueblos, las culturas y las épocas que han llegado más cerca de
 la autoconciencia del Espíritu son culturalmente superiores a los que no han
@@ -2690,7 +2690,7 @@ hay pueblos que están en un estadio más primitivo del desarrollo espiritual, y
 esa primitividad es una deficiencia histórica, no meramente una diferencia.
 El colonialismo encontró en ese argumento una justificación filosófica que
 Hegel no habría rechazado con la facilidad que sus admiradores modernos
-desearían.3
+desearían. 3
 Nietzsche invirtió la jerarquía pero no la estructura. Lo que Platón,
 Aristóteles y Hegel celebraban como el criterio del ser pleno — la razón, el
 alma racional, la autoconciencia espiritual — Nietzsche lo denunció como
@@ -2708,7 +2708,7 @@ NIKOMACHOS
 
 poder es el criterio auténtico: los seres que afirman su poder sin pedir
 permiso ni justificación son seres más plenos; los que necesitan la moral del
-rebaño para sobrevivir son seres más disminuidos.4 La jerarquía se invirtió;
+rebaño para sobrevivir son seres más disminuidos. 4 La jerarquía se invirtió;
 la estructura permaneció intacta. Sigue habiendo seres más plenos y seres
 más deficitarios, solo que el criterio cambió.
 Lo que el sum establece es que todas esas jerarquías comparten el mismo
@@ -2769,7 +2769,7 @@ es más específica que el ser en tanto ser.
 Honneth, que siguió el camino hegeliano del reconocimiento como
 fundamento de la identidad y la dignidad, vio algo parecido cuando observó
 que la falta de reconocimiento no simplemente daña al sujeto — lo
-deforma.5 Lo que el sujeto es se constituye en parte a través del
+deforma. 5 Lo que el sujeto es se constituye en parte a través del
 reconocimiento que recibe: sin reconocimiento, el sujeto no puede
 desarrollar una relación positiva consigo mismo, y esa incapacidad no es
 exterior al ser del sujeto sino parte de su determinación. Honneth tiene
@@ -2932,7 +2932,7 @@ Si el patrón del ser pleno del humano es la racionalidad — como en Kant
 razona bien sino un ser que no satisface el criterio del ser humano pleno.
 Pero entonces el criterio de la dignidad kantiana tiene que excluir a los
 humanos que no son racionales, y esa exclusión es exactamente el tipo de
-jerarquía ontológica que el sum rechaza.6 Si el criterio es la capacidad de
+jerarquía ontológica que el sum rechaza. 6 Si el criterio es la capacidad de
 sufrir — como en Bentham —, excluye a los seres que no pueden sufrir. Si el
 criterio es la autoconciencia — como en Hegel —, excluye a los seres que no
 la han alcanzado. En todos los casos, el patrón que define el ser pleno
@@ -3020,7 +3020,7 @@ haber modificado el ser de X.
 La historia tiene nombre para esto. Los romanos conocieron la capitis
 deminutio — la disminución de la cabeza, la reducción del estatus jurídico
 de un ciudadano que podía llegarse hasta la pérdida total de la ciudadanía, la
-libertad y la familia.7 El ciudadano que sufría la capitis deminutio maxima
+libertad y la familia. 7 El ciudadano que sufría la capitis deminutio maxima
 era jurídicamente equivalente a quien nunca había sido ciudadano — perdía
 todos los derechos, todas las posiciones, todas las relaciones jurídicas que
 dependían de su estatus. No dejaba de ser humano en el sentido biológico.
@@ -3038,7 +3038,7 @@ Pero era tratado como si hubiera dejado de ser el tipo de ser al que le
 correspondían esas condiciones.
 La muerte civil — que el derecho medieval y moderno temprano aplicó a
 los condenados a penas graves, los herejes, los excluidos de la comunidad
-religiosa — tiene la misma estructura.8 El muerto civil sigue respirando.
+religiosa — tiene la misma estructura. 8 El muerto civil sigue respirando.
 Sigue siendo biológicamente lo que era. Pero el sistema jurídico opera sobre
 él como si hubiera dejado de ser el tipo de ser al que le correspondía el
 régimen de ese sistema. No puede contratar, no puede heredar, no puede
@@ -3079,7 +3079,7 @@ norma que prohíba el embargo, hay terreno que no tiene la forma que el
 embargo supone.
 La argumentación de Agamben sobre la vida desnuda — zōe frente a bios, la
 vida biológica frente a la vida política — captura algo de esa estructura
-aunque llega a conclusiones diferentes.9 Lo que Agamben llama homo sacer
+aunque llega a conclusiones diferentes. 9 Lo que Agamben llama homo sacer
 — el ser que puede ser matado sin que ese acto sea homicidio — es el caso
 límite del embargo ontológico: el ser al que se le ha retirado el estatus de
 vida cualificada, de bios, para reducirlo a la mera persistencia biológica de la
@@ -3325,7 +3325,7 @@ el sum necesita resolver antes de poder construir su gramática de la
 predicación.
 El primer problema: ¿qué es el sujeto de la predicación? Frege distinguió
 entre el sentido (Sinn) y la referencia (Bedeutung) de las expresiones
-lingüísticas.1 El sentido es el modo de presentación del objeto — el camino
+lingüísticas. 1 El sentido es el modo de presentación del objeto — el camino
 por el que la expresión llega a su referencia. La referencia es el objeto mismo.
 «El lucero matutino» y «el lucero vespertino» tienen la misma referencia
 — Venus — pero sentidos diferentes: dos modos distintos de presentar el
@@ -3344,7 +3344,7 @@ El segundo problema: ¿qué significa que un predicado sea verdadero de un
 sujeto? Russell mostró que no toda expresión gramaticalmente bien
 formada tiene referencia — «el actual rey de Francia es calvo» es
 gramaticalmente correcta pero falla en tener referencia porque no hay un
-rey actual de Francia.2 La verdad de un predicado requiere que el sujeto
+rey actual de Francia. 2 La verdad de un predicado requiere que el sujeto
 tenga referencia y que el predicado se aplique a esa referencia bajo las
 condiciones que el predicado establece.
 El sum añade: la verdad de un predicado requiere también que la escala
@@ -3377,7 +3377,7 @@ como objeto solo en la medida en que ese ser comparece dentro de esa escala.
 Y lo que la escala toma como objeto no es el ser qua ser: es el ser en cuanto
 relevante para esa escala.
 Kripke introdujo la noción de designador rígido para capturar algo
-importante sobre la referencia de los nombres propios.3 «Aristóteles»
+importante sobre la referencia de los nombres propios. 3 «Aristóteles»
 designa rígidamente al mismo individuo en todo mundo posible en que ese
 individuo existe — no cambia su referencia según las propiedades que
 Aristóteles tenga en cada mundo posible. «El maestro de Alejandro» puede
@@ -3495,7 +3495,7 @@ exhaustividad.
 
 V. Categoría no es totalidad
 Aristóteles organizó la predicación en diez categorías: sustancia, cantidad,
-cualidad, relación, lugar, tiempo, posición, estado, acción, pasión.4 No
+cualidad, relación, lugar, tiempo, posición, estado, acción, pasión. 4 No
 cualquier cosa puede predicarse de cualquier otra — las categorías organizan
 los tipos de predicados posibles y los tipos de sujetos a los que cada tipo puede
 aplicarse legítimamente. La sustancia no puede predicarse de una cualidad
@@ -3906,7 +3906,7 @@ precisión que sus instrumentos permiten, dentro de los límites que su escala
 establece. Un mapa muy preciso puede representar el territorio con una
 fidelidad enorme. Pero el mapa nunca es el territorio — y tratar el mapa
 como si fuera el territorio produce errores que el mapa más preciso no puede
-evitar.5 Del mismo modo, la predicación muy precisa de Pedro desde la
+evitar. 5 Del mismo modo, la predicación muy precisa de Pedro desde la
 escala jurídica puede capturar aspectos reales de Pedro con gran exactitud.
 Pero la predicación no es Pedro, y tratar la predicación como si agotara a
 Pedro produce exactamente el error del mapa tomado por territorio.
@@ -3993,9 +3993,9 @@ implica que ninguna propiedad del referente sea esencial — implica que el
 nombre fija la referencia independientemente de las propiedades.
 4
 
-Aristóteles, Categorías, caps. 4-9 (1b25-11b14). Las diez categorías: sustancia
-(οὐσία), cantidad (ποσόν), cualidad (ποιόν), relación (πρός τι), lugar (ποῦ),
-tiempo (ποτέ), posición (κεῖσθαι), estado (ἔχειν), acción (ποιεῖν), pasión
+Aristóteles, Categorías, caps. 4-9 (1b25-11b14). Las diez categorías:
+sustancia (οὐσία), cantidad (ποσόν), cualidad (ποιόν), relación (πρός τι), lugar
+(ποῦ), tiempo (ποτέ), posición (κεῖσθαι), estado (ἔχειν), acción (ποιεῖν), pasión
 (πάσχειν). No todo puede predicarse de todo: la categoría del predicado tiene
 que ser compatible con la categoría del sujeto para que la predicación tenga
 sentido. La cualidad «blanco» puede predicarse de la sustancia «Pedro»; la
@@ -4094,7 +4094,7 @@ resulta útil como modelo de lo que el puente debe ser cuando opera
 legítimamente.
 En Una teoría de la justicia, Rawls necesitaba pasar de ciertas premisas sobre
 la racionalidad de los agentes a conclusiones sobre los principios de justicia
-que una sociedad debería adoptar.1 El tránsito no se sigue lógicamente de las
+que una sociedad debería adoptar. 1 El tránsito no se sigue lógicamente de las
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4118,7 +4118,7 @@ tránsito de las premisas sobre racionalidad a las conclusiones sobre los
 principios de justicia. Sin el velo, el tránsito no se produce. Con el velo, el
 tránsito tiene una estructura visible — puede auditarse, puede discutirse,
 puede rechazarse con argumentos que apunten específicamente a lo que el
-puente hace o deja de hacer.2
+puente hace o deja de hacer. 2
 Eso es lo que el puente rawlsiano hace cuando funciona bien: vuelve visible
 la mediación que produce el tránsito, de modo que quien discrepe de la
 conclusión pueda identificar exactamente dónde discrepa — en las premisas,
@@ -4193,7 +4193,7 @@ tránsito de la causalidad a la obligación no se produce. Esto es la guillotina
 de Hume — el is/ought — formulada con más precisión: lo que Hume
 señaló es que la norma no se deriva de los hechos sin puente, y el puente es
 siempre un sistema normativo que alguien ha instituido con alguna
-justificación que debe declararse.3
+justificación que debe declararse. 3
 El criterio como puente dice: «de A se sigue B porque el criterio C clasifica
 A bajo la categoría B». «Este acto fue cruel» no implica por sí solo «este
 acto fue injustificable»: implica que fue injustificable bajo los criterios
@@ -4205,7 +4205,7 @@ absolutizando el criterio sin declararlo.
 La convención como puente dice: «de A se sigue B porque en el sistema S, A
 cuenta como B». Las convenciones constitutivas de Searle son el modelo: en
 el ajedrez, mover el alfil en diagonal cuenta como un movimiento válido
-porque las reglas del ajedrez así lo establecen.4 Fuera del sistema del ajedrez,
+porque las reglas del ajedrez así lo establecen. 4 Fuera del sistema del ajedrez,
 el movimiento no «cuenta» como nada en particular. Las convenciones
 producen realidades institucionales — dinero, matrimonio, propiedad,
 ciudadanía — que dependen del sistema que las instituye. Cuando un
@@ -4286,7 +4286,7 @@ repente» — las proposiciones sobre cómo son las cosas se convierten en
 proposiciones sobre cómo deben ser. El tránsito se produce sin que nadie
 declare qué lo autoriza.
 La guillotina de Hume no dice que el tránsito sea imposible. Dice que el
-tránsito necesita un puente que no se deriva por sí solo de los hechos.5 Hay
+tránsito necesita un puente que no se deriva por sí solo de los hechos. 5 Hay
 muchos puentes posibles — principios morales, acuerdos contractuales,
 principios de utilidad, imperativos categóricos. Todos ellos son puentes que
 pueden discutirse. Lo que Hume señala es que sin declarar uno de ellos, el
@@ -4327,7 +4327,7 @@ El utilitarismo de Bentham y Mill es el caso más instructivo. El principio de
 utilidad — «actúa de modo que maximices la felicidad del mayor número»
 — es un puente: una mediación que autoriza el tránsito de los hechos sobre
 las consecuencias de los actos a las conclusiones sobre qué actos deben
-realizarse.6 Dentro de ciertos dominios, el principio funciona
+realizarse. 6 Dentro de ciertos dominios, el principio funciona
 razonablemente bien: produce resultados que la mayoría puede reconocer
 como orientados hacia el bien. El problema aparece cuando el principio se
 absolutiza — cuando se aplica sin restricción a todos los casos, incluidos los
@@ -4338,7 +4338,7 @@ utilitarismo sin restricción no puede manejar: si torturar a un inocente salva
 vidas, el principio de utilidad indica que se debe torturar. Que eso parezca
 monstruoso a la intuición moral ordinaria no es un defecto de la intuición
 — es la señal de que el principio ha sido absolutizado más allá de su
-jurisdicción.7 El principio de utilidad es un puente legítimo dentro de cierto
+jurisdicción. 7 El principio de utilidad es un puente legítimo dentro de cierto
 dominio. El problema no es el principio: es la absolutización que pretende
 aplicarlo a casos para los que no fue construido sin exhibir el instrumento
 adicional que justificaría esa extensión.
@@ -4367,7 +4367,7 @@ La fuerza de la costumbre como puente en los sistemas jurídicos positivos es
 un ejemplo preciso. En el derecho consuetudinario, la práctica prolongada y
 uniforme de una conducta puede constituir una norma vinculante — lo que
 se ha hecho siempre de cierta manera puede convertirse, bajo ciertas
-condiciones, en lo que debe hacerse de esa manera.8 Ese puente opera dentro
+condiciones, en lo que debe hacerse de esa manera. 8 Ese puente opera dentro
 del sistema jurídico que lo reconoce como fuente de derecho. Trasladado
 fuera de ese sistema — «siempre se ha tratado a este tipo de seres de este
 modo, luego así deben tratarse» —, el puente pierde su jurisdicción. Lo que
@@ -4406,7 +4406,7 @@ IX. Tautología euclidiana
 El nombre viene de la forma en que Euclides construyó la geometría: a
 partir de definiciones, postulados y nociones comunes, y a través de
 demostraciones que explicitan cada paso, de modo que en cada punto sea
-visible qué condiciones están siendo usadas y con qué derecho.9
+visible qué condiciones están siendo usadas y con qué derecho. 9
 La tautología euclidiana, en el sentido que este libro le da, es una forma de
 auditoría: el examen de las condiciones constitutivas de una operación para
 determinar si la operación puede seguir siendo predicada como aquello que
@@ -4434,7 +4434,7 @@ A.C.
 NIKOMACHOS
 
 postulado de las paralelas: obtuvo la geometría que describe la superficie de
-una esfera.10
+una esfera. 10
 Lo mismo ocurre con cualquier operación que tiene condiciones
 constitutivas. La predicación tiene condiciones constitutivas — las que los
 capítulos anteriores fueron construyendo. Si esas condiciones no se
@@ -4556,7 +4556,7 @@ El argumento de las Ideas de Platón es el caso más poderoso y más influyente
 del uso problemático de la tautología euclidiana en la historia de la filosof ía
 occidental.
 El argumento del Fedón por la inmortalidad del alma ofrece la estructura
-más clara.11 Platón necesita mostrar que el alma no perece con el cuerpo. El
+más clara. 11 Platón necesita mostrar que el alma no perece con el cuerpo. El
 argumento: el alma es el principio de la vida; lo que es principio de vida no
 puede admitir la muerte sin dejar de ser lo que es; luego el alma es inmortal.
 La estructura parece ser una derivación: de la naturaleza del alma se sigue la
@@ -4568,10 +4568,10 @@ muerte — como lo que es por definición indestructible —, entonces la
 inmortalidad no es un descubrimiento sino una extracción de lo que la
 definición ya contenía. La pregunta que el martillo hace es: ¿por qué definir
 el alma de ese modo? ¿Qué autoriza esa definición más que la conveniencia
-de producir la conclusión deseada?12
+de producir la conclusión deseada? 12
 El argumento ontológico de Anselmo tiene la misma estructura con una
 elegancia que ha maravillado y desconcertado a filósofos durante nueve
-siglos.13 Dios es definido como «aquello mayor que lo cual nada puede
+siglos. 13 Dios es definido como «aquello mayor que lo cual nada puede
 pensarse». Si Dios solo existiera en el pensamiento y no en la realidad,
 podría pensarse algo mayor — algo que tuviera todas las propiedades de ese
 Dios más la existencia real. Luego Dios existe en la realidad. La conclusión
@@ -4592,12 +4592,11 @@ A.C.
 
 NIKOMACHOS
 
-no puede ser introducida en la definición como si fuera una propiedad más.
-14
-
-Lo que Kant hizo con el argumento ontológico, el martillo euclidiano
-generaliza: cualquier argumento que introduce en sus definiciones lo que
-pretende demostrar no está demostrando sino extrayendo.
+no puede ser introducida en la definición como si fuera una propiedad
+más. 14 Lo que Kant hizo con el argumento ontológico, el martillo
+euclidiano generaliza: cualquier argumento que introduce en sus
+definiciones lo que pretende demostrar no está demostrando sino
+extrayendo.
 Los herederos contemporáneos de esa estructura son frecuentes. Los
 argumentos que definen la racionalidad de un modo que ya incluye las
 conclusiones que la racionalidad debe producir; los argumentos que definen
@@ -4624,8 +4623,6 @@ posibilidad y encontraron que sí hay definiciones alternativas — el ser sin
 estar de las formas platónicas, el estar sin ser del empirismo radical
 humeano —, y que esas definiciones producen problemas que el sum no
 tiene. El sum no introduce la intrinsequidad como premisa oculta: muestra
-por qué las alternativas no satisfacen las condiciones que la ontología
-requiere. La auditoría pasa.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4636,6 +4633,8 @@ A.C.
 
 NIKOMACHOS
 
+por qué las alternativas no satisfacen las condiciones que la ontología
+requiere. La auditoría pasa.
 La dignidad bajo el martillo euclidiano. La dignidad dice que lo que es es
 digno de ser lo que es. ¿Está introduciendo el mérito de lo que es como
 premisa para concluir que lo que es merece ser? El test: ¿qué trabajo hace
@@ -4668,8 +4667,6 @@ tautología euclidiana es una herramienta de auditoría, no una verdad
 descubierta desde fuera. Su autoridad es instrumental — ayuda a auditar
 argumentos — y no pretende ser más que eso. Quien quiera rechazarla tiene
 que mostrar que los argumentos que pretende examinar no tienen
-condiciones constitutivas, lo que equivale a mostrar que los conceptos no
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4679,6 +4676,7 @@ A.C.
 
 NIKOMACHOS
 
+condiciones constitutivas, lo que equivale a mostrar que los conceptos no
 tienen condiciones de aplicabilidad — y esa demostración es
 considerablemente más dif ícil que aceptar la herramienta.
 El libro no sale invicto de su propia auditoría. Sale honesto, que es lo que
@@ -4937,7 +4935,7 @@ III. Situación no implica escepticismo
 El escepticismo clásico — desde Pirrón hasta Descartes y más allá —
 construyó su argumento sobre la posibilidad de que los sentidos engañen,
 que los sueños sean indistinguibles de la vigilia, que un genio maligno pueda
-producir en nosotros ilusiones sistemáticas.1 La forma más radical del
+producir en nosotros ilusiones sistemáticas. 1 La forma más radical del
 escepticismo moderno concluye que nada puede saberse con certeza porque
 toda evidencia podría ser fabricada por una fuente que la mente no puede
 excluir.
@@ -5006,7 +5004,7 @@ crimen — el crimen ya ocurrió, los actores ya se fueron, la escena ha
 cambiado. Lo que queda son rastros: la posición de los objetos, las huellas,
 los residuos, los documentos. Desde esos rastros, el detective reconstruye lo
 que fue. No porque tenga acceso directo a lo que ocurrió, sino porque lo que
-ocurrió dejó marcas en el mundo que persisten y que pueden leerse.2
+ocurrió dejó marcas en el mundo que persisten y que pueden leerse. 2
 Segunda propiedad: el rastro es parcial. No captura todo lo que el ser es o
 hizo — captura lo que el ser dejó en el dominio específico donde el rastro se
 produjo. La huella en la nieve captura el peso y la forma del pie, la dirección
@@ -5022,7 +5020,7 @@ conocimiento del campo en que el rastro opera y criterios para distinguir el
 rastro relevante del ruido.
 Peirce vio en el rastro la estructura fundamental del razonamiento humano,
 a la que llamó abducción: el razonamiento que parte del efecto observado
-hacia la hipótesis que lo explica.3 No la deducción, que va de premisas ciertas
+hacia la hipótesis que lo explica. 3 No la deducción, que va de premisas ciertas
 a conclusiones necesarias. No la inducción, que va de casos particulares a
 generalizaciones. La abducción va de efectos a causas, de rastros a hipótesis
 sobre el ser que los produjo. Es el razonamiento del detective, del médico,
@@ -5065,7 +5063,7 @@ masa, cómo esa curvatura afecta a los objetos que se mueven dentro de él.
 Einstein nunca tuvo acceso a la «naturaleza íntima» del espacio-tiempo,
 sea lo que sea que eso signifique. Tuvo acceso a un sistema matemático que
 describía los efectos con una precisión que superaba a cualquier descripción
-anterior, y que fue confirmado por observaciones que el sistema predecía.4
+anterior, y que fue confirmado por observaciones que el sistema predecía. 4
 El conocimiento por efectos no es un conocimiento de segunda clase. Es el
 conocimiento que existe.
 
@@ -5166,7 +5164,7 @@ sistemas más sofisticados que existen para el conocimiento situado: el
 Sistema Internacional de Unidades, que define con precisión las condiciones
 bajo las cuales una medición es válida, qué instrumentos pueden usarse,
 cómo se calibran esos instrumentos, cómo se estima la incertidumbre de la
-medición.5 Ninguna medición en el Sistema Internacional pretende
+medición. 5 Ninguna medición en el Sistema Internacional pretende
 capturar la «naturaleza íntima» de lo que mide. Pretende asignar un valor a
 una propiedad definida operacionalmente — un valor que puede
 reproducirse por otros observadores usando los mismos instrumentos y
@@ -5226,9 +5224,9 @@ no más.
 La física cuántica mide propiedades de las partículas subatómicas con una
 precisión que no tiene rival en la historia de la ciencia. No mide la
 «naturaleza íntima» de esas partículas — el debate sobre qué son las
-partículas cuánticas en sí mismas continúa y es genuinamente filosófico.6 Lo
-que mide la física cuántica son propiedades operacionalmente definidas —
-posición, momento, espín, carga — con procedimientos de medición que
+partículas cuánticas en sí mismas continúa y es genuinamente filosófico. 6
+Lo que mide la f ísica cuántica son propiedades operacionalmente definidas
+— posición, momento, espín, carga — con procedimientos de medición
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5239,12 +5237,12 @@ A.C.
 
 NIKOMACHOS
 
-producen valores con incertidumbre conocida. Esas mediciones son
+que producen valores con incertidumbre conocida. Esas mediciones son
 conocimiento real. No son conocimiento exhaustivo del ser qua ser de las
 partículas.
 La neurociencia mide la actividad cerebral con resoluciones espaciales y
 temporales que mejoran cada año. No mide la experiencia subjetiva — el
-problema dif ícil de la conciencia permanece filosóficamente abierto.7 Lo
+problema difícil de la conciencia permanece filosóficamente abierto. 7 Lo
 que mide la neurociencia son correlatos neurales de estados mentales: la
 actividad en ciertas regiones del cerebro cuando ciertos estados ocurren. Esas
 correlaciones son conocimiento real con jurisdicción dentro de la escala
@@ -5297,7 +5295,7 @@ La alegoría de la caverna es el diagnóstico más influyente que la filosof ía
 occidental ha producido sobre el conocimiento mediado, y durante más de
 dos milenios ha sido leída predominantemente como un diagnóstico
 negativo: estamos atrapados en la caverna, vemos sombras, y el
-conocimiento genuino requiere salir.8
+conocimiento genuino requiere salir. 8
 El sum propone una lectura diferente — no como inversión retórica de
 Platón, sino como recuperación de lo que la alegoría puede mostrar cuando
 se la lee desde el suelo que los capítulos anteriores construyeron.
@@ -5365,13 +5363,13 @@ NIKOMACHOS
 
 Esa tradición tuvo herederos muy diferentes. Descartes intentó fundar el
 conocimiento en el cogito — una certeza que no depende de ninguna
-experiencia sensorial ni de ninguna posición corporal.9 Husserl intentó
+experiencia sensorial ni de ninguna posición corporal. 9 Husserl intentó
 fundar el conocimiento en la fenomenología trascendental — la
 descripción de las estructuras de la conciencia que son previas a cualquier
-contenido empírico específico.10 El positivismo lógico del Círculo de Viena
+contenido empírico específico. 10 El positivismo lógico del Círculo de Viena
 intentó fundar el conocimiento en proposiciones que o bien son analíticas
 — verdaderas por significado — o bien son verificables por experiencia
-pública.11 En todos los casos, la ambición es la misma: encontrar un punto
+pública. 11 En todos los casos, la ambición es la misma: encontrar un punto
 de apoyo que no dependa de la situación particular del observador.
 El sum no tiene esa ambición. No porque renuncie al conocimiento sino
 porque rechaza la premisa que hace de la trascendencia una exigencia. El
@@ -5410,7 +5408,7 @@ fracaso que produjo — es uno de los experimentos filosóficos más
 iluminadores que existen sobre el conocimiento situado.
 El método que Hume usó fue el de la introspección rigurosa: entrar en uno
 mismo, mirar con cuidado qué se encuentra, describir exactamente lo que
-aparece.12 Lo que apareció fue siempre una percepción particular: calor o
+aparece. 12 Lo que apareció fue siempre una percepción particular: calor o
 frío, amor u odio, placer o dolor. Lo que no apareció — en ningún
 momento de la búsqueda, por más cuidadosa que fuera — fue el yo como
 objeto: la sustancia que percibe, el testigo permanente, la entidad que dice
@@ -5458,7 +5456,7 @@ introspección — el yo como un haz o colección de percepciones diferentes
 que se suceden con una rapidez inconcebible y que están en flujo y
 movimiento perpetuos — es a menudo presentada como el símbolo del
 fracaso del yo. Si el yo es solo un haz de percepciones, no es una sustancia: es
-un proceso, y un proceso sin sujeto es finalmente un proceso de nadie.13
+un proceso, y un proceso sin sujeto es finalmente un proceso de nadie. 13
 El sum lee el haz de manera diferente. El haz no es el fracaso del yo — es la
 descripción más honesta disponible de cómo el yo se presenta a la
 experiencia desde adentro. El haz es el rastro de la trayectoria: la secuencia
@@ -5753,7 +5751,7 @@ producido por la conjunción constante, ¿cómo puede fundarse la
 imputación sobre la causalidad? Si no observamos la conexión necesaria
 entre el acto de Pedro y sus consecuencias — si solo observamos que ciertos
 tipos de actos han sido seguidos de ciertos tipos de consecuencias en la
-experiencia pasada —, ¿en qué sentido Pedro «causó» lo que hizo?1
+experiencia pasada —, ¿en qué sentido Pedro «causó» lo que hizo? 1
 Esa complicación no destruye el argumento del libro. La responde — pero
 la respuesta requiere el aparato de Caos, que esta Parte IV no ha incorporado
 todavía. Por ahora, lo que importa es que Hume fija el primer límite del
@@ -5824,7 +5822,7 @@ coincidencia directamente. Tenemos representaciones y tenemos el mundo
 Kant invirtió la pregunta. En lugar de preguntar cómo el conocimiento se
 ajusta al mundo, preguntó cómo el mundo se ajusta al conocimiento — o
 más precisamente, cómo los objetos de la experiencia se ajustan a las
-condiciones que el sujeto impone a cualquier experiencia posible.2 La
+condiciones que el sujeto impone a cualquier experiencia posible. 2 La
 respuesta: los objetos que podemos conocer son los objetos que comparecen
 bajo las formas de la intuición sensible — espacio y tiempo — y bajo las
 categorías del entendimiento — causalidad, sustancia, unidad, pluralidad,
@@ -5938,7 +5936,7 @@ no sensible — una forma de conocimiento que no depende de las
 condiciones del espacio y el tiempo. Kant es explícito en que los seres
 humanos no tienen esa intuición intelectual. El noúmeno en sentido
 positivo no es un objeto de conocimiento para nosotros: es el concepto de un
-tipo de conocimiento que no tenemos.3
+tipo de conocimiento que no tenemos. 3
 La función del noúmeno en el sistema kantiano es exactamente la de la
 frontera del barranco que el Capítulo III describió respecto de la dignidad:
 no prescribe que el conocimiento no deba intentar cruzar ese límite.
@@ -6063,7 +6061,7 @@ que saber, sabremos» — aplicada al ser humano concreto. Una pretensión
 audaz que, en el dominio del conocimiento del mundo f ísico, produjo una
 investigación fenomenal durante medio siglo. Gödel le respondió que hay
 proposiciones verdaderas que el sistema no puede demostrar dentro de sí
-mismo.4 El límite kantiano le responde, con diferente vocabulario pero
+mismo. 4 El límite kantiano le responde, con diferente vocabulario pero
 estructura análoga, que hay un nivel del ser que el conocimiento no puede
 alcanzar desde adentro del ser.
 
@@ -6111,7 +6109,7 @@ En la filosof ía práctica kantiana, el sujeto moral no es el sujeto fenoménic
 causalidad, determinado por su historia, su biología, sus circunstancias. El
 sujeto moral es el sujeto noumenal: el Pedro como cosa-en-sí, libre de las
 cadenas de la causalidad fenoménica, capaz de determinarse por la razón
-pura práctica.5
+pura práctica. 5
 La distinción es necesaria para el proyecto ético kantiano. Si Pedro es solo
 fenómeno — solo un evento en la cadena causal determinada por
 antecedentes —, entonces Pedro no tiene libertad, y sin libertad no hay
@@ -6153,7 +6151,7 @@ No tenemos intuición intelectual. Todo nuestro conocimiento del mundo
 opera bajo las condiciones de la intuición sensible — espacio y tiempo — y
 las categorías del entendimiento. El noúmeno, para nosotros, es un
 concepto límite: el concepto de aquello que está más allá de las condiciones
-de nuestra experiencia posible. Puede pensarse; no puede conocerse.6
+de nuestra experiencia posible. Puede pensarse; no puede conocerse. 6
 La Crítica de la razón práctica necesita que el sujeto inteligible — el sujeto
 como noúmeno, libre de la determinación fenoménica — sea no solo
 pensable sino activo. El imperativo categórico se dirige al sujeto inteligible y
@@ -6180,7 +6178,7 @@ sabe entonces la razón práctica lo que el sujeto inteligible eligió? ¿Con qu
 instrumento la imputabilidad moral accede al Pedro-como-noúmeno que
 eligió?
 Kant respondió que la imputabilidad moral no necesita conocer la cosa-ensí de Pedro — solo necesita presuponer que Pedro, en cuanto ser racional,
-tiene la capacidad de actuar por la ley moral.7 La imputabilidad es práctica,
+tiene la capacidad de actuar por la ley moral. 7 La imputabilidad es práctica,
 no teórica: no afirma conocer el noúmeno de Pedro sino postular que Pedro,
 en cuanto racional, es el tipo de ser al que la ley moral puede dirigirse. La
 libertad trascendental no es un hecho del mundo fenoménico — es un
@@ -6215,7 +6213,7 @@ el momento M. No dice nada sobre el «carácter inteligible» de Pedro —
 sobre la estructura noumenal de Pedro como sujeto moral específico.
 Pero en la filosof ía práctica kantiana, especialmente en la Metaf ísica de las
 costumbres, el carácter inteligible empieza a hacer trabajo predicativo
-específico.8 El carácter inteligible de Pedro — la estructura de su voluntad
+específico. 8 El carácter inteligible de Pedro — la estructura de su voluntad
 como noúmeno — es lo que hace a Pedro responsable de sus actos
 específicos. No el postulado general de que los seres racionales pueden actuar
 por la ley moral, sino la predicación específica de que Pedro, como
@@ -6235,7 +6233,7 @@ problema al nivel del sujeto en general, pero deja abierto el problema al
 nivel del sujeto específico. El postulado dice que los seres racionales pueden
 ser libres. No dice que Pedro fue libre en el momento M de hacer lo que
 hizo. Para decir eso, necesitaría acceso al noúmeno de Pedro en ese
-momento — y ese acceso no está disponible.9
+momento — y ese acceso no está disponible. 9
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6396,8 +6394,8 @@ estructura es análoga: el sistema no puede cerrarse sobre sí mismo desde
 adentro.
 5
 
-Kant, Immanuel, Crítica de la razón práctica (1788), Libro I, Cap. III: «De
-los motores de la razón pura práctica». La distinción entre el sujeto
+Kant, Immanuel, Crítica de la razón práctica (1788), Libro I, Cap. III:
+«De los motores de la razón pura práctica». La distinción entre el sujeto
 fenoménico (determinado causalmente) y el sujeto noumenal (libre, capaz
 de actuar por la ley moral). También Fundamentación de la metafísica de
 las costumbres (1785), Sección III: «Tránsito de la metaf ísica de las
@@ -6555,7 +6553,7 @@ actualización de una de ellas, con todo el peso que la irreversibilidad del
 colapso tiene en este libro.
 Esta caracterización del acto como determinación tiene antecedentes.
 Aristóteles distinguió entre lo que es en potencia y lo que es en acto — y el
-acto es la actualización de la potencia, el paso de lo que puede ser a lo que es.1
+acto es la actualización de la potencia, el paso de lo que puede ser a lo que es. 1
 Pero la caracterización de Caos que este libro hereda va más lejos que la
 aristotélica: el acto no solo actualiza una potencia preexistente — produce
 una determinación que no existía antes del colapso y que no puede
@@ -6576,11 +6574,9 @@ A.C.
 NIKOMACHOS
 
 movimiento de la mano — es la primera mediación de Pedro: el momento
-donde la voluntad de Pedro se orienta y produce la determinación que viene.
-2
-
-Sin esa orientación, hay movimiento f ísico, hay evento — pero no hay
-acto en el sentido que la imputabilidad requiere.
+donde la voluntad de Pedro se orienta y produce la determinación que
+viene. 2 Sin esa orientación, hay movimiento f ísico, hay evento — pero no
+hay acto en el sentido que la imputabilidad requiere.
 Actuar es determinarse. Y determinarse es dejar huella.
 
 IV. El acto como actualización efectiva
@@ -6598,7 +6594,7 @@ natural, el daño no querido. Lo que produce imputabilidad es exactamente
 la intersección: que quien orientó su voluntad hacia el acto sea el mismo que
 produjo el efecto en el mundo.
 Arendt vio algo importante aquí cuando distinguió entre la labor, el trabajo
-y la acción.3 La acción es la que revela al quien — el que actúa no solo
+y la acción. 3 La acción es la que revela al quien — el que actúa no solo
 produce un resultado sino que se revela a sí mismo en el acto. El artesano que
 trabaja la madera produce una silla; el actor que habla en el ágora se revela a
 quienes lo escuchan. La acción tiene esa dimensión de revelación que el
@@ -6645,7 +6641,7 @@ contexto temporal. Y ese contexto incluye lo que el sujeto era antes del acto,
 lo que el acto colapsa en el mundo, y — en un sentido que el capítulo
 siguiente desarrollará — lo que el acto produce en el sujeto mismo.
 MacIntyre vio que los actos son inteligibles solo dentro de las narrativas en
-las que están inscritos.4 Un acto tomado aisladamente — sin la historia del
+las que están inscritos. 4 Un acto tomado aisladamente — sin la historia del
 agente, sin la práctica en la que se inscribe, sin el horizonte de intenciones
 que lo explica — no puede comprenderse. No porque sea misterioso, sino
 porque los actos son esencialmente narrativos: su sentido depende del
@@ -6682,7 +6678,7 @@ la voluntad hacia una respuesta entre las posibles. Viktor Frankl, que observó
 ese espacio en condiciones donde casi todo lo demás había sido quitado, lo
 formuló con una precisión que ninguna circunstancia podía refutar: entre el
 estímulo y la respuesta hay un espacio, y en ese espacio está la libertad del
-hombre.5
+hombre. 5
 Ese espacio es lo que hace al acto humano un acto en sentido pleno — lo que
 distingue la acción de la reacción, la decisión del reflejo, la responsabilidad
 del accidente. No porque el espacio sea siempre grande ni siempre
@@ -6708,7 +6704,7 @@ sine qua non: como el elemento sin el cual el colapso específico no habría
 ocurrido. El viento habría movido las hojas con independencia de cualquier
 voluntad. El acto de Pedro no habría ocurrido si no hubiera sido Pedro —
 con su trayectoria, su orientación, su primera mediación — el que lo
-produjo.6
+produjo. 6
 Eso no requiere libertad absoluta — no requiere que Pedro haya podido
 actuar desde un vacío causal sin condiciones. Requiere solo que Pedro haya
 sido la condición necesaria del acto, lo que hace que la imputación recaiga
@@ -6824,7 +6820,7 @@ A.C.
 NIKOMACHOS
 
 Parfit argumentó que la identidad personal a lo largo del tiempo es menos
-determinada de lo que ordinariamente suponemos.7 Si la persona que
+determinada de lo que ordinariamente suponemos. 7 Si la persona que
 cometió el crimen hace veinte años no es exactamente la misma que la que
 hoy comparece ante el tribunal — si hay solo continuidad psicológica y no
 identidad metaf ísica —, entonces la responsabilidad por el crimen pasado
@@ -6951,7 +6947,7 @@ valentía comparezca con naturalidad ante las situaciones que la requieren.
 Aristóteles lo formuló con una precisión que la psicología contemporánea
 ha confirmado en gran medida: el carácter no es innato sino formado, y se
 forma a través del ejercicio de las virtudes — a través de la repetición de
-actos que gradualmente configuran quién es el sujeto.8
+actos que gradualmente configuran quién es el sujeto. 8
 El carácter es la forma más rica que toma la disposición cuando se la
 examina a lo largo de la trayectoria completa del sujeto. No es un predicado
 simple sino una descripción del patrón acumulativo de la integral — de
@@ -7008,7 +7004,7 @@ posición que no es la posición del sujeto que vive la trayectoria desde
 adentro. Ricoeur distinguió entre la identidad-idem — la mismidad del
 sujeto a lo largo del tiempo, lo que permanece igual — y la identidad-ipse
 — la ipseidad del sujeto, su carácter como responsable de sus promesas y sus
-actos.9 La trayectoria que el observador externo puede reconstruir es
+actos. 9 La trayectoria que el observador externo puede reconstruir es
 principalmente la identidad-idem: los patrones que se repiten, las
 disposiciones que persisten, los rastros que el sujeto deja en el mundo. La
 identidad-ipse — el quién que el sujeto es desde adentro, el que dice «yo
@@ -7487,7 +7483,7 @@ organizado cualquier otra logística. Lo que Arendt observó en él no fue la
 banalidad de una persona inofensiva, sino la banalidad de alguien que había
 cometido crímenes masivos sin pensar — sin el pensamiento que habría
 puesto en contacto sus actos con las consecuencias reales que producían en
-personas reales.1
+personas reales. 1
 La formulación «la banalidad del mal» fue mal entendida casi
 inmediatamente. Se la leyó como exculpación — como si Arendt estuviera
 diciendo que Eichmann no era responsable porque sus crímenes eran
@@ -7495,7 +7491,7 @@ banales. Es exactamente lo contrario. La banalidad del mal dice que los
 crímenes más extremos no requieren un ser excepcional para cometerlos —
 que la ausencia de pensamiento, la incapacidad de ponerse en el lugar de las
 víctimas, la reducción del otro a un problema logístico, son suficientes para
-producir el horror a escala industrial.2
+producir el horror a escala industrial. 2
 Lo que Arendt mostró con esa observación es filosóficamente decisivo para
 el argumento de este libro. Si los crímenes de Eichmann no requirieron un
 monstruo para cometerse — si los produjo un hombre mediocre con
@@ -7556,7 +7552,7 @@ A.C.
 NIKOMACHOS
 
 víctimas y verdugos donde el horror producía seres que no podían
-describirse en los términos simples del bien y el mal.3 Los Sonderkommando
+describirse en los términos simples del bien y el mal. 3 Los Sonderkommando
 que ayudaban a los nazis a gestionar las cámaras de gas para sobrevivir unos
 meses más. Los kapos que ejercían violencia sobre otros prisioneros para
 mantener un privilegio mínimo dentro del sistema. Levi se negó a juzgarlos
@@ -7617,7 +7613,7 @@ monstruo era el ser que exhibía una naturaleza que contrariaba las
 expectativas del orden natural — el ser de dos cabezas, el ser mitad humano
 mitad animal, el prodigio que anunciaba una ruptura en el orden del
 mundo. El monstruo era un signo — portento de algo más grande que él
-mismo.4
+mismo. 4
 En el uso moral contemporáneo, «monstruo» funciona de maneras muy
 diferentes. Puede funcionar como intensificación retórica: «lo que hizo fue
 monstruoso» — donde «monstruoso» amplifica la evaluación del acto sin
@@ -7730,7 +7726,7 @@ había anticipado — crímenes contra la humanidad, crímenes de guerra,
 conspiración para cometer actos que ningún sistema previo había tipificado
 con esa escala. La tentación de declarar a los acusados fuera del dominio
 humano — de tratarlos como seres de un tipo diferente — era enorme, y en
-parte explicaría la retórica que rodeó al juicio en algunos círculos.5
+parte explicaría la retórica que rodeó al juicio en algunos círculos. 5
 Los jueces de Nuremberg, con la notable excepción de algunos momentos
 retóricos, eligieron el camino contrario: juzgar a los acusados dentro del
 derecho — aplicarles un régimen jurídico que los trataba como seres
@@ -8065,7 +8061,7 @@ dignidad no pierde su dignidad: pierde la descripción, que ya no tiene el
 objeto que pretendía tener.
 Hart distinguió entre las reglas que establecen obligaciones (reglas
 primarias) y las reglas que confieren poderes para crear, modificar o
-extinguir las reglas primarias (reglas secundarias).1 La distinción hartiana
+extinguir las reglas primarias (reglas secundarias). 1 La distinción hartiana
 opera dentro del dominio normativo — dentro del sistema de reglas que el
 derecho instituye. Lo que la distinción entre ley constitutiva y norma
 prescriptiva añade es un nivel más anterior: antes de que haya reglas
@@ -8082,7 +8078,7 @@ orientación que el ser no tiene por sí mismo. Puede cumplirse o incumplirse.
 Puede sancionarse cuando se incumple. Puede modificarse, derogarse,
 revocarse.
 Kelsen formalizó la norma prescriptiva como un juicio de deber-ser: la
-norma no dice que algo es sino que algo debe ser.2 La norma penal no dice
+norma no dice que algo es sino que algo debe ser. 2 La norma penal no dice
 que el homicidio ocurre — describe el homicidio y establece que debe
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8105,7 +8101,7 @@ incumplirla en el sentido que la norma requiere. Puede satisfacer o no
 satisfacer los predicados que la norma describe — puede causar el daño que
 la norma tipifica — sin ser el destinatario de la norma en el sentido que la
 imputabilidad requiere.
-Von Wright distinguió entre normas técnicas y normas prescriptivas.3 Las
+Von Wright distinguió entre normas técnicas y normas prescriptivas. 3 Las
 normas técnicas dicen cómo obtener un resultado: «si quieres X, haz Y».
 Las normas prescriptivas dicen qué debe hacerse: «debes Y» o «no debes
 Z». Las normas técnicas no tienen destinatarios en el sentido normativo —
@@ -8183,7 +8179,7 @@ Aquí Hume reaparece en su función más específica para el argumento de la
 responsabilidad: la crítica a la causalidad como conexión necesaria.
 Hume observó que nunca observamos la conexión necesaria entre causa y
 efecto — solo observamos la conjunción constante de ciertos tipos de
-eventos.4 De esa conjunción constante, la mente produce por hábito la
+eventos. 4 De esa conjunción constante, la mente produce por hábito la
 expectativa de que la conexión se mantendrá. Pero la conexión necesaria —
 la fuerza o poder que une causa y efecto de manera que el efecto no pueda
 dejar de seguirse — no es nunca directamente observable.
@@ -8339,7 +8335,7 @@ NIKOMACHOS
 
 Hart formuló el principio con una precisión que ningún sistema normativo
 moderno puede ignorar: donde no hay posibilidad de obedecer, no hay
-obligación de obedecer.5 El tornado no puede obedecer ni desobedecer —
+obligación de obedecer. 5 El tornado no puede obedecer ni desobedecer —
 no porque le falte la voluntad de hacerlo, sino porque obedecer y
 desobedecer son conceptos que presuponen exactamente el tipo de
 orientación de la voluntad que el tornado no tiene. Aplicar esos conceptos al
@@ -8395,7 +8391,7 @@ conecta al agente con sus actos de una manera que el sistema normativo
 puede tomar como objeto.
 En la tradición jurídica continental, la imputabilidad ha sido asociada
 principalmente con la capacidad de comprender el significado de los propios
-actos y de actuar de conformidad con esa comprensión.6 Un agente es
+actos y de actuar de conformidad con esa comprensión. 6 Un agente es
 imputable cuando puede comprender que lo que hace está tipificado por el
 sistema normativo, puede orientar su conducta en función de esa
 comprensión, y puede ser considerado responsable de la divergencia entre su
@@ -9237,7 +9233,7 @@ Hay una imagen en Una temporada en el infierno de Rimbaud que hace
 visible la estructura del problema de jurisdicción con una economía que
 ninguna formulación directa iguala.
 Rimbaud escribe: «¡Qué orgullo! Ahora sé que la vida de los paganos era ya
-demasiado amplia para el infierno.»1
+demasiado amplia para el infierno.» 1
 El infierno cristiano es un sistema punitivo — un régimen de consecuencias
 establecido por una economía moral específica: el pecado, la gracia, la
 redención, la condena eterna. Ese régimen tiene sus propios destinatarios:
