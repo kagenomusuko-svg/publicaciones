@@ -80,7 +80,10 @@ SUPERSCRIPT_TRANSLATION = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "01234567
 def render_markdown(raw: str) -> str:
     rendered = md.render(raw)
     rendered = SUPERSCRIPT_DIGIT_RE.sub(
-        lambda match: f"<sup>{match.group(1).translate(SUPERSCRIPT_TRANSLATION)}</sup>",
+        lambda match: (
+            f'<span class="note-call">&#160;<sup>'
+            f'{match.group(1).translate(SUPERSCRIPT_TRANSLATION)}</sup></span>'
+        ),
         rendered,
     )
     if not MATH_GLYPH_FALLBACK:
