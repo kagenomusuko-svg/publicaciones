@@ -82,7 +82,7 @@ def render_markdown(raw: str) -> str:
 
     def align_formula_paragraph(match: re.Match[str]) -> str:
         paragraph = match.group(0)
-        code_items = re.findall(r"<code(?:\\s[^>]*)?>(.*?)</code>", paragraph)
+        code_items = re.findall(r"<code(?:\s[^>]*)?>(.*?)</code>", paragraph)
         formula_items = [
             item for item in code_items
             if re.search(r"[_ΔδΦφ]", html.unescape(item))
@@ -90,13 +90,13 @@ def render_markdown(raw: str) -> str:
         if not formula_items:
             return paragraph
         return re.sub(
-            r"<p(\\s[^>]*)?>",
+            r"<p(\s[^>]*)?>",
             lambda tag: tag.group(0).replace(">", ' class="formula-rich">', 1),
             paragraph,
             count=1,
         )
 
-    rendered = re.sub(r"<p\\b[^>]*>.*?</p>", align_formula_paragraph, rendered, flags=re.S)
+    rendered = re.sub(r"<p\b[^>]*>.*?</p>", align_formula_paragraph, rendered, flags=re.S)
     rendered = SUPERSCRIPT_DIGIT_RE.sub(
         lambda match: (
             f'<span class="note-call">&#160;<sup>'
