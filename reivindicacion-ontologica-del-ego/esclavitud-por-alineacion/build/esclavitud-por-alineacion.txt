@@ -105,7 +105,7 @@ experiencia, una entidad, un sujeto, un vínculo— tiene que poder ajustarse a
 algún criterio que permita decir qué es y qué no es. Ese ajuste no es un vicio
 del pensamiento: es una de sus condiciones. Toda afirmación determinada
 porta una frontera negativa; decir que algo es esto exige excluir que sea
-cualquier otra cosa bajo el mismo respecto.1 Clasificar, definir, admitir,
+cualquier otra cosa bajo el mismo respecto. 1 Clasificar, definir, admitir,
 excluir: sin esas operaciones no habría conocimiento, ni derecho, ni clínica,
 ni conversación.
 Este libro llama alineación a esa operación cuando se convierte en condición
@@ -179,7 +179,7 @@ El tercer sentido es interno al sistema del que este libro forma parte, y es el
 más preciso. En la metrología causal, la alineación apareció como
 magnitud: la similitud coseno entre un colapso y el estado acumulado I(t), la
 función con la que la segunda mediación evalúa si un acto producido merece
-integrarse a la trayectoria del sujeto.2 Un colapso coherente con esa
+integrarse a la trayectoria del sujeto. 2 Un colapso coherente con esa
 trayectoria produce una evaluación alta; uno que apunta en dirección
 opuesta produce una evaluación baja o negativa. Lo que interesa aquí no es la
 fórmula sino tres rasgos de su estructura, porque cada uno anticipa una
@@ -347,7 +347,7 @@ justificación de la esclavitud. En el libro primero de la Política, Aristótel
 define al esclavo como «una posesión animada» y sostiene que es esclavo
 por naturaleza quien participa de la razón lo suficiente para percibirla, pero
 no para poseerla; más adelante precisa que el esclavo carece por completo de
-la facultad deliberativa.3
+la facultad deliberativa. 3
 Las cuatro condiciones están ahí. Hay una posición: el criterio de la
 deliberación es fijado por quien delibera, el ciudadano libre y jefe de casa que
 escribe y lee el tratado. Hay un borrado: lo que es una distribución de
@@ -362,7 +362,7 @@ reconstrucción de lo que su criterio implica.
 Hay un detalle que vuelve el caso todavía más instructivo. Aristóteles no
 ignoraba la disputa: registra que había quienes sostenían que la esclavitud
 era solo convención y que, por ser producto de la fuerza, era injusta, y
-concede que no todo esclavo según la ley lo es según la naturaleza.4 El
+concede que no todo esclavo según la ley lo es según la naturaleza. 4 El
 marco, por tanto, conocía la objeción. Pero la resolvió refinando el criterio
 —distinguiendo esclavos legítimos de ilegítimos según su naturaleza—, no
 abriendo un lugar desde el cual los clasificados pudieran disputarlo. La
@@ -391,11 +391,11 @@ Conviene también distinguir esta tesis de dos vecinas con las que podría
 confundirse. No es la servidumbre voluntaria de La Boétie, que explica la
 dominación por el consentimiento de los muchos a uno solo: en la
 esclavitud por alineación no hace falta un tirano, ni siquiera alguien que
-ordene; basta un criterio que nadie recuerda haber fijado.5 Y no es la
+ordene; basta un criterio que nadie recuerda haber fijado. 5 Y no es la
 normalización foucaultiana en su sentido amplio, que describe cómo el
 poder produce sujetos: este libro hace una pregunta más estrecha y, por eso,
 más auditable. No pregunta cómo fue producido el sujeto, sino si puede
-todavía disputar el criterio que lo reconoce.6
+todavía disputar el criterio que lo reconoce. 6
 
 V. Cuatro territorios, una pregunta
 El libro examina la operación en cuatro territorios, y en cada uno formula
@@ -476,14 +476,14 @@ La primera parte comienza con Habermas porque ahí la promesa de
 legitimidad es más alta. El ideal de un discurso en el que una norma es válida
 si todos los posibles afectados pudieran asentir a ella como participantes en
 discursos racionales es una de las herramientas más sofisticadas que la
-filosofía política ha producido para distinguir la autoridad de la fuerza.7 El
+filosofía política ha producido para distinguir la autoridad de la fuerza. 7 El
 libro conserva esa utilidad. Lo que examina es otra cosa: el uso del ideal
 como si su procedimiento resolviera por sí mismo las preguntas que lo
 preceden —quién cuenta como afectado, qué cuenta como razón, qué
 condiciones materiales permiten intervenir—. No se atribuirá a Habermas
 la tesis de que el consenso real sea perfecto.
 La segunda parte vuelve a Gorgias y a la diferencia entre el no-ser absoluto y
-la nada determinada.8 Si la nada puede nombrarse, ya comparece como
+la nada determinada. 8 Si la nada puede nombrarse, ya comparece como
 determinación; si no puede determinarse en absoluto, no puede funcionar
 como tesis. El riesgo que el libro examina aquí es el paso silencioso de «no
 está bajo este modo» a «no es», y la pregunta es qué puente lo autorizaría.
@@ -503,7 +503,7 @@ XIII
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-ellos.9 Decir «el amor se fue» puede describir un cambio afectivo; no
+ellos. 9 Decir «el amor se fue» puede describir un cambio afectivo; no
 demuestra por sí mismo que la relación haya dejado de tener realidad
 histórica, consecuencias o lo que cada uno puso en ella; sostiene además, el
 límite que impide que esta tesis se vuelva su contrario: una persona puede
@@ -519,7 +519,7 @@ sin analizar cuando se vuelven una respuesta automática. Hay aquí un
 fenómeno que hace a este caso especialmente delicado: las clasificaciones de
 personas, a diferencia de las clasificaciones de piedras, son conocidas por los
 clasificados y modifican su conducta, de modo que la categoría puede
-terminar produciendo parte de la evidencia que después la confirma.10
+terminar produciendo parte de la evidencia que después la confirma. 10
 El esquema no debe leerse como si los cuatro territorios fueran el mismo
 problema con distinto ropaje. El problema lógico del no-ser, el problema
 político del consenso y el problema ontológico del vínculo tienen
@@ -552,7 +552,7 @@ integrar lo ocurrido, no borrarlo. Este libro conserva esas tesis; la tercera
 parte las necesita. Pero el mismo capítulo contiene frases de otra naturaleza:
 «Si no doliera, no habría habido amor», y, sobre el sujeto que sale indemne
 de una ruptura, que un vínculo en el que la domesticación no ocurrió «no
-fue exactamente un amor, aunque se haya llamado así».11
+fue exactamente un amor, aunque se haya llamado así». 11
 Como descripción de una experiencia, esas frases pueden ser exactas: muchas
 separaciones duelen precisamente porque hubo entrega. El problema aparece
 en el tránsito. De «la separación duele a menudo porque hubo entrega» no
@@ -727,9 +727,9 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 9
 
-El capítulo V construye el instrumento para identificar esa unidad —el test
-de sustracción: retirar una relación y comprobar si la unidad superior sigue
-pudiendo predicarse como esa unidad—, responde qué se sustrae y qué
+El capítulo V construye el instrumento para identificar esa unidad —el
+test de sustracción: retirar una relación y comprobar si la unidad superior
+sigue pudiendo predicarse como esa unidad—, responde qué se sustrae y qué
 permanece cuando el vínculo concluye, y muestra qué clase de unidad es.
 10
 
@@ -831,10 +831,9 @@ En la acción estratégica, el sujeto trata a los demás como medios u
 obstáculos para un fin que ya tiene fijado: busca influir en ellos, no
 entenderse con ellos. En la acción comunicativa, el sujeto se orienta al
 entendimiento: coordina su acción con la de otros mediante pretensiones
-que pueden ser aceptadas o rechazadas.1 Cuando alguien afirma algo, no solo
-emite un enunciado; plantea, de manera implícita, pretensiones de validez
-que el oyente puede cuestionar: que lo dicho es verdadero, que es correcto
-respecto de las normas vigentes, que el hablante es sincero al decirlo.
+que pueden ser aceptadas o rechazadas. 1 Cuando alguien afirma algo, no
+solo emite un enunciado; plantea, de manera implícita, pretensiones de
+validez que el oyente puede cuestionar: que lo dicho es verdadero, que es
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -845,6 +844,8 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+correcto respecto de las normas vigentes, que el hablante es sincero al
+decirlo.
 Mientras esas pretensiones no se problematizan, la comunicación fluye
 sobre un trasfondo de acuerdos que nadie tematiza. Cuando una de ellas se
 pone en duda —cuando alguien pregunta «¿es verdad?» o «¿por qué habría
@@ -853,30 +854,29 @@ posibilidad de un discurso: una forma reflexiva de comunicación en la que la
 pretensión cuestionada se examina con razones y nada más que con razones.
 En el discurso, lo único que debería decidir es lo que Habermas llamó, con
 una fórmula deliberadamente paradójica, la coacción sin coacciones del
-mejor argumento.2
+mejor argumento. 2
 Para que un discurso merezca ese nombre, quienes participan deben
 presuponer ciertas condiciones. Habermas las formuló, siguiendo a Robert
 Alexy, como reglas: todo sujeto capaz de lenguaje y de acción puede
 participar en discursos; cualquiera puede problematizar cualquier
 afirmación, introducir cualquier afirmación y expresar sus posiciones, deseos
 y necesidades; ningún hablante puede ser impedido, por coacción interna o
-externa, de ejercer esos derechos.3 Durante un tiempo llamó situación ideal
+externa, de ejercer esos derechos. 3 Durante un tiempo llamó situación ideal
 de habla al conjunto de esas condiciones. Más tarde tomó distancia del
 término, porque se prestaba a ser leído como la descripción de una asamblea
 que podría existir. No lo era. Las condiciones no describen ninguna reunión
 empírica; son idealizaciones que los participantes presuponen de manera
 inevitable en cuanto entran a argumentar, aunque sepan que ninguna
-discusión real las satisface por completo.4
+discusión real las satisface por completo. 4
 Sobre esa base se formula el principio que organiza la ética del discurso y,
 después, la teoría del derecho: solo pueden reclamar validez aquellas normas
 que pudieran recibir el asentimiento de todos los afectados en cuanto
-participantes en discursos racionales.5 En el terreno moral, Habermas
+participantes en discursos racionales. 5 En el terreno moral, Habermas
 añadió un principio de universalización más exigente: una norma es válida
 cuando las consecuencias de su cumplimiento general para los intereses de
 cada uno pueden ser aceptadas sin coacción por todos los afectados. En el
 terreno jurídico, en Facticidad y validez, el principio del discurso se
 convierte en el fundamento de un procedimiento democrático: el derecho es
-legítimo cuando procede de una formación discursiva de la opinión y la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -887,6 +887,7 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+legítimo cuando procede de una formación discursiva de la opinión y la
 voluntad en la que los destinatarios de las normas puedan entenderse, a la
 vez, como sus autores.
 Hay que registrar tres rasgos de esta construcción, porque los tres son
@@ -897,7 +898,7 @@ están de serlo. Atribuirle la tesis de que el consenso empírico es perfecto, o
 de que su procedimiento elimina toda coerción, es combatir una caricatura.
 El segundo es que el ideal declara su posición. Habermas presenta sus reglas
 como una reconstrucción racional: la explicitación del saber práctico que los
-hablantes competentes ya poseen y ponen en juego cuando argumentan.6 El
+hablantes competentes ya poseen y ponen en juego cuando argumentan. 6 El
 punto de partida no se oculta. Es el punto de vista de quien sabe argumentar,
 y la teoría lo dice. Esto importa para la tesis de este libro: la primera
 condición de la esclavitud por alineación —que el criterio haya sido fijado
@@ -916,8 +917,7 @@ III. La pregunta que el procedimiento no puede hacerse
 El ideal responde a la pregunta «¿cuándo es válida una norma?»
 remitiéndola al asentimiento de los afectados. Pero esa respuesta presupone
 que otra pregunta ya fue contestada: ¿quiénes son los afectados?
-La pregunta parece técnica y no lo es. Antes de que un discurso pueda decidir
-algo, alguien tiene que haber decidido quién está convocado a él. Esa
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -927,13 +927,15 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+La pregunta parece técnica y no lo es. Antes de que un discurso pueda decidir
+algo, alguien tiene que haber decidido quién está convocado a él. Esa
 decisión no puede tomarse mediante el mismo procedimiento sin caer en un
 regreso: para decidir discursivamente quién participa, habría que convocar a
 un discurso previo, cuyos participantes tendrían que haber sido decididos
 antes, y así sucesivamente. La teoría democrática conoce esta dificultad con
 el nombre de problema de los límites: un procedimiento democrático no
 puede constituir democráticamente el conjunto de quienes participarán en
-él.7 El criterio de «todos los afectados» parece resolverla, porque no
+él. 7 El criterio de «todos los afectados» parece resolverla, porque no
 depende de la nacionalidad, del territorio ni de la pertenencia previa. Pero
 solo la desplaza. Ahora la pregunta es quién decide quién resulta afectado, y
 con qué criterio.
@@ -978,7 +980,7 @@ todavía.
 La primera dificultad es de frontera. Hay sujetos que no pueden formular
 razones explícitas ni someterlas a evaluación discursiva: los bebés, quienes
 aún no dominan el lenguaje abstracto, quienes están temporalmente
-incapacitados para argumentar.8 Nadie sostiene que carezcan de
+incapacitados para argumentar. 8 Nadie sostiene que carezcan de
 importancia moral, y la ética del discurso tiene recursos para responder:
 puede distinguir entre participar en un discurso y ser tomado en cuenta por
 él, y admitir que otros representen los intereses de quien no puede hablar.
@@ -1013,7 +1015,7 @@ deliberativos tienden a privilegiar un estilo particular de habla —
 desapasionado, articulado, formal, que avanza de premisas a conclusiones—
 y a tratar como deficientes otras formas de comunicación que también
 transmiten razones: el testimonio, el relato, la retórica, el saludo que
-reconoce al otro antes de discutir con él.9 El problema no es que el
+reconoce al otro antes de discutir con él. 9 El problema no es que el
 argumento formal sea malo. Es que, cuando se convierte en la forma de lo
 racional, quienes se comunican de otro modo no son escuchados como
 portadores de razones distintas, sino como portadores de razones
@@ -1055,7 +1057,7 @@ hablarle, como capaz de evaluarlas. Su tesis contradice lo que su acto
 presupone. Karl-Otto Apel y Habermas llamaron a esta situación
 contradicción performativa, y la usaron para mostrar que las presuposiciones
 del discurso no son una convención entre otras: no tienen alternativa para
-quien argumenta.10 El escéptico que las rechaza discutiendo ya las ha
+quien argumenta. 10 El escéptico que las rechaza discutiendo ya las ha
 aceptado.
 El argumento es válido, y este libro no lo disputa en su terreno. Lo que hace
 falta es fijar ese terreno con exactitud. La contradicción performativa obliga
@@ -1106,7 +1108,7 @@ las desigualdades de estatus podían ponerse entre paréntesis durante la
 deliberación, como si los participantes pudieran hablar como si fueran
 iguales; y que esa suposición, lejos de neutralizar las desigualdades, tendía a
 favorecer a los grupos dominantes, porque eran sus maneras de hablar las
-que pasaban por neutrales.11 Su propuesta fue exigir algo más que el permiso
+que pasaban por neutrales. 11 Su propuesta fue exigir algo más que el permiso
 de hablar: una paridad de participación que requiere condiciones materiales
 e institucionales.
 El fenómeno tiene un análogo en otra escala, la del contrato fiscal. Un
@@ -1114,15 +1116,15 @@ derecho no está realizado cuando aparece en una norma, sino cuando cuenta
 con procedimientos ordinarios para ejercerse; si para ejercerlo el ciudadano
 tiene que recurrir a litigios extraordinarios o a la presión pública, el sistema
 le traslada el costo operativo de una obligación que ya reconoció. Kratos
-llamó omisión garantizadora a esa forma de incumplimiento.12 El derecho a
-participar en el discurso tiene la misma estructura. Que todos puedan
+llamó omisión garantizadora a esa forma de incumplimiento. 12 El derecho
+a participar en el discurso tiene la misma estructura. Que todos puedan
 participar no significa nada para quien no puede pagar el costo de entrar.
 Hay una consecuencia más fina. La intención inclusiva de un procedimiento
 no garantiza su efecto inclusivo. El Areópago sostuvo, en el terreno de la
 responsabilidad penal, que el criterio de la intención describe lo que alguien
 quería que ocurriera y no lo que ocurrió, y que confundir ambas cosas
 permite que el diseño de un marco escape a la imputación de lo que el marco
-produce.13 Aplicado a la deliberación, el argumento dice esto: un
+produce. 13 Aplicado a la deliberación, el argumento dice esto: un
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1323,12 +1325,12 @@ universalización (principio U) pertenece al primer texto. El texto principal
 los parafrasea; la cita literal requiere fijar la traducción.
 6
 
-Jürgen Habermas, «¿Qué significa pragmática universal?» (1976), recogido
-en Teoría de la acción comunicativa: complementos y estudios previos. La
-reconstrucción racional consiste en volver explícito el saber práctico,
-preteórico, de los sujetos competentes. Que la teoría se presente como
-reconstrucción —y no como descubrimiento de una esencia— es lo que
-permite afirmar que la posición está declarada. La crítica de este libro no
+Jürgen Habermas, «¿Qué significa pragmática universal?» (1976),
+recogido en Teoría de la acción comunicativa: complementos y estudios
+previos. La reconstrucción racional consiste en volver explícito el saber
+práctico, preteórico, de los sujetos competentes. Que la teoría se presente
+como reconstrucción —y no como descubrimiento de una esencia— es lo
+que permite afirmar que la posición está declarada. La crítica de este libro no
 está en la reconstrucción, sino en el olvido de que lo es.
 7
 
@@ -1502,11 +1504,11 @@ efectos normativos
 
 Entre el primero y el tercero ocurre lo que el capítulo anterior llamó un
 cambio de nivel no declarado: una afirmación válida en un nivel de
-predicación se usa como si hubiera sido demostrada en otro.1 Y el cambio
+predicación se usa como si hubiera sido demostrada en otro. 1 Y el cambio
 tiene una consecuencia ética precisa. Negar que una conducta satisfaga una
 norma no autoriza a negar algo del ser de quien la realizó; una negación
 localizada se vuelve abusiva cuando produce una sentencia sobre el sujeto
-qua sujeto.2 «Esta intervención no satisface las condiciones del discurso» es
+qua sujeto. 2 «Esta intervención no satisface las condiciones del discurso» es
 una negación localizada. «Este sujeto no pertenece al discurso» ya no lo es.
 Lo que sigue no es una demostración de que el tránsito sea inevitable. Es una
 serie de casos en que ocurrió, elegidos porque en cada uno se ve con nitidez
@@ -1532,11 +1534,11 @@ a ampliar la participación política.
 John Stuart Mill sostuvo, en sus Consideraciones sobre el gobierno
 representativo, que el sufragio debía extenderse ampliamente, incluidas las
 mujeres —una posición que en su época era minoritaria y que defendió
-también en La sujeción de las mujeres—.3 Pero en el mismo capítulo en que
+también en La sujeción de las mujeres—. 3 Pero en el mismo capítulo en que
 argumenta por la extensión del sufragio, propone excluir de él a quienes no
 supieran leer, escribir y realizar operaciones aritméticas elementales, y
 considera conceder votos adicionales a quienes acreditaran una educación
-superior.4 Su razón no es el desprecio. Es una convicción sobre la
+superior. 4 Su razón no es el desprecio. Es una convicción sobre la
 deliberación: votar es participar en una decisión que afecta a otros, y quien
 no tiene los medios básicos para informarse no puede participar
 responsablemente. Mill añadió, además, que la sociedad tenía la obligación
@@ -1576,7 +1578,7 @@ marco reconoce la deuda y conserva para sí la decisión de cuándo pagarla.
 El caso permite registrar una lección que este libro necesita en todos sus
 capítulos: la alineación no requiere malicia. El Areópago sostuvo que el
 criterio de la intención deja fuera de la imputación la causalidad que opera
-en el nivel del diseño.5 Aquí ocurre lo mismo. Juzgado por su intención, el
+en el nivel del diseño. 5 Aquí ocurre lo mismo. Juzgado por su intención, el
 criterio de Mill es inclusivo. Juzgado por lo que produce, es una regla que
 decide quién participa por medio de una capacidad que los participantes ya
 tenían y los excluidos no.
@@ -1595,7 +1597,7 @@ población afroamericana.
 En 1959, la Suprema Corte de Estados Unidos examinó una de esas pruebas y
 resolvió que una prueba de alfabetización, considerada en sí misma, no era
 contraria a la Constitución, salvo que se demostrara su aplicación
-discriminatoria.6 El razonamiento es instructivo, porque reproduce con
+discriminatoria. 6 El razonamiento es instructivo, porque reproduce con
 exactitud la operación que este libro describe. La Corte evaluó el criterio en
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -1616,7 +1618,7 @@ remitida al nivel en que el excluido tenía que demostrarla desde fuera del
 padrón.
 Las pruebas fueron suspendidas por la Ley de Derecho al Voto de 1965 en las
 jurisdicciones donde su uso discriminatorio era más evidente, y prohibidas
-después en todo el país mediante reformas posteriores.7 La salida no vino de
+después en todo el país mediante reformas posteriores. 7 La salida no vino de
 un refinamiento del criterio de capacidad, sino de su retiro como condición
 de reconocimiento. El Congreso no decidió que la alfabetización fuera
 irrelevante para votar bien; decidió que no podía ser condición para votar.
@@ -1637,7 +1639,7 @@ gobernarse por sí mismas mediante la figura de la interdicción. Una
 declaración judicial, apoyada en dictamen médico, establecía que una
 persona no podía ejercer por sí misma su capacidad jurídica; a partir de ella,
 sus derechos se ejercían por medio de un representante, el tutor, que decidía
-en su lugar.8 El modelo tenía un nombre técnico preciso: sustitución de la
+en su lugar. 8 El modelo tenía un nombre técnico preciso: sustitución de la
 voluntad.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1665,16 +1667,14 @@ que atravesar el marco para ser escuchada.
 En 2006, la Convención sobre los Derechos de las Personas con
 Discapacidad reconoció, en su artículo 12, que las personas con discapacidad
 tienen capacidad jurídica en igualdad de condiciones con las demás, y obligó
-a los Estados a proporcionar los apoyos que pudieran necesitar para ejercerla.
-9
-
-El Comité que vigila la Convención interpretó después ese artículo como
-incompatible con los regímenes de sustitución de la voluntad, y propuso
-reemplazar el criterio del «interés superior» de la persona —decidido por
-otro— por el de la mejor interpretación posible de su voluntad y sus
-preferencias.10 En México, la Primera Sala de la Suprema Corte declaró
-inconstitucional el régimen de interdicción, y la legislación procesal
-posterior lo sustituyó por un sistema de apoyos y salvaguardias.11
+a los Estados a proporcionar los apoyos que pudieran necesitar para
+ejercerla. 9 El Comité que vigila la Convención interpretó después ese
+artículo como incompatible con los regímenes de sustitución de la
+voluntad, y propuso reemplazar el criterio del «interés superior» de la
+persona —decidido por otro— por el de la mejor interpretación posible de
+su voluntad y sus preferencias. 10 En México, la Primera Sala de la Suprema
+Corte declaró inconstitucional el régimen de interdicción, y la legislación
+procesal posterior lo sustituyó por un sistema de apoyos y salvaguardias. 11
 Lo que interesa a este libro no es el detalle jurídico de esa transformación,
 sino su forma. El modelo de apoyos no suprime todo marco: sigue habiendo
 dictámenes, procedimientos, personas que asisten y salvaguardias contra el
@@ -1708,7 +1708,7 @@ institución, en la simple escucha de lo que alguien dice.
 Miranda Fricker llamó injusticia testimonial a la que se comete contra
 alguien en su capacidad de conocedor: cuando un oyente concede a la
 palabra de un hablante menos credibilidad de la que merece, a causa de un
-prejuicio sobre el tipo de persona que es.12 Nadie le prohíbe hablar. Su
+prejuicio sobre el tipo de persona que es. 12 Nadie le prohíbe hablar. Su
 intervención es admitida, escuchada y, sin embargo, descontada antes de ser
 evaluada. Lo que dice no pierde la discusión; nunca entra en ella con su peso
 completo. Fricker describió también una forma más profunda, la injusticia
@@ -1740,7 +1740,7 @@ de discutir con calma, y por tanto de que su posición puede posponerse hasta
 que la exprese de otro modo. Audre Lorde examinó esta operación con
 precisión: la exigencia de que la ira se traduzca a un tono aceptable antes de
 ser atendida convierte la forma de la objeción en motivo para no atender su
-contenido.13 La objeción no ha sido refutada. Ha sido clasificada por su
+contenido. 13 La objeción no ha sido refutada. Ha sido clasificada por su
 forma, y la clasificación decide que no cuenta todavía.
 En los tres casos anteriores había alguien que fijaba el criterio y alguien que
 quedaba fuera. Aquí ni siquiera hace falta una regla. Basta un oyente que
@@ -1968,9 +1968,9 @@ el objeto de la parte siguiente.
 Notas
 1
 
-Capítulo I, § V. El cambio tiene además una forma asimétrica que conviene
-registrar: un predicado no debería expandirse para adquirir capacidad y
-contraerse para evitar consecuencias sin declarar el cambio. En los casos de
+Capítulo I, § V. El cambio tiene además una forma asimétrica que
+conviene registrar: un predicado no debería expandirse para adquirir
+capacidad y contraerse para evitar consecuencias sin declarar el cambio. En
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1981,8 +1981,8 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-este capítulo, «racional» se contrae para excluir y no se expande para
-obligar a quienes excluyen a justificar su criterio.
+los casos de este capítulo, «racional» se contrae para excluir y no se expande
+para obligar a quienes excluyen a justificar su criterio.
 2
 
 El glosario de El telar de las Moiras (Centro Multidisciplinario
@@ -2159,7 +2159,7 @@ Sobre lo que no es, o sobre la naturaleza. El texto no se conserva. Lo
 conocemos por dos paráfrasis antiguas que no coinciden del todo: la de
 Sexto Empírico, en el libro séptimo de Contra los matemáticos, y la del
 tratado anónimo Sobre Meliso, Jenófanes y Gorgias, transmitido entre las
-obras de Aristóteles.1 Lo que sigue reconstruye el argumento a partir de la
+obras de Aristóteles. 1 Lo que sigue reconstruye el argumento a partir de la
 primera, que es más completa, y registra la segunda cuando difiere.
 El tratado sostiene tres tesis encadenadas, cada una de las cuales concede la
 anterior para debilitarla más: nada es; si algo fuera, no podría ser conocido;
@@ -2170,7 +2170,7 @@ lo que no es, o ambas cosas. Gorgias examina las tres posibilidades y las
 descarta una por una.
 Lo que no es, no es. Porque si lo que no es fuera, entonces sería y no sería al
 mismo tiempo: en cuanto se lo piensa como lo que no es, no es; pero en
-cuanto es lo que no es, es.2 Y además, si lo que no es fuera, lo que es no sería,
+cuanto es lo que no es, es. 2 Y además, si lo que no es fuera, lo que es no sería,
 porque son contrarios, y lo que se predica de uno se niega del otro.
 Lo que es, tampoco es. Porque si fuera, tendría que ser eterno o generado o
 ambas cosas. Si es eterno, no tiene principio; si no tiene principio, es
@@ -2197,13 +2197,12 @@ El estatuto de este argumento ha sido discutido desde la Antigüedad. Hay
 quien lo lee como una parodia de los razonamientos eleáticos —una
 demostración de que, con las armas de Parménides y Meliso, puede probarse
 lo contrario de lo que ellos querían probar—, y hay quien lo lee como una
-tesis filosófica seria sobre los límites del ser, del conocimiento y del lenguaje.
-3
-
-Este capítulo no necesita decidir esa disputa. Le basta con que el argumento
-esté construido con rigor suficiente para que su operación pueda examinarse,
-y lo está. Sea parodia o tesis, el argumento funciona: si se aceptan sus
-términos, la conclusión se sigue. La pregunta es qué hay en sus términos.
+tesis filosófica seria sobre los límites del ser, del conocimiento y del
+lenguaje. 3 Este capítulo no necesita decidir esa disputa. Le basta con que el
+argumento esté construido con rigor suficiente para que su operación pueda
+examinarse, y lo está. Sea parodia o tesis, el argumento funciona: si se
+aceptan sus términos, la conclusión se sigue. La pregunta es qué hay en sus
+términos.
 
 III. Qué hace la palabra «nada» en el argumento
 El primer paso del argumento contiene todo lo que este capítulo necesita.
@@ -2216,8 +2215,7 @@ para poder concluir que el no-ser no es.
 El dilema puede formularse con la forma de una acusación: si la nada puede
 ser nombrada, pensada o determinada, entonces ya no es el no-ser absoluto;
 si no puede ser determinada, entonces no puede funcionar como tesis
-filosófica.4 El argumento de Gorgias vive en la primera rama del dilema y
-concluye como si viviera en la segunda. Trata al no-ser como un término
+filosófica. 4 El argumento de Gorgias vive en la primera rama del dilema y
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2228,6 +2226,7 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+concluye como si viviera en la segunda. Trata al no-ser como un término
 con propiedades —ser contrario del ser, ser pensado como no-ser— y luego
 extrae de esas propiedades una conclusión sobre el no-ser absoluto: que no es
 en ningún sentido.
@@ -2250,24 +2249,8 @@ llama alineación.
 
 IV. Las distinciones que el argumento borra
 Para ver con precisión qué se alinea con qué, hay que tener a la vista las
-distinciones que el argumento necesita no hacer. Son cinco.5
+distinciones que el argumento necesita no hacer. Son cinco. 5
 Esquema V — Lo que la palabra «nada» puede nombrar
-Término
-
-Qué es
-
-¿Puede ser sujeto de
-predicación?
-
-No-ser
-absoluto
-
-Aquello que, si realmente careciera de toda
-determinación, no podría comparecer como
-término
-
-No, sin dejar de ser
-absoluto
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2284,6 +2267,16 @@ Qué es
 
 ¿Puede ser sujeto de
 predicación?
+
+No-ser
+absoluto
+
+Aquello que, si realmente careciera de toda
+determinación, no podría comparecer como
+término
+
+No, sin dejar de ser
+absoluto
 
 Nada
 determinada
@@ -2330,11 +2323,6 @@ paso, que lo ausente no es. La ausencia era una relación entre lo buscado y el
 dominio en que se buscó; la conclusión borra el dominio y retiene solo lo
 buscado, ahora declarado inexistente.
 
-V. Parménides prohibió el camino; Platón lo redibujó
-El argumento de Gorgias se construyó contra un fondo preciso, y el capítulo
-no puede omitirlo, porque las dos grandes respuestas que la tradición dio al
-problema del no-ser son también dos maneras de responder a la alineación.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2344,9 +2332,13 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+V. Parménides prohibió el camino; Platón lo redibujó
+El argumento de Gorgias se construyó contra un fondo preciso, y el capítulo
+no puede omitirlo, porque las dos grandes respuestas que la tradición dio al
+problema del no-ser son también dos maneras de responder a la alineación.
 Parménides había prohibido el camino. En su poema, la diosa enseña que
 hay dos vías de investigación concebibles —que es, y que no es— y declara la
-segunda impracticable: lo que no es no puede conocerse ni mostrarse.6 La
+segunda impracticable: lo que no es no puede conocerse ni mostrarse. 6 La
 prohibición es radical y tiene una fuerza que este libro reconoce: impide
 introducir el no-ser como objeto. Pero su precio es alto. Si no puede decirse
 en ningún sentido que algo no es, tampoco puede decirse que algo no es otra
@@ -2356,7 +2348,7 @@ discurso sin negación, y un discurso sin negación no puede distinguir nada
 de nada.
 Platón redibujó el camino. En el Sofista, el extranjero de Elea se ve obligado
 a cometer lo que él mismo llama un parricidio contra su maestro
-Parménides: afirmar que, en cierto sentido, lo que no es, es.7 La solución
+Parménides: afirmar que, en cierto sentido, lo que no es, es. 7 La solución
 consiste en reinterpretar el «no» de la mayor parte de nuestras negaciones.
 Cuando decimos que algo no es grande, no afirmamos que sea su contrario
 —pequeño— ni que no exista; afirmamos que es otro que lo grande. El noser que interviene en las negaciones ordinarias no es lo contrario del ser,
@@ -2366,13 +2358,11 @@ conviene decir con exactitud en qué. Coincide con él en que la mayoría de
 las negaciones son determinadas: niegan un predicado o un modo, y al
 hacerlo conservan el término y lo delimitan. Lo formula de un modo que el
 Sofista habría reconocido: negar un predicado de algo conserva ese algo, y
-negar un modo de estar no equivale a negar el ser.8 Pero se aparta de Platón
+negar un modo de estar no equivale a negar el ser. 8 Pero se aparta de Platón
 en dos puntos. No convierte la diferencia en una forma que exista por sí
 misma; le basta con que toda negación determinada declare su dominio. Y
 no se propone resolver el problema metaf ísico del no-ser, sino formular una
 regla de control: ninguna negación puede extraer del no-ser absoluto un
-alcance que solo una negación determinada podría justificar, porque el noser absoluto no puede usarse en ningún argumento.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2381,6 +2371,8 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
+
+alcance que solo una negación determinada podría justificar, porque el noser absoluto no puede usarse en ningún argumento.
 
 VI. La alineación de la nada con el no-ser
 Puede ahora aplicarse a la negación el instrumento que la introducción
@@ -2393,7 +2385,7 @@ dominio: la exploración clínica, el registro institucional, la percepción de
 quien busca, el criterio de quien clasifica. «No se encontró X» es siempre
 «no se encontró X con este instrumento, en este lugar, bajo este criterio».
 Hay, o puede haber, un borrado. Es un paso que puede nombrarse con
-precisión: «no está bajo el modo M» se convierte en «no es».9 El dominio
+precisión: «no está bajo el modo M» se convierte en «no es». 9 El dominio
 desaparece de la conclusión. Lo que era el resultado de una búsqueda se
 presenta como un hecho sobre lo buscado.
 Hay reconocimiento condicionado. Lo que está en juego no es cómo se
@@ -2410,9 +2402,6 @@ Conviene probar el instrumento con un caso inocuo antes de aplicarlo a uno
 grave. «Don Quijote no existe» es una frase que cualquiera puede
 pronunciar sin daño. Pero para negar que Don Quijote sea una persona
 histórica, un organismo vivo o Sancho Panza, hay que conservar suficiente
-determinación de Don Quijote para distinguirlo de lo que se niega; la
-conclusión correcta no es que Don Quijote no sea, sino que es una
-determinación que no está del mismo modo que una silla o que Cervantes.10
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2422,10 +2411,13 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-En este caso, el borrado del dominio no tiene consecuencias, porque nadie es
-privado de nada cuando se olvida el modo de ser de un personaje. Las
-condiciones tercera y cuarta no se verifican. La frase es imprecisa, no
-sujetante.
+determinación de Don Quijote para distinguirlo de lo que se niega; la
+conclusión correcta no es que Don Quijote no sea, sino que es una
+determinación que no está del mismo modo que una silla o que
+Cervantes. 10 En este caso, el borrado del dominio no tiene consecuencias,
+porque nadie es privado de nada cuando se olvida el modo de ser de un
+personaje. Las condiciones tercera y cuarta no se verifican. La frase es
+imprecisa, no sujetante.
 El caso grave tiene la misma estructura y otro efecto. Una persona acude a
 consulta con un dolor persistente. Los estudios no encuentran lesión,
 alteración ni marcador alguno. El médico, con buena fe y con razón dentro
@@ -2433,7 +2425,7 @@ de su dominio, resume: «no tiene nada». La frase es una abreviatura clínica
 legítima: dice que, con los instrumentos disponibles, no se encontró causa
 orgánica identificable. La medicina necesita esas abreviaturas, y sería
 absurdo exigirle que las abandone: no puede repetir todo su aparato
-operacional en cada conversación.11 El problema es otro: la conversión de la
+operacional en cada conversación. 11 El problema es otro: la conversión de la
 abreviatura en conocimiento positivo de una ausencia ontológica. Y esa
 conversión es fácil, porque la frase ya la contiene: «no tiene nada» no dice
 «no encontramos nada»; dice que no hay nada que encontrar.
@@ -2452,8 +2444,6 @@ interesa solo su raíz lógica.
 La diferencia entre la lectura legítima y la sujetante no está en las palabras.
 Está en si el dominio de la negación se conserva. «No encontramos causa
 con estos estudios» deja abierto un lugar desde el cual el dolor puede seguir
-siendo investigado y la persona puede seguir siendo creída. «No tiene nada»
-lo cierra.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2464,10 +2454,13 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+siendo investigado y la persona puede seguir siendo creída. «No tiene nada»
+lo cierra.
+
 VII. Lo que el capítulo deja abierto
 Hay una pregunta que este capítulo no resuelve y que no debe fingir resolver.
 Es la pregunta por el puente que autorizaría pasar de la determinación
-predicativa a la existencia, sin confundir pensamiento, lenguaje y ser.12
+predicativa a la existencia, sin confundir pensamiento, lenguaje y ser. 12
 El capítulo ha mostrado que lo que puede negarse de manera determinada
 no puede tratarse como nada absoluta. No ha mostrado —y no puede
 mostrar— que todo lo que puede nombrarse exista materialmente. Don
@@ -2477,7 +2470,7 @@ crítica de la alineación entre la nada determinada y el no-ser absoluto no
 autoriza la inferencia inversa: que de poder pensar algo se siga que existe en
 el modo en que se lo piensa. El compromiso mínimo de la tesis es con la
 determinación necesaria para que la operación tenga sentido, no con una
-sustancia material, una localización o una existencia histórica.13
+sustancia material, una localización o una existencia histórica. 13
 Lo que el capítulo sí establece es una asimetría. Para afirmar que algo existe
 de cierto modo hace falta evidencia en el dominio correspondiente. Para
 afirmar que algo no es en absoluto haría falta algo más: haría falta una
@@ -2491,10 +2484,6 @@ construir un procedimiento para auditar cualquier ausencia que se presente
 como no-ser, y para exigir el puente que la justificaría. Ese procedimiento es
 lo que el capítulo IV llama predicar la ausencia.
 
-VIII. Lo que este capítulo puede concluir y lo que no
-Puede concluir que el primer argumento del tratado de Gorgias necesita
-tratar el no-ser como un término determinado para concluir que el no-ser
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2504,6 +2493,9 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+VIII. Lo que este capítulo puede concluir y lo que no
+Puede concluir que el primer argumento del tratado de Gorgias necesita
+tratar el no-ser como un término determinado para concluir que el no-ser
 no es, y que obtiene su paradoja del deslizamiento entre el «es» de la cópula
 y el «es» de la existencia. Puede concluir que esa operación —usar una nada
 determinada con el alcance del no-ser absoluto— es una alineación en el
@@ -2533,11 +2525,6 @@ el corpus aristotélico y considerado hoy obra de un autor posterior. Las dos
 paráfrasis difieren en el orden de algunos argumentos y en el tratamiento
 del no-ser. Sobre la embajada de Gorgias a Atenas, la datación tradicional la
 sitúa en 427 a. C.; debe verificarse en la fuente antigua que se cite.
-2
-
-Sexto Empírico, Contra los matemáticos, VII, 67. La paráfrasis del texto
-principal sigue la estructura del pasaje; la cita literal requiere fijar la
-traducción española que se use.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2548,6 +2535,11 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+2
+
+Sexto Empírico, Contra los matemáticos, VII, 67. La paráfrasis del texto
+principal sigue la estructura del pasaje; la cita literal requiere fijar la
+traducción española que se use.
 3
 
 La lectura del tratado como parodia del método eleático y su lectura como
@@ -2586,12 +2578,6 @@ que se elija.
 La cercanía con el Sofista es deliberada y conviene declararla, porque
 declarar la deuda permite precisar la diferencia que el texto principal
 establece a continuación.
-9
-
-El paso de «no estar de modo M» a «no ser en absoluto» requiere un
-puente que casi nunca se declara. La misma estructura, en el siglo XX, fue
-objeto de una disputa célebre. Heidegger, en ¿Qué es metafísica? (1929), trató
-la nada como aquello que «anonada»; Carnap, en «La superación de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2602,6 +2588,12 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+9
+
+El paso de «no estar de modo M» a «no ser en absoluto» requiere un
+puente que casi nunca se declara. La misma estructura, en el siglo XX, fue
+objeto de una disputa célebre. Heidegger, en ¿Qué es metafísica? (1929), trató
+la nada como aquello que «anonada»; Carnap, en «La superación de la
 metafísica mediante el análisis lógico del lenguaje» (1932), respondió que
 esas frases usan «nada» como si fuera un nombre, cuando en el lenguaje
 ordinario funciona como la negación de un cuantificador. Este libro
@@ -2670,7 +2662,7 @@ tendría que demostrar para afirmar más y en qué punto, si lo hay, se volvió
 una alineación. Este capítulo construye ese procedimiento.
 No lo construye desde cero. La metrología causal declara, antes de cualquier
 análisis, el nivel de evidencia que exigirá en cada dominio, en una escala que
-va de la ausencia de acreditación a la prueba plena.1 Ese gesto —declarar con
+va de la ausencia de acreditación a la prueba plena. 1 Ese gesto —declarar con
 qué estándar se afirma o se niega antes de afirmar o negar— es el que una
 negación rigurosa necesita. Lo que el capítulo hace es trasladarlo a
 
@@ -2691,7 +2683,7 @@ Toda negación determinada tiene una estructura, aunque quien la
 pronuncia casi nunca la explicite. Pueden distinguirse en ella cuatro
 elementos: el término del que se niega algo, el predicado o la relación que se
 niega, el dominio dentro del cual opera la negación y la escala o jurisdicción
-bajo la cual se sostiene.2 Su forma mínima puede escribirse así: ¬P(x)|_D,
+bajo la cual se sostiene. 2 Su forma mínima puede escribirse así: ¬P(x)|_D,
 que se lee «P no se sostiene de x dentro del dominio D». La fórmula es más
 modesta que una negación absoluta y, por eso mismo, más fuerte: declara
 exactamente qué tendría que demostrarse para derrotarla.
@@ -2785,7 +2777,7 @@ propuesta, o que no existe, en la realidad, ninguna relación causal entre los
 eventos. El primero es un cero epistémico; el segundo, un cero ontológico. El
 instrumento puede establecer el primero bajo un expediente y un estándar
 de evidencia determinados. No puede, por ese solo hecho, afirmar el
-segundo.3
+segundo. 3
 La distinción cabe en una fórmula que condensa este capítulo entero: «no
 me mostró el puente» no equivale a «el puente no puede existir». Y tiene
 una consecuencia sobre la carga de la prueba: la ausencia de acreditación de
@@ -2821,7 +2813,7 @@ conoció el error contrario con el nombre de argumento por ignorancia —
 concluir que algo es falso porque no se ha probado que sea verdadero—, y la
 teoría de la argumentación contemporánea mostró que no todo argumento
 de esa forma es falaz: lo es cuando se usa sin establecer que la búsqueda era
-suficientemente completa para que su silencio significara algo.4
+suficientemente completa para que su silencio significara algo. 4
 
 IV. La escalera de puentes
 Una negación localizada puede crecer. Puede pasar de afirmar poco a afirmar
@@ -2933,7 +2925,7 @@ V. Lo que no consta
 El quinto peldaño merece un examen propio, porque es el lugar donde la
 lógica de la negación se encuentra con la arquitectura de las instituciones.
 Hay una máxima procesal antigua que dice que lo que no está en el
-expediente no está en el mundo.5 Dentro de un juicio, la máxima es
+expediente no está en el mundo. 5 Dentro de un juicio, la máxima es
 razonable y probablemente indispensable. El tribunal no puede decidir
 sobre lo que las partes no probaron; si pudiera hacerlo, cualquier rumor o
 conocimiento privado del juez podría decidir la causa. La máxima no afirma
@@ -2951,7 +2943,7 @@ poder inscribirse en la escuela, no poder acceder a servicios de salud, no
 poder casarse, heredar o votar. La persona existe, pero no existe para efectos
 de casi nada. En México, el reconocimiento constitucional del derecho a la
 identidad y al registro inmediato después del nacimiento intentó cerrar
-precisamente esa brecha.6
+precisamente esa brecha. 6
 Aquí las cuatro condiciones pueden verificarse. Hay una posición: la del
 Estado que lleva el registro y fija sus requisitos. Hay un borrado posible: «no
 consta» se usa como si significara «no hay aquí un sujeto de derechos», y la
@@ -2995,7 +2987,7 @@ entonces. La ausencia actual no es esa evidencia.
 Hay una operación conocida que aquí aparece en su forma temporal: la
 retroconstrucción de las premisas desde el resultado. «A ganó; por tanto,
 debía ser suficientemente fuerte; sabemos que era suficientemente fuerte
-porque ganó».7 La versión negativa es igual de circular: «esto terminó; por
+porque ganó». 7 La versión negativa es igual de circular: «esto terminó; por
 tanto, no era real; sabemos que no era real porque terminó». El resultado
 presente se usa como única prueba de una premisa sobre el pasado, y la
 premisa, una vez aceptada, explica el resultado.
@@ -3025,10 +3017,10 @@ central del libro.
 Si se afirma que algo no tiene una propiedad, tiene que poder decirse qué
 evidencia, procedimiento o criterio haría abandonar esa negación; una
 negación que no puede perder se convierte con facilidad en una cláusula
-metafísica de cierre.8 La exigencia recuerda la falsabilidad que Popper
+metafísica de cierre. 8 La exigencia recuerda la falsabilidad que Popper
 propuso como criterio de demarcación de la ciencia, pero no se limita a ella:
 una proposición puede exponerse a derrota empírica, lógica, causal,
-documental o inferencial, según la jurisdicción que reclame.9
+documental o inferencial, según la jurisdicción que reclame. 9
 Puede verse ahora por qué esta exigencia no es solo epistemológica. La
 cuarta condición de la esclavitud por alineación —la clausura— fue definida
 en la introducción como la pérdida de un lugar desde el cual el marco pueda
@@ -3054,7 +3046,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 criterio, que permitiera saber inequívocamente qué niega y que, al mismo
 tiempo, eliminara toda determinación de lo negado sin perder
-inteligibilidad.10 Y la tesis más específica de este capítulo —que todo
+inteligibilidad. 10 Y la tesis más específica de este capítulo —que todo
 procedimiento produce, a lo sumo, un cero epistémico— quedaría derrotada
 si pudiera describirse un procedimiento que no operara en ningún dominio
 ni con ninguna sensibilidad determinada. El capítulo no conoce ninguno.
@@ -3413,7 +3405,7 @@ sistema del que forma parte ya dispone de los instrumentos para construirla.
 III. El instrumento
 Para decidir cuándo una pluralidad de elementos constituye una unidad de
 escala superior hace falta un criterio. El capítulo lo formula en cinco
-proposiciones, porque las va a necesitar todas.1
+proposiciones, porque las va a necesitar todas. 1
 La agregación no es cambio de escala. Que varios elementos comparezcan
 juntos no basta para afirmar que existe una unidad nueva; hace falta una
 relación u operación constitutiva sin la cual la unidad dejaría de poder
@@ -3469,13 +3461,13 @@ mundo que no contrajo ninguno de los dos por separado. Esos predicados
 tienen como sujeto una unidad que no se encuentra en ninguno de los dos;
 aparecen en la relación. Es exactamente la señal de un cambio de escala: un
 predicado que solo es inteligible respecto de la unidad y que no se conserva
-por simple distribución.2
+por simple distribución. 2
 La filosofía de la acción colectiva ha examinado esta estructura con
 instrumentos propios. Margaret Gilbert la describió como la formación de
 un sujeto plural mediante un compromiso conjunto; John Searle, como la
 presencia de intenciones en primera persona del plural que no se reducen a
 intenciones individuales; Michael Bratman, como una red de intenciones
-individuales entrelazadas que se refieren unas a otras.3 Las tres teorías
+individuales entrelazadas que se refieren unas a otras. 3 Las tres teorías
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3498,10 +3490,10 @@ que el otro hace lo mismo. La segunda es la producción de un mundo común:
 lugares, objetos, rutinas, palabras y decisiones que solo existen como
 «nuestros», y que el zorro de Saint-Exupéry describió cuando dijo que el
 trigo, después de la domesticación, tendría el color del cabello del
-principito.4 La tercera es la acción conjunta: actos que tienen como autor a
+principito. 4 La tercera es la acción conjunta: actos que tienen como autor a
 la unidad y no a cada miembro. La cuarta es la modificación mutua que El
 telar de las Moiras describió como intercambio de partes del ego: cada
-sujeto incorpora al otro en la estructura desde la que percibe y actúa.5
+sujeto incorpora al otro en la estructura desde la que percibe y actúa. 5
 Ninguna de estas operaciones es un sentimiento. Todas pueden estar
 acompañadas de sentimientos, y en muchos vínculos lo están con
 intensidad. Pero ninguna de ellas es la emoción de uno de los miembros.
@@ -3612,7 +3604,7 @@ Queda la segunda pregunta: qué clase de unidad es el vínculo. El sistema del
 que este libro forma parte ya describió la emergencia de una entidad a partir
 de sujetos que se relacionan. Afrodita Areia: Caelus sostuvo que el Estado es
 un ego: que los egos soberanos, al colapsar en alteridad, producen una
-entidad nueva con identidad, voluntad y capacidad de autodeterminarse.6
+entidad nueva con identidad, voluntad y capacidad de autodeterminarse. 6
 La pregunta es si el vínculo entre dos personas es también un ego. La
 respuesta de este libro es que lo es, y conviene mostrar por qué antes de
 mostrar qué se sigue.
@@ -3620,14 +3612,14 @@ Un ego es aquello que puede verse como causa sin la cual un acto no habría
 ocurrido de esa forma, y que asume ese acto como propio. El criterio no
 exige deliberación, ni conciencia unificada, ni causalidad exclusiva: exige
 que haya un punto de imputación que reconozca su participación en lo que
-ocurrió y lo integre en su historia.7 Con ese criterio, la pregunta se vuelve
+ocurrió y lo integre en su historia. 7 Con ese criterio, la pregunta se vuelve
 verificable. El vínculo produce actos que no habrían ocurrido sin él: la
 mudanza que ninguno de los dos habría hecho solo, el hijo, la deuda, la
 casa, la promesa hecha a terceros. Acumula una historia propia, que no es la
 biografía de A más la de B. Y contrae compromisos con el mundo que son
 suyos: cuando la pareja firma un contrato de arrendamiento, lo firma la
 pareja, del mismo modo que, cuando una institución firma, firma la
-institución y no la persona cuya mano sostuvo la pluma.8 Actos de los que es
+institución y no la persona cuya mano sostuvo la pluma. 8 Actos de los que es
 condición sine qua non, historia acumulada, compromisos propios: el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3650,7 +3642,7 @@ miembros y no tiene otro modo de actuar. Pedir al vínculo que asuma sus
 actos con independencia de quienes lo componen es pedirle algo que ningún
 colectivo hace. En un colectivo, la segunda mediación no está en otra parte:
 está distribuida entre las segundas mediaciones de sus miembros y opera bajo
-el marco común.9 En el vínculo, esa distribución tiene una forma propia.
+el marco común. 9 En el vínculo, esa distribución tiene una forma propia.
 No hay órganos separados ni personas investidas por encima de los otros: los
 dos son a la vez quienes deciden y quienes ejecutan, y la representación es
 mancomunada. Ninguno firma solo por el «nosotros». «Lo hicimos» es la
@@ -3663,7 +3655,7 @@ miembros, que asume el marco común como propio y, al hacerlo, cede lo
 identidad, que son constitutivas de su ser; cede libertades de acción. Ya no
 decide solo sobre lo que se ha vuelto común, y recibe a cambio un marco
 relacional nuevo desde el que sigue actuando: ser contado, ser consultado,
-actuar como «nosotros».10 Las firmas, cuando llegan, son actos de un ego
+actuar como «nosotros». 10 Las firmas, cuando llegan, son actos de un ego
 que ya existía. Por eso el derecho, cuando reconoce un matrimonio o una
 unión de hecho, no la crea: registra un ego colectivo que ya actuaba. A veces
 lo registra tarde, cuando la convivencia ya ha producido lo que el registro
@@ -3684,17 +3676,17 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 voluntad fuera propia, y no prestada, podría tener intereses que compitieran
 con los de quienes lo componen, y esa es exactamente la concepción
-autoritaria del colectivo.11 El vínculo no tiene intereses contra sus miembros
-porque no tiene otra voluntad que la que ellos le dan. Tampoco los funde: los
-miembros conservan íntegras su voluntad y su identidad. Un vínculo en el
-que una de las dos voluntades hubiera quedado absorbida por la otra no sería
-un ego de dos, sino otra cosa, que el § IX examinará.
+autoritaria del colectivo. 11 El vínculo no tiene intereses contra sus
+miembros porque no tiene otra voluntad que la que ellos le dan. Tampoco
+los funde: los miembros conservan íntegras su voluntad y su identidad. Un
+vínculo en el que una de las dos voluntades hubiera quedado absorbida por
+la otra no sería un ego de dos, sino otra cosa, que el § IX examinará.
 De aquí se sigue la condición de su existencia. El ego colectivo existe
 mientras se renueva el reconocimiento que lo constituye. Un Estado puede
 perder el reconocimiento de uno de sus ciudadanos y seguir existiendo,
 porque lo sostienen millones. Un ego de dos no puede: el colapso colectivo
 requiere más de un ego, y si uno de los dos deja de renovar su
-reconocimiento, lo que queda no es un colectivo menor sino un solo ego.12
+reconocimiento, lo que queda no es un colectivo menor sino un solo ego. 12
 El vínculo deja entonces de estar en curso, sin que nadie tenga que
 autorizarlo. Pero dejar de estar en curso no es estar cerrado. Lo que el ego
 común construyó lo construyeron dos, y ninguno de los dos puede darlo por
@@ -3726,7 +3718,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 familia como colectivo con su propio contrato, en el que el niño que
 reclama la injusticia del reparto entre hermanos está haciendo, en sentido
-estricto, política.13 Formar una pareja no exime a nadie de ser hijo, amigo o
+estricto, política. 13 Formar una pareja no exime a nadie de ser hijo, amigo o
 ciudadano, del mismo modo que presidir una organización no exime de las
 obligaciones ciudadanas.
 La superposición tiene dos consecuencias que el resto de la parte necesitará.
@@ -3768,7 +3760,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 trayectoria: puede integrarlos, reinterpretarlos, lamentarlos o dejar de
 reconocerse en ellos. Lo que no puede hacer es retirarlos del mundo. Cada
 colapso actualiza una posibilidad y clausura otras, y las posibilidades
-clausuradas forman parte de la trayectoria por contraste.14 Puede revisar lo
+clausuradas forman parte de la trayectoria por contraste. 14 Puede revisar lo
 que él mismo sintió; no puede declarar que no ocurrió lo que ambos
 hicieron, ni que el otro no puso lo que puso, ni que el mundo común que
 produjeron no existió. «Nunca te amé» puede ser, en el mejor de los casos,
@@ -3786,11 +3778,11 @@ separación. Y excluye, con la misma precisión, lo que no puede imponerse:
 garantizar que el otro deje de sufrir, continuar una relación que ya no puede
 sostenerse, aceptar cualquier exigencia posterior al cierre, renunciar a los
 propios límites para demostrar que el vínculo importó. La fórmula que el
-libro necesita es esta: atribuir sin cargar de menos y sin cargar de más.15
+libro necesita es esta: atribuir sin cargar de menos y sin cargar de más. 15
 Leída así, la frase más citada del zorro —que uno es responsable para
 siempre de lo que ha domesticado— deja de ser una sentencia absoluta y se
 convierte en una pregunta de atribución, que es lo que este libro intenta
-hacer con todas sus frases fuertes.16 ¿Qué produjo mi intervención en este
+hacer con todas sus frases fuertes. 16 ¿Qué produjo mi intervención en este
 vínculo que todavía me corresponde reconocer porque deriva de mis propios
 actos? Esa pregunta tiene respuesta en cada caso. Ninguna de sus respuestas
 posibles es «quedarme».
@@ -3827,7 +3819,7 @@ prohibido. Afrodita Areia: Damasén dio nombre a los dos polos de ese
 régimen. Damasén es la voluntad que ya no necesita exigir porque su
 presencia es la forma del campo; Peribea, la voluntad que sigue operando
 con toda su energía desde un eje que ya no es el suyo, y que vive esa pérdida
-como madurez, como consenso, como armonía.17 «Ya no necesito ver a mis
+como madurez, como consenso, como armonía. 17 «Ya no necesito ver a mis
 amigos» puede ser una decisión propia. Puede ser también la frase de
 alguien a quien el campo ya no le ofrece otra dirección.
 Esquema X — Las dos alineaciones del vínculo
@@ -4158,12 +4150,10 @@ El sistema del que este libro forma parte ya describió esa estructura a otra
 escala. Caelus y El Contrato Fiscal: Kratos llamaron contrato fiscal al proceso
 por el que los egos soberanos ceden su libertad a un colectivo y reciben a
 cambio un marco de derechos: un capital cedido, una contraprestación
-reconocida, un pasivo permanente, un incumplimiento con nombre propio.
-1
-
-Si el vínculo es un ego colectivo, ese contrato no es para él una analogía que
-se le aplica desde fuera. Es la descripción de cómo se constituye todo ego
-colectivo, leída a la escala de dos.
+reconocida, un pasivo permanente, un incumplimiento con nombre
+propio. 1 Si el vínculo es un ego colectivo, ese contrato no es para él una
+analogía que se le aplica desde fuera. Es la descripción de cómo se constituye
+todo ego colectivo, leída a la escala de dos.
 Pero leerla a esa escala exige dos cuidados desde el principio. El primero: el
 contrato fiscal no es una contabilidad. No dice que lo vivido deba llevarse en
 
@@ -4189,7 +4179,7 @@ mediación operando bajo su propio marco— y recibe un marco de derechos
 desde el que sigue actuando. La partida doble describe esa transacción: el
 colectivo recibe un cargo, las libertades cedidas; contrae un abono, los
 derechos que reconoce; y queda con un pasivo, la obligación permanente de
-generar las condiciones para que esos derechos puedan ejercerse.2
+generar las condiciones para que esos derechos puedan ejercerse. 2
 En el vínculo, la estructura es la misma y su contenido es otro. Cada
 miembro cede libertades de acción: deja de decidir solo sobre lo que se ha
 vuelto común. No cede su voluntad ni su identidad, que no pueden cederse
@@ -4286,7 +4276,7 @@ que tiene consecuencias inmediatas. Caelus distinguió entre derechos
 otorgados y derechos reconocidos: el derecho otorgado es una concesión de
 quien tenía la potestad antes de darla, y puede retirarse a voluntad; el
 derecho reconocido es la formalización de una deuda, y quien lo limita
-carga con la prueba de que la limitación es coherente con el contrato.3 En el
+carga con la prueba de que la limitación es coherente con el contrato. 3 En el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4303,7 +4293,7 @@ ver a tus amigos», «te doy permiso» tratan el marco del otro como una
 concesión de quien habla, como si ese fuera el titular del vínculo y el otro su
 beneficiario. Es la forma doméstica de lo que Caelus describió en el Estado:
 el colectivo que deja de administrar el marco y empieza a comportarse como
-si él fuera el soberano.4
+si él fuera el soberano. 4
 De la misma estructura se sigue un derecho que el lenguaje corriente de las
 relaciones suele presentar al revés. Caelus reconoce al ciudadano, como
 inversionista del colectivo, el derecho a que su inversión sea auditable: a
@@ -4345,10 +4335,10 @@ renueva en cada acto en que el ego asume las reglas del colectivo como
 propias, y distinguió esa renovación de la mera obediencia calculada: dos
 conductores frenan ante el mismo semáforo, uno porque ve al policía y otro
 porque reconoce la regla como parte del marco desde el que actúa, y aunque
-sus actos visibles sean idénticos, solo el segundo renueva el contrato.5
+sus actos visibles sean idénticos, solo el segundo renueva el contrato. 5
 El vínculo tiene la misma estructura, y El telar la había descrito con otras
 palabras al distinguir el amor como estado del amor como acto: el amoracto es la elección, renovada como orientación de fondo, de sostener el
-vínculo y de reconocer al otro como sujeto.6 La renovación del vínculo no
+vínculo y de reconocer al otro como sujeto. 6 La renovación del vínculo no
 es la permanencia f ísica de dos personas en la misma casa. Es la serie de actos
 en que cada una asume el mundo común como el espacio desde el que actúa.
 Dos personas pueden seguir juntas por miedo, por cálculo, por inercia o por
@@ -4356,7 +4346,7 @@ la dificultad material de separarse, y en ese caso el ego común persiste en su
 forma visible mientras su renovación se ha detenido.
 Kratos tiene un nombre para lo que ocurre cuando la renovación se detiene
 y la forma persiste: disforia de identidad, el estado del ego que opera desde
-un marco que ya no es el suyo.7 La disforia en el vínculo no es una falta
+un marco que ya no es el suyo. 7 La disforia en el vínculo no es una falta
 moral de quien la padece; es un dato estructural, y tiene una consecuencia
 que el capítulo VII necesitará. Exigir a alguien que permanezca en un
 vínculo cuya renovación ya no ocurre no protege el vínculo: protege su
@@ -4366,7 +4356,7 @@ renovar el contrato en nombre de otro.
 
 IV. Fricción y fraude
 No toda insatisfacción dentro de un vínculo es un incumplimiento. Caelus
-distinguió la fricción constitutiva de la patológica.8 La constitutiva nace de
+distinguió la fricción constitutiva de la patológica. 8 La constitutiva nace de
 que cada miembro sigue siendo un ego vivo, que quiere más de lo que el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -4389,7 +4379,7 @@ desearía.
 Esa distinción importa porque es la que impide que el vocabulario de este
 capítulo se vuelva un arma. Querer más del vínculo no es acusar al otro de
 defraudarlo. El fraude tiene una estructura, y Kratos la describió en tres
-formas que tienen correlato preciso en el vínculo.9
+formas que tienen correlato preciso en el vínculo. 9
 La negación activa es la que la segunda parte del libro estudió en su forma
 lógica: la negación retroactiva de lo que el otro puso. «Nunca hubo nada»,
 «nunca te pedí nada», «todo lo que hiciste lo hiciste porque quisiste».
@@ -4428,9 +4418,9 @@ quedó con lo que hizo posible.
 V. Reparar lo que no tiene precio
 Kratos llamó ajuste debitor a la modificación de los términos de un contrato
 cuando las condiciones originales ya no pueden cumplirse, de modo que la
-relación continúa bajo términos distintos en lugar de terminar.10 Caelus
+relación continúa bajo términos distintos en lugar de terminar. 10 Caelus
 usó el mismo nombre para la reparación del incumplimiento: reconocer la
-deuda, medir el daño y generar las condiciones para saldarlo.11 No son dos
+deuda, medir el daño y generar las condiciones para saldarlo. 11 No son dos
 sentidos que haya que elegir. Son dos momentos de la misma operación, y el
 vínculo muestra por qué.
 Casi nada de lo que se pone en un vínculo puede convertirse en dinero. El
@@ -4438,7 +4428,7 @@ tiempo dedicado no vuelve. La confianza perdida no tiene precio. El sueño
 que alguien entregó para que el proyecto común fuera posible no se
 devuelve. Caelus lo dijo del daño a escala colectiva con una precisión que
 aquí vale entera: el tiempo de vida afectado no puede recuperarse, y no se
-salda con dinero lo que se cobró con libertades.12 Si reparar significara
+salda con dinero lo que se cobró con libertades. 12 Si reparar significara
 restituir, lo puesto en un vínculo sería irreparable. Pero reparar no significa
 restituir. Significa reconocer lo que se debe y cambiar las condiciones desde
 las que se sigue. Y cambiar las condiciones es, exactamente, renegociar los
@@ -4464,7 +4454,7 @@ A.C.
 LA ESCLAVITUD POR ALINEACIÓN
 
 comprobable su conducta, lo que Caelus llamó el derecho del acreedor a que
-la inversión sea auditable.13 Pero volver a confiar es un acto de quien fue
+la inversión sea auditable. 13 Pero volver a confiar es un acto de quien fue
 dañado, de su propia segunda mediación. El que repara ofrece condiciones;
 no puede exigir que se acepten. Si pudiera, la reparación se volvería un nuevo
 título de retención.
@@ -4571,22 +4561,20 @@ sus miembros
 La tercera fila merece insistencia, porque es el punto en que el contrato, mal
 leído, se convierte en lo contrario de lo que describe. En el contrato fiscal,
 Kratos formaliza la desobediencia civil como declaración de default: un acto
-que no rompe el contrato, sino que constata que el depositario ya lo rompió.
-14
-
-Si esa estructura se trasladara al vínculo, toda salida tendría que justificarse
-por un incumplimiento previo del otro, y quien se va sin poder demostrarlo
-quedaría como deudor. El vínculo no termina así. Deja de estar en curso
-cuando uno de los dos deja de renovar el reconocimiento que lo constituye,
-y ese hecho, que no es culpa de nadie, basta. No hay quiebra ni liquidación:
-hay un marco que dejó de sostenerse y un cierre que todavía tiene que
-hacerse, y que no hace uno solo.
+que no rompe el contrato, sino que constata que el depositario ya lo
+rompió. 14 Si esa estructura se trasladara al vínculo, toda salida tendría que
+justificarse por un incumplimiento previo del otro, y quien se va sin poder
+demostrarlo quedaría como deudor. El vínculo no termina así. Deja de estar
+en curso cuando uno de los dos deja de renovar el reconocimiento que lo
+constituye, y ese hecho, que no es culpa de nadie, basta. No hay quiebra ni
+liquidación: hay un marco que dejó de sostenerse y un cierre que todavía
+tiene que hacerse, y que no hace uno solo.
 Lo que el retiro del reconocimiento alcanza y lo que no alcanza puede
 decirse con exactitud. Hacia adelante, quien deja de renovar deja de ceder:
 vuelve a actuar sin ese marco específico. Hacia atrás, lo que ya se ejerció bajo
 el marco no se recupera, porque son actos que ocurrieron. Kratos dice que el
 capital cedido al Estado puede retirarse; Caelus, que el ciudadano puede
-retirar su reconocimiento pero no recuperar el capital cedido.15 Las dos
+retirar su reconocimiento pero no recuperar el capital cedido. 15 Las dos
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4619,7 +4607,7 @@ un inventario, y se continúa.
 El inventario tiene cinco preguntas.
 Qué sucedió realmente. No la narrativa que el vínculo construyó sobre sí
 mismo mientras estaba en curso —Damasén mostró que todo vínculo que
-se sostiene produce una historia que lo legitima—,16 ni la que el
+se sostiene produce una historia que lo legitima—, 16 ni la que el
 resentimiento o el alivio construyen después de su fin. Los actos: lo que se
 decidió, lo que se hizo, lo que se prometió, lo que se cumplió y lo que no.
 Esta pregunta exige el cuarto puente del capítulo IV: evidencia sobre lo que
@@ -4640,7 +4628,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 Qué causaste tú. Aquello de lo que uno fue condición sin la cual no habría
 ocurrido de esa forma: los daños, las expectativas producidas, las promesas
 no cerradas, la forma misma de la salida. Es la pregunta de la imputación
-causal que Areópago construyó para otro territorio,17 y es la de la
+causal que Areópago construyó para otro territorio, 17 y es la de la
 responsabilidad afectiva del capítulo V: atribuir sin cargar de menos y sin
 cargar de más. Lo que el inventario muestra como causado por uno es lo
 único que uno tiene que reparar.
@@ -4733,7 +4721,7 @@ inventario es la segunda mediación de la salida: el acto por el que cada uno
 asume como propio lo que le corresponde de lo que el ego común hizo, y lo
 integra en la trayectoria que sigue. Es lo que Caelus llamó duelo, a escala
 colectiva: la asunción de la pérdida como parte de la integral, de manera que
-pueda orientar lo que viene con mayor precisión.18 No consuela. Tampoco
+pueda orientar lo que viene con mayor precisión. 18 No consuela. Tampoco
 condena. Deja a cada uno con lo que realmente le pertenece, que es la única
 base desde la que se puede seguir.
 Por eso el cierre de una relación no es un acto unilateral, aunque la salida lo
@@ -4763,7 +4751,7 @@ fuera, el otro tuvo que hacer su inventario: tomar lo que sucedió, separar lo
 suyo, asumir lo que le correspondía y continuar. Ese inventario cerró, para
 él, el marco que existía. Lo que puede ocurrir después, si ambos lo quieren,
 no es la reanudación del ego anterior, sino la constitución de otro, con
-términos nuevos y con dos sujetos que ya no son los que eran.19 Esperar que
+términos nuevos y con dos sujetos que ya no son los que eran. 19 Esperar que
 el otro conserve abierto lo que quien se fue dejó abierto es pedirle que no
 haga su auditoría, es decir, que suspenda su propia segunda mediación a la
 espera de una decisión ajena.
@@ -5046,7 +5034,7 @@ la filosof ía de la acción colectiva. El capítulo V registró que Margaret
 Gilbert describe la formación de un sujeto plural mediante un compromiso
 conjunto, y que, en su teoría, un compromiso conjunto no puede en general
 rescindirse unilateralmente: requiere el concurso de las partes, salvo que estas
-hayan entendido otra cosa desde el principio.1 Si un vínculo es un
+hayan entendido otra cosa desde el principio. 1 Si un vínculo es un
 compromiso conjunto en ese sentido, entonces quien se va sin el acuerdo del
 otro estaría, por lo menos, violando algo. Y de ahí a afirmar que el otro tiene
 un veto sobre la salida hay un paso que muchos están dispuestos a dar.
@@ -5058,7 +5046,7 @@ afecta como unidad. Por eso la salida es un acto atribuible, con
 consecuencias, y no un simple cambio de preferencias. La responsabilidad
 afectiva, tal como la definió el capítulo V, alcanza precisamente aquí: la
 decisión de separarse, y también la forma en que se ejecuta, es un acto
-atribuible.2
+atribuible. 2
 Lo que la objeción no puede sostener es el paso del compromiso al veto. Aun
 dentro de la teoría de Gilbert, lo que un compromiso conjunto otorga a
 cada parte es una posición para exigir a la otra que actúe conforme a él y para
@@ -5090,7 +5078,7 @@ Un veto sobre la salida no conservaría el vínculo, porque el que se queda no
 puede sostener solo un ego de dos: conservaría su forma mientras su
 renovación ya no ocurre. Sería, en sentido estricto, la producción deliberada
 de la disforia que Kratos describió a escala colectiva: un sujeto obligado a
-operar desde un marco que ya no es el suyo.3
+operar desde un marco que ya no es el suyo. 3
 Que la salida no requiera el consentimiento del otro no la convierte, sin
 embargo, en un cierre. Quien se va puede dejar de renovar; no puede declarar
 cerrado, por sí solo, lo que se construyó entre dos, del mismo modo que un
@@ -5103,7 +5091,7 @@ El derecho ha llegado, por sus propios caminos, a una conclusión
 equivalente. En México, la legislación de la Ciudad de México admitió en
 2008 el divorcio sin expresión de causa, y la Suprema Corte sostuvo después
 que exigir la acreditación de causales para disolver el matrimonio vulnera el
-derecho al libre desarrollo de la personalidad.4 El derecho no dice que el
+derecho al libre desarrollo de la personalidad. 4 El derecho no dice que el
 matrimonio no haya existido ni que sus consecuencias desaparezcan: sigue
 ocupándose de lo que el matrimonio contrajo, de los alimentos, de la
 
@@ -5124,7 +5112,7 @@ si el sujeto sostiene su límite y el otro continúa traspasándolo, la
 información que eso produce no es sobre la maldad del otro, sino sobre la
 viabilidad de la relación, y hacerse responsable de la decisión de cuándo una
 relación ha dejado de ser habitable es uno de los ejercicios más dif íciles de la
-autodeterminación.5 El capítulo añade solo una precisión: esa decisión no
+autodeterminación. 5 El capítulo añade solo una precisión: esa decisión no
 necesita que el otro haya traspasado nada. Basta que la renovación haya
 dejado de ocurrir.
 
@@ -5174,7 +5162,7 @@ experiencia presente en sus términos, de modo que no se ha salido, solo ha
 cambiado de forma la dependencia. La tercera es la reintegración: reconocer
 lo que el vínculo produjo, asumirlo como parte de la propia trayectoria y
 construir desde ahí una posición que no niegue el pasado ni quede atrapada
-en él. El telar la llamó volver a habitarse.6
+en él. El telar la llamó volver a habitarse. 6
 El capítulo conserva la distinción y la traduce al vocabulario de la tercera
 parte, porque la traducción revela algo que la descripción original no
 mostraba: las dos maneras fallidas son las dos alineaciones del capítulo V,
@@ -5294,7 +5282,7 @@ egoísta», «no sabe comprometerse», «traiciona lo que construimos». Su
 decisión se convierte en evidencia de un defecto moral que la invalida.
 Quien se quedó tampoco necesita refutarla: la ha clasificado.
 Hay una regla que aquí se vuelve decisiva: el mismo criterio debe aplicarse
-cuando cambia el objeto evaluado.7 Si la experiencia presente de quien se va
+cuando cambia el objeto evaluado. 7 Si la experiencia presente de quien se va
 tiene autoridad sobre su presente, la experiencia de quien se queda tiene
 autoridad sobre el suyo, incluido su duelo. Y si la historia común no puede
 ser negada por quien se va, tampoco puede ser usada por quien se queda
@@ -5311,7 +5299,7 @@ alternativa —la soledad, la incertidumbre, la represalia— parece más
 amenazante que el daño conocido. Y advirtió que quien hiere y no es
 confrontado se vuelve soberano en sentido hobbesiano: la ausencia de límite
 le otorga un poder que nadie le cedió conscientemente, pero que nadie le
-negó.8 Un argumento que dijera a quien vive en un vínculo así que debe
+negó. 8 Un argumento que dijera a quien vive en un vínculo así que debe
 reconocer la historia común, comunicar su salida, explicar su decisión y
 resolver todo lo compartido antes de irse sería, en la práctica, un argumento
 para que no se vaya. Sería una deuda de permanencia disfrazada de
@@ -5350,11 +5338,11 @@ preservar el vínculo; busca liberar al sujeto del poder que el daño ejerce sob
 él. No borra el acto, que pertenece a la historia irreversible de lo que fue; no
 niega el daño; no elimina el límite. Decide que el daño no seguirá
 organizando la propia posición. Y no implica reconciliación: es un acto
-interno, no un contrato bilateral.9
+interno, no un contrato bilateral. 9
 La estructura es la de este capítulo aplicada a otro objeto. Perdonar sin
 volver es no prolongar el vínculo en curso. Perdonar sin borrar es no negar
 el vínculo histórico. El telar encontró en Arendt la idea de que el perdón
-interrumpe la cadena automática de consecuencias de un acto pasado.10
+interrumpe la cadena automática de consecuencias de un acto pasado. 10
 Conviene precisar que interrumpir las consecuencias no es deshacer el acto:
 el acto queda en la historia y el perdón cambia el lugar que ocupa. La
 
@@ -5373,7 +5361,7 @@ Lo mismo puede decirse del vínculo histórico después de una salida bien
 ejecutada. No manda: no obliga a nadie a permanecer, a sentir ni a volver.
 Pero tampoco desaparece: forma parte de lo que cada uno es, y su memoria
 es información. El telar advirtió que borrar esa memoria no sería salud, sino
-amputación.11 Este libro añade que borrarla tampoco sería libertad, porque
+amputación. 11 Este libro añade que borrarla tampoco sería libertad, porque
 la libertad que se obtiene negando lo que se vivió depende de que nadie
 recuerde lo contrario.
 
@@ -5667,7 +5655,7 @@ II. Tres usos de una frase sobre el amor
 Una misma oración puede cumplir funciones distintas según quién la
 pronuncia, a quién y para qué. La descripción no es superior a la
 prescripción, ni la prescripción a la descripción; lo único que se exige es
-nombrar cada operación correctamente.1 Para el caso del amor, el capítulo
+nombrar cada operación correctamente. 1 Para el caso del amor, el capítulo
 distingue tres usos.
 El uso descriptivo dice lo que el amor suele hacer o lo que ocurre a menudo
 cuando se ama: que la separación duele, que el vínculo modifica a quienes lo
@@ -5710,7 +5698,7 @@ sujeto. El telar sostuvo, siguiendo a Fromm, que el amor entendido como
 estado tiene una fragilidad estructural —parece terminar cuando la
 intensidad emocional disminuye—, mientras que el amor entendido como
 acto puede sobrevivir a esos cambios porque depende de que la elección se
-renueve.2
+renueve. 2
 La distinción es, ante todo, descriptiva, y como descripción tiene un mérito
 que la tercera parte de este libro puede ahora reconocer con precisión.
 Coincide casi exactamente con el resultado del test de sustracción del
@@ -5761,7 +5749,7 @@ Hay que decir, en justicia, que El telar contiene la frase que impide este uso.
 Al final de su penúltima sección escribe que el sí definitivo al otro se renueva
 o no se renueva en cada encuentro real, y que «la disposición a renovarlo —
 o la conciencia honesta de que ya no puede renovarse— es exactamente la
-autodeterminación causal aplicada al amor».3 La conciencia de que el sí ya
+autodeterminación causal aplicada al amor». 3 La conciencia de que el sí ya
 no puede renovarse no aparece ahí como fracaso, sino como una de las dos
 formas legítimas de la misma autodeterminación. La auditoría no necesita
 corregir El telar en este punto; le basta con señalar que esa frase debe leerse
@@ -5796,14 +5784,14 @@ separación no le dolió; alguien amó y no fue modificado del modo descrito
 eso no era amor genuino. La filosof ía de la argumentación conoce esta
 maniobra desde que Antony Flew la ilustró con el ejemplo de quien sostiene
 que ningún escocés echa azúcar a sus gachas y, al saber de uno que lo hace,
-responde que ningún verdadero escocés lo haría.4 La afirmación se vuelve
+responde que ningún verdadero escocés lo haría. 4 La afirmación se vuelve
 invulnerable a los contraejemplos, pero lo hace al precio de dejar de decir
 algo sobre el mundo: ahora solo dice algo sobre cómo se usará el adjetivo.
 En el vocabulario del capítulo IV, una afirmación así ha perdido su
 condición de derrota. Ningún caso puede refutarla, porque todo caso que la
 contradiga queda redefinido como caso de otra cosa. Y una negación sin
 condición de derrota —«eso no fue amor»— es, en el plano de la
-proposición, lo que la clausura es en el plano de las instituciones.5 El
+proposición, lo que la clausura es en el plano de las instituciones. 5 El
 operador de la genuinidad es el mecanismo exacto por el cual una
 descripción del amor se convierte en criterio.
 
@@ -5839,7 +5827,7 @@ admite ninguno.
 Y sin embargo esos casos existen, y no son raros. El primero es el del duelo
 que ocurre antes de la separación. La psiquiatría describió hace ochenta años
 el duelo anticipado: el proceso por el cual quien prevé una pérdida empieza a
-elaborarla antes de que ocurra.6 Quien vio morir lentamente un vínculo
+elaborarla antes de que ocurra. 6 Quien vio morir lentamente un vínculo
 durante meses o años puede llegar al momento de la separación habiendo
 hecho ya buena parte de su duelo. El dolor existió; ocurrió antes. Medido en
 el momento de la separación, su ausencia no prueba que no hubo entrega:
@@ -5891,7 +5879,7 @@ descriptivo que se conserva y una formulación que, en algún punto, facilita
 el tránsito al criterio.
 El telar sostiene, con Žižek, que el amor que no implica riesgo —el que se
 administra para no exponer demasiado— no es amor, sino un acuerdo de
-conveniencia mutua que se llama amor porque es más tranquilizador.7
+conveniencia mutua que se llama amor porque es más tranquilizador. 7
 Como descripción de lo que el amor exige a menudo, la tesis es iluminadora.
 Como criterio, divide los vínculos en amorosos y convenientes según un
 grado de exposición que nadie fuera del vínculo puede medir, y que quizá
@@ -5910,11 +5898,11 @@ enseñado a exponerse poco, y cuyos vínculos son, dentro de esa medida,
 entregas completas. El criterio de la exposición las declararía incapaces de
 amar.
 El telar sostiene que la ausencia de dolor no es salvación, sino la ausencia del
-vínculo mismo, al comentar la escena del zorro.8 La frase tiene el mismo
+vínculo mismo, al comentar la escena del zorro. 8 La frase tiene el mismo
 problema que la del epígrafe y admite la misma reformulación.
 El telar sostiene que toda relación genuina implica una modificación del
 ego, y que el sujeto que ha amado no puede pretender sin falsedad que ese
-amor no lo modificó.9 La segunda parte de la tesis es una de las piezas que
+amor no lo modificó. 9 La segunda parte de la tesis es una de las piezas que
 este libro usó para fundar la imposibilidad de borrar el vínculo histórico, y
 se conserva sin reservas. La primera parte usa el operador de la genuinidad: la
 modificación pasa de ser lo que ocurre a menudo a ser la prueba de que hubo
@@ -5922,7 +5910,7 @@ relación. Como el dolor, la modificación puede no ser visible, puede haber
 ocurrido en dimensiones que el propio sujeto no registra y puede tener una
 cronología distinta de la que el criterio supone.
 El telar cierra con la fórmula de que amar es aceptar la herida como precio
-de existir con otro.10 Leída como recomendación en primera persona —
+de existir con otro. 10 Leída como recomendación en primera persona —
 quien quiera amar debe estar dispuesto a ser herido—, es una orientación
 honesta. Leída como criterio, convierte la herida en el comprobante del
 amor, y sitúa a quien no fue herido en la posición de quien no pagó, y por
@@ -5948,19 +5936,19 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 el amor, cuando el merecimiento es una categoría de la justicia, y concluye:
 no recibimos el amor que merecemos; recibimos el amor que el otro puede
-dar.11 Es una auditoría de predicado ejemplar: identifica un concepto
+dar. 11 Es una auditoría de predicado ejemplar: identifica un concepto
 trasladado de una jurisdicción a otra y lo devuelve a la suya.
 El segundo es su lectura de Fromm. El telar advierte que la tesis según la cual
 hay que amarse a uno mismo antes de poder amar a otro produce una
 paradoja: declara incapaces de recibir amor precisamente a quienes más lo
 necesitan, hasta que hayan trabajado lo suficiente en sí mismos. Y propone
 una relación dialéctica: el amor propio y el amor al otro se construyen
-mutuamente en el encuentro.12 Es, en el vocabulario de este libro, la
+mutuamente en el encuentro. 12 Es, en el vocabulario de este libro, la
 detección de una clausura —un criterio de capacidad que excluye a quien no
 lo satisface y le impide satisfacerlo— y su corrección.
 El tercero es su límite explícito al amor incondicional: amar lo imperfecto
 del otro no significa soportarlo todo, y se puede amar a alguien sin aceptar
-que dañe.13 Es la cláusula que impide que la tesis del sí definitivo se convierta
+que dañe. 13 Es la cláusula que impide que la tesis del sí definitivo se convierta
 en obligación de permanecer junto a quien hiere.
 Estos tres pasajes muestran que el problema del capítulo no es su método,
 sino su aplicación desigual. El telar audita los criterios ajenos y deja sin
@@ -6311,10 +6299,10 @@ que se cierra El enfermo imaginario, un aspirante a médico es examinado
 por un tribunal de doctores, que le pregunta por qué el opio hace dormir. El
 aspirante responde en latín macarrónico que el opio hace dormir porque
 tiene una virtud dormitiva, cuya naturaleza es adormecer los sentidos, y el
-tribunal lo aplaude.1 La respuesta no es falsa. Es vacía: devuelve como
+tribunal lo aplaude. 1 La respuesta no es falsa. Es vacía: devuelve como
 explicación el mismo fenómeno que se le pidió explicar, ahora con nombre
 técnico. Molière, que había hecho del médico un personaje recurrente de su
-teatro, tenía buenas razones para reírse.2 El capítulo examina cuándo el
+teatro, tenía buenas razones para reírse. 2 El capítulo examina cuándo el
 diagnóstico de una persona se parece a la virtud dormitiva y cuándo no.
 
 II. Cuatro usos de una categoría
@@ -6408,7 +6396,7 @@ Los dos primeros usos pueden ser perfectamente legítimos. El descriptivo
 nombra una regularidad y puede ser derrotado por casos. El clínico tiene
 una jurisdicción propia, unos criterios y un fin; una disciplina puede
 construir categorías excelentes e intervenir con eficacia sin haber resuelto
-qué es ontológicamente aquello sobre lo que trabaja.3 Ninguno de los dos
+qué es ontológicamente aquello sobre lo que trabaja. 3 Ninguno de los dos
 afirma que la categoría agote a la persona.
 El tercer uso es el que exige más cuidado, porque no es ilegítimo en sí
 mismo: algunas explicaciones causales que invocan disposiciones son
@@ -6416,7 +6404,7 @@ correctas. Pero tiene una carga probatoria que casi nunca se satisface fuera de
 la clínica, y el § III mostrará cuál es. El cuarto uso no tiene jurisdicción en
 ningún dominio. El capítulo IV ya lo había excluido: ninguna negación
 localizada, y ninguna predicación localizada, autoriza a decir que un sujeto
-queda agotado por el predicado aplicado a su acto.4
+queda agotado por el predicado aplicado a su acto. 4
 
 III. La virtud dormitiva
 El uso causal de una categoría tiene una forma característica que conviene
@@ -6427,7 +6415,7 @@ evitativo? Porque evita la intimidad.» La categoría se define por un
 conjunto de conductas y después se invoca para explicar esas mismas
 conductas. Es la estructura que la introducción llamó tautología euclidiana:
 una conclusión que se recupera desde las definiciones que ya la contenían y
-se presenta como si hubiera sido descubierta.5 Y es, a la vez, su variante más
+se presenta como si hubiera sido descubierta. 5 Y es, a la vez, su variante más
 específica, la sustantivación desde consecuencias, que observa lo que un
 fenómeno produce y convierte después esas consecuencias en la definición de
 
@@ -6440,10 +6428,10 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-su sustancia.6 La virtud dormitiva es ambas cosas. La taxonomía clínica
+su sustancia. 6 La virtud dormitiva es ambas cosas. La taxonomía clínica
 puede incurrir en la misma estructura cuando olvida que sus distinciones
 fueron introducidas por decisión metodológica y las trata como si hubieran
-sido encontradas en el paciente.7
+sido encontradas en el paciente. 7
 Esto no significa que toda explicación disposicional sea circular. Lo es
 cuando la única evidencia de la disposición es la conducta que se pretende
 explicar. Deja de serlo cuando hay evidencia independiente: una historia que
@@ -6457,7 +6445,7 @@ el uso popular borra. La teoría del apego nació como descripción del vínculo
 entre los niños y sus cuidadores, y su extensión a las relaciones adultas se
 desarrolló en la investigación como un conjunto de tendencias que se miden
 en dimensiones continuas —grados de ansiedad, grados de evitación—, no
-como tipos de persona.8 El uso cotidiano convierte esas dimensiones en
+como tipos de persona. 8 El uso cotidiano convierte esas dimensiones en
 esencias: alguien es ansioso, alguien es evitativo. El tránsito de la dimensión
 al tipo, y del tipo a la explicación de un acto concreto, no lo autoriza la
 investigación que se invoca.
@@ -6488,15 +6476,15 @@ Cuando ese patrón se explica con una categoría individual —«él es
 evitativo», «ella es ansiosa»—, un predicado de la escala del vínculo se
 traslada a la escala del sujeto sin puente. De un predicado válido en una
 escala no se sigue el mismo predicado en otra, y cada tránsito requiere su
-propio puente.9 Hay, además, una forma oportunista de ese tránsito: usar la
+propio puente. 9 Hay, además, una forma oportunista de ese tránsito: usar la
 unidad cuando conviene atribuir capacidad y la multiplicidad cuando
-conviene disolver responsabilidad.10 En el vínculo, la forma oportunista es
+conviene disolver responsabilidad. 10 En el vínculo, la forma oportunista es
 atribuir el patrón al otro y conservar para uno mismo la posición de quien
 solo reaccionaba.
 Hay aquí una afinidad con el argumento que el Areópago desarrolló en el
 terreno de la imputación penal. Allí se mostró que el criterio del dolo, al
 buscar la intención del ejecutor, deja fuera de la imputación la causalidad
-que opera en el diseño del marco.11 La categoría psicológica, usada
+que opera en el diseño del marco. 11 La categoría psicológica, usada
 causalmente, hace lo mismo en el vínculo: busca la disposición interna de
 uno de sus miembros y deja fuera el examen causal del vínculo concreto —
 qué hizo cada uno, en qué condiciones, con qué respuesta del otro, dentro de
@@ -6531,7 +6519,7 @@ Karl Popper usó precisamente algunas teorías psicológicas de su tiempo
 como ejemplos de sistemas que podían interpretar cualquier conducta como
 confirmación, y vio en esa capacidad no una fortaleza sino una debilidad:
 una teoría que no puede ser refutada por ningún caso no dice nada
-determinado sobre el mundo.12 Este libro no necesita suscribir el juicio de
+determinado sobre el mundo. 12 Este libro no necesita suscribir el juicio de
 Popper sobre esas teorías ni sobre la clínica en general. Dentro de una
 relación terapéutica, con el consentimiento de quien consulta, con criterios
 explícitos y con un profesional que responde por su uso, conceptos como la
@@ -6611,7 +6599,7 @@ Ian Hacking describió un fenómeno que hace este uso todavía más delicado.
 Las clasificaciones de personas, a diferencia de las de las cosas, son conocidas
 por los clasificados, que reaccionan a ellas y pueden modificar su conducta,
 su autocomprensión y la interpretación de su propio pasado en función de la
-categoría que se les aplicó.13 Quien recibe una etiqueta puede empezar a leer
+categoría que se les aplicó. 13 Quien recibe una etiqueta puede empezar a leer
 su vida a través de ella; quien la aplica puede encontrar, en la reacción del
 etiquetado, la confirmación de que la etiqueta era correcta. La categoría, en
 esos casos, contribuye a producir la evidencia que después la sostiene.
@@ -6624,7 +6612,7 @@ El capítulo II recogió la noción de injusticia hermenéutica: la que padece
 quien no dispone, en los recursos interpretativos compartidos, de los
 conceptos necesarios para dar sentido a su propia experiencia. Y la relacionó
 con el tercer rasgo de la similitud coseno: lo que no tiene dimensión en el
-espacio de referencia no puede siquiera medirse como desviación.14 Las
+espacio de referencia no puede siquiera medirse como desviación. 14 Las
 categorías psicológicas han cumplido, en las últimas décadas, una función
 hermenéutica de primer orden. Quien durante años creyó que exageraba,
 que recordaba mal, que la culpa era suya, puede encontrar en un concepto la
@@ -6653,9 +6641,9 @@ La simetría que el libro se impuso desde la introducción obliga a aplicar este
 examen también a las categorías de su propio sistema, y a su propio uso de
 categorías clínicas.
 El capítulo VIII dejó anunciada una noción de El telar que este capítulo
-debía examinar: «el ego sano no mendiga afecto».15 El glosario de El telar
+debía examinar: «el ego sano no mendiga afecto». 15 El glosario de El telar
 contiene otras de la misma familia: el ego auténtico, el falso ego, la
-egolatría, el resentimiento.16 Son categorías del sistema, no de la clínica,
+egolatría, el resentimiento. 16 Son categorías del sistema, no de la clínica,
 pero tienen la misma estructura que las categorías psicológicas y pueden
 usarse de los mismos cuatro modos. En primera persona y como descripción
 —«cuando le pido al otro que repare lo que yo no sostengo, algo en mí no
@@ -6665,7 +6653,7 @@ mendigas»—, producen exactamente la clausura descrita en el § V.
 El sistema, sin embargo, contiene en su propia ontología el antídoto contra
 el uso totalizador. En ella el ego es una función, no una sustancia: la regla
 que organiza cómo un sujeto produce y asume sus actos, y no una cosa que el
-sujeto tenga o sea.17 Una función no se agota en ninguno de sus valores, y un
+sujeto tenga o sea. 17 Una función no se agota en ninguno de sus valores, y un
 patrón de valores no agota la función que los produce. Decir que alguien es
 evitativo, o que tiene un ego enfermo, es tratar una función como si fuera
 una sustancia fija. El sistema de la doble mediación es, en este sentido,
@@ -7069,7 +7057,7 @@ descripción no elige sus objetos: alcanza a todo lo que tenga su forma, este
 libro incluido. Eximirse no sería una prerrogativa del autor, sino un caso de
 la asimetría que el capítulo VII encontró entre las dos partes de un vínculo:
 un criterio que cambia cuando cambia el evaluado ha dejado de ser un
-criterio y se ha vuelto una posición.1 No hace falta, entonces, que el libro se
+criterio y se ha vuelto una posición. 1 No hace falta, entonces, que el libro se
 dicte una regla. Basta con leerlo con su propio instrumento y registrar lo que
 se encuentra.
 Hay una posición, declarada desde la introducción: la de quien queda
@@ -7233,7 +7221,7 @@ segundo es presentarla como una mirada desde ninguna parte: como si
 quien audita los criterios ajenos no tuviera criterios propios.
 El problema nunca estuvo en tener una posición, sino en borrarla después de
 haber construido desde ella; la neutralidad metodológica no es la ausencia
-de un punto de observación.2 El libro tiene una posición, y es doble. Es,
+de un punto de observación. 2 El libro tiene una posición, y es doble. Es,
 primero, la de quien queda afectado por un criterio. Y es, segundo, la de un
 sistema filosófico determinado —el de la doble mediación, la
 autodeterminación causal y la imputación causal— desde el cual el autor ha
@@ -7336,7 +7324,7 @@ vocabulario técnico usa la misma palabra. Los instrumentos del libro
 permiten al menos formularla. En el sistema del autor, la alineación de un
 colapso con la trayectoria propia es la forma operativa de la
 autodeterminación, y la condición que la distingue de la sujeción es la
-auditabilidad de la evaluación.3 Si eso vale también para un sistema
+auditabilidad de la evaluación. 3 Si eso vale también para un sistema
 artificial, la pregunta por su alineación no sería solo con qué valores
 coincide, sino de quién es el vector de referencia y quién puede auditar la
 evaluación. El libro no examina esa pregunta; sus tres preguntas iniciales —
