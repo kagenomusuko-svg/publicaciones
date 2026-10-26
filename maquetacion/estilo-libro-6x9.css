@@ -81,6 +81,7 @@ html, body {
 .frontmatter, .chapter, .appendix, .glossary, .warning-page { font-size: 11.3pt; line-height: 1.33; }
 
 p { margin: 0 0 3.2mm; text-align: justify; }
+p.formula-rich { text-align: left; }
 h1, h2, h3 { line-height: 1.25; color: #222; }
 h1 { font-size: 17pt; margin: 8mm 0 3mm; }
 h2 { font-size: 14pt; margin: 7mm 0 2.8mm; }
