@@ -5577,17 +5577,19 @@ Peirce (1983).
 62
 
 Einstein, Albert, «Zur Elektrodynamik bewegter Körper» (1905),
-Annalen der Physik 17: 891-921. La relatividad especial no hace referencia a
-la «naturaleza íntima» del espacio o el tiempo, sino a sus propiedades
-operacionales: cómo se relacionan las mediciones de distintos observadores
-en movimiento relativo. Para el informe de las observaciones del eclipse de
-1919, véase Dyson, F. W., A. S. Eddington y C. Davidson, «A determination
-of the deflection of light by the Sun’s gravitational field, from observations
-made at the total eclipse of May 29, 1919», Philosophical Transactions of the
-Royal Society A 220 (1920): 291–333, https://doi.org/10.1098/rsta.1920.0009. La
-confirmación empírica de la curvatura del espacio-tiempo por el eclipse de
-1919 es el modelo de conocimiento por efectos: no se observa la curvatura
-directamente, se observan sus efectos sobre la trayectoria de la luz.
+Annalen der Physik 17: 891–921. El artículo formula la relatividad especial
+mediante las relaciones entre las mediciones de distintos observadores en
+movimiento relativo. La curvatura del espacio-tiempo y la deflexión de la
+luz corresponden a la relatividad general; véase Einstein, Albert, «Die
+Grundlage der allgemeinen Relativitätstheorie» (1916), Annalen der Physik
+49: 769–822. Para el informe de las observaciones del eclipse de 1919, véase
+Dyson, F. W., A. S. Eddington y C. Davidson, «A determination of the
+deflection of light by the Sun’s gravitational field, from observations made
+at the total eclipse of May 29, 1919», Philosophical Transactions of the Royal
+Society A 220 (1920): 291–333, https://doi.org/10.1098/rsta.1920.0009. La
+deflexión observada sirve aquí como ejemplo de conocimiento por efectos:
+no se observa la curvatura directamente, sino sus efectos sobre la trayectoria
+de la luz.
 63
 
 Sistema Internacional de Unidades (SI), Bureau International des Poids et
@@ -5610,8 +5612,6 @@ accesible, véase Rovelli, Carlo, Helgoland (2020).
 Chalmers, David, «Facing Up to the Problem of Consciousness»,
 Journal of Consciousness Studies 2 (1995): 200-219. El «problema dif ícil de la
 conciencia»: por qué y cómo los procesos f ísicos dan lugar a la experiencia
-subjetiva — por qué hay algo que se siente como ser este tipo de sistema. La
-distinción entre los «problemas fáciles» (los correlatos neurales de los
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5622,6 +5622,8 @@ A.C.
 
 NIKOMACHOS
 
+subjetiva — por qué hay algo que se siente como ser este tipo de sistema. La
+distinción entre los «problemas fáciles» (los correlatos neurales de los
 estados mentales, que la neurociencia puede estudiar) y el problema dif ícil
 (la experiencia subjetiva misma).
 66
@@ -5661,7 +5663,6 @@ Hume, David, Tratado sobre la naturaleza humana (1739-1740), Libro I,
 Parte IV, Sección VI: «De la identidad personal». La búsqueda introspectiva
 del yo: «Cuando entro más íntimamente en lo que llamo yo mismo,
 siempre tropiezo con alguna percepción particular u otra, de calor o frío, de
-luz o sombra, de amor u odio, de dolor o placer. Nunca puedo atraparme a
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5672,6 +5673,7 @@ A.C.
 
 NIKOMACHOS
 
+luz o sombra, de amor u odio, de dolor o placer. Nunca puedo atraparme a
 mí mismo en ningún momento sin una percepción, y nunca puedo observar
 nada más que la percepción».
 71
@@ -7154,7 +7156,8 @@ Aristóteles, Ética Nicomáquea, Libro II, 1103a14-b25. La formación del
 carácter a través del hábito: «nos hacemos justos practicando actos justos, y
 valientes practicando actos valientes». El carácter virtuoso no es innato sino
 adquirido mediante la repetición de actos hasta que las disposiciones se
-incorporen como parte del quién del sujeto. Para la confirmación
+incorporen como parte del quién del sujeto. Como exposiciones divulgativas
+contemporáneas sobre hábitos y autocontrol, véase Duhigg, Charles, El
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7165,8 +7168,8 @@ A.C.
 
 NIKOMACHOS
 
-psicológica contemporánea, véase Duhigg, Charles, El poder de los hábitos
-(2012) y Baumeister, Roy, y Tierney, John, Willpower (2011).
+poder de los hábitos (2012), y Baumeister, Roy, y Tierney, John, Willpower
+(2011).
 89
 
 Ricoeur, Paul, Sí mismo como otro (1990), Estudio V-VI. La distinción
@@ -8968,9 +8971,9 @@ el acto A, evaluado desde los criterios morales o jurídicos que se declaran, es
 condenable. Y desde ahí puede seguirse la imputación de A a x, la sanción
 correspondiente, la reparación debida, las medidas de protección
 justificadas. Todo eso sin cruzar la frontera que el argumento protege.
-Νικόμαχος no debe convertir la renuncia a la ontologización
-en indulgencia. La responsabilidad sin juicio ontológico es más exigente que
-la responsabilidad con juicio ontológico — no más indulgente. Porque la
+Nikomachos no debe convertir la renuncia a la ontologización en
+indulgencia. La responsabilidad sin juicio ontológico es más exigente que la
+responsabilidad con juicio ontológico — no más indulgente. Porque la
 responsabilidad con juicio ontológico puede siempre apelar a «pero ese ser es
 malo» cuando los argumentos fallan. La responsabilidad sin juicio
 ontológico no tiene ese recurso: tiene que sostener cada operación con sus
@@ -8979,7 +8982,7 @@ propios instrumentos declarados.
 X. Caelus
 Caelus — el quinto volumen de Afrodita Areia — llega aquí tarde y como
 aplicación del aparato previo. Eso es exactamente donde debe entrar: no
-como fundamento del argumento de Νικόμαχος, que está
+como fundamento del argumento de Nikomachos, que está construido desde
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8990,8 +8993,8 @@ A.C.
 
 NIKOMACHOS
 
-construido desde el Capítulo I, sino como el caso más exigente al que ese
-aparato puede aplicarse.
+el Capítulo I, sino como el caso más exigente al que ese aparato puede
+aplicarse.
 Caelus construyó la teoría del Estado como ego colectivo — el ego que
 emerge cuando los egos soberanos colapsan en alteridad y producen, en ese
 colapso, una entidad nueva con su propia identidad, su propia primera
@@ -8999,18 +9002,17 @@ mediación y su propia capacidad de autodeterminarse. Ese ego colectivo es el
 Estado. Y el contrato fiscal es la estructura que describe qué cede el ego
 soberano para que el Estado emerja, qué recibe a cambio, y qué
 consecuencias tiene el incumplimiento de esa estructura para ambas partes.
-Lo que Νικόμαχος añade a Caelus — la pregunta que Caelus no
-se hizo porque no era su objeto — es esta: ¿qué ocurre con el título de
-coerción del Estado cuando el exilio ontológico pretende modificar el
-dominio sobre el que ese título se fundó? ¿Puede el Estado declarar a un
-sujeto fuera del dominio humano y conservar al mismo tiempo la
-jurisdicción que se construyó para los seres de ese dominio?
+Lo que Nikomachos añade a Caelus — la pregunta que Caelus no se hizo
+porque no era su objeto — es esta: ¿qué ocurre con el título de coerción del
+Estado cuando el exilio ontológico pretende modificar el dominio sobre el
+que ese título se fundó? ¿Puede el Estado declarar a un sujeto fuera del
+dominio humano y conservar al mismo tiempo la jurisdicción que se
+construyó para los seres de ese dominio?
 Esa pregunta no es la pregunta de Caelus. Es la pregunta nueva que el
-aparato de Νικόμαχος produce cuando se aplica al territorio de
-Caelus. Y la respuesta que ese aparato genera confirma lo que Caelus
-estableció por otro camino: el Estado que embarga la dignidad del
-condenado se priva de los instrumentos que necesitaría para mantener su
-jurisdicción sobre él.
+aparato de Nikomachos produce cuando se aplica al territorio de Caelus. Y la
+respuesta que ese aparato genera confirma lo que Caelus estableció por otro
+camino: el Estado que embarga la dignidad del condenado se priva de los
+instrumentos que necesitaría para mantener su jurisdicción sobre él.
 
 XI. Libertad cedible
 El ego soberano tiene libertad. En el sentido técnico que Caos y Caelus
@@ -9021,6 +9023,7 @@ como el sujeto de las determinaciones que produce.
 Esa libertad es cedible. No porque el ego pueda desprenderse de su segunda
 mediación en sentido absoluto — eso equivaldría al descolapso, a la pérdida
 de las condiciones que hacen al ego ser lo que es. Sino porque el ego puede
+cambiar el marco desde el que opera su segunda mediación: puede orientar
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9031,7 +9034,6 @@ A.C.
 
 NIKOMACHOS
 
-cambiar el marco desde el que opera su segunda mediación: puede orientar
 su autodeterminación dentro de las condiciones que el colectivo establece,
 en lugar de dentro del solo marco del ego individual. Esa reorientación del
 marco es la cesión de libertad que el contrato fiscal describe.
@@ -9062,6 +9064,8 @@ La diferencia con Rousseau es precisa. En Rousseau, el individuo cede su
 voluntad particular a la voluntad general, que es algo distinto de la suma de
 las voluntades individuales — es el interés común que trasciende el interés
 privado. Para que esa cesión funcione, la voluntad general tiene que existir
+antes de recibirla, lo que produce el problema del Estado que precede a los
+individuos que lo constituyen.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9072,8 +9076,6 @@ A.C.
 
 NIKOMACHOS
 
-antes de recibirla, lo que produce el problema del Estado que precede a los
-individuos que lo constituyen.
 En Caelus, el ego soberano no cede su voluntad — cede su libertad. La
 voluntad permanece en el ego. Lo que cambia es el marco desde el que el ego
 opera su segunda mediación. Y el Estado que emerge de esa cesión no
@@ -9102,6 +9104,8 @@ mediación que habría permitido producir cualquier colapso sin restricción
 El capital coercitivo no es la fuerza bruta que el Estado puede desplegar. Es el
 título que convierte esa fuerza en ejercicio legítimo de la coerción. La fuerza
 sin título es violencia; la fuerza con título es sanción. Y el título es
+exactamente la cesión previa del ciudadano — el capital que el ciudadano
+depositó en la institución que ahora lo coerciona.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9112,8 +9116,6 @@ A.C.
 
 NIKOMACHOS
 
-exactamente la cesión previa del ciudadano — el capital que el ciudadano
-depositó en la institución que ahora lo coerciona.
 El capital coercitivo tiene una estructura contable: el Estado cobra al
 ciudadano la parte de su libertad que el contrato establece que corresponde,
 y el ciudadano tiene derecho a la contraprestación que el contrato establece
@@ -9143,6 +9145,9 @@ recibe a cambio, qué consecuencias tiene el incumplimiento. Esa
 descripción es ontológica porque no depende de que el Estado acepte ningún
 principio moral: depende de la estructura del colapso que constituyó al
 Estado.
+Lo que el contrato fiscal hace posible es un fundamento del título de
+coerción más robusto que el fundamento moral. Un Estado que funda su
+coerción en la moral puede ser cuestionado por quien rechace esa moral. Un
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9153,9 +9158,6 @@ A.C.
 
 NIKOMACHOS
 
-Lo que el contrato fiscal hace posible es un fundamento del título de
-coerción más robusto que el fundamento moral. Un Estado que funda su
-coerción en la moral puede ser cuestionado por quien rechace esa moral. Un
 Estado que funda su coerción en el capital que recibió no puede ser
 cuestionado con el mismo argumento: el capital está, la deuda existe, el
 título emerge de esa deuda con independencia de si el deudor acepta o no la
@@ -9184,6 +9186,8 @@ aplicar la sanción que el sistema establece. Pero no puede pretender que el
 condenado dejó de ser acreedor del régimen que el contrato garantiza.
 Eso tiene consecuencias directas sobre cómo el condenado debe ser tratado
 dentro del sistema penal: con las garantías que el contrato fiscal establece
+para todos los egos soberanos que lo constituyeron. No por benevolencia.
+Por deuda.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9193,9 +9197,6 @@ A.C.
 AFRODITA AREIA · VI
 
 NIKOMACHOS
-
-para todos los egos soberanos que lo constituyeron. No por benevolencia.
-Por deuda.
 
 XVI. Humanidad, ciudadanía y pertenencia contractual
 El contrato fiscal introduce distinciones que el pensamiento ordinario
@@ -9225,6 +9226,9 @@ perdido o tenido suspendida su ciudadanía plena (ciudadanía). Pero sigue
 siendo parte del contrato fiscal — sigue siendo acreedor del régimen que ese
 contrato establece (pertenencia contractual) — precisamente porque cedió
 la libertad que el contrato describe.
+El error que el embargo ontológico produce es colapsar esas tres categorías:
+declarar al condenado fuera del dominio humano como si la pérdida de la
+humanidad se siguiera de la sanción penal, o como si la suspensión de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9235,9 +9239,6 @@ A.C.
 
 NIKOMACHOS
 
-El error que el embargo ontológico produce es colapsar esas tres categorías:
-declarar al condenado fuera del dominio humano como si la pérdida de la
-humanidad se siguiera de la sanción penal, o como si la suspensión de la
 ciudadanía equivaliera a la pérdida de la pertenencia contractual. Ninguna
 de esas inferencias está autorizada — son cambios de escala sin puente
 declarado, exactamente el tipo de tránsito que la gramática del Capítulo V
@@ -9266,6 +9267,9 @@ no tenía instrumentos para procesar.
 La imagen hace visible lo que le ocurre al sistema punitivo cuando el exilio
 ontológico ha retirado al condenado del dominio que ese sistema fue
 construido para administrar. Si el condenado ya no es humano — si el exilio
+ha tenido «éxito» —, entonces el sistema penal construido para los egos
+humanos soberanos que participaron del contrato fiscal ya no tiene
+instrumentos para procesarlo. El condenado es ahora un pagano respecto del
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9276,9 +9280,6 @@ A.C.
 
 NIKOMACHOS
 
-ha tenido «éxito» —, entonces el sistema penal construido para los egos
-humanos soberanos que participaron del contrato fiscal ya no tiene
-instrumentos para procesarlo. El condenado es ahora un pagano respecto del
 infierno del sistema: su vida — su ser — es de un tipo que el sistema declaró
 que no le corresponde, y por tanto el sistema ha perdido los instrumentos
 que justificaban su intervención.
@@ -9306,6 +9307,8 @@ corresponde el régimen que el contrato establece —, entonces la coerción
 que el Estado ejerce sobre él ya no puede fundarse en el contrato. El
 condenado ya no es, en la declaración del exilio, el tipo de ser que cedió
 libertad al Estado. Luego el Estado no tiene el capital que fundaba su título.
+Luego la coerción que ejerce no tiene el título que la convertiría en ejercicio
+legítimo de la coerción.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9316,8 +9319,6 @@ A.C.
 
 NIKOMACHOS
 
-Luego la coerción que ejerce no tiene el título que la convertiría en ejercicio
-legítimo de la coerción.
 Lo que queda, si el exilio ontológico tiene «éxito», es coerción sin título.
 Fuerza sin fundamento contractual. Violencia disfrazada de sanción.
 Esa es la consecuencia que el exilio ontológico produce cuando se examina
@@ -9346,6 +9347,9 @@ como destinatario normativo — como ser que puede comprenderlas y que el
 contrato fiscal establece como sujeto de ellas. Nada en esa cadena requiere
 que el ser qua ser del condenado sea de un tipo diferente del de los demás
 ciudadanos.
+La coerción con embargo de dignidad dice adicionalmente: el condenado es
+el tipo de ser que comete actos de ese tipo, su ser qua ser es el de un ser
+deficitario respecto del dominio humano, y por tanto el régimen que se le
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9356,9 +9360,6 @@ A.C.
 
 NIKOMACHOS
 
-La coerción con embargo de dignidad dice adicionalmente: el condenado es
-el tipo de ser que comete actos de ese tipo, su ser qua ser es el de un ser
-deficitario respecto del dominio humano, y por tanto el régimen que se le
 aplica es diferente del que se aplicaría a quien pertenece plenamente a ese
 dominio. Esa pretensión adicional no tiene respaldo epistémico, produce el
 problema de jurisdicción que la imagen de Rimbaud hace visible, y destruye
@@ -9387,6 +9388,9 @@ difícil de refutar — que la que pretende más de lo que sus instrumentos
 pueden producir.
 La responsabilidad basta. El sistema normativo puede ejercer su coerción
 con toda la fuerza que el contrato fiscal le confiere — fundada en el capital
+que el ciudadano cedió, dirigida al destinatario normativo que el ciudadano
+sigue siendo — sin necesitar la sentencia ontológica que embarga la
+dignidad del condenado. Y la coerción que no embarga la dignidad conserva
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9397,9 +9401,6 @@ A.C.
 
 NIKOMACHOS
 
-que el ciudadano cedió, dirigida al destinatario normativo que el ciudadano
-sigue siendo — sin necesitar la sentencia ontológica que embarga la
-dignidad del condenado. Y la coerción que no embarga la dignidad conserva
 el título que la distingue de la violencia: la coerción que el contrato fiscal
 autoriza, que el condenado puede comprender y que el sistema puede
 justificar sin las fisuras que la pretensión imposible produce.
