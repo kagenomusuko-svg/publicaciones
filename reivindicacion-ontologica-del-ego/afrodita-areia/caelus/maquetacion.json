@@ -3,7 +3,9 @@
   "short_title": "CAELUS",
   "cover": "Portada.png",
   "back_cover": "Contraportada.png",
-  "pre_toc": ["03"],
+  "pre_toc": [
+    "03"
+  ],
   "frontmatter": [
     "05",
     "06"
@@ -19,10 +21,6 @@
     }
   },
   "parts_before": {
-    "07": {
-      "part": "Parte I",
-      "subtitle": "CAELUS: La teoría de escalas"
-    },
     "12": {
       "part": "Parte II",
       "subtitle": "KRATOS: El contrato fiscal"
@@ -30,6 +28,10 @@
     "16": {
       "part": "Parte III",
       "subtitle": "ERIS: El fraude annona y la asimetría"
+    },
+    "07": {
+      "part": "Parte I",
+      "subtitle": "CAELUS: La teoría de escalas"
     }
   },
   "body": [
@@ -49,5 +51,6 @@
     "20",
     "21",
     "22"
-  ]
+  ],
+  "math_glyph_fallback": true
 }

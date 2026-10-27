@@ -32,18 +32,28 @@ MATH_GLYPH_RE = re.compile(
     r"\u2190-\u21ff\u2200-\u22ff\u27c0-\u27ef"
     r"\u2980-\u29ff\u2a00-\u2aff])"
 )
-MATH_SCRIPT_START_RE = re.compile(r"([A-Za-zΑ-ω]+|[0-9]+|[∪∩ΣΠ∫])([_^])\{")
+MATH_SCRIPT_START_RE = re.compile(r"([A-Za-zÀ-ÖØ-öø-ÿΑ-ω]+(?:\*)?|[0-9]+|[∪∩ΣΠ∫])?([_^])\{")
+MATH_SCRIPT_ATOM_RE = re.compile(r"([A-Za-zÀ-ÖØ-öø-ÿΑ-ω]+(?:\*)?|[0-9]+|[∪∩ΣΠ∫])([_^])([A-Za-zÀ-ÖØ-öø-ÿΑ-ω0-9₀-₉]+)")
 
 
 def format_math_scripts(value: str) -> str:
     output: list[str] = []
     position = 0
     while position < len(value):
-        match = MATH_SCRIPT_START_RE.search(value, position)
-        if not match:
+        braced = MATH_SCRIPT_START_RE.search(value, position)
+        atomic = MATH_SCRIPT_ATOM_RE.search(value, position)
+        matches = [match for match in (braced, atomic) if match]
+        if not matches:
             output.append(value[position:])
             break
+        match = min(matches, key=lambda item: item.start())
         output.append(value[position:match.start()])
+        tag = "sub" if match.group(2) == "_" else "sup"
+        if match.re is MATH_SCRIPT_ATOM_RE:
+            content = format_math_scripts(match.group(3))
+            output.append(f"{match.group(1)}<{tag}>{content}</{tag}>")
+            position = match.end()
+            continue
         start = match.end()
         depth = 1
         end = start
@@ -56,9 +66,9 @@ def format_math_scripts(value: str) -> str:
         if depth:
             output.append(value[match.start():])
             break
-        tag = "sub" if match.group(2) == "_" else "sup"
         content = format_math_scripts(value[start:end - 1])
-        output.append(f"{match.group(1)}<{tag}>{content}</{tag}>")
+        base = match.group(1) or ""
+        output.append(f"{base}<{tag}>{content}</{tag}>")
         position = end
     return "".join(output)
 
