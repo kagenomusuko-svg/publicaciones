@@ -14,7 +14,7 @@ export const publicaciones = [
     description:
       'Una ontología del ego como acontecimiento de determinación: el colapso de la posibilidad, la doble mediación y la responsabilidad.',
     cover: `${BASE_PATH}/libros/caos/portada.png`,
-    pdf: `${BASE_PATH}/libros/caos/caos.pdf`,
+    pdf: `${BASE_PATH}/libros/caos/Caos - El abismo del ego y la doble mediación.pdf`,
     href: '/libros/caos/caos',
   },
 
@@ -31,7 +31,7 @@ export const publicaciones = [
     description:
       'Una ontología del ser, la dignidad y la responsabilidad: el límite de la predicación cuando el juicio pretende agotar al agente.',
     cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-VI.png`,
-    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-VI.pdf`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/Afrodita Areia - Volumen VI - Nikomachos.pdf`,
     href: '/libros/afrodita-areia/volumen-VI',
   },
 
@@ -48,7 +48,7 @@ export const publicaciones = [
     description:
       'Una exploración ontológica de la autodeterminación causal, el ego, la libertad y la responsabilidad.',
     cover: `${BASE_PATH}/libros/telar-de-las-moiras/portada.png`,
-    pdf: `${BASE_PATH}/libros/telar-de-las-moiras/el-telar-de-las-moiras.pdf`,
+    pdf: `${BASE_PATH}/libros/telar-de-las-moiras/El telar de las Moiras - Ontología de la autodeterminación causal.pdf`,
     href: '/libros/telar-de-las-moiras/telar-de-las-moiras',
   },
   {
@@ -64,7 +64,7 @@ export const publicaciones = [
     description:
       'Una ontología de la disociación del ego, la gloria prestada, la caída y el retorno a la autodeterminación causal.',
     cover: `${BASE_PATH}/libros/dilema-de-aquiles/portada.png`,
-    pdf: `${BASE_PATH}/libros/dilema-de-aquiles/dilema-de-aquiles.pdf`,
+    pdf: `${BASE_PATH}/libros/dilema-de-aquiles/El dilema de Aquiles - O la disociación del ego.pdf`,
     href: '/libros/dilema-de-aquiles/dilema-de-aquiles',
   },
 
@@ -81,7 +81,7 @@ export const publicaciones = [
     description:
       'Una ontología de la máscara, la disforia de la identidad, el duelo, la rendición y la recuperación del ego genuino.',
     cover: `${BASE_PATH}/libros/juego-de-las-mascaras/portada.png`,
-    pdf: `${BASE_PATH}/libros/juego-de-las-mascaras/juego-de-las-mascaras.pdf`,
+    pdf: `${BASE_PATH}/libros/juego-de-las-mascaras/El juego de las máscaras - O la disforia de la identidad.pdf`,
     href: '/libros/juego-de-las-mascaras/juego-de-las-mascaras',
   },
 
@@ -98,7 +98,7 @@ export const publicaciones = [
     description:
       'Examina cómo los marcos de inteligibilidad y legitimidad pueden convertir el reconocimiento en una condición de ajuste y clausurar la posibilidad de disputar sus criterios.',
     cover: '/publicaciones/libros/esclavitud-por-alineacion/portada.png',
-    pdf: '/publicaciones/libros/esclavitud-por-alineacion/esclavitud-por-alineacion.pdf',
+    pdf: '/publicaciones/libros/esclavitud-por-alineacion/La esclavitud por alineación.pdf',
     href: '/libros/esclavitud-por-alineacion/esclavitud-por-alineacion',
   },
 
@@ -115,7 +115,7 @@ export const publicaciones = [
     description:
       'Estudia la vida del contrato fiscal como estructura ontológica de la relación entre el soberano y el Estado: su renovación, sus umbrales de deterioro, las formas de captura y las vías de exigencia y restauración de la segunda mediación colectiva.',
     cover: `${BASE_PATH}/libros/contrato-fiscal-kratos/portada.png`,
-    pdf: `${BASE_PATH}/libros/contrato-fiscal-kratos/kratos.pdf`,
+    pdf: `${BASE_PATH}/libros/contrato-fiscal-kratos/El Contrato Fiscal - Kratos.pdf`,
     href: '/libros/contrato-fiscal-kratos/kratos',
   },
 
@@ -132,7 +132,7 @@ export const publicaciones = [
     description:
       'La auditoría de los sistemas políticos que han intentado resolver, ampliar, invertir o destruir el contrato fiscal.',
     cover: `${BASE_PATH}/libros/contrato-fiscal-eris/portada.png`,
-    pdf: `${BASE_PATH}/libros/contrato-fiscal-eris/eris.pdf`,
+    pdf: `${BASE_PATH}/libros/contrato-fiscal-eris/El Contrato Fiscal - Eris.pdf`,
     href: '/libros/contrato-fiscal-eris/eris',
   },
   {
@@ -148,7 +148,7 @@ export const publicaciones = [
     description:
       'Una arquitectura formal para la identidad causal acumulativa, la doble mediación y la autodeterminación causal en sistemas artificiales.',
     cover: `${BASE_PATH}/libros/arquitectura-ontologica-sistemas-artificiales/portada.png`,
-    pdf: `${BASE_PATH}/libros/arquitectura-ontologica-sistemas-artificiales/arquitectura-ontologica-sistemas-artificiales.pdf`,
+    pdf: `${BASE_PATH}/libros/arquitectura-ontologica-sistemas-artificiales/Arquitectura ontológica de sistemas artificiales - La doble mediación en sistemas artificiales.pdf`,
     href: '/libros/arquitectura-ontologica-sistemas-artificiales/arquitectura-ontologica-sistemas-artificiales',
   },
 
@@ -164,7 +164,7 @@ export const publicaciones = [
     description:
       'Una teoría de escalas sobre el Estado, la soberanía, el contrato fiscal y la emergencia de la voluntad colectiva.',
     cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-V.png`,
-    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-V.pdf`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/Afrodita Areia - Volumen V - Caelus.pdf`,
     href: '/libros/afrodita-areia/volumen-V',
   },
 
@@ -181,7 +181,7 @@ export const publicaciones = [
     description:
       'Una ontología de la imputación causal, la jerarquía entre diseño y ejecución y el daño que el dolo deja sin autor visible.',
     cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-IV.png`,
-    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-IV.pdf`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/Afrodita Areia - Volumen IV - Areópago.pdf`,
     href: '/libros/afrodita-areia/volumen-IV',
   },
   {
@@ -197,7 +197,7 @@ export const publicaciones = [
     description:
       'Una ontología del límite de la autodeterminación causal: Damasén y Peribea como figuras del Aego, del vínculo colapsado y de su escala colectiva.',
     cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-III.png`,
-    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-III.pdf`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/Afrodita Areia - Volumen III - Damasén.pdf`,
     href: '/libros/afrodita-areia/volumen-III',
   },
   {
@@ -213,7 +213,7 @@ export const publicaciones = [
     description:
       'Una ontología de las formas que adopta la voluntad al orientarse hacia la alteridad: Eros, Deimos, Anteros, Fobos, Potós y Harmonía.',
     cover: `${BASE_PATH}/libros/afrodita-areia/portada-volumen-II.png`,
-    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-II.pdf`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/Afrodita Areia - Volumen II - Ágape.pdf`,
     href: '/libros/afrodita-areia/volumen-II',
   },
   {
@@ -228,7 +228,7 @@ export const publicaciones = [
     description:
       'Una ontología materialista de la determinación que piensa la pasión como fuerza anterior al sujeto consciente y recorre su desarrollo desde el caos hasta el ego.',
     cover: `${BASE_PATH}/libros/afrodita-areia/portada.png`,
-    pdf: `${BASE_PATH}/libros/afrodita-areia/volumen-I.pdf`,
+    pdf: `${BASE_PATH}/libros/afrodita-areia/Afrodita Areia - Volumen I - Sobre la pasión.pdf`,
     href: '/libros/afrodita-areia/volumen-I',
   },
 ];
