@@ -1908,9 +1908,9 @@ sentido en ambos casos, aunque los modos de ser sean radicalmente
 diferentes. La univocidad es del predicado, no de aquello de lo que se
 predica.
 Esta distinción es exactamente la que el sum necesita. La univocidad
-ontológica que Νικόμαχος defiende no afirma que la roca, el
-humano y Zeus sean lo mismo. Afirma que cuando se dice que la roca es, que
-el humano es, y que Zeus es, el predicado «es» conserva el mismo sentido en
+ontológica que Nikomachos defiende no afirma que la roca, el humano y
+Zeus sean lo mismo. Afirma que cuando se dice que la roca es, que el
+humano es, y que Zeus es, el predicado «es» conserva el mismo sentido en
 los tres casos — el sentido que los capítulos anteriores construyeron: ser
 determinado, tener trayectoria, estar de algún modo dentro del infinito del
 Caos, haber comparecido como consecuencia de un colapso. Lo que varía
@@ -2156,14 +2156,14 @@ roca, al número primo, a Don Quijote, a Zeus. Y si se deja fuera a todos esos
 seres, la univocidad ontológica que el sum establece no produce ninguna
 explicitación constitutiva: solo produce una propiedad que algunos seres
 tienen y otros no.
-El argumento de Νικόμαχος exige comenzar más atrás. La
-dignidad no puede fundarse en la racionalidad sin excluir a los seres no
-racionales. No puede fundarse en la capacidad de sufrir sin excluir a los seres
-incapaces de sufrir. No puede fundarse en la conciencia, en la agencia, en la
-moralidad, en ninguna propiedad que solo algunos seres tengan. Si la
-dignidad se funda en alguna de esas propiedades, deja de ser una
-explicitación constitutiva del ser qua ser y se convierte en una propiedad que
-se predica de ciertos modos del ser.
+El argumento de Nikomachos exige comenzar más atrás. La dignidad no
+puede fundarse en la racionalidad sin excluir a los seres no racionales. No
+puede fundarse en la capacidad de sufrir sin excluir a los seres incapaces de
+sufrir. No puede fundarse en la conciencia, en la agencia, en la moralidad,
+en ninguna propiedad que solo algunos seres tengan. Si la dignidad se funda
+en alguna de esas propiedades, deja de ser una explicitación constitutiva del
+ser qua ser y se convierte en una propiedad que se predica de ciertos modos
+del ser.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4607,7 +4607,7 @@ conclusión ya estaba en la premisa, o fue genuinamente derivada?
 El libro tiene que ser capaz de hacer esa pregunta a sus propios argumentos
 — y la sección siguiente lo hace.
 
-XIV. La auditoría aplicada al propio Νικόμαχος
+XIV. La auditoría aplicada al propio Nikomachos
 El libro no puede exigir transparencia sobre los puentes y las condiciones
 constitutivas de los argumentos ajenos sin aplicar la misma exigencia a sus
 propios argumentos. Eso sería exactamente el tipo de doble estándar que la
@@ -5535,7 +5535,7 @@ no es suficiente — lo que ningún conocimiento situado puede hacer — es
 predicar del ser qua ser de Pedro como si se tuviera acceso a la cosa-en-sí. Y
 esa insuficiencia es exactamente el límite que el capítulo siguiente examina:
 el límite que Kant trazó con la precisión que nadie antes había alcanzado, y
-que Νικόμαχος necesita usar sin absolutizar.
+que Nikomachos necesita usar sin absolutizar.
 
 59
 
@@ -6262,24 +6262,24 @@ solo usando la distinción entre razón teórica y razón práctica que el propi
 Kant estableció — es que hay una tensión entre los dos dominios que el
 sistema no resuelve en el nivel del sujeto específico.
 Esa tensión es la crítica interna. No requiere ninguna premisa de
-Νικόμαχος para producirse — requiere solo tomar en serio lo
-que la Crítica de la razón pura establece y aplicarlo al dominio que la Crítica
-de la razón práctica pretende gobernar.
+Nikomachos para producirse — requiere solo tomar en serio lo que la Crítica
+de la razón pura establece y aplicarlo al dominio que la Crítica de la razón
+práctica pretende gobernar.
 La crítica autoral viene después, y conviene declararla explícitamente para
-no mezclarla con la interna. Νικόμαχος no funda la dignidad
-en la racionalidad — la funda en el ser qua ser. Esa divergencia de
-fundamento tiene consecuencias que difieren de las kantianas: la dignidad
-no depende de la racionalidad y por tanto no puede retirarse cuando la
-racionalidad falla o está ausente. La imputabilidad no requiere acceso al
-noúmeno del sujeto — requiere la estructura de la doble mediación que
-Caos construyó, que opera en el nivel del fenómeno sin necesitar el
-noúmeno. Esas son divergencias autorales, y se presentan como tales: son
-consecuencias de premisas propias, no tensiones dentro del sistema
-kantiano.
+no mezclarla con la interna. Nikomachos no funda la dignidad en la
+racionalidad — la funda en el ser qua ser. Esa divergencia de fundamento
+tiene consecuencias que difieren de las kantianas: la dignidad no depende de
+la racionalidad y por tanto no puede retirarse cuando la racionalidad falla o
+está ausente. La imputabilidad no requiere acceso al noúmeno del sujeto —
+requiere la estructura de la doble mediación que Caos construyó, que opera
+en el nivel del fenómeno sin necesitar el noúmeno. Esas son divergencias
+autorales, y se presentan como tales: son consecuencias de premisas propias,
+no tensiones dentro del sistema kantiano.
 La crítica interna muestra que Kant tiene un problema que su propio
 sistema no resuelve al nivel del sujeto específico. La crítica autoral muestra
-que Νικόμαχος resuelve ese problema de otra manera — no
-recuperando el noúmeno, sino disolviendo la dependencia del noúmeno.
+que Nikomachos resuelve ese problema de otra manera — no recuperando el
+noúmeno, sino disolviendo la dependencia del noúmeno.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
