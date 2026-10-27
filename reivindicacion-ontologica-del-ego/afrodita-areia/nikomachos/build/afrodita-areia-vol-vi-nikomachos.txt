@@ -73,11 +73,11 @@ Capítulo 10 · Criticar sin sentenciar el ser
 
 Capítulo 11 · La ley no manda al tornado
 
-185
+186
 
 Capítulo 12 · Responsabilidad sin juicio ontológico
 
-203
+204
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3015,7 +3015,7 @@ enormes, irreparables, sin que ninguna de esas consecuencias equivalga a
 haber modificado el ser de X.
 La historia tiene nombre para esto. Los romanos conocieron la capitis
 deminutio — la disminución de la cabeza, la reducción del estatus jurídico
-de un ciudadano que podía llegarse hasta la pérdida total de la ciudadanía, la
+de un ciudadano que podía llegar hasta la pérdida total de la ciudadanía, la
 libertad y la familia. 37 El ciudadano que sufría la capitis deminutio maxima
 era jurídicamente equivalente a quien nunca había sido ciudadano — perdía
 todos los derechos, todas las posiciones, todas las relaciones jurídicas que
@@ -5495,9 +5495,6 @@ no es un objeto separado. Aparece como trayectoria porque es lo que un ser
 que está siendo produce cuando se despliega en el tiempo.
 
 XV. Metrología y sum
-El capítulo cierra donde debe cerrarse: en la conexión entre la ontología que
-los capítulos anteriores construyeron y la epistemología que este capítulo
-desarrolló.
 La metrología presupone el sum porque solo puede medirse lo que está
 determinado. El ser qua ser — la apertura anterior a toda determinación —
 no puede medirse. El ser determinado — el ser en tanto está — sí puede
@@ -5508,12 +5505,14 @@ no son accesibles directamente. Son accesibles a través de sus rastros: los
 efectos que el ser produce, las trayectorias que el estar despliega, los modelos
 que el conocimiento construye para describir ambos con la mayor fidelidad
 que sus instrumentos permiten.
-Lo que resulta de esa doble presupuesta es un círculo que no es vicioso sino
+Lo que resulta de esa doble presuposición es un círculo que no es vicioso sino
 fértil: el ser es la condición de posibilidad de cualquier medición; la
 medición es la forma en que el ser se hace accesible desde adentro del ser. No
 hay exterioridad que rompa ese círculo — pero tampoco es necesario
 romperlo para que el conocimiento funcione. El conocimiento funciona
 dentro del círculo, usando los rastros que el ser produce para construir
+modelos del ser que producen predicciones que se verifican contra más
+rastros.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5524,8 +5523,6 @@ A.C.
 
 NIKOMACHOS
 
-modelos del ser que producen predicciones que se verifican contra más
-rastros.
 Ese es el conocimiento situado. No es el conocimiento desde el sol de
 Platón. Es el conocimiento desde la caverna bien iluminada por dentro —
 con instrumentos precisos, criterios declarados, jurisdicciones honestas.
@@ -5561,6 +5558,9 @@ Peirce, Charles Sanders, «Deduction, Induction, and Hypothesis» (1878),
 en Collected Papers, vol. 2. La abducción como el tercer modo de
 razonamiento, distinto de la deducción y la inducción: el razonamiento que
 va de efectos a causas, de fenómenos a hipótesis explicativas. También «A
+Neglected Argument for the Reality of God» (1908): la abducción como la
+forma básica del razonamiento científico, el único modo de generar
+hipótesis nuevas. Para la relación entre abducción y semiótica, véase Eco,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5571,9 +5571,6 @@ A.C.
 
 NIKOMACHOS
 
-Neglected Argument for the Reality of God» (1908): la abducción como la
-forma básica del razonamiento científico, el único modo de generar
-hipótesis nuevas. Para la relación entre abducción y semiótica, véase Eco,
 Umberto, y Sebeok, Thomas (eds.), The Sign of Three: Dupin, Holmes,
 Peirce (1983).
 62
@@ -5610,6 +5607,8 @@ Journal of Consciousness Studies 2 (1995): 200-219. El «problema dif ícil de l
 conciencia»: por qué y cómo los procesos f ísicos dan lugar a la experiencia
 subjetiva — por qué hay algo que se siente como ser este tipo de sistema. La
 distinción entre los «problemas fáciles» (los correlatos neurales de los
+estados mentales, que la neurociencia puede estudiar) y el problema dif ícil
+(la experiencia subjetiva misma).
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5620,8 +5619,6 @@ A.C.
 
 NIKOMACHOS
 
-estados mentales, que la neurociencia puede estudiar) y el problema dif ícil
-(la experiencia subjetiva misma).
 66
 
 Platón, República, VII, 514a-521b. La alegoría de la caverna: los
@@ -5660,6 +5657,8 @@ Parte IV, Sección VI: «De la identidad personal». La búsqueda introspectiva
 del yo: «Cuando entro más íntimamente en lo que llamo yo mismo,
 siempre tropiezo con alguna percepción particular u otra, de calor o frío, de
 luz o sombra, de amor u odio, de dolor o placer. Nunca puedo atraparme a
+mí mismo en ningún momento sin una percepción, y nunca puedo observar
+nada más que la percepción».
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5670,8 +5669,6 @@ A.C.
 
 NIKOMACHOS
 
-mí mismo en ningún momento sin una percepción, y nunca puedo observar
-nada más que la percepción».
 71
 
 Hume, Tratado, I.IV.VI: «Son solo un haz o colección de diferentes
@@ -5924,9 +5921,9 @@ A.C.
 NIKOMACHOS
 
 VI. Noúmeno como frontera
-El noúmeno — del griego νοούμενον, «lo pensado» — es el objeto pensado
-independientemente de las condiciones de la intuición sensible. Kant lo
-introdujo en dos sentidos que es importante distinguir.
+El noúmeno — del griego νοούμενον, «lo pensado» — es el
+objeto pensado independientemente de las condiciones de la intuición
+sensible. Kant lo introdujo en dos sentidos que es importante distinguir.
 En sentido negativo: el noúmeno es el concepto de un objeto que no es
 objeto de la intuición sensible. No es el objeto de ningún conocimiento
 teórico posible. Es el concepto del límite — aquello que marca el borde más
@@ -6220,7 +6217,7 @@ por la ley moral, sino la predicación específica de que Pedro, como
 noúmeno, eligió estos actos. Y esa predicación específica requiere
 exactamente lo que la Crítica de la razón pura declaró inaccesible: acceso al
 noúmeno de Pedro.
-La razón práctica necesita predecir el carácter inteligible de Pedro para
+La razón práctica necesita predicar el carácter inteligible de Pedro para
 imputarle sus actos específicos. Pero el carácter inteligible de Pedro es
 noumenal — es Pedro-como-cosa-en-sí. Y la razón teórica ya declaró que la
 cosa-en-sí no es accesible.
@@ -6419,7 +6416,7 @@ A.C.
 NIKOMACHOS
 
 conocimiento de una sustancia pensante sino la conciencia formal de la
-unidad del apercepción.
+unidad de la apercepción.
 78
 
 Kant, Crítica de la razón práctica, Libro II, Cap. II, §V: «La existencia
@@ -6440,12 +6437,16 @@ hizo antes de cualquier acto fenoménico específico. Allison, Henry E.,
 Kant's Theory of Freedom (1990), caps. 6-7.
 80
 
-La tensión entre la imputabilidad específica y la inaccesibilidad del
-noúmeno es el problema que la tradición kantiana llama el «factum de la
-razón» — el hecho de que la razón práctica se imponga a sí misma como
-legisladora, que es la única evidencia disponible de la libertad trascendental.
-Para el debate contemporáneo, véase Korsgaard, Christine, SelfConstitution: Agency, Identity, and Integrity (2009), especialmente cap. 3, y
-Herman, Barbara, The Practice of Moral Judgment (1993), cap. 7.
+El factum de la razón designa en Kant la conciencia de la ley moral
+como ley de la razón pura práctica, no la tensión entre imputabilidad e
+inaccesibilidad del noúmeno. Kant presenta esa conciencia como un hecho
+de la razón y la vincula con la libertad (Crítica de la razón práctica, § 7, 5:31–
+32 y 5:42). La tensión que este libro plantea es distinta: cómo pensar la
+imputabilidad específica desde el límite del conocimiento teórico del
+noúmeno. Para debates sobre agencia y juicio moral, véase Korsgaard,
+Christine, Self-Constitution: Agency, Identity, and Integrity (2009),
+especialmente cap. 3, y Herman, Barbara, The Practice of Moral Judgment
+(1993), cap. 7.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6675,11 +6676,9 @@ La primera mediación es el espacio entre el estímulo y la respuesta. No el
 espacio literal — no necesariamente una pausa temporal entre el estímulo y
 la respuesta —, sino el espacio estructural que hace que la respuesta no sea
 simplemente la reacción determinada por el estímulo sino la orientación de
-la voluntad hacia una respuesta entre las posibles. Viktor Frankl, que observó
-ese espacio en condiciones donde casi todo lo demás había sido quitado, lo
-formuló con una precisión que ninguna circunstancia podía refutar: entre el
-estímulo y la respuesta hay un espacio, y en ese espacio está la libertad del
-hombre. 85
+la voluntad hacia una respuesta entre las posibles. La idea puede formularse
+así: entre el estímulo y la respuesta hay un espacio, y en ese espacio se ejerce la
+libertad de orientar la voluntad. 85
 Ese espacio es lo que hace al acto humano un acto en sentido pleno — lo que
 distingue la acción de la reacción, la decisión del reflejo, la responsabilidad
 del accidente. No porque el espacio sea siempre grande ni siempre
@@ -7117,14 +7116,13 @@ personal que puede sostenerse después de Hume y sin recurrir a la sustancia
 cartesiana.
 85
 
-Frankl, Viktor, El hombre en busca de sentido (1946). La observación de
-Frankl en los campos de concentración nazis: incluso cuando todo lo demás
-había sido quitado — libertad f ísica, posesiones, relaciones —, quedaba la
-capacidad de elegir la propia actitud ante las circunstancias dadas. El espacio
-entre el estímulo y la respuesta como el espacio de la libertad humana. No
-una libertad absoluta — la situación de los prisioneros era de coerción
-extrema — sino la libertad mínima que hace de la respuesta algo más que
-una reacción determinada.
+La frase «entre el estímulo y la respuesta hay un espacio» suele atribuirse
+a Viktor Frankl, pero el Viktor Frankl Institute of America indica que no se
+ha localizado una fuente verificable para esa formulación textual (https://
+www.viktorfrankl.org/quote_stimulus.html). Aquí se retoma la idea general
+de un espacio de respuesta sin presentar esas palabras como cita textual de
+Frankl. La tesis sobre la primera mediación corresponde al desarrollo de este
+libro.
 86
 
 La condición sine qua non como base de la imputabilidad causal es la
@@ -7578,7 +7576,7 @@ ninguna humanidad abstracta — esa entidad no existe como objeto
 separado.
 Sino humano en el sentido que la fórmula fija:
 Humano(x) ∧ Realizó(x, A) → ActoHumano(A)
-Lo que un humano produce es un acto humano. Eso no es una benedición
+Lo que un humano produce es un acto humano. Eso no es una bendición
 sobre A. Es la preservación del dominio dentro del cual A puede ser juzgado,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -7771,7 +7769,8 @@ humanos que pueden orientar su voluntad, que pueden responder por sus
 actos, que participan del sistema normativo — pierde su fundamento. Si el
 criminal ya no es humano, ¿con qué autorización el sistema penal, que fue
 construido para los humanos, lo procesa? Si el criminal ya no es el tipo de ser
-al que el sistema se dirige, ¿qué conserva el sistema su jurisdicción sobre él?
+al que el sistema se dirige, ¿qué fundamento conserva el sistema para ejercer
+jurisdicción sobre él?
 El problema no es que la palabra ofenda. El problema es que la operación
 destruye su propio fundamento.
 
@@ -7783,8 +7782,7 @@ humano?
 Para responderla, hay que recordar lo que el Capítulo V estableció sobre el
 dominio. El dominio de un predicado es el conjunto de seres a los que ese
 predicado puede aplicarse con sentido. El dominio de «humano» es el
-conjunto de seres que satisfacen las condiciones que hacen de ellos humanos
-— no el conjunto de seres que actúan de manera que la moral aprueba, sino
+conjunto de seres que tienen el modo de ser humano — no el conjunto de
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7795,9 +7793,12 @@ A.C.
 
 NIKOMACHOS
 
-el conjunto de seres que tienen el modo de ser humano: con conciencia, con
-capacidad de actuar por razones, con primera mediación, con trayectoria
-histórico-biográfica.
+seres que actúan de manera que la moral aprueba. La conciencia, la
+capacidad de actuar por razones, la primera mediación y la trayectoria
+histórico-biográfica caracterizan ese modo de ser; su ejercicio actual no es
+una condición para que un individuo humano pertenezca a ese dominio. La
+imputabilidad concreta se determina aparte, según las capacidades del
+agente en el momento del acto.
 Para que un agente sea excluido legítimamente del dominio humano,
 tendría que haber dejado de satisfacer las condiciones que hacen de él un ser
 humano. No las condiciones morales — la moralidad de los actos no
@@ -7823,9 +7824,6 @@ humano. Todas ellas son más sólidas — tienen un fundamento más honesto
 XVI. Embargo de dignidad
 La dignidad, la predicación, el conocimiento y el acto confluyen en el
 problema del juicio de la persona.
-La dignidad que los Capítulos III y IV establecieron dice: lo que es es digno
-de ser lo que es. Aquello que es no puede ser deficitario respecto de ser lo que
-es sin que la noción de deficiencia pierda su objeto. La dignidad no protege
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7836,6 +7834,9 @@ A.C.
 
 NIKOMACHOS
 
+La dignidad que los Capítulos III y IV establecieron dice: lo que es es digno
+de ser lo que es. Aquello que es no puede ser deficitario respecto de ser lo que
+es sin que la noción de deficiencia pierda su objeto. La dignidad no protege
 al agente de la crítica — protege al agente de la confusión entre predicación
 y alteración ontológica.
 La predicación que los Capítulos V y VI construyeron dice: toda predicación
@@ -7866,9 +7867,6 @@ ontológica ya no es el instrumento que la funda.
 
 Arendt, Hannah, Eichmann en Jerusalén: Un informe sobre la
 banalidad del mal (1963). El relato del juicio de Adolf Eichmann en
-Jerusalén y la formulación de «la banalidad del mal» — no como
-descripción de crímenes banales sino como descripción de un modo de
-participar en crímenes extraordinarios sin el pensamiento que pondría en
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7879,6 +7877,9 @@ A.C.
 
 NIKOMACHOS
 
+Jerusalén y la formulación de «la banalidad del mal» — no como
+descripción de crímenes banales sino como descripción de un modo de
+participar en crímenes extraordinarios sin el pensamiento que pondría en
 contacto los actos con sus consecuencias reales. Para la controversia que la
 formulación generó, véase Young-Bruehl, Elisabeth, Hannah Arendt: For
 Love of the World (1982), cap. 10.
@@ -7915,13 +7916,23 @@ el juicio terminara. La distinción de Jaspers entre culpa criminal
 (determinable jurídicamente), culpa política (colectiva, por participación en
 el sistema), culpa moral (individual, por no haber resistido) y culpa
 metafísica (por no haber hecho todo lo posible para impedir el crimen).
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+184
+
+AFRODITA AREIA · VI
+
+NIKOMACHOS
+
 También Shklar, Judith, Legalism: Law, Morals, and Political Trials (1964),
 especialmente cap. 5.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-184
+185
 
 AFRODITA AREIA · VI
 
@@ -7958,7 +7969,7 @@ conecta antecedente y consecuente de maneras reconstruibles, verificables,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-185
+186
 
 AFRODITA AREIA · VI
 
@@ -7999,7 +8010,7 @@ tipo de ser que produce lo que produjo — que la imputación de sus actos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-186
+187
 
 AFRODITA AREIA · VI
 
@@ -8034,20 +8045,21 @@ una ley constitutiva no produce reproche: produce la pérdida del objeto que
 la ley describe, o el cambio del fenómeno a otro estado.
 La ley constitutiva del agua es que H₂O en estado líquido bajo cierto rango
 de presión y temperatura es agua. Si la temperatura baja del umbral, el agua
-no «incumple» la ley del agua — se convierte en hielo. No hay sanción
-porque no hay destinatario que pueda recibir una sanción. Hay
+no «incumple» la ley del agua: pasa a la fase sólida y forma hielo; sigue
+siendo H₂O, aunque cambie de estado. No hay sanción porque no hay
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-187
+188
 
 AFRODITA AREIA · VI
 
 NIKOMACHOS
 
-transformación: el fenómeno cambia a otro estado según las condiciones
-que la ley constitutiva describe.
+destinatario que pueda recibir una sanción. Hay transformación: el
+fenómeno cambia a otro estado según las condiciones que la ley constitutiva
+describe.
 El sum es una ley constitutiva: describe las condiciones bajo las cuales algo
 puede seguir siendo predicado como ser en tanto está. La dignidad es una ley
 constitutiva: describe lo que comparece con el ser cuando el ser es. La
@@ -8077,16 +8089,16 @@ Puede sancionarse cuando se incumple. Puede modificarse, derogarse,
 revocarse.
 Kelsen formalizó la norma prescriptiva como un juicio de deber-ser: la
 norma no dice que algo es sino que algo debe ser. 96 La norma penal no dice
-que el homicidio ocurre — describe el homicidio y establece que debe
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-188
+189
 
 AFRODITA AREIA · VI
 
 NIKOMACHOS
 
+que el homicidio ocurre — describe el homicidio y establece que debe
 seguirse cierta consecuencia (sanción) cuando ocurre. Esa consecuencia no es
 el resultado causal del homicidio: es la consecuencia que el sistema
 normativo instituye, que existía antes del homicidio específico en cuestión y
@@ -8118,17 +8130,17 @@ V. El ser no produce por sí solo la norma
 La confusión más persistente en el pensamiento sobre la responsabilidad es
 la que Hume señaló en el dominio moral y que el Capítulo VI formuló
 como el problema del puente oculto: el salto del is al ought sin mediación
-declarada. En el dominio de la responsabilidad, ese salto tiene una versión
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-189
+190
 
 AFRODITA AREIA · VI
 
 NIKOMACHOS
 
+declarada. En el dominio de la responsabilidad, ese salto tiene una versión
 específica: la idea de que el ser del agente — lo que el agente es — produce
 por sí solo las normas que le son aplicables.
 La versión más cruda: «porque Pedro es un ser humano racional, le
@@ -8159,17 +8171,17 @@ relevante para la imputabilidad.
 VI. Hume reaparece
 El Capítulo II introdujo a Hume como la presión sobre el sum: si no hay
 sustancia permanente detrás del flujo de percepciones, ¿en qué sentido hay
-un sujeto que pueda ser responsable? El Capítulo VI usó a Hume para
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-190
+191
 
 AFRODITA AREIA · VI
 
 NIKOMACHOS
 
+un sujeto que pueda ser responsable? El Capítulo VI usó a Hume para
 establecer que el is no produce el ought sin puente declarado. El Capítulo
 VII lo ubicó en el mapa del conocimiento situado: lo que Hume encontró
 son rastros del yo, no el fracaso del yo.
@@ -8202,7 +8214,7 @@ sistema normativo es exactamente lo que este capítulo examina.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-191
+192
 
 AFRODITA AREIA · VI
 
@@ -8242,7 +8254,7 @@ objetos que interactuó, las consecuencias que cada interacción produjo. Nada
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-192
+193
 
 AFRODITA AREIA · VI
 
@@ -8283,7 +8295,7 @@ entre la estructura del tornado y la estructura del mundo que ese tornado
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-193
+194
 
 AFRODITA AREIA · VI
 
@@ -8325,7 +8337,7 @@ el sistema estableció para ellos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-194
+195
 
 AFRODITA AREIA · VI
 
@@ -8367,7 +8379,7 @@ posición de Pedro dentro del sistema que el Estado administra. No alcanza
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-195
+196
 
 AFRODITA AREIA · VI
 
@@ -8409,7 +8421,7 @@ evaluativo. Es una propiedad funcional: el agente satisface las condiciones
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-196
+197
 
 AFRODITA AREIA · VI
 
@@ -8450,7 +8462,7 @@ destinatarios.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-197
+198
 
 AFRODITA AREIA · VI
 
@@ -8491,7 +8503,7 @@ jurisdicción: un agente imputable puede no estar dentro de la jurisdicción
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-198
+199
 
 AFRODITA AREIA · VI
 
@@ -8532,7 +8544,7 @@ determinación puede excluirse en casos específicos — el agente en estado de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-199
+200
 
 AFRODITA AREIA · VI
 
@@ -8572,7 +8584,7 @@ ontológico pretende modificar el dominio sobre el que ese título se fundó.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-200
+201
 
 AFRODITA AREIA · VI
 
@@ -8624,7 +8636,7 @@ tiene que satisfacer para ser un sistema genuino. Para la discusión sobre
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-201
+202
 
 AFRODITA AREIA · VI
 
@@ -8644,7 +8656,7 @@ especialmente §§17-18.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-202
+203
 
 AFRODITA AREIA · VI
 
@@ -8680,7 +8692,7 @@ agente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-203
+204
 
 AFRODITA AREIA · VI
 
@@ -8703,8 +8715,8 @@ al condenado fuera del dominio que fundaba su título de coerción.
 
 II. Reconstrucción causal
 La primera operación de la responsabilidad es la reconstrucción causal:
-determinar si el agente fue la condición sine qua non del daño específico
-que se le imputa.
+determinar si el agente fue la condición sine qua non del daño específico que
+se le imputa.
 La reconstrucción causal no dice que el agente sea malo. No dice que el ser
 del agente sea de un tipo que produce daño. No predica del ser qua ser del
 agente nada que no esté disponible para un observador que también sea.
@@ -8722,7 +8734,7 @@ es la incertidumbre encubierta de la sentencia ontológica.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-204
+205
 
 AFRODITA AREIA · VI
 
@@ -8764,7 +8776,7 @@ en las escalas moral y jurídica — pero no funda la imputación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-205
+206
 
 AFRODITA AREIA · VI
 
@@ -8803,7 +8815,7 @@ agentes que satisfacen las condiciones de la imputación. No es el sufrimiento
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-206
+207
 
 AFRODITA AREIA · VI
 
@@ -8845,7 +8857,7 @@ imputación previa. No requiere que ese agente sea malo en términos de su
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-207
+208
 
 AFRODITA AREIA · VI
 
@@ -8886,7 +8898,7 @@ necesitar que esa inferencia se convierta en sentencia sobre su ser qua ser.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-208
+209
 
 AFRODITA AREIA · VI
 
@@ -8928,7 +8940,7 @@ deshonestidad independientemente de la naturaleza de los actores.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-209
+210
 
 AFRODITA AREIA · VI
 
@@ -8967,7 +8979,7 @@ como fundamento del argumento de Νικόμαχος, que está
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-210
+211
 
 AFRODITA AREIA · VI
 
@@ -9008,7 +9020,7 @@ de las condiciones que hacen al ego ser lo que es. Sino porque el ego puede
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-211
+212
 
 AFRODITA AREIA · VI
 
@@ -9049,7 +9061,7 @@ privado. Para que esa cesión funcione, la voluntad general tiene que existir
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-212
+213
 
 AFRODITA AREIA · VI
 
@@ -9089,7 +9101,7 @@ sin título es violencia; la fuerza con título es sanción. Y el título es
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-213
+214
 
 AFRODITA AREIA · VI
 
@@ -9130,7 +9142,7 @@ Estado.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-214
+215
 
 AFRODITA AREIA · VI
 
@@ -9171,7 +9183,7 @@ dentro del sistema penal: con las garantías que el contrato fiscal establece
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-215
+216
 
 AFRODITA AREIA · VI
 
@@ -9212,7 +9224,7 @@ la libertad que el contrato describe.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-216
+217
 
 AFRODITA AREIA · VI
 
@@ -9253,7 +9265,7 @@ construido para administrar. Si el condenado ya no es humano — si el exilio
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-217
+218
 
 AFRODITA AREIA · VI
 
@@ -9262,7 +9274,7 @@ NIKOMACHOS
 ha tenido «éxito» —, entonces el sistema penal construido para los egos
 humanos soberanos que participaron del contrato fiscal ya no tiene
 instrumentos para procesarlo. El condenado es ahora un pagano respecto del
-infierno del sistema: su vida —su ser— es de un tipo que el sistema declaró
+infierno del sistema: su vida — su ser — es de un tipo que el sistema declaró
 que no le corresponde, y por tanto el sistema ha perdido los instrumentos
 que justificaban su intervención.
 El infierno no manda a los paganos. Y el sistema punitivo que declaró al
@@ -9293,7 +9305,7 @@ libertad al Estado. Luego el Estado no tiene el capital que fundaba su título.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-218
+219
 
 AFRODITA AREIA · VI
 
@@ -9333,7 +9345,7 @@ ciudadanos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-219
+220
 
 AFRODITA AREIA · VI
 
@@ -9351,9 +9363,6 @@ no permite es que la coerción pierda su propio fundamento al pretender
 embargar lo que no puede embargar.
 
 XX. Responsabilidad como cierre suficiente
-El libro llega a su último capítulo antes del epílogo. Lo que ha construido
-puede formularse en pocas líneas — aunque cada una de esas líneas costó el
-trabajo de los doce capítulos anteriores.
 El ser es. Lo que es es digno de ser lo que es. Esa dignidad no depende de la
 conciencia, de la racionalidad, de la moralidad de los actos, ni de ninguna
 propiedad que solo algunos seres tengan. Depende del ser — de que haya ser,
@@ -9369,20 +9378,20 @@ predicar del ser qua ser del agente sin los instrumentos que operarían a ese
 nivel — instrumentos que no están disponibles para ningún observador que
 también sea. Ese límite no destruye el conocimiento: lo demarca. Y la
 predicación que sabe dónde termina su jurisdicción es más honesta — y más
+difícil de refutar — que la que pretende más de lo que sus instrumentos
+pueden producir.
+La responsabilidad basta. El sistema normativo puede ejercer su coerción
+con toda la fuerza que el contrato fiscal le confiere — fundada en el capital
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-220
+221
 
 AFRODITA AREIA · VI
 
 NIKOMACHOS
 
-difícil de refutar — que la que pretende más de lo que sus instrumentos
-pueden producir.
-La responsabilidad basta. El sistema normativo puede ejercer su coerción
-con toda la fuerza que el contrato fiscal le confiere — fundada en el capital
 que el ciudadano cedió, dirigida al destinatario normativo que el ciudadano
 sigue siendo — sin necesitar la sentencia ontológica que embarga la
 dignidad del condenado. Y la coerción que no embarga la dignidad conserva
@@ -9406,22 +9415,12 @@ trouvée amère. — Et je l'ai injuriée. Je me suis armé contre la justice. J
 suis enfui. Ô sorcières, ô misère, ô haine, c'est à vous que mon trésor a été
 confié! [...] Moi! moi qui me suis dit mage ou ange, dispensé de toute morale,
 je suis rendu au sol, avec un devoir à chercher, et la réalité rugueuse à
-étreindre! Paysan!» Y en particular «Mauvais Sang»: «Les paiens, je le sais,
+étreindre! Paysan!» Y en particular «Mauvais Sang»: «Les païens, je le sais,
 n'ont pas de chrétienté pour aller en enfer.» — «Los paganos, lo sé, no
 tienen la cristiandad para ir al infierno.» La imagen funciona como
 estructura de jurisdicción: el infierno es un sistema punitivo construido para
 administrar las consecuencias de una economía moral específica; quien está
 fuera de esa economía moral no es destinatario del sistema que la
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-221
-
-AFRODITA AREIA · VI
-
-NIKOMACHOS
-
 administra, no porque su vida sea mejor sino porque es de un tipo que el
 sistema no tiene instrumentos para procesar.
 
@@ -9452,9 +9451,8 @@ preguntarse qué instrumentos usa, desde qué escala opera, hasta dónde llega
 legítimamente su jurisdicción. Y para mostrar que quien predica también es:
 que no hay exterioridad disponible desde la cual el ser del otro pudiera
 desplegarse como objeto terminado ante una mirada sin perspectiva.
-Doce capítulos y un aparato construido desde el Caos. El argumento puede
-formularse ahora desde el otro lado — no como promesa de lo que el libro
-hará, sino como descripción de lo que hizo.
+El límite no elimina el veredicto: exige declarar desde qué escala se
+pronuncia y qué puede afirmar sobre el ser del agente.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9570,8 +9568,8 @@ asimetría entre acto y sujeto se sigue el límite entre la crítica legítima y
 sentencia ontológica: la crítica puede ser severa, puede alcanzar
 genuinamente al sujeto en cuanto estaba siendo en ese acto, puede decir
 cosas devastadoras sobre la trayectoria y la disposición del agente. Lo que no
-puede hacer —sin cruzar un límite que sus propios instrumentos no
-autorizan— es convertir esa revelación parcial en exhaustividad sobre el ser
+puede hacer — sin cruzar un límite que sus propios instrumentos no
+autorizan — es convertir esa revelación parcial en exhaustividad sobre el ser
 qua ser del agente.
 El criminal sigue siendo humano. El crimen fue un acto profundamente
 humano — no humanitario, no frecuente, no representativo de ningún
@@ -9604,7 +9602,7 @@ coerción en el capital que el agente cedió, la proporcionalidad que hace de la
 sanción algo diferente de la violencia. Esas operaciones son suficientemente
 poderosas. Son también más honestas que la operación que pretende más —
 porque pueden declararse, auditarse, defenderse y revisarse.
-Y el Estado que embarca la dignidad del condenado no refuerza su título de
+Y el Estado que embarga la dignidad del condenado no refuerza su título de
 coerción: lo destruye. Porque si el condenado ya no pertenece al dominio de
 quienes cedieron la libertad que fundó ese título, el Estado ya no puede
 invocar el capital cedido como fundamento de su coerción. Lo que queda es
