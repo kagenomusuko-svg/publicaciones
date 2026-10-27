@@ -151,7 +151,7 @@ posible esa pertenencia: el ego como referencia, el límite como afirmación
 del sujeto, la otredad como condición del encuentro genuino, la dignidad
 como fundamento pre-contractual de la relación entre el ciudadano y el
 Estado, el amor como la colisión más profunda que puede vivir el ego, la
-angustia como precio de la libertad; y del falso ego de Aquiles, como
+angustia como precio de la libertad y el falso ego de Aquiles como
 advertencia sobre lo que se pierde cuando se vive para el relato y no para sí
 mismo.
 El libro no ofrece respuestas definitivas. Ofrece herramientas para que el
@@ -339,7 +339,7 @@ Y ese nombre es, como ya sabes, el origen de todo lo que sigue.
 
 Notas
 [1] Jean-Paul Sartre, El existencialismo es un humanismo (1945). La fórmula
-sartreana —«la existencia precede a la esencia» — expresa que el ser
+sartreana —«la existencia precede a la esencia»— expresa que el ser
 humano no tiene naturaleza previa: se define a través de sus elecciones y sus
 actos.
 [2] Martin Heidegger, Ser y tiempo (1927). El concepto de Geworfenheit
@@ -349,8 +349,8 @@ situado en un mundo que no eligió, pero desde el cual proyecta su existencia.
 estoica fundamental entre lo que depende de nosotros (eph' hēmin) y lo que
 no (ouk eph' hēmin) anticipa, en su lógica, la pregunta sobre los límites de
 la responsabilidad del sujeto que este libro desarrolla.
-[4] Platón, Teeteto y Menón. La mayéutica socrática— del griego
-maieutiké, arte de la partera— designa el método de alumbrar el
+[4] Platón, Teeteto y Menón. La mayéutica socrática —del griego
+maieutiké, «arte de la partera»— designa el método de alumbrar el
 conocimiento mediante preguntas, asumiendo que el saber ya reside en el
 interlocutor antes de ser articulado.
 
@@ -402,7 +402,7 @@ TELAR DE LAS MOIRAS
 Este argumento tiene una genealogía filosófica que conviene reconocer sin
 ocultarla. Cuando Heidegger distingue entre el Dasein que existe de manera
 propia (eigentlich) y el que se pierde en el Man —en la existencia impersonal
-del «se dice», «se hace», «se vive» — , está apuntando exactamente a esta
+del «se dice», «se hace», «se vive»— está apuntando exactamente a esta
 diferencia: entre el sujeto que se interroga a sí mismo como proyecto en
 curso y el que simplemente ocupa el lugar que las circunstancias le
 asignaron. [1] La identidad propia, para Heidegger, no es una esencia que se
@@ -578,7 +578,8 @@ el punto desde el cual el sujeto elige y se autodetermina. No es un trono; es
 un eje. No es superioridad; es ubicación. Allí donde el ego se comprende de
 este modo deja de ser vicio para convertirse en condición de coherencia, de
 responsabilidad, de identidad que no se reduce a un nombre, sino que se va
-construyendo en el trayecto— entre lo que no es y lo que decide llegar a ser.
+construyendo en el trayecto —entre lo que no es y lo que decide llegar a ser
+—.
 
 VI. Distinción necesaria: ego, egolatría, egocentrismo
 Para evitar malentendidos —y porque la precisión conceptual no es un
@@ -590,7 +591,6 @@ El ego, en su sentido más básico, es quien soy: la conciencia de mí mismo
 como punto de referencia, el eje desde el cual el sujeto se localiza y actúa. La
 egolatría es adorar la imagen que tengo de mí; convertir esa representación
 en objeto de culto, intocable, rígido e inamovible. No es el ego lo que se
-absolutiza: es una imagen del ego. El egocentrismo, por su parte, no se
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -601,6 +601,7 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+absolutiza: es una imagen del ego. El egocentrismo, por su parte, no se
 refiere al conocimiento de mí mismo sino a la relación con los otros: es
 creer que los demás existen para mí, que giran alrededor de mi voluntad o
 mi mirada.
@@ -642,7 +643,7 @@ A.C.
 TELAR DE LAS MOIRAS
 
 Sin ego —sin ese punto de referencia que permite decir «esto viene de mí»
-y «esto viene de afuera» — no hay posibilidad real de distinguir entre la
+y «esto viene de afuera»— no hay posibilidad real de distinguir entre la
 elección y la absorción. El individuo que carece de ese eje no elige: se adapta.
 No actúa: reacciona. No se autodetermina: se deja determinar. Y un
 individuo que se deja determinar de manera completa por su entorno no es
@@ -666,7 +667,7 @@ no es el opuesto de la relación con el otro. Es su condición. Solo puede haber
 encuentro real entre dos sujetos que se mantienen en sí mismos. La fusión
 no es encuentro: es desaparición.
 
-VIII. El ser antes de la pregunta: puente al capítulo siguiente
+VIII. El ser antes de la pregunta
 Todo lo que hasta aquí se ha dicho sobre identidad, autodeterminación y
 ego descansa sobre una base que aún no hemos examinado: hay alguien que
 pregunta.
@@ -687,9 +688,8 @@ que parezca— es la más antigua y la más resistente de la filosof ía occiden
 Si puedo preguntarme quién soy, es porque soy. Antes de sentirme de un
 modo u otro, antes de nombrarme con una palabra, antes de definirme con
 una categoría, hay un hecho más básico que todos ellos: existo. La pregunta
-por la identidad presupone ya un punto desde donde partir. Y ese punto —el
-ser como condición de posibilidad de cualquier pregunta sobre el ser— es lo
-que el siguiente capítulo examinará.
+por la identidad presupone ya un punto desde donde partir: el ser como
+condición de posibilidad de cualquier pregunta sobre el ser.
 La pregunta por el ser es más antigua que cualquier respuesta que la filosof ía
 haya dado. Ya Parménides, en el siglo V a.C., afirmó que el ser es y el no-ser
 no puede ser; no como trivialidad lógica, sino como el primer intento de
@@ -697,10 +697,6 @@ fundar el pensamiento en algo que no puede ser negado sin contradecirse. [7]
 Esa misma tozudez del ser —esa insistencia en que hay algo en lugar de
 nada, que hay alguien en lugar de vacío— es lo que hace posible cualquier
 pregunta sobre la identidad, la responsabilidad o la autodeterminación.
-Por ello, el paso siguiente es interrogar al ser mismo: pues antes de la
-emoción, del nombre, de la historia, hay un estar siendo. Y es justamente esa
-pregunta —más antigua que todas las demás— la que abrirá el próximo
-capítulo.
 
 Notas
 [1] Martin Heidegger, Ser y tiempo (1927), §§ 25–27. La analítica del Man
@@ -713,6 +709,11 @@ tránsito de la sociedad disciplinaria —que prohíbe y reprime— a la socieda
 del rendimiento —que exige, produce y agota—. El sujeto contemporáneo
 no cae bajo una fuerza exterior: se derrumba bajo el peso de sus propias
 exigencias interiorizadas.
+[3] Paul Ricoeur, Sí mismo como otro (1990). Ricoeur distingue entre la
+identidad-idem (lo que permanece igual en el tiempo) y la identidad-ipse (la
+identidad del sí mismo comprometido consigo en la promesa y la acción).
+El rodeo por el otro es condición de posibilidad de la comprensión del sí
+mismo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -723,11 +724,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-[3] Paul Ricoeur, Sí mismo como otro (1990). Ricoeur distingue entre la
-identidad-idem (lo que permanece igual en el tiempo) y la identidad-ipse (la
-identidad del sí mismo comprometido consigo en la promesa y la acción).
-El rodeo por el otro es condición de posibilidad de la comprensión del sí
-mismo.
 [4] Charles Taylor, Fuentes del yo: La construcción de la identidad moderna
 (1989). Taylor argumenta que la identidad está constitutivamente ligada a
 orientaciones morales: saber quién soy implica saber dónde me sitúo
@@ -742,7 +738,7 @@ libertad negativa —ausencia de interferencia— y libertad positiva —
 capacidad de autodirección— sigue siendo uno de los marcos analíticos más
 fértiles de la filosof ía política contemporánea.
 [7] Parménides de Elea, Sobre la naturaleza (siglo V a.C.), fragmentos
-conservados en Simplicio. La afirmación fundamental— «el ser es y el noser no puede ser» — inaugura la ontología occidental como disciplina y
+conservados en Simplicio. La afirmación fundamental —«el ser es y el noser no puede ser»— inaugura la ontología occidental como disciplina y
 plantea la pregunta por el fundamento último de cualquier afirmación
 posible.
 
@@ -1008,7 +1004,7 @@ sentimentalismo: es autoconocimiento, porque en los patrones emocionales
 se leen los patrones de las elecciones, las acciones; los proyectos.
 Lo que aquí se propone es un desplazamiento en la manera de relacionarse
 con las propias emociones: dejar de jerarquizarlas moralmente —«esta es
-buena, aquella es mala, esta me hace mejor persona» — para utilizarlas
+buena, aquella es mala, esta me hace mejor persona»— para utilizarlas
 como coordenadas. La emoción no me dice lo que debo hacer; me dice
 desde dónde vivo lo que me acontece. Es un indicador de posición, no una
 instrucción de conducta.
@@ -1408,7 +1404,7 @@ trampa cuando la buscamos como fuente de definición de lo que somos. El
 problema no es el otro: es la relación de dependencia constitutiva con su
 juicio. En el vocabulario de este libro: el conflicto no lo produce la otredad;
 lo produce el ego que se ha vuelto incapaz de mantenerse en sí sin necesitar
-que el otro lo confirme— o sin necesitar que el otro desaparezca.
+que el otro lo confirme o sin necesitar que el otro desaparezca.
 La otredad auténtica, en consecuencia, no emana de una tolerancia
 condescendiente —soportar al diferente porque uno es magnánimo— ni de
 una idealización romántica de lo ajeno. Proviene del reconocimiento de
@@ -1653,7 +1649,7 @@ aplicarle. Su filosof ía del rostro —el rostro como lo que en el otro resiste
 reducción— es la formulación más radical de la irreductibilidad de la
 otredad en la tradición continental del siglo XX.
 [2] Jean-Paul Sartre, A puerta cerrada (1944), escena V. La frase —«l'enfer
-c'est les autres» — pertenece al personaje de Garcín y describe la experiencia
+c'est les autres»— pertenece al personaje de Garcín y describe la experiencia
 de quienes, incapaces de mirarse a sí mismos con lucidez, quedan atrapados
 en la mirada del otro como única fuente de definición. El propio Sartre
 aclaró en una conferencia posterior que la frase no era un argumento contra
@@ -2568,12 +2564,12 @@ ontológico: no habla del otro, habla del sujeto que lo pone. Define el
 territorio del ego, no el del otro.
 Esta distinción importa porque tiene consecuencias opuestas sobre el
 vínculo. Un límite que se pone como castigo —«te dejo de hablar para que
-aprendas» — tiene al otro como objeto: busca producir un efecto en él,
+aprendas»— tiene al otro como objeto: busca producir un efecto en él,
 modificar su conducta, someterlo a la voluntad del que lo impone. Un
 límite que se pone como afirmación del ego —«no puedo continuar este
-diálogo en estas condiciones porque me hace daño» — tiene al propio
-sujeto como referencia: habla de lo que el sujeto puede sostener, no de lo que
-quiere producir en el otro.
+diálogo en estas condiciones porque me hace daño»— tiene al propio sujeto
+como referencia: habla de lo que el sujeto puede sostener, no de lo que quiere
+producir en el otro.
 El primero es egolatría aplicada al conflicto: el ego que se ha absolutizado
 usa el límite como instrumento de poder. El segundo es autodeterminación
 causal: el ego que se conoce como punto de referencia usa el límite como
@@ -2614,7 +2610,7 @@ pero la desplaza hacia las condiciones materiales de existencia, puede
 formularse de manera compacta: el otro no es un obstáculo, un medio ni un
 enemigo natural. Es un sujeto portador de dignidad, y como tal constituye
 un límite ético para la acción propia. [4]
-Lo que Dussel llama «el rostro del otro» — siguiendo la terminología
+Lo que Dussel llama «el rostro del otro» —siguiendo la terminología
 levinasiana, pero cargándola de contenido histórico y político— es la
 interpelación que el otro lanza al sujeto simplemente por existir: «soy»,
 «tengo hambre», «tengo historia», «no soy el instrumento de tus
@@ -3834,7 +3830,7 @@ imprevisibilidad del futuro (para la que sirve la promesa). Ambas son
 condiciones de posibilidad de la vida política genuina.
 [5] Friedrich Nietzsche, La genealogía de la moral (1887), Primera
 disertación. El análisis del resentimiento como característica del «sujeto
-esclavo» — que no puede actuar directamente y se venga en la imaginación
+esclavo»— que no puede actuar directamente y se venga en la imaginación
 — es uno de los textos de filosof ía moral más polémicos del siglo XIX, pero
 también uno de los más psicológicamente precisos. La crítica de Nietzsche
 no va dirigida contra las víctimas sino contra el modo en que la identidad
@@ -3842,13 +3838,13 @@ construida sobre la victimización perpetúa la sujeción.
 [6] Paul Ricoeur, La memoria, la historia, el olvido (2000), Epílogo.
 Ricoeur distingue entre el olvido que borra y el perdón que libera: el
 primero suprime la experiencia pasada; el segundo la elabora sin cancelarla.
-Su análisis de la «memoria feliz» — la memoria que ha integrado el pasado
+Su análisis de la «memoria feliz»— la memoria que ha integrado el pasado
 sin quedar atrapada en él— es el marco teórico más riguroso disponible para
 la distinción entre perdón y olvido.
 [7] Howard Zehr, Cambiando de lentes: un nuevo enfoque sobre el crimen y
 la justicia (1990). Zehr es considerado el padre de la justicia restaurativa
 contemporánea. Su argumento central es que la justicia retributiva —que
-pregunta «qué ley se violó y cómo se castiga» — deja sin resolver las
+pregunta «qué ley se violó y cómo se castiga»— deja sin resolver las
 necesidades de las víctimas. La justicia restaurativa pregunta en cambio:
 ¿quiénes fueron dañados?, ¿cuáles son sus necesidades y cómo pueden
 satisfacerse de manera que el daño no se replique?
@@ -4519,10 +4515,10 @@ TELAR DE LAS MOIRAS
 algo que el amor-estado no puede producir: un sujeto que puede hacerse
 responsable de cómo ama, no solo de cómo se siente.
 El amor que se entiende como estado tiene una fragilidad estructural: en el
-momento en que el estado cambia —cuando la intensidad emocional
-disminuye, que el otro deja de producir la misma excitación de los primeros
-tiempos, que la cotidianidad revela las imperfecciones que la idealización
-ocultaba—, el amor parece haber terminado. El amor que se entiende como
+momento en que el estado cambia: disminuye la intensidad emocional, el
+otro deja de producir la misma excitación de los primeros tiempos y la
+cotidianidad revela las imperfecciones que la idealización ocultaba.
+Entonces el amor parece haber terminado. El amor que se entiende como
 acto puede sobrevivir a esos cambios porque no depende de que el estado se
 mantenga constante: depende de que la elección de orientarse hacia el otro
 se renueve.
@@ -4572,11 +4568,11 @@ Amar a alguien incluyendo lo que en ese alguien sufre —y no solo lo que en
 ese alguien deslumbra— es la versión del amor que Weil describe y que
 Žižek, desde otro registro, también defiende. [14]
 El sí definitivo al otro —que es la manera en que este capítulo entiende el
-amor genuino —no es un sí entusiasta a lo que resulta fácil de amar. Es un sí
+amor genuino— no es un sí entusiasta a lo que resulta fácil de amar. Es un sí
 que incluye lo que no puede corregirse, lo que no cambiará por mucho que
 el vínculo dure, lo que seguirá siendo dif ícil mañana como lo fue hoy. Ese sí
 no se dice de una vez; se renueva, o no se renueva, en cada encuentro real
-con el otro. Y la disposición a renovarlo— o la conciencia honesta de que ya
+con el otro. Y la disposición a renovarlo —o la conciencia honesta de que ya
 no puede renovarse— es exactamente la autodeterminación causal aplicada
 al amor.
 
@@ -5890,8 +5886,8 @@ TELAR DE LAS MOIRAS
 La imagen más precisa no es la del prisionero que sale de la caverna hacia el
 sol: es la del prisionero que, antes de salir, se vuelve hacia el fuego que tiene
 detrás. Ese movimiento —darse vuelta, mirar lo que produce las sombras,
-comprender la mecánica de la propia ignorancia —es el primero y el más
-difícil. Porque mirar al sol requiere valor; pero mirar el propio fuego— las
+comprender la mecánica de la propia ignorancia— es el primero y el más
+difícil. Porque mirar al sol requiere valor; pero mirar el propio fuego —las
 propias ilusiones, los propios miedos, los propios patrones de evasión—
 requiere algo que el valor solo no produce: disposición a ver lo que no se
 quiere ver.
@@ -5911,11 +5907,11 @@ conocer.
 Gadamer, en su hermenéutica del prejuicio, argumentó que la comprensión
 no comienza desde una posición neutra: siempre parte de prejuicios que el
 sujeto no eligió pero que condicionan lo que puede ver. [2] El problema no es
-tener prejuicios —eso es inevitable —sino no saber que se tienen. El sujeto
+tener prejuicios —eso es inevitable—, sino no saber que se tienen. El sujeto
 que ignora sus propios prejuicios los toma por objetividad; cree ver el mundo
 como es cuando en realidad está viendo las sombras que sus propias
 estructuras de interpretación proyectan sobre él. El autoconocimiento no
-elimina los prejuicios— tampoco puede hacerlo—, pero los hace visibles. Y
+elimina los prejuicios —tampoco puede hacerlo—, pero los hace visibles. Y
 lo visible puede revisarse; lo invisible, no.
 Conócete a ti mismo —el imperativo que los griegos inscribieron en el
 frontón del templo de Apolo en Delfos y que Sócrates hizo el centro de su
@@ -5990,10 +5986,10 @@ experiencia desde adentro, lo que requiere que el propio sujeto haya
 habitado experiencias análogas aunque no idénticas.
 La conclusión práctica es precisa: la experiencia propia del límite —el daño
 recibido, el miedo atravesado, el dolor que obligó al sujeto a detenerse y
-mirar hacia adentro —no es un accidente biográfico sin consecuencias
+mirar hacia adentro— no es un accidente biográfico sin consecuencias
 éticas. Es uno de los recursos más directos de que dispone el sujeto para
 comprender al otro sin invadirlo. No porque la experiencia propia sea
-idéntica a la del otro— nunca lo es—, sino porque produce la disposición a
+idéntica a la del otro —nunca lo es—, sino porque produce la disposición a
 tomar en serio lo que el otro dice de su propia experiencia, sin descartarlo
 como exageración o como debilidad.
 
@@ -6024,9 +6020,9 @@ del reconocimiento de que el propio sujeto también es herible, también
 tiene límites que pueden cruzarse, también ha experimentado la
 incomodidad de ser mal comprendido o de no ser reconocido como sujeto.
 Este desplazamiento —de la empatía como virtud a la empatía como
-reconocimiento de la propia vulnerabilidad —tiene consecuencias que van
+reconocimiento de la propia vulnerabilidad— tiene consecuencias que van
 más allá de lo ético. Tiene consecuencias epistémicas: el sujeto que se conoce
-a sí mismo— que sabe dónde están sus límites, qué le duele, dónde es frágil
+a sí mismo —que sabe dónde están sus límites, qué le duele, dónde es frágil
 — tiene una herramienta de comprensión del otro que el sujeto que no se
 conoce no tiene. No porque ambos no sean igualmente empáticos en
 términos de voluntad, sino porque el autoconocimiento proporciona una
@@ -6266,10 +6262,10 @@ que la ha comprendido, integrado y convertido en información— puede
 moverse desde ella hacia adelante. No cargando al otro con su historia sino
 usando esa historia como mapa de lo que no quiere que ocurra.
 Hay una diferencia fundamental entre el sujeto que dice «me dañaron, por
-eso daño» — que convierte la experiencia del daño en justificación del
-propio —y el sujeto que dice «me dañaron, por eso sé lo que el daño
+eso daño» —que convierte la experiencia del daño en justificación del
+propio daño— y el sujeto que dice «me dañaron, por eso sé lo que el daño
 produce». El primero convierte la experiencia en ciclo; el segundo la
-convierte en conocimiento. Y ese conocimiento— que no requiere
+convierte en conocimiento. Y ese conocimiento —que no requiere
 reproducir el daño para seguir siendo válido— es exactamente lo que este
 capítulo describe como la conversión de la experiencia personal en recurso
 ético.
@@ -6288,8 +6284,8 @@ IX. El conocimiento de sí como condición del conocimiento
 del otro
 El argumento completo del capítulo, y con él el del libro, puede articularse
 ahora en la forma de una progresión que tiene la estructura del mito
-platónico, pero con la dirección que la autodeterminación causal propone:
-El sujeto que vive sin entrar en sí mismo vive mirando sombras. Las sombras
+platónico, pero con la dirección que la autodeterminación causal propone: el
+sujeto que vive sin entrar en sí mismo vive mirando sombras. Las sombras
 son las construcciones no examinadas que toma por realidad: los roles que
 cree elegir pero que ha heredado sin cuestionarlos, las reacciones que cree
 que son respuestas pero que son patrones automáticos, los valores que cree
@@ -6311,8 +6307,8 @@ examinado. Proyecta sus sombras sobre el mundo y llama a esa proyección
 conocimiento.
 El sujeto que entra en sí mismo —que examina sus propias sombras, que
 comprende la mecánica de sus propias ilusiones, que puede decir «esto no es
-el mundo, esto es mi construcción del mundo» — tiene una posición
-distinta frente al otro. No porque sea objetivamente correcto— nadie lo es
+el mundo, esto es mi construcción del mundo»— tiene una posición
+distinta frente al otro. No porque sea objetivamente correcto —nadie lo es
 completamente—, sino porque su instrumento de comprensión ha sido
 calibrado: sabe que lo que ve está filtrado por lo que es, y esa conciencia del
 filtro le permite preguntar con más honestidad qué es lo que efectivamente
@@ -6434,7 +6430,7 @@ Notas
 [1] Plotino, Enéadas (siglo III d.C.), I.6 («Sobre la belleza») y VI.9 («Sobre
 el Bien o el Uno»). El neoplatonismo de Plotino invierte la dirección del
 ascenso platónico: no se va hacia el mundo exterior de las ideas sino hacia el
-interior del alma, donde la más alta facultad— el intelecto— puede tocar al
+interior del alma, donde la más alta facultad —el intelecto— puede tocar al
 Uno. La fórmula plotiniana «Huye hacia ti mismo» anticipa la tradición de
 la interioridad que llegará a Agustín, Eckhart y, de otra manera, a
 Kierkegaard.
@@ -6551,7 +6547,7 @@ puede cruzar sin destruir las condiciones de posibilidad del propio contrato.
 
 Domesticación (vínculo)
 Término tomado de Saint-Exupéry (El principito). Designa el proceso por el
-cual dos sujetos crean lazos: pasan de ser intercambiables — uno entre
+cual dos sujetos crean lazos: pasan de ser intercambiables —uno entre
 muchos— a ser únicos el uno para el otro. Domesticarse no implica
 sometimiento; implica aceptar la vulnerabilidad que viene con la unicidad:
 si el otro es único para mí, su pérdida no puede compensarse con ningún
@@ -6974,9 +6970,9 @@ resentimiento (Cap. VII) articulan dos momentos del libro.
 VIDA: 1856–1939
 
 Freud, Sigmund
-DESCRIPCIÓN: Médico y fundador del psicoanálisis. El malestar en la
-cultura (Cap. VII), el enamoramiento (Cap. VIII) y el duelo (Caps. VIII, IX)
-son convocados en distintos momentos.
+DESCRIPCIÓN: Médico y fundador del psicoanálisis. El ego como
+instancia psíquica se menciona en Cap. II; El malestar en la cultura y la
+renuncia a los instintos se abordan en Cap. VII.
 VIDA: 1858–1918
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
