@@ -18,9 +18,9 @@ Primera edición: 2026
 DOI: 10.5281/zenodo.19601876
 © Miguel Hilario Olvera Aguilar, 2026
 © Centro Multidisciplinario Meriadock Formación y Asesoría A.C., 2026
-Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida,
-almacenada o transmitida en manera alguna ni por ningún medio, ya sea eléctrico, químico,
-mecánico, óptico, de grabación o de fotocopia, sin permiso previo del editor.
+Los derechos no concedidos expresamente por la licencia quedan reservados. La obra puede
+compartirse sin modificaciones y para fines no comerciales, con atribución y conforme a los
+términos de CC BY-NC-ND 4.0; para otros usos se requiere autorización del titular.
 El telar de las Moiras: Ontología de la autodeterminación causal © 2026 de Miguel Hilario
 Olvera Aguilar está licenciado bajo CC BY-NC-ND 4.0.
 
@@ -4114,7 +4114,7 @@ existir como tal para sostenerlo.
 
 V. No recibimos el amor que merecemos
 Hay una frase que aparece con frecuencia en los discursos sobre el amor
-—«recibes el amor que crees merecer» — que contiene una intuición
+—«recibes el amor que crees merecer»— que contiene una intuición
 parcialmente correcta pero que en su formulación habitual produce más
 daño del que repara. La intuición correcta es que el autorrespeto y la imagen
 que el sujeto tiene de sí mismo condicionan los vínculos que está dispuesto a
@@ -4838,7 +4838,7 @@ heredados, con instintos que determinan la conducta de manera
 suficientemente previsible. No porque sea menos capaz que el humano, sino
 porque su modo de estar en el mundo no incluye la distancia reflexiva entre
 el estímulo y la respuesta que la libertad humana produce. Esa distancia —el
-espacio en que el sujeto puede preguntarse «¿qué hago con esto?» — es
+espacio en que el sujeto puede preguntarse «¿qué hago con esto?»— es
 exactamente el espacio donde vive la angustia.
 Del mismo modo, la cosa —el objeto sin subjetividad— no elige. Cae si se la
 empuja, se mueve si se la arrastra, se rompe si se la golpea con suficiente
@@ -5002,8 +5002,8 @@ En los términos de la autodeterminación causal, esta distinción es
 fundamental. El sujeto que se autodetermina no es simplemente el que tiene
 opciones; es el que actúa desde sí mismo y se hace cargo de lo que produce.
 La autodeterminación no es un estado —«soy libre porque nadie me
-obliga» — sino un acto continuo: la reafirmación permanente de que lo
-que hago es mío, que sus consecuencias me pertenecen, que no hay a quien
+obliga»— sino un acto continuo: la reafirmación permanente de que lo que
+hago es mío, que sus consecuencias me pertenecen, que no hay a quien
 culpar del camino elegido excepto a quien lo eligió.
 
 V. Angustia y autodeterminación causal: el descubrimiento
