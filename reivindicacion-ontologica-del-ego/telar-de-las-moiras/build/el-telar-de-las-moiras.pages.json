@@ -1,6 +1,6 @@
 {
   "pdf": "el-telar-de-las-moiras.pdf",
-  "total_pages": 187,
+  "total_pages": 190,
   "contents": [
     {
       "key": "nota-sobre-este-libro",
@@ -104,8 +104,8 @@
       "key": "ap-cronologia-de-los-filosofos-referenciados",
       "label": "APÉNDICE II · Cronología de los filósofos referenciados",
       "kind": "appendix",
-      "physical_page": 177,
-      "printed_page": "165"
+      "physical_page": 178,
+      "printed_page": "166"
     }
   ]
 }

@@ -93,7 +93,7 @@ APÉNDICE I · Índice de autores citados
 
 APÉNDICE II · Cronología de los filósofos referenciados
 
-165
+166
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1239,12 +1239,14 @@ fue influyente en el neoplatonismo y el Renacimiento. Su relevancia
 contemporánea ha sido retomada por Julia Kristeva en Sol negro: depresión
 y melancolía (1987), que distingue entre la melancolía como experiencia de
 pérdida y la depresión como patología.
-[6] René Descartes, Meditaciones metaf ísicas (1641), Segunda Meditación. La
-formulación cogito ergo sum aparece también en el Discurso del método
-(1637). El punto no es que Descartes ignorara la existencia corporal —en las
-Meditaciones la trata con cuidado—, sino que privilegió
-epistemológicamente la certeza del pensamiento sobre la certeza de la
-existencia.
+[6] René Descartes, Discurso del método (1637), parte IV, y Meditaciones
+metafísicas (1641), Segunda Meditación. En el Discurso, Descartes escribe
+«je pense, donc je suis»; en la Segunda meditación, «Ego sum, ego existo».
+La expresión latina «cogito ergo sum» resume el argumento cartesiano,
+aunque no es la formulación literal de esos pasajes. El punto no es que
+Descartes ignorara la existencia corporal —en las Meditaciones la trata con
+cuidado—, sino que privilegió epistemológicamente la certeza del
+pensamiento sobre la certeza de la existencia.
 [7] Maurice Merleau-Ponty, Fenomenología de la percepción (1945). La
 crítica de Merleau-Ponty al dualismo cartesiano es probablemente la más
 sistemática del siglo XX: el cuerpo no es el recipiente del alma ni el
@@ -1651,13 +1653,12 @@ otredad en la tradición continental del siglo XX.
 [2] Jean-Paul Sartre, A puerta cerrada (1944), escena V. La frase —«l'enfer
 c'est les autres»— pertenece al personaje de Garcín y describe la experiencia
 de quienes, incapaces de mirarse a sí mismos con lucidez, quedan atrapados
-en la mirada del otro como única fuente de definición. El propio Sartre
-aclaró en una conferencia posterior que la frase no era un argumento contra
-las relaciones, sino contra la mala fe en ellas.
+en la mirada del otro como única fuente de definición.
 [3] Friedrich Nietzsche, La gaya ciencia (1882), § 341, y Así habló Zaratustra
 (1883–1885), «De la visión y el enigma». La ambigüedad entre el eterno
 retorno como tesis cosmológica y como imperativo existencial ha sido
 objeto de un debate extenso. Gilles Deleuze, en Nietzsche y la filosof ía
+(1962), argumentó que la interpretación existencial es la filosóficamente más
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1668,7 +1669,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-(1962), argumentó que la interpretación existencial es la filosóficamente más
 fértil: el eterno retorno no como descripción del tiempo, sino como criterio
 de selección de la voluntad.
 [4] Hannah Arendt, Los orígenes del totalitarismo (1951) y Eichmann en
@@ -1678,11 +1678,10 @@ lugar del otro, de reconocerlo como sujeto— es condición de posibilidad de
 la violencia sistemática. No se trata de maldad excepcional sino de la
 renuncia ordinaria a la facultad de juzgar.
 [5] Marco Aurelio, Meditaciones (siglo II d.C.), Libros IV y VI, entre otros
-pasajes. La práctica estoica de la melete thanatou— meditación sobre la
-muerte— no tiene como fin producir tristeza sino agudizar la percepción de
-lo que vale la pena frente a lo que no. Epicteto, Séneca y Marco Aurelio
-coinciden en que la contemplación de la finitud es la herramienta más
-eficaz contra la ansiedad, la vanidad y el desperdicio del tiempo.
+pasajes. La práctica estoica de la melete thanatou —meditación sobre la
+muerte— no busca producir tristeza, sino agudizar la percepción de lo que
+vale la pena frente a lo que no. En los pasajes citados de las Meditaciones, la
+consideración de la finitud cumple esa función.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1742,14 +1741,14 @@ Hobbes, el más austero de los tres, vio en esa cesión la condición de
 posibilidad de la supervivencia: sin un poder soberano que imponga el
 orden, la vida es «solitaria, pobre, breve, tosca y brutal». [1] La cesión de
 libertad al Leviatán es, para Hobbes, casi total: se entrega el derecho a la
-violencia a cambio de protección. El contrato hobbessiano es mínimo en sus
+violencia a cambio de protección. El contrato hobbesiano es mínimo en sus
 exigencias al soberano y máximo en su exigencia al individuo.
 Locke corrigió esa asimetría de manera decisiva: el individuo no cede todos
 sus derechos al Estado, sino solo los que son necesarios para garantizar el
 orden. Conserva derechos naturales anteriores al contrato —vida, libertad,
 propiedad— que el Estado no crea sino reconoce, y cuya violación por parte
 del Estado legitima la resistencia. [2] El contrato lockeano es bilateral en un
-sentido que el hobbessiano no lo es: el Estado adquiere poder, pero también
+sentido que el hobbesiano no lo es: el Estado adquiere poder, pero también
 contrae obligaciones. Y si las incumple, pierde la legitimidad que el
 consentimiento le otorgó.
 Rousseau añadió una dimensión que los dos anteriores no habían
@@ -2076,7 +2075,7 @@ negación, paradójicamente, libera al sistema que la ejecuta de cualquier
 obligación hacia ese ser: si no es sujeto, no es parte del contrato; si no es
 parte del contrato, cualquier cosa que se le haga cae fuera de las restricciones
 que el contrato impone.
-Esta lógica no es exclusiva del totalitarismo del siglo XX, opera, de manera
+Esta lógica no es exclusiva del totalitarismo del siglo XX: opera, de manera
 más sutil, en cualquier sistema que construye categorías de ciudadanos de
 segunda clase: los que merecen protección del Estado y los que no; los que
 tienen derechos efectivos y los que solo los tienen en el papel; los que pueden
@@ -2091,10 +2090,9 @@ A.C.
 TELAR DE LAS MOIRAS
 
 reclamar el cumplimiento del contrato y los que deben conformarse con lo
-que reciben. En cada caso, la negación de dignidad precede a la negación de
-derechos; teniendo como resultado que la negación de derechos es la
-expresión política de lo que en términos ontológicos significa negar al otro
-la condición de sujeto.
+que reciben. En cada caso, la negación de la dignidad precede a la negación
+de los derechos. Esta última es la expresión política de lo que, en términos
+ontológicos, significa negar al otro la condición de sujeto.
 La conclusión, en los términos del contrato fiscal, es esta: si la dignidad es la
 condición ontológica del sujeto, y si el contrato fiscal descansa sobre la
 existencia de sujetos que ceden capital vital y reciben condiciones de
@@ -2120,6 +2118,8 @@ culturas, entre épocas, entre individuos. Es siempre perspectivo: la moral de
 un sujeto es la moral de ese sujeto, condicionada por su historia, su ego, su
 posición en el mundo; puede coincidir con la de otros o diferir; puede
 ampliarse o contraerse a lo largo del tiempo.
+La ley, en cambio, no juzga personas: juzga actos. Y lo hace desde un sistema
+normativo que tiene tres propiedades que la moral no puede garantizar: es
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2130,11 +2130,9 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-La ley, en cambio, no juzga personas: juzga actos. Y lo hace desde un sistema
-normativo que tiene tres propiedades que la moral no puede garantizar: es
 pública —conocida por todos los sujetos a quienes rige antes de que ocurra el
-acto que se evaluará—, es general —se aplica de la misma manera a todos los
-sujetos bajo su jurisdicción —y es consensuada— su legitimidad descansa, en
+acto que se evaluará—, general —se aplica de la misma manera a todos los
+sujetos bajo su jurisdicción— y consensuada —su legitimidad descansa, en
 una democracia, en el acuerdo de quienes la constituyen o de sus
 representantes—.
 Esta distinción tiene una consecuencia que conviene hacer explícita: la ley
@@ -2161,6 +2159,8 @@ se vuelve norma
 Hay un riesgo que el argumento anterior no ha nombrado todavía con
 suficiente claridad, y que la segunda parte de este capítulo obliga a examinar:
 el riesgo de que el ego —que en los capítulos anteriores se ha rehabilitado
+como condición ontológica del sujeto— se convierta en el criterio único
+desde el cual se juzgan los actos de los demás.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2171,14 +2171,12 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-como condición ontológica del sujeto— se convierta en el criterio único
-desde el cual se juzgan los actos de los demás.
 Cuando el ego funciona correctamente, es referencia: punto desde el cual el
 sujeto se localiza, actúa y se responsabiliza. Cuando se absolutiza, se
 convierte en norma: el sujeto deja de preguntarse «¿qué dice la ley?» o «¿qué
 exige el contrato?» para preguntar simplemente «¿está bien o mal desde mi
 perspectiva?». Cuando esa perspectiva se eleva a norma universal —cuando
-«yo la veo así» se convierte en «así es» — , el camino hacia la barbarie está
+«yo la veo así» se convierte en «así es»—, el camino hacia la barbarie está
 pavimentado.
 La historia del siglo XX es, entre otras cosas, la historia de lo que ocurre
 cuando perspectivas particulares —raciales, ideológicas, nacionales, de clase
@@ -2356,7 +2354,7 @@ Notas
 [1] Thomas Hobbes, Leviatán (1651), Capítulo XIII. La descripción del estado
 de naturaleza como «estado de guerra de todos contra todos» y la
 caracterización de la vida como «solitaria, pobre, breve, tosca y brutal» son
-los fundamentos del argumento hobbessiano a favor del poder soberano
+los fundamentos del argumento hobbesiano a favor del poder soberano
 absoluto.
 [2] John Locke, Segundo tratado sobre el gobierno civil (1689), Capítulos IX
 y XIX. Locke argumentó que el gobierno que viola los derechos naturales de
@@ -3320,12 +3318,12 @@ del Estado con el ciudadano que el capítulo anterior describió se hace
 palmaria: no es solo injusticia dentro del sistema, es la ruptura del contrato
 que justificó la cesión de libertad.
 Con esto, el argumento completa un arco que comenzó en el nivel más
-íntimo— el ego como referencia, el límite como afirmación del sujeto, el
+íntimo —el ego como referencia, el límite como afirmación del sujeto, el
 respeto como condición de la relación— y llega al nivel institucional: la ley
 como extensión estructural del respeto cuando el individuo no puede
-sostenerse solo. Los capítulos siguientes explorarán ese nivel: qué significa
-que la ley sea el marco del respeto colectivo, y qué ocurre cuando ese marco
-falla o es capturado por quienes debería limitar.
+sostenerse solo. A partir de aquí, el argumento examina cómo la
+autodeterminación causal se despliega en el orden político, en los vínculos
+con los otros y en la relación del sujeto consigo mismo.
 
 Notas
 [1] Immanuel Kant, Fundamentación de la metaf ísica de las costumbres
@@ -3412,7 +3410,7 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-El contrato social hobbessiano es, en consecuencia, el acto por el cual los
+El contrato social hobbesiano es, en consecuencia, el acto por el cual los
 individuos ceden su libertad de acción al soberano no porque conf íen en él
 sino porque temen más al caos que a cualquier soberano. La obediencia no
 descansa en la aprobación moral del poder; descansa en el cálculo de que la
@@ -3496,7 +3494,7 @@ TELAR DE LAS MOIRAS
 
 Hay una consecuencia de esto que el argumento debe nombrar
 directamente: quien hiere y no es confrontado se vuelve soberano en el
-sentido hobbessiano. No porque haya conquistado ningún territorio por la
+sentido hobbesiano. No porque haya conquistado ningún territorio por la
 fuerza, sino porque la ausencia de límite le otorga un poder que nadie le ha
 cedido conscientemente pero que nadie tampoco le ha negado. Cada vez que
 el sujeto dañado elige el silencio —por miedo al conflicto, por miedo a
@@ -3724,7 +3722,7 @@ condiciones mínimas de seguridad para quien lo recibió. [7]
 VII. Síntesis: el perdón que desactiva
 El argumento que este capítulo ha construido puede resumirse en un
 movimiento que va de Hobbes al ego y del miedo al perdón. El punto de
-partida es la observación hobbessiana: el orden —político e interpersonal—
+partida es la observación hobbesiana: el orden —político e interpersonal—
 con frecuencia no descansa en la virtud sino en el miedo. Los individuos se
 someten a poderes que les dañan porque el vacío que vendría después les da
 más miedo que el daño que ya conocen. Y esa sumisión, cuando no se
@@ -3749,10 +3747,10 @@ que el vínculo mejore; puede terminar el vínculo. Pero produce algo que el
 miedo no produce: un sujeto que actúa desde sí mismo.
 El perdón es el momento en que esa dinámica alcanza su expresión más
 radical. No el perdón que el miedo dicta —perdonar para no quedarse solo,
-para no perder el vínculo, para no incomodar —sino el que la soberanía del
+para no perder el vínculo, para no incomodar—, sino el que la soberanía del
 ego produce: la decisión de que el daño no va a seguir siendo el organizador
-de la propia posición en el mundo. No porque el daño no haya sido real— lo
-fue —ni porque el otro no tenga responsabilidad— la tiene—, sino porque
+de la propia posición en el mundo. No porque el daño no haya sido real —lo
+fue— ni porque el otro no tenga responsabilidad —la tiene—, sino porque
 el ego que se queda atado al daño le ha cedido al agresor algo que ningún
 agresor merece: el gobierno de su historia.
 No perdono para que el otro cambie. Perdono para que el daño no me
@@ -3768,11 +3766,11 @@ exigir justicia sin que esa exigencia esté contaminada por el resentimiento;
 puede sostener el límite sin que ese sostenimiento dependa de que el otro
 reconozca su error; puede avanzar sin esperar que el agresor cambie para
 poder hacerlo.
-Así como el hombre hobbessiano entrega su libertad para no ser destruido,
+Así como el hombre hobbesiano entrega su libertad para no ser destruido,
 muchas veces entregamos nuestro ego para no quedarnos solos. El perdón
 que nace del miedo conserva al agresor como soberano; el perdón que nace
 del ego no somete: desactiva. Y la diferencia entre los dos no está en el gesto
-exterior —ambos pueden llamarse «perdón» — , sino en desde dónde parte
+exterior —ambos pueden llamarse «perdón»—, sino en desde dónde parte
 el sujeto que lo ejerce.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3830,7 +3828,7 @@ imprevisibilidad del futuro (para la que sirve la promesa). Ambas son
 condiciones de posibilidad de la vida política genuina.
 [5] Friedrich Nietzsche, La genealogía de la moral (1887), Primera
 disertación. El análisis del resentimiento como característica del «sujeto
-esclavo»— que no puede actuar directamente y se venga en la imaginación
+esclavo» —que no puede actuar directamente y se venga en la imaginación
 — es uno de los textos de filosof ía moral más polémicos del siglo XIX, pero
 también uno de los más psicológicamente precisos. La crítica de Nietzsche
 no va dirigida contra las víctimas sino contra el modo en que la identidad
@@ -3838,7 +3836,7 @@ construida sobre la victimización perpetúa la sujeción.
 [6] Paul Ricoeur, La memoria, la historia, el olvido (2000), Epílogo.
 Ricoeur distingue entre el olvido que borra y el perdón que libera: el
 primero suprime la experiencia pasada; el segundo la elabora sin cancelarla.
-Su análisis de la «memoria feliz»— la memoria que ha integrado el pasado
+Su análisis de la «memoria feliz» —la memoria que ha integrado el pasado
 sin quedar atrapada en él— es el marco teórico más riguroso disponible para
 la distinción entre perdón y olvido.
 [7] Howard Zehr, Cambiando de lentes: un nuevo enfoque sobre el crimen y
@@ -4514,14 +4512,13 @@ TELAR DE LAS MOIRAS
 
 algo que el amor-estado no puede producir: un sujeto que puede hacerse
 responsable de cómo ama, no solo de cómo se siente.
-El amor que se entiende como estado tiene una fragilidad estructural: en el
-momento en que el estado cambia: disminuye la intensidad emocional, el
-otro deja de producir la misma excitación de los primeros tiempos y la
-cotidianidad revela las imperfecciones que la idealización ocultaba.
-Entonces el amor parece haber terminado. El amor que se entiende como
-acto puede sobrevivir a esos cambios porque no depende de que el estado se
-mantenga constante: depende de que la elección de orientarse hacia el otro
-se renueve.
+El amor que se entiende como estado tiene una fragilidad estructural:
+cuando cambia el estado, disminuye la intensidad emocional; el otro deja de
+producir la misma excitación de los primeros tiempos y la cotidianidad
+revela las imperfecciones que la idealización ocultaba. Entonces el amor
+parece haber terminado. El amor que se entiende como acto puede
+sobrevivir a esos cambios porque no depende de que el estado se mantenga
+constante: depende de que la elección de orientarse hacia el otro se renueve.
 
 XIII. Amar lo imperfecto: el sí definitivo
 Volvamos a Žižek y a la tesis con la que comenzó este capítulo: amamos
@@ -4543,6 +4540,7 @@ diferente de lo que es.
 Esto tiene una implicación que merece enunciarse con cuidado porque
 puede malentenderse: no significa que el amor obliga a soportar todo. El
 amor genuino puede coexistir con límites claros: se puede amar a alguien y
+no aceptar que ese alguien te dañe de maneras que no puedes sostener. Lo
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4553,7 +4551,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-no aceptar que ese alguien te dañe de maneras que no puedes sostener. Lo
 que no puede hacerse —si se está siendo honesto sobre lo que es el amor— es
 amar al otro condicionado a que deje de ser lo que es. Eso no es amor con
 límites; es una negociación en la que el amor es la zanahoria que se ofrece a
@@ -4583,6 +4580,8 @@ como primer obstáculo del amor real; el amor propio como condición de
 poder amar al otro sin mendigar; la domesticación como modificación
 irreversible del ego; el dolor de la separación como evidencia de que el amor
 fue real; la separación como reintegración y no como borramiento. Todos
+esos ángulos se sostienen sobre la misma tesis de fondo: el amor es una de las
+formas más radicales en que la autodeterminación causal se pone en juego.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4593,8 +4592,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-esos ángulos se sostienen sobre la misma tesis de fondo: el amor es una de las
-formas más radicales en que la autodeterminación causal se pone en juego.
 Porque el amor exige exactamente lo que la autodeterminación exige: un
 ego que se mantiene en sí mismo mientras se abre al encuentro con el otro.
 Un ego que no se disuelve en el vínculo pero que tampoco se cierra a la
@@ -4625,6 +4622,8 @@ un sujeto que puede actuar desde sí mismo en un mundo que no controló y
 que no puede controlar, produciendo actos que le pertenecen y de los que
 puede, por eso mismo, hacerse responsable. Los capítulos siguientes
 explorarán los límites de esa responsabilidad y las condiciones en que la
+autodeterminación puede sostenerse cuando el mundo presiona en su
+contra.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4634,9 +4633,6 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
-
-autodeterminación puede sostenerse cuando el mundo presiona en su
-contra.
 
 Notas
 [1] Slavoj Žižek, El frágil absoluto (1999), cap. IV, y In Defense of Lost
@@ -4663,6 +4659,11 @@ que el amor puede producir.
 [6] La distinción de Rousseau entre amour de soi y amour propre aparece en
 el Discurso sobre el origen de la desigualdad (1755). La Rochefoucauld
 desarrolla su análisis del amor propio en las Máximas (1665).
+[7] Erich Fromm, El arte de amar (1956). La tesis central: el amor no es un
+sentimiento que se tiene sino una práctica que se aprende y que requiere
+madurez, humildad y valor.
+[8] Baruch Spinoza, Ética demostrada según el orden geométrico (1677),
+Parte III, Definición 25. La acquiescentia in se ipso es la satisfacción que
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4673,11 +4674,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-[7] Erich Fromm, El arte de amar (1956). La tesis central: el amor no es un
-sentimiento que se tiene sino una práctica que se aprende y que requiere
-madurez, humildad y valor.
-[8] Baruch Spinoza, Ética demostrada según el orden geométrico (1677),
-Parte III, Definición 25. La acquiescentia in se ipso es la satisfacción que
 surge de la contemplación de la propia potencia de actuar: no orgullo sino
 consonancia con la propia naturaleza.
 [9] Georg Wilhelm Friedrich Hegel, Fenomenología del espíritu (1807), cap.
@@ -6640,9 +6636,9 @@ TELAR DE LAS MOIRAS
 
 APÉNDICE I
 Índice de autores citados
-Las referencias incluyen el capítulo o capítulos en que aparece citado cada
-autor. Los capítulos se indican con numeración romana. Se incluyen todas
-las citas con función argumentativa en el cuerpo del texto o en las notas.
+Las referencias incluyen los autores citados con función argumentativa en el
+cuerpo del texto o en las notas, junto con los capítulos en que aparecen. Estos
+se indican con numeración romana.
 
 Arendt, Hannah
 VIDA: 1906–1975 CAPÍTULOS: Caps. III, IV, VI, VII, X
@@ -6653,17 +6649,17 @@ VIDA: 384–322 a.C. CAPÍTULOS: Cap. II
 Badiou, Alain
 VIDA: 1937– CAPÍTULOS: Cap. VIII
 
+Barthes, Roland
+VIDA: 1915–1980 CAPÍTULOS: Cap. VIII
+
+Berlin, Isaiah
+VIDA: 1909–1997 CAPÍTULOS: Cap. I
+
 Boecio
 VIDA: 477–524 CAPÍTULOS: Cap. X
 
 Bourdieu, Pierre
 VIDA: 1930–2002 CAPÍTULOS: Cap. VI
-
-Camus, Albert
-VIDA: 1913–1960 CAPÍTULOS: Cap. IX
-
-Dahrendorf, Ralf
-VIDA: 1929–2009 CAPÍTULOS: Cap. V
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6673,6 +6669,12 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Camus, Albert
+VIDA: 1913–1960 CAPÍTULOS: Cap. IX
+
+Dahrendorf, Ralf
+VIDA: 1929–2009 CAPÍTULOS: Cap. V
 
 De Beauvoir, Simone
 VIDA: 1908–1986 CAPÍTULOS: Caps. VI, VIII
@@ -6689,20 +6691,14 @@ VIDA: 1931–2013 CAPÍTULOS: Cap. IV
 Dussel, Enrique
 VIDA: 1934–2023 CAPÍTULOS: Caps. V, X
 
+Epicteto
+VIDA: c. 50–c. 135 CAPÍTULOS: Cap. II
+
 Foucault, Michel
 VIDA: 1926–1984 CAPÍTULOS: Cap. VII
 
 Freud, Sigmund
 VIDA: 1856–1939 CAPÍTULOS: Caps. II, VII
-
-Fromm, Erich
-VIDA: 1900–1980 CAPÍTULOS: Caps. VIII, IX
-
-Gadamer, Hans-Georg
-VIDA: 1900–2002 CAPÍTULOS: Caps. V, X
-
-Hegel, G.W.F.
-VIDA: 1770–1831 CAPÍTULOS: Caps. VI, VIII
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6712,6 +6708,18 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Fromm, Erich
+VIDA: 1900–1980 CAPÍTULOS: Caps. VIII, IX
+
+Gadamer, Hans-Georg
+VIDA: 1900–2002 CAPÍTULOS: Caps. V, X
+
+Han, Byung-Chul
+VIDA: 1959– CAPÍTULOS: Cap. I
+
+Hegel, G.W.F.
+VIDA: 1770–1831 CAPÍTULOS: Caps. VI, VIII
 
 Heidegger, Martin
 VIDA: 1889–1976 CAPÍTULOS: Caps. I, II, IX
@@ -6731,18 +6739,6 @@ VIDA: 1949– CAPÍTULOS: Cap. VI
 Husserl, Edmund
 VIDA: 1859–1938 CAPÍTULOS: Cap. X
 
-Kant, Immanuel
-VIDA: 1724–1804 CAPÍTULOS: Caps. IV, VI, IX, X
-
-Kierkegaard, Søren
-VIDA: 1813–1855 CAPÍTULOS: Caps. IX, X
-
-Lacan, Jacques
-VIDA: 1901–1981 CAPÍTULOS: Cap. IX
-
-La Rochefoucauld, François de
-VIDA: 1613–1680 CAPÍTULOS: Cap. VIII
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6751,6 +6747,24 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Kant, Immanuel
+VIDA: 1724–1804 CAPÍTULOS: Caps. IV, VI, IX, X
+
+Kierkegaard, Søren
+VIDA: 1813–1855 CAPÍTULOS: Caps. IX, X
+
+Knox, Bernard
+VIDA: 1914–2010 CAPÍTULOS: Cap. IX
+
+Kristeva, Julia
+VIDA: 1941– CAPÍTULOS: Cap. II
+
+Lacan, Jacques
+VIDA: 1901–1981 CAPÍTULOS: Cap. IX
+
+La Rochefoucauld, François de
+VIDA: 1613–1680 CAPÍTULOS: Cap. VIII
 
 Levinas, Emmanuel
 VIDA: 1906–1995 CAPÍTULOS: Caps. III, V
@@ -6764,6 +6778,15 @@ VIDA: 121–180 CAPÍTULOS: Caps. II, III, V
 Merleau-Ponty, Maurice
 VIDA: 1908–1961 CAPÍTULOS: Caps. II, VIII
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+162
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 Nietzsche, Friedrich
 VIDA: 1844–1900 CAPÍTULOS: Caps. III, VII
 
@@ -6776,20 +6799,14 @@ VIDA: c. 515–450 a.C. CAPÍTULOS: Caps. I, II
 Platón
 VIDA: 428–348 a.C. CAPÍTULOS: Cap. X
 
+Plutarco
+VIDA: c. 46–c. 120 CAPÍTULOS: Cap. II
+
 Plotino
 VIDA: 204–270 CAPÍTULOS: Cap. X
 
 Rawls, John
 VIDA: 1921–2002 CAPÍTULOS: Cap. IV
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-162
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
 
 Ricoeur, Paul
 VIDA: 1913–2005 CAPÍTULOS: Caps. I, VII, VIII, X
@@ -6800,6 +6817,15 @@ VIDA: 1712–1778 CAPÍTULOS: Caps. IV, VIII
 Saint-Exupéry, A. de
 VIDA: 1900–1944 CAPÍTULOS: Cap. VIII
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+163
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 Sartre, Jean-Paul
 VIDA: 1905–1980 CAPÍTULOS: Caps. III, IX
 
@@ -6808,6 +6834,15 @@ VIDA: 1933– CAPÍTULOS: Cap. IV
 
 Simmel, Georg
 VIDA: 1858–1918 CAPÍTULOS: Cap. V
+
+Spinoza, Baruch
+VIDA: 1632–1677 CAPÍTULOS: Caps. I, VIII
+
+Stendhal
+VIDA: 1783–1842 CAPÍTULOS: Cap. VIII
+
+Taylor, Charles
+VIDA: 1931– CAPÍTULOS: Cap. I
 
 Weil, Simone
 VIDA: 1909–1943 CAPÍTULOS: Cap. VIII
@@ -6824,7 +6859,7 @@ VIDA: 1944– CAPÍTULOS: Cap. VII
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-163
+164
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6836,7 +6871,7 @@ VIDA: 1949– CAPÍTULOS: Cap. VIII
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-164
+165
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6869,7 +6904,7 @@ VIDA: 428–348 a.C.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-165
+166
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6883,16 +6918,36 @@ VIDA: 384–322 a.C.
 Aristóteles
 DESCRIPCIÓN: Filósofo ateniense. Su análisis de la melancolía (Problema
 XXX) es citado en Cap. II.
+VIDA: c. 46–c. 120
+
+Plutarco
+DESCRIPCIÓN: Biógrafo y filósofo griego. Su relato del barco de Teseo en
+Vidas paralelas es citado en Cap. II.
+VIDA: c. 50–c. 135
+
+Epicteto
+DESCRIPCIÓN: Filósofo estoico. El Enquiridión y la distinción entre lo
+que depende de nosotros y lo que no aparecen en Cap. II.
 VIDA: 121–180
 
 Marco Aurelio
 DESCRIPCIÓN: Emperador y filósofo estoico. Las Meditaciones aparecen
-en Caps. III y V en relación con el juicio y la angustia.
+en Caps. III y V en relación con la finitud, el juicio y la respuesta.
 VIDA: 204–270
 
 Plotino
 DESCRIPCIÓN: Fundador del neoplatonismo. Su lectura interior del
 ascenso platónico aparece en Cap. X.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+167
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 VIDA: 477–524
 
 Boecio
@@ -6901,15 +6956,6 @@ Cap. X sobre el autoconocimiento desde la adversidad.
 
 Modernidad temprana
 VIDA: 1588–1679
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-166
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
 
 Hobbes, Thomas
 DESCRIPCIÓN: Filósofo político inglés. El Leviatán y De Cive articulan la
@@ -6929,6 +6975,20 @@ VIDA: 1632–1704
 Locke, John
 DESCRIPCIÓN: Filósofo inglés. Su teoría de la identidad personal
 (memoria) y del contrato bilateral aparecen en Caps. II y IV.
+VIDA: 1632–1677
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+168
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+Spinoza, Baruch
+DESCRIPCIÓN: Filósofo neerlandés. El conatus y la perseverancia en el
+propio ser se convocan en Caps. I y VIII.
 VIDA: 1712–1778
 
 Rousseau, Jean-Jacques
@@ -6940,15 +7000,6 @@ Kant, Immanuel
 DESCRIPCIÓN: Filósofo prusiano. El imperativo categórico (fórmula de la
 humanidad y de la universalizabilidad) estructura Caps. IV, VI, IX y X.
 
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-167
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 Siglo XVIII
 VIDA: 1770–1831
 
@@ -6957,7 +7008,21 @@ DESCRIPCIÓN: Filósofo alemán. La dialéctica del reconocimiento (amo y
 esclavo) es convocada en Cap. VIII sobre el amor y la intersubjetividad.
 
 Siglo XIX
+VIDA: 1783–1842
+
+Stendhal
+DESCRIPCIÓN: Escritor francés. Del amor y su descripción de la
+cristalización se citan en Cap. VIII.
 VIDA: 1813–1855
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+169
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
 
 Kierkegaard, Søren
 DESCRIPCIÓN: Filósofo danés. El concepto de la angustia es el eje
@@ -6975,15 +7040,6 @@ instancia psíquica se menciona en Cap. II; El malestar en la cultura y la
 renuncia a los instintos se abordan en Cap. VII.
 VIDA: 1858–1918
 
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-168
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 Simmel, Georg
 DESCRIPCIÓN: Sociólogo alemán. Su teoría del conflicto como forma de
 socialización estructura el argumento del Cap. V.
@@ -6996,29 +7052,30 @@ DESCRIPCIÓN: Fundador de la fenomenología. Las Meditaciones
 cartesianas (intersubjetividad) aparecen en Cap. X.
 VIDA: 1889–1951
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+170
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 Wittgenstein, Ludwig
 DESCRIPCIÓN: Filósofo austríaco. El Tractatus (límites del lenguaje)
 aparece en Cap. V; las Investigaciones filosóficas (dolor) en Cap. X.
 VIDA: 1889–1976
 
 Heidegger, Martin
-DESCRIPCIÓN: Filósofo alemán. La distinción angustia/miedo de Ser y
-tiempo aparece en Caps. I, II y IX.
+DESCRIPCIÓN: Filósofo alemán. Ser y tiempo sustenta las referencias al
+ser-en-el-mundo en Caps. I y II; la distinción entre angustia y miedo
+aparece en Cap. IX.
 VIDA: 1896–1971
 
 Winnicott, Donald
-DESCRIPCIÓN: Psicoanalista británico. El concepto de ambiente
-facilitador aparece en Cap. VIII.
+DESCRIPCIÓN: Psicoanalista británico. Su reflexión sobre la capacidad de
+estar a solas y la presencia interiorizada del otro se convoca en Cap. VIII.
 VIDA: 1900–1944
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-169
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
 
 Saint-Exupéry, A. de
 DESCRIPCIÓN: Escritor francés. El principito (la domesticación del zorro)
@@ -7029,6 +7086,15 @@ Fromm, Erich
 DESCRIPCIÓN: Psicoanalista alemán. El miedo a la libertad estructura el
 argumento sobre la evasión de la angustia en Cap. IX.
 VIDA: 1900–2002
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+171
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
 
 Gadamer, Hans-Georg
 DESCRIPCIÓN: Filósofo alemán. La fusión de horizontes (Cap. V) y la
@@ -7048,16 +7114,6 @@ VIDA: 1906–1975
 Arendt, Hannah
 DESCRIPCIÓN: Filósofa política. La acción y el juicio aparecen en Cap. IV;
 el perdón, en Cap. VII; otras referencias aparecen en Caps. III, VI y X.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-170
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 VIDA: 1906–1995
 
 Levinas, Emmanuel
@@ -7068,6 +7124,16 @@ VIDA: 1908–1961
 Merleau-Ponty, Maurice
 DESCRIPCIÓN: Filósofo francés. La existencia encarnada como anterior a
 la reflexión aparece en Cap. II.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+172
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 VIDA: 1908–1986
 
 De Beauvoir, Simone
@@ -7078,6 +7144,11 @@ VIDA: 1909–1943
 Weil, Simone
 DESCRIPCIÓN: Filósofa francesa. La gravedad y la gracia aparece citada en
 Cap. VIII.
+VIDA: 1909–1997
+
+Berlin, Isaiah
+DESCRIPCIÓN: Filósofo político e historiador de las ideas. Su distinción
+entre libertad negativa y positiva se cita en Cap. I.
 VIDA: 1913–1960
 
 Camus, Albert
@@ -7085,19 +7156,29 @@ DESCRIPCIÓN: Escritor y filósofo francés. El mito de Sísifo (el suicidio
 filosófico) es convocado en Cap. IX.
 VIDA: 1913–2005
 
+Ricoeur, Paul
+DESCRIPCIÓN: Filósofo francés. El sí mismo y la alteridad (Cap. I), la
+memoria y el olvido (Cap. VII), el amor (Cap. VIII) y la identidad narrativa
+(Cap. X) son sus contribuciones principales.
+VIDA: 1914–2010
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-171
+173
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-Ricoeur, Paul
-DESCRIPCIÓN: Filósofo francés. El sí mismo y la alteridad (Cap. I), la
-memoria y el olvido (Cap. VII), el amor (Cap. VIII) y la identidad narrativa
-(Cap. X) son sus contribuciones principales.
+Knox, Bernard
+DESCRIPCIÓN: Clasicista. The Heroic Temper ofrece la lectura de Odiseo
+y Calipso retomada en Cap. IX.
+VIDA: 1915–1980
+
+Barthes, Roland
+DESCRIPCIÓN: Ensayista y semiólogo francés. Fragmentos de un discurso
+amoroso se cita en Cap. VIII.
 
 Siglo XX — segunda mitad y contemporáneos
 VIDA: 1921–2002
@@ -7117,19 +7198,19 @@ DESCRIPCIÓN: Filósofo francés. El análisis del poder y la normalización
 estructuran el argumento de Cap. VII.
 VIDA: 1929–2009
 
-Dahrendorf, Ralf
-DESCRIPCIÓN: Sociólogo alemán-británico. Su teoría del conflicto social
-moderno aparece en Cap. V.
-VIDA: 1930–2002
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-172
+174
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Dahrendorf, Ralf
+DESCRIPCIÓN: Sociólogo alemán-británico. Su teoría del conflicto social
+moderno aparece en Cap. V.
+VIDA: 1930–2002
 
 Bourdieu, Pierre
 DESCRIPCIÓN: Sociólogo francés. El habitus y la reproducción social del
@@ -7139,6 +7220,11 @@ VIDA: 1931–2013
 Dworkin, Ronald
 DESCRIPCIÓN: Filósofo del derecho estadounidense. Los derechos como
 «triunfos» sobre decisiones utilitaristas aparecen en Cap. IV.
+VIDA: 1931–
+
+Taylor, Charles
+DESCRIPCIÓN: Filósofo canadiense. Sus marcos de referencia y horizontes
+de significado se convocan en Cap. I.
 VIDA: 1933–
 
 Sen, Amartya
@@ -7149,26 +7235,31 @@ VIDA: 1934–2023
 Dussel, Enrique
 DESCRIPCIÓN: Filósofo argentino-mexicano. La ética de la liberación y el
 no-anular al otro estructuran Cap. V.
-VIDA: 1937–
-
-Badiou, Alain
-DESCRIPCIÓN: Filósofo francés. El elogio del amor como procedimiento
-de verdad aparece en Cap. VIII.
-VIDA: 1944–
-
-Zehr, Howard
-DESCRIPCIÓN: Teórico de la justicia restaurativa. Su crítica a la justicia
-retributiva aparece en Cap. VII.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-173
+175
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
+VIDA: 1937–
+
+Badiou, Alain
+DESCRIPCIÓN: Filósofo francés. El elogio del amor como procedimiento
+de verdad aparece en Cap. VIII.
+VIDA: 1941–
+
+Kristeva, Julia
+DESCRIPCIÓN: Teórica y psicoanalista. Sol negro: depresión y melancolía
+se cita en Cap. II.
+VIDA: 1944–
+
+Zehr, Howard
+DESCRIPCIÓN: Teórico de la justicia restaurativa. Su crítica a la justicia
+retributiva aparece en Cap. VII.
 VIDA: 1947–
 
 Nussbaum, Martha
@@ -7181,13 +7272,27 @@ DESCRIPCIÓN: Filósofo alemán. La lucha por el reconocimiento como
 motor del conflicto social aparece en Cap. VI.
 VIDA: 1949–
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+176
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 Žižek, Slavoj
 DESCRIPCIÓN: Filósofo esloveno. Su filosof ía del amor como acto
 peligroso es el eje de Cap. VIII.
+VIDA: 1959–
+
+Han, Byung-Chul
+DESCRIPCIÓN: Filósofo y ensayista. La sociedad del rendimiento y la
+autoexplotación se analizan en Cap. I.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-174
+177
 
 
