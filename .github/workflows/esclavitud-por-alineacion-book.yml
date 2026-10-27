@@ -95,7 +95,7 @@ jobs:
           root="reivindicacion-ontologica-del-ego/esclavitud-por-alineacion"
           output="public/libros/esclavitud-por-alineacion"
           mkdir -p "$output"
-          cp "$root/build/esclavitud-por-alineacion.pdf" "$output/esclavitud-por-alineacion.pdf"
+          cp "$root/build/esclavitud-por-alineacion.pdf" "$output/La esclavitud por alineación.pdf"
           cp "$root/Portada.png" "$output/portada.png"
           git add "$root/build" "$output"
           if ! git diff --cached --quiet; then

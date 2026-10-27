@@ -81,7 +81,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/juego-de-las-mascaras
-          cp reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf public/libros/juego-de-las-mascaras/juego-de-las-mascaras.pdf
+          cp reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build/juego-de-las-mascaras.pdf "public/libros/juego-de-las-mascaras/El juego de las máscaras - O la disforia de la identidad.pdf"
           cp reivindicacion-ontologica-del-ego/juego-de-las-mascaras/Portada.png public/libros/juego-de-las-mascaras/portada.png
           git add reivindicacion-ontologica-del-ego/juego-de-las-mascaras/build
           git add public/libros/juego-de-las-mascaras

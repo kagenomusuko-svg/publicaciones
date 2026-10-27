@@ -108,7 +108,7 @@ jobs:
       - name: Actualizar archivo servido por el lector del sitio
         run: |
           mkdir -p public/libros/caos
-          cp reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf public/libros/caos/caos.pdf
+          cp reivindicacion-ontologica-del-ego/caos/build/caos-el-abismo-del-ego-y-la-doble-mediacion.pdf "public/libros/caos/Caos - El abismo del ego y la doble mediación.pdf"
           cp reivindicacion-ontologica-del-ego/caos/Portada.png public/libros/caos/portada.png
 
       - name: Guardar PDF y revisiones en main
@@ -120,7 +120,7 @@ jobs:
           git add reivindicacion-ontologica-del-ego/caos/build/caos.txt
           git add reivindicacion-ontologica-del-ego/caos/build/caos-contacto.jpg
           git add reivindicacion-ontologica-del-ego/caos/build/review
-          git add public/libros/caos/caos.pdf public/libros/caos/portada.png
+          git add "public/libros/caos/Caos - El abismo del ego y la doble mediación.pdf" public/libros/caos/portada.png
           if git diff --cached --quiet; then
             echo "Los archivos maquetados ya están actualizados."
             exit 0

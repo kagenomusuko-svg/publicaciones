@@ -81,7 +81,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/telar-de-las-moiras
-          cp reivindicacion-ontologica-del-ego/telar-de-las-moiras/build/el-telar-de-las-moiras.pdf public/libros/telar-de-las-moiras/el-telar-de-las-moiras.pdf
+          cp reivindicacion-ontologica-del-ego/telar-de-las-moiras/build/el-telar-de-las-moiras.pdf "public/libros/telar-de-las-moiras/El telar de las Moiras - Ontología de la autodeterminación causal.pdf"
           cp reivindicacion-ontologica-del-ego/telar-de-las-moiras/Portada.png public/libros/telar-de-las-moiras/portada.png
           git add reivindicacion-ontologica-del-ego/telar-de-las-moiras/build
           git add public/libros/telar-de-las-moiras

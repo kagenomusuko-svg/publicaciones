@@ -81,7 +81,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/dilema-de-aquiles
-          cp reivindicacion-ontologica-del-ego/dilema-de-aquiles/build/dilema-de-aquiles.pdf public/libros/dilema-de-aquiles/dilema-de-aquiles.pdf
+          cp reivindicacion-ontologica-del-ego/dilema-de-aquiles/build/dilema-de-aquiles.pdf "public/libros/dilema-de-aquiles/El dilema de Aquiles - O la disociación del ego.pdf"
           cp reivindicacion-ontologica-del-ego/dilema-de-aquiles/Portada.png public/libros/dilema-de-aquiles/portada.png
           git add reivindicacion-ontologica-del-ego/dilema-de-aquiles/build
           git add public/libros/dilema-de-aquiles

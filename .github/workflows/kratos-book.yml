@@ -86,7 +86,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/contrato-fiscal-kratos
-          cp contrato-fiscal/kratos/build/kratos.pdf public/libros/contrato-fiscal-kratos/kratos.pdf
+          cp contrato-fiscal/kratos/build/kratos.pdf "public/libros/contrato-fiscal-kratos/El Contrato Fiscal - Kratos.pdf"
           cp contrato-fiscal/kratos/Portada.png public/libros/contrato-fiscal-kratos/portada.png
           git add contrato-fiscal/kratos/build
           git add public/libros/contrato-fiscal-kratos

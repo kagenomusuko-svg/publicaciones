@@ -147,10 +147,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/afrodita-areia
-          cp reivindicacion-ontologica-del-ego/afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf public/libros/afrodita-areia/volumen-V.pdf
+          cp reivindicacion-ontologica-del-ego/afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf "public/libros/afrodita-areia/Afrodita Areia - Volumen V - Caelus.pdf"
           cp reivindicacion-ontologica-del-ego/afrodita-areia/caelus/Portada.png public/libros/afrodita-areia/portada-volumen-V.png
           git add reivindicacion-ontologica-del-ego/afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf
-          git add public/libros/afrodita-areia/volumen-V.pdf
+          git add "public/libros/afrodita-areia/Afrodita Areia - Volumen V - Caelus.pdf"
           git add public/libros/afrodita-areia/portada-volumen-V.png
           git add reivindicacion-ontologica-del-ego/afrodita-areia/caelus/build/afrodita-areia-vol-v-contacto.jpg
           if ! git diff --cached --quiet; then

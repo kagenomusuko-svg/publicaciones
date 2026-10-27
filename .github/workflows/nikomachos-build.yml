@@ -101,9 +101,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          cp reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf public/libros/afrodita-areia/volumen-VI.pdf
+          cp reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build/afrodita-areia-vol-vi-nikomachos.pdf "public/libros/afrodita-areia/Afrodita Areia - Volumen VI - Nikomachos.pdf"
           git add reivindicacion-ontologica-del-ego/afrodita-areia/nikomachos/build
-          git add public/libros/afrodita-areia/volumen-VI.pdf
+          git add "public/libros/afrodita-areia/Afrodita Areia - Volumen VI - Nikomachos.pdf"
           if ! git diff --cached --quiet; then
             git commit -m "[skip ci] Genera maquetación de Nikomachos con DOI"
             git pull --rebase origin main

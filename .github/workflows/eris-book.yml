@@ -86,7 +86,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p public/libros/contrato-fiscal-eris
-          cp contrato-fiscal/Eris/build/eris.pdf public/libros/contrato-fiscal-eris/eris.pdf
+          cp contrato-fiscal/Eris/build/eris.pdf "public/libros/contrato-fiscal-eris/El Contrato Fiscal - Eris.pdf"
           cp contrato-fiscal/Eris/Portada.png public/libros/contrato-fiscal-eris/portada.png
           git add contrato-fiscal/Eris/build public/libros/contrato-fiscal-eris
           if ! git diff --cached --quiet; then
