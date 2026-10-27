@@ -76,24 +76,24 @@ Capítulo VIII · El amor como catástrofe necesaria
 
 Capítulo IX · La angustia de la libertad
 
-110
+111
 
 Capítulo X · El mito como metáfora del
 desconocimiento de sí
 
-130
+137
 
 Glosario de conceptos clave
 
-148
+155
 
 APÉNDICE I · Índice de autores citados
 
-152
+159
 
 APÉNDICE II · Cronología de los filósofos referenciados
 
-158
+165
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3862,9 +3862,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-Warning: truncated output (original token count: 10917)
-Total output lines: 249
-
 Capítulo VIII
 
 El amor como catástrofe necesaria
@@ -3890,6 +3887,8 @@ intenta definirlo con precisión, el concepto se escapa: hay tantos tipos de
 amor, tantas formas de experimentarlo y tantas maneras en que puede dañar
 o sanar, que cualquier definición parece o demasiado estrecha o demasiado
 laxa.
+Lo que este capítulo propone no es una definición del amor sino una
+descripción de lo que el amor hace con el ego. Cómo lo expone, cómo lo
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3900,8 +3899,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-Lo que este capítulo propone no es una definición del amor sino una
-descripción de lo que el amor hace con el ego. Cómo lo expone, cómo lo
 transforma, cómo puede a la vez fracturarlo y revelarlo, cómo la separación
 —esa otra cara del amor que la cultura popular prefiere ignorar o
 dramatizar— es también parte de lo que el amor produce. Y cómo todo eso
@@ -3931,6 +3928,8 @@ con la suficiente madurez emocional. Es su condición. El amor que no
 implica ese riesgo —el amor que se administra cuidadosamente para que no
 llegue a exponer demasiado, que se mantiene dentro de límites gestionables,
 que se abandona en el momento en que empieza a costar más de lo cómodo
+— no es amor: es un acuerdo de conveniencia mutua que se llama amor
+porque es más tranquilizador que llamarlo por su nombre. [1]
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3941,8 +3940,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-— no es amor: es un acuerdo de conveniencia mutua que se llama amor
-porque es más tranquilizador que llamarlo por su nombre. [1]
 La formulación de Žižek que más directamente interpela a este libro es la
 que describe el amor como la decisión de «amar incluso la basura» del otro.
 No es una formulación elegante, y probablemente lo sabe; es
@@ -3972,6 +3969,8 @@ sujeto que ama y lo saben quienes lo rodean. Pero esa sobreestimación no es
 simplemente un error que deba corregirse: es la condición en que el amor
 puede comenzar. El amor genuino, en la lectura de Žižek, es lo que
 sobrevive a la corrección de esa sobreestimación. Lo que queda cuando la
+imagen ideal del otro ha sido confrontada con el otro real y el sujeto elige
+continuar de todas maneras.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3982,8 +3981,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-imagen ideal del otro ha sido confrontada con el otro real y el sujeto elige
-continuar de todas maneras.
 En términos de la autodeterminación causal, esta tesis tiene una
 implicación que vale la pena hacer explícita: el amor no es el estado que
 sigue a la elección del otro; es la elección que se renueva cuando la realidad
@@ -4012,6 +4009,8 @@ sin el otro —esa es la lectura romántica que este capítulo precisamente
 quiere evitar— sino porque el amor introduce en la ecuación del ego algo
 que el ego no puede controlar: la dependencia contingente. El bienestar del
 sujeto que ama depende, en parte, de alguien que tiene su propia historia, sus
+propias decisiones, su propia autodeterminación. Y esa dependencia no
+puede administrarse completamente sin dejar de ser amor.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4022,8 +4021,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-propias decisiones, su propia autodeterminación. Y esa dependencia no
-puede administrarse completamente sin dejar de ser amor.
 Badiou, en su ensayo sobre el amor, propone que amar es comprometerse
 con la construcción de algo que no puede hacerse solo: una «escena del dos»
 en la que el mundo se percibe desde la perspectiva de la diferencia y no desde
@@ -4053,6 +4050,9 @@ cristalización se rompe —cuando la proyección cede y el otro real aparece
 IV. Idealización y realidad: los dos amores
 Hay, en la experiencia del amor, dos momentos que la cultura popular
 tiende a presentar como fases sucesivas de un mismo proceso: primero se
+ama con intensidad y algo de ceguera, después se ama con profundidad y
+algo de lucidez. Esa narrativa contiene algo cierto, pero también oculta algo
+importante: que la idealización y el amor real no son simplemente estadios
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4063,9 +4063,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-ama con intensidad y algo de ceguera, después se ama con profundidad y
-algo de lucidez. Esa narrativa contiene algo cierto, pero también oculta algo
-importante: que la idealización y el amor real no son simplemente estadios
 temporales. Son dos actitudes distintas que pueden coexistir, alternarse o
 competir a lo largo de toda la duración de un vínculo.
 El amor que imagina es cómodo. El otro imaginado puede ajustarse a las
@@ -4095,6 +4092,9 @@ sujetos se ven mutuamente con relativa claridad y siguen eligiendo estar.
 Beauvoir, en su análisis de las relaciones amorosas, observó que la trampa del
 amor romántico —tal como la cultura lo ha construido— es que convierte
 al otro en el proyecto central del propio ego, lo que inevitablemente lo
+reduce a objeto de ese proyecto y le niega la condición de sujeto autónomo
+que el amor genuino debería reconocer.[4] En el vocabulario de este libro: el
+amor que parte de la idealización corre siempre el riesgo de convertirse en
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4105,9 +4105,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-reduce a objeto de ese proyecto y le niega la condición de sujeto autónomo
-que el amor genuino debería reconocer.[4] En el vocabulario de este libro: el
-amor que parte de la idealización corre siempre el riesgo de convertirse en
 una forma sutil de irrespeto, porque no está viendo al otro que existe sino al
 otro que se necesita que exista.
 La autodeterminación afectiva —término que este capítulo propone para la
@@ -4135,6 +4132,9 @@ otro que puede darse o no darse, que puede orientarse hacia un sujeto u otro,
 que depende de la historia del otro, de su propio ego, de sus propias heridas y
 sus propias capacidades. Y esas cosas no guardan ninguna relación de
 proporción con lo que el sujeto amado merece en sentido moral.
+No recibimos el amor que merecemos. Recibimos el amor que el otro puede
+dar. Y esa distinción cambia completamente la gramática con la que
+pensamos el vínculo amoroso.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4145,9 +4145,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-No recibimos el amor que merecemos. Recibimos el amor que el otro puede
-dar. Y esa distinción cambia completamente la gramática con la que
-pensamos el vínculo amoroso.
 Esto no es un argumento para la resignación. Es un argumento para la
 lucidez. Si el amor que el otro puede dar no es suficiente para el sujeto —si
 las capacidades afectivas del otro, por las razones que sean, no producen el
@@ -4174,6 +4171,13 @@ brecha no es hipocresía; es la distancia entre el ego idealizado y el ego real.
 el amor tiene la propiedad de hacer esa distancia visible con una claridad que
 pocas experiencias igualan.
 
+VI. Amarse a sí mismo: soportarse sin inflarse
+El amor propio tiene mala prensa en buena parte de la tradición ética
+occidental. Se lo asocia con el narcisismo, con la vanidad, con la incapacidad
+de trascenderse hacia el otro. Y hay una razón histórica para esa asociación:
+el concepto de amor propio pasó por La Rochefoucauld —que lo analizó
+como el motor secreto de toda conducta aparentemente virtuosa—, por
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4183,12 +4187,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-VI. Amarse a sí mismo: soportarse sin inflarse
-El amor propio tiene mala prensa en buena parte de la tradición ética
-occidental. Se lo asocia con el narcisismo, con la vanidad, con la incapacidad
-de trascenderse hacia el otro. Y hay una razón histórica para esa asociación:
-el concepto de amor propio pasó por La Rochefoucauld —que lo analizó
-como el motor secreto de toda conducta aparentemente virtuosa—, por
 Rousseau —que distinguió entre el amour de soi, natural y sano, y el amour
 propre, social y corruptor—, y por una larga tradición religiosa que vio en el
 amor a sí mismo la raíz del pecado original. [6]
@@ -4214,6 +4212,14 @@ aquí se propone es una relación más dialéctica: el amor propio y el amor al
 otro se construyen mutuamente, en el encuentro, a lo largo del tiempo. El
 sujeto no llega al amor completamente formado; se forma en el proceso de
 amar.
+Pero la intuición central de Fromm permanece válida y necesaria: el que no
+se soporta, exige que otro lo cargue. Y esa exigencia —cuando no se
+reconoce como tal— se disfraza de amor. Se llama necesitar al otro, que
+suena a profundidad, cuando en realidad es delegar en el otro la
+responsabilidad de sostener lo que el propio ego no puede sostener. La
+diferencia entre necesitar al otro porque lo amas y necesitar al otro porque
+no puedes sostenerte sin él no siempre es fácil de ver desde dentro del
+vínculo. Pero sus consecuencias son completamente distintas.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4224,14 +4230,6 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-Pero la intuición central de Fromm permanece válida y necesaria: el que no
-se soporta, exige que otro lo cargue. Y esa exigencia —cuando no se
-reconoce como tal— se disfraza de amor. Se llama necesitar al otro, que
-suena a profundidad, cuando en realidad es delegar en el otro la
-responsabilidad de sostener lo que el propio ego no puede sostener. La
-diferencia entre necesitar al otro porque lo amas y necesitar al otro porque
-no puedes sostenerte sin él no siempre es fácil de ver desde dentro del
-vínculo. Pero sus consecuencias son completamente distintas.
 Amarse a sí mismo, en el sentido que este capítulo defiende, no es la
 celebración de las propias cualidades ni la negación de los propios defectos.
 Es algo más parecido a lo que Spinoza llamaba acquiescentia in se ipso: la
@@ -4247,15 +4245,23 @@ Hay una consecuencia del amor propio insuficiente que la cultura amorosa
 contemporánea ha descrito con más precisión que nunca y con más
 ineficacia que nunca: la mendicidad afectiva. El sujeto que no puede
 sostenerse a sí mismo busca en el amor del otro la confirmación de su propio
-valor, la prueba de que existe y de que su existencia importa.…917 tokens
-truncated…le siendo alguien para quien ciertos espacios, ciertos gestos, cierta
-música, ciertos silencios tienen un peso que no tendrían sin ese amor. [10]
-Esta modificación no es una pérdida. Es lo que hace al amor irreductible a
-cualquier otra experiencia: la capacidad de ampliar el territorio del ego no
-mediante la conquista sino mediante la recepción. El ego que se abre al otro
-genuinamente no se disuelve en él; se expande. Y esa expansión no puede
-deshacerse simplemente porque el vínculo termine: el otro que vivió dentro
-del sujeto deja una impronta que no desaparece con la separación.
+valor, la prueba de que existe y de que su existencia importa. Esa búsqueda no
+es en sí misma patológica —todos los seres humanos necesitan ser vistos y
+reconocidos—, pero se convierte en problema cuando se vuelve la función
+principal del vínculo amoroso.
+El sujeto que mendiga afecto no está simplemente buscando amor; está
+buscando que el amor del otro repare algo que el amor propio debería
+sostener. Y esa búsqueda tiene una lógica interna que la hace autofrustante:
+cuanto más necesario es el amor del otro para sostener al ego, más
+insatisfactoria resulta cualquier cantidad de amor que el otro pueda dar,
+porque el problema que se intenta resolver con amor externo no es del tipo
+que el amor externo puede resolver. El otro puede dar todo su afecto
+disponible y el ego que no puede sostenerse seguirá sintiendo que no es
+suficiente; no porque el otro sea egoísta o incapaz, sino porque la demanda
+es estructuralmente insaciable.
+Esto produce, en la relación, una dinámica que Hegel ya describió en su
+dialéctica del reconocimiento: el sujeto que necesita ser reconocido por otro
+para poder reconocerse a sí mismo nunca está seguro de que el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4266,6 +4272,61 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+reconocimiento que recibe sea real, porque siempre puede preguntarse si el
+otro lo reconoce genuinamente o simplemente porque se lo ha pedido. [9]
+La validación que se busca con tanta urgencia nunca llega del todo porque
+siempre hay una manera de ponerla en duda.
+El ego sano no exige amor perfecto. No porque sea insensible a la falta de
+afecto, sino porque su posición fundamental en el mundo no depende de
+que el otro lo confirme. Puede recibir amor como lo que es: un regalo
+contingente que el otro elige hacer y que el sujeto puede recibir sin que su
+valor como sujeto esté en juego en cada intercambio.
+Amarme es no pedirle al otro que repare lo que yo no sostengo. No como
+autosuficiencia que no necesita al otro, sino como claridad sobre lo que
+puede pedirse al amor y lo que debe hacerse desde sí mismo.
+
+VIII. La domesticación: el zorro y el principito
+En el capítulo veintiuno de El principito, Antoine de Saint-Exupéry escribe
+la escena que contiene, en síntesis, una de las reflexiones más precisas que la
+literatura ha producido sobre la naturaleza del vínculo: el encuentro entre el
+principito y el zorro, y la conversación sobre la domesticación. El zorro
+explica al principito lo que significa «domesticar»: no dominar, no poseer,
+sino establecer lazos. Hacerse necesario para el otro y que el otro se vuelva
+necesario para uno. Hacerse único para el otro en lugar de ser, como todos
+los demás zorros del mundo, solo un zorro más.
+La imagen que el zorro usa para ilustrar lo que la domesticación produce es
+de una sencillez que oculta su profundidad: cuando el principito se vaya,
+dirá, los campos de trigo me recordarán a ti. Antes de conocerte, el trigo no
+me importaba porque yo no como pan. Después de domesticarnos, el trigo
+tendrá el color de tu cabello y me hará sentir que has estado. Lo que el amor
+hace al mundo es exactamente eso: lo carga de referencias al otro. El mundo
+del sujeto que ama no es el mismo que el del sujeto que no ama, aunque los
+dos compartan el mismo espacio f ísico, porque el mundo del que ama está
+lleno de marcas del otro.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+100
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+Esto tiene una consecuencia que la escena del zorro nombra con una
+honestidad que la cultura romántica prefiere evitar: si amas al otro, el otro
+vivirá dentro de ti. No como posesión ni como recuerdo solamente: como
+estructura que ha modificado la manera en que el sujeto percibe, reacciona,
+valora y se orienta. Relacionarse es intercambiar partes del ego. El sujeto que
+ama genuinamente no sale del vínculo siendo el mismo que entró; sale
+siendo alguien para quien ciertos espacios, ciertos gestos, cierta música,
+ciertos silencios tienen un peso que no tendrían sin ese amor. [10]
+Esta modificación no es una pérdida. Es lo que hace al amor irreductible a
+cualquier otra experiencia: la capacidad de ampliar el territorio del ego no
+mediante la conquista sino mediante la recepción. El ego que se abre al otro
+genuinamente no se disuelve en él; se expande. Y esa expansión no puede
+deshacerse simplemente porque el vínculo termine: el otro que vivió dentro
+del sujeto deja una impronta que no desaparece con la separación.
 La domesticación, en la imagen del zorro, tiene sin embargo un precio que
 la escena no oculta: el dolor.
 «Si te domestico, voy a llorar cuando te vayas», dice el zorro antes de
@@ -4282,6 +4343,16 @@ Lo que la imagen del zorro formula de manera simbólica, la filosof ía puede
 decirlo de manera más analítica: toda relación genuina implica una
 modificación del ego. No en el sentido de que el ego cambia de identidad —
 eso sería la disolución que los capítulos anteriores han descrito como falla
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+101
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 ontológica— sino en el sentido de que el ego incorpora al otro como parte
 de la estructura desde la que percibe y actúa en el mundo.
 Esta incorporación no es voluntaria en el sentido de que el sujeto la elija
@@ -4297,16 +4368,6 @@ herramienta a su esquema corporal; el bastón del ciego deja de ser un objeto
 externo y se convierte en una extensión de la capacidad perceptiva del sujeto.
 [11] En el caso del amor, el otro se incorpora al esquema del ego de una
 manera análoga: no como objeto externo sino como extensión de la manera
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-100
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 en que el sujeto está en el mundo. Por eso la separación duele con la
 intensidad que duele: no es solo la pérdida de un objeto valioso, es la
 amputación de algo que el ego había incorporado como propio.
@@ -4323,6 +4384,16 @@ X. Separarse: duele porque hubo entrega
 La cultura contemporánea tiene una relación ambivalente con el dolor de la
 separación. Por un lado, lo normaliza hasta la saturación: la ruptura
 amorosa es el tema más explotado de la industria cultural. Por otro lado, lo
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+102
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 patologiza: el sujeto que sufre una separación durante más del tiempo
 «normalmente esperado» empieza a recibir diagnósticos, a ser dirigido
 hacia la terapia, a ser tratado como alguien que no ha superado lo que
@@ -4338,16 +4409,6 @@ demostrado fortaleza; ha demostrado que lo que terminó no había
 modificado su ego de la manera que el amor genuino modifica. La
 indiferencia ante la separación no es signo de salud emocional; es signo de
 que la domesticación del zorro nunca ocurrió. Y un vínculo en el que la
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-101
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 domesticación no ocurrió no fue exactamente un amor, aunque se haya
 llamado así.
 Si no doliera, no habría habido amor. El dolor de la separación es la huella
@@ -4366,6 +4427,15 @@ de ser la huella del otro en el ego y se convierte en el organizador principal
 de la posición del ego en el mundo. El dolor que reconfigura al ego cumple
 su función; el dolor que lo secuestra lo daña.
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+103
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 XI. Separarse: volver a habitarse
 Si relacionarse es intercambiar partes del ego, entonces separarse es
 recuperarlas. Pero esa recuperación no puede ser simple: no puede funcionar
@@ -4379,16 +4449,6 @@ hubiera sido un error que debe corregirse. Esa maniobra no produce la
 libertad que promete; produce una forma de negación que cuesta más que lo
 que ahorra. Porque el ego que niega su historia —que pretende no haber
 sido modificado por lo que fue— no se libera de esa historia: la suprime. Y lo
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-102
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 que se suprime no desaparece; opera desde la sombra, condiciona las
 reacciones futuras sin que el sujeto pueda reconocerlo porque ha decidido
 que no está ahí.
@@ -4406,6 +4466,16 @@ que borra sino la elaboración que integra.
 Winnicott, en su análisis del desarrollo del ego, propuso que la capacidad de
 estar solo —de sostenerse a sí mismo sin necesitar la presencia constante del
 otro— no es algo que el sujeto trae consigo sino algo que aprende en la
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+104
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 presencia del otro, paradójicamente. [12] El sujeto aprende a estar solo
 cuando ha internalizado suficientemente la presencia del otro como para no
 necesitar que esa presencia sea f ísica. En el caso de la separación amorosa, ese
@@ -4419,18 +4489,7 @@ que estar presente para que eso que depositó siga siendo parte de lo que soy.
 XII. El amor como acto, no como estado
 Una de las confusiones más persistentes sobre el amor —y que está en la raíz
 de muchos vínculos que se deterioran sin que nadie entienda bien por qué—
-es la confusión entre el amor como estado y el amor como acto. El amor-
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-103
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
-estado es lo que el sujeto tiene o deja de tener: una emoción que aparece o
+es la confusión entre el amor como estado y el amor como acto. El amorestado es lo que el sujeto tiene o deja de tener: una emoción que aparece o
 desaparece, que puede estar presente en mayor o menor intensidad, que se
 mide por cómo se siente el sujeto en cada momento. El amor-acto es lo que
 el sujeto hace: la elección de orientarse hacia el otro, de sostener el vínculo,
@@ -4447,6 +4506,16 @@ expresión del ego en el vínculo: la elección que el sujeto renueva —no de
 manera consciente en cada momento, pero sí como orientación de fondo—
 de que ese otro particular merece la presencia del ego propio. Esa elección no
 garantiza que el amor dure ni que el vínculo sea perfecto. Pero sí produce
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+105
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 algo que el amor-estado no puede producir: un sujeto que puede hacerse
 responsable de cómo ama, no solo de cómo se siente.
 El amor que se entiende como estado tiene una fragilidad estructural: en el
@@ -4461,16 +4530,6 @@ se renueve.
 XIII. Amar lo imperfecto: el sí definitivo
 Volvamos a Žižek y a la tesis con la que comenzó este capítulo: amamos
 también la basura del otro. La formulación brusca tiene un propósito que a
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-104
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 estas alturas del argumento resulta más claro: sacudir la idea de que el amor
 genuino puede separarse de sus objetos inconvenientes, de que es posible
 amar al otro en lo que tiene de admirable y suspender el amor en lo que
@@ -4488,6 +4547,16 @@ diferente de lo que es.
 Esto tiene una implicación que merece enunciarse con cuidado porque
 puede malentenderse: no significa que el amor obliga a soportar todo. El
 amor genuino puede coexistir con límites claros: se puede amar a alguien y
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+106
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 no aceptar que ese alguien te dañe de maneras que no puedes sostener. Lo
 que no puede hacerse —si se está siendo honesto sobre lo que es el amor— es
 amar al otro condicionado a que deje de ser lo que es. Eso no es amor con
@@ -4502,16 +4571,6 @@ necesidades.
 Amar a alguien incluyendo lo que en ese alguien sufre —y no solo lo que en
 ese alguien deslumbra— es la versión del amor que Weil describe y que
 Žižek, desde otro registro, también defiende. [14]
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-105
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 El sí definitivo al otro —que es la manera en que este capítulo entiende el
 amor genuino —no es un sí entusiasta a lo que resulta fácil de amar. Es un sí
 que incluye lo que no puede corregirse, lo que no cambiará por mucho que
@@ -4528,6 +4587,16 @@ como primer obstáculo del amor real; el amor propio como condición de
 poder amar al otro sin mendigar; la domesticación como modificación
 irreversible del ego; el dolor de la separación como evidencia de que el amor
 fue real; la separación como reintegración y no como borramiento. Todos
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+107
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 esos ángulos se sostienen sobre la misma tesis de fondo: el amor es una de las
 formas más radicales en que la autodeterminación causal se pone en juego.
 Porque el amor exige exactamente lo que la autodeterminación exige: un
@@ -4543,16 +4612,6 @@ su prueba más exigente. El sujeto que puede amar genuinamente —que
 puede exponerse al riesgo que Žižek describe sin perder el eje que los
 capítulos anteriores han construido— es el mismo sujeto que puede respetar,
 perdonar, poner límites, hacerse responsable de sus actos y reconocer al otro
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-106
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 como sujeto. No son virtudes separadas: son expresiones distintas de la
 misma condición.
 Amar es aceptar la herida como precio de existir con otro. No como
@@ -4570,6 +4629,16 @@ un sujeto que puede actuar desde sí mismo en un mundo que no controló y
 que no puede controlar, produciendo actos que le pertenecen y de los que
 puede, por eso mismo, hacerse responsable. Los capítulos siguientes
 explorarán los límites de esa responsabilidad y las condiciones en que la
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+108
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 autodeterminación puede sostenerse cuando el mundo presiona en su
 contra.
 
@@ -4584,16 +4653,6 @@ atraviesa el tiempo y la diferencia, no como sentimiento que se tiene o se
 pierde.
 [3] Stendhal (Henri Beyle), Del amor (1822), cap. II. La metáfora de la
 cristalización —la rama de árbol que se convierte en diamante al ser
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-107
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 sumergida en las aguas del saltus de Hallein— describe cómo el sujeto
 enamorado proyecta sobre el otro una perfección producto de su
 imaginación.
@@ -4608,6 +4667,16 @@ que el amor puede producir.
 [6] La distinción de Rousseau entre amour de soi y amour propre aparece en
 el Discurso sobre el origen de la desigualdad (1755). La Rochefoucauld
 desarrolla su análisis del amor propio en las Máximas (1665).
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+109
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 [7] Erich Fromm, El arte de amar (1956). La tesis central: el amor no es un
 sentimiento que se tiene sino una práctica que se aprende y que requiere
 madurez, humildad y valor.
@@ -4624,16 +4693,6 @@ infantil universal, precisamente porque no es un texto para niños: es una
 fenomenología del vínculo.
 [11] Maurice Merleau-Ponty, Fenomenología de la percepción (1945), Parte I,
 cap. III. El bastón del ciego ilustra la idea de que el esquema corporal se
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-108
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 extiende mediante el uso de herramientas: el cuerpo las incorpora como
 extensión de sí mismo.
 [12] Donald Winnicott, La capacidad para estar solo (1958). Winnicott
@@ -4650,14 +4709,11 @@ proyectar las propias necesidades.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-109
+110
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
-
-Warning: truncated output (original token count: 13474)
-Total output lines: 313
 
 Capítulo IX
 
@@ -4682,18 +4738,18 @@ No la angustia como malestar pasajero ni como síntoma clínico, sino la
 angustia en el sentido en que Kierkegaard la formuló: el estado propio del
 ser humano que ha descubierto que es libre. No una libertad abstracta ni una
 libertad cómoda; la libertad concreta, pesada, irrevocable de ser el origen de
+los propios actos. La angustia, en ese sentido, no es un problema que deba
+resolverse. Es la señal de que el sujeto es un sujeto.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-110
+111
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-los propios actos. La angustia, en ese sentido, no es un problema que deba
-resolverse. Es la señal de que el sujeto es un sujeto.
 Este capítulo tiene dos movimientos complementarios. El primero examina
 la angustia desde Kierkegaard: su naturaleza, su distinción del miedo, su
 relación con la libertad y la responsabilidad, y la manera en que intenta ser
@@ -4722,19 +4778,19 @@ protegerme. El miedo es incómodo, pero es un problema con coordenadas.
 La angustia no tiene objeto. Kierkegaard lo formuló con exactitud
 quirúrgica: la angustia es la realidad de la libertad como posibilidad frente a
 la posibilidad. [1] No me angustia lo que va a pasar —eso sería miedo—; me
+angustia que lo que pasa depende de mí. No es la amenaza externa lo que
+produce angustia: es el descubrimiento de la propia libertad. La angustia es
+el vértigo que siente el sujeto cuando se asoma al abismo de sus propias
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-111
+112
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-angustia que lo que pasa depende de mí. No es la amenaza externa lo que
-produce angustia: es el descubrimiento de la propia libertad. La angustia es
-el vértigo que siente el sujeto cuando se asoma al abismo de sus propias
 posibilidades y descubre que no hay nada que lo empuje en una dirección o
 en otra salvo él mismo.
 La imagen del vértigo es precisa y merece detenerse en ella. El vértigo ante
@@ -4768,7 +4824,7 @@ condición de que haya sujeto en el sentido pleno que este libro defiende.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-112
+113
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4803,18 +4859,18 @@ antemano, la angustia sería imposible porque la posibilidad que la produce
 no existiría. La angustia es, por tanto, el precio de no ser cosa.
 Tesis: La angustia es el precio de no ser cosa. Solo el ser que puede elegir
 puede angustiarse, porque solo él se enfrenta al abismo de sus propias
+posibilidades sin que nada lo empuje de manera irresistible hacia ninguna de
+ellas.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-113
+114
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-posibilidades sin que nada lo empuje de manera irresistible hacia ninguna de
-ellas.
 Sartre, que llegó a conclusiones similares a través de una fenomenología
 distinta a la de Kierkegaard, formuló esta condición con una radicalidad
 que sus contemporáneos encontraron incómoda: el ser humano está
@@ -4844,18 +4900,18 @@ no solo enfrenta el riesgo de elegir mal. Enfrenta algo más fundamental: el
 hecho de que debe elegir. No hay posición neutral. No hay opción de esperar
 indefinidamente a que las circunstancias decidan por él. Incluso no actuar es
 un acto. Incluso postergar la decisión es tomar la decisión de postergarla. La
+neutralidad es una ficción que el vértigo de la libertad produce para
+protegerse de su propio peso.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-114
+115
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-neutralidad es una ficción que el vértigo de la libertad produce para
-protegerse de su propio peso.
 Kierkegaard utilizó una imagen que ilumina esta dimensión: el sujeto que
 está al borde de un precipicio no solo puede temer caer —eso sería miedo—;
 puede también sentir la tentación vertiginosa de saltar. No porque quiera
@@ -4887,19 +4943,17 @@ una vez que las viejas han caído.[4] La libertad moderna —que disolvió los
 marcos tradicionales de significado— no produjo automáticamente sujetos
 más autónomos; produjo también una angustia nueva y sin precedentes
 históricos ante la ausencia de las guías que antes organizaban la vida. Y esa
-
+angustia, cuando no puede sostenerse, genera la búsqueda del líder, de la
+ideología, del grupo que promete liberar al individuo de la carga de decidir
+por sí mismo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-115
+116
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
-
-angustia, cuando no puede sostenerse, genera la búsqueda del líder, de la
-ideología, del grupo que promete liberar al individuo de la carga de decidir
-por sí mismo.
 
 IV. La libertad según Kierkegaard: no elegir sino responder
 Kierkegaard propone una comprensión de la libertad que invierte la imagen
@@ -4927,20 +4981,20 @@ genuina, aunque nadie lo obligue a nada. Está ejerciendo el simulacro de
 libertad que el capricho produce.
 No soy libre por elegir. Soy libre por responder. La libertad sin
 responsabilidad es simulacro; la responsabilidad sin libertad es
+sometimiento. La autodeterminación causal vive exactamente en el cruce de
+las dos.
+Esta formulación conecta con una tradición filosófica que va más allá de
+Kierkegaard pero que él sintetizó con especial claridad: la distinción entre el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-116
+117
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-sometimiento. La autodeterminación causal vive exactamente en el cruce de
-las dos.
-Esta formulación conecta con una tradición filosófica que va más allá de
-Kierkegaard pero que él sintetizó con especial claridad: la distinción entre el
 libre albedrío como capacidad técnica de elegir y la libertad moral como
 disposición a hacerse responsable de lo elegido. Kant, desde otro ángulo,
 había señalado algo análogo: la autonomía no es simplemente la ausencia de
@@ -4968,20 +5022,20 @@ dirección que tomó, los límites que puso o no puso, las decisiones que tomó
 o evitó— era suyo.
 Ese momento es la angustia en su forma más nítida. No el malestar difuso
 ante lo incierto, sino la comprensión activa de que el propio sujeto es la
+causa de su situación y que esa causalidad no puede delegarse. El entorno
+condicionó; pero no determinó. Las circunstancias limitaron; pero no
+eligieron. La historia predispuso; pero no decidió. Lo que decidió fue el
+sujeto, y el sujeto soy yo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-117
+118
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-causa de su situación y que esa causalidad no puede delegarse. El entorno
-condicionó; pero no determinó. Las circunstancias limitaron; pero no
-eligieron. La historia predispuso; pero no decidió. Lo que decidió fue el
-sujeto, y el sujeto soy yo.
 Este descubrimiento tiene dos formas posibles. La primera es la que
 Kierkegaard llama la «angustia de la posibilidad»: el sujeto comprende que
 puede, que tiene poder de origen, que lo que va a hacer a continuación
@@ -5010,19 +5064,20 @@ límite, desde dónde actuar. Y ese resto —por pequeño que sea en
 circunstancias extremas— es donde vive la libertad y donde habita la
 angustia.
 
+VI. El límite como acto libre: cada decisión es una
+autobiografía
+Uno de los argumentos que los capítulos anteriores han desarrollado —el
+límite como afirmación del ego, no como castigo al otro— adquiere aquí
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-118
+119
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-VI. El límite como acto libre: cada decisión es una
-autobiografía
-Uno de los argumentos que los capítulos anteriores han desarrollado —el
-límite como afirmación del ego, no como castigo al otro— adquiere aquí
 una dimensión adicional que la perspectiva de Kierkegaard permite ver con
 mayor claridad: el límite no es solo afirmación del ego como posición; es
 ejercicio de la libertad como responsabilidad. Cada límite que el sujeto pone
@@ -5047,20 +5102,283 @@ del ego. No la trayectoria que el sujeto quisiera haber tenido ni la que
 imaginó que tendría; la que efectivamente tiene, construida acto a acto,
 límite a límite, elección a elección. Esa trayectoria es la autobiograf ía real
 del sujeto: no lo que dice de sí mismo sino lo que hace con lo que es.
-Cada límite e…3474 tokens truncated… Que vivir para ser recordado es una
-inversión que nunca se cobra. Que la vida propia —incluso la más oscura,
+Cada límite es una autobiograf ía. No en el sentido de que defina al sujeto de
+manera rígida e irreversible, sino en el sentido de que cada decisión genuina
+—sostenida hasta sus consecuencias— deposita algo en la historia del ego
+que no puede borrarse retroactivamente.
+Hay una implicación de esto que merece una formulación directa: el sujeto
+que evita sistemáticamente las decisiones genuinas —que siempre puede
+decir que actuó así porque no tenía alternativa, porque otros lo llevaron a
+eso, porque las circunstancias no le dejaban margen— no tiene
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-119
+120
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
 
-incluso la más ordinaria, incluso la que nadie cantará en ningún poema— es
-incomparablemente más valiosa que el mito que otros construirán de uno.
+autobiografía en este sentido. Tiene una cronología de lo que le ocurrió,
+pero no una trayectoria de lo que eligió. Y sin esa trayectoria, la identidad
+del sujeto —tal como este libro la ha definido desde el primer capítulo— no
+puede constituirse: porque la identidad no es lo que me pasó sino lo que hice
+con lo que me pasó.
+
+VII. Las estrategias de evasión de la angustia: huir del yo
+Si la angustia es la señal de que el sujeto es libre y si la libertad implica
+responsabilidad, entonces la evasión de la angustia es, en último término, la
+evasión de la propia libertad. Y esa evasión tiene formas que conviene
+nombrar con precisión, porque son las más comunes y las más dif íciles de
+reconocer desde dentro.
+La primera es el victimismo. No el reconocimiento legítimo de que el daño
+de otros es real —que lo es—, sino la construcción de una narrativa en que
+el sujeto solo puede ser efecto y nunca causa. El victimismo elimina la
+angustia porque elimina la responsabilidad: si todo lo que me ocurre es
+producido por fuerzas ajenas, no tengo nada de qué hacerme cargo. Pero al
+mismo tiempo elimina la posibilidad de la autodeterminación: un ser que
+solo puede ser efecto tampoco puede ser autor de su transformación.
+La segunda es el fatalismo. La convicción —explícita o implícita— de que
+lo que va a ocurrir ya está determinado, de que las decisiones individuales no
+cambian nada, de que el destino, la suerte, las estructuras o la naturaleza
+humana producirán inevitablemente ciertos resultados. El fatalismo es más
+sofisticado que el victimismo porque puede disfrazarse de lucidez: parece más
+inteligente que la ingenuidad de creer que uno puede cambiarlo todo. Pero
+en último término produce el mismo resultado: un sujeto que no se hace
+responsable de sus elecciones porque cree que no importan.
+La tercera es la delegación de decisiones: trasladar al otro, al grupo, a la
+norma o a la autoridad la responsabilidad de lo que el sujeto debería decidir
+por sí mismo. Esta forma de evasión es particularmente dif ícil de identificar
+porque puede parecer exactamente lo contrario: deferencia, humildad,
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+121
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+respeto a la autoridad. Pero hay una diferencia cualitativa entre seguir una
+norma porque el sujeto la ha evaluado y la considera válida —lo que Kant
+llamaría autonomía— y seguir una norma porque así se evita la angustia de
+decidir. En el primer caso el sujeto es autor de su conducta, aunque siga una
+regla externa. En el segundo ha delegado la autoría.
+La cuarta es el sometimiento a normas ciegas: la adhesión a sistemas de
+creencias, ideologías o tradiciones que proporcionan respuestas
+predeterminadas para todas las preguntas relevantes. Este sometimiento
+puede ser religioso, político, cultural o afectivo; lo que tiene en común en
+todas sus formas es la función que cumple: liberar al sujeto de la angustia de
+decidir por sí mismo, proporcionándole un marco que ya ha decidido por él.
+Fromm diagnosticó exactamente este mecanismo en su análisis del
+autoritarismo: el sujeto que se somete a la autoridad no es simplemente
+débil; ha encontrado en esa sumisión una solución al problema de la
+libertad que la modernidad dejó sin resolver.
+Todas estas formas de evasión tienen en común una característica que el
+argumento debe nombrar: no eliminan la libertad. Solo la niegan. El sujeto
+que evade la angustia de ser libre no deja de ser libre; sigue eligiendo, sigue
+actuando, sigue produciendo consecuencias. Lo que pierde es la posibilidad
+de reconocerse como origen de lo que hace. Y sin ese reconocimiento, la
+autodeterminación es una capacidad que el sujeto tiene, pero no ejerce:
+como un instrumento que nunca se toca.
+
+Segunda parte: El falso ego, la egolatría y el dilema de Aquiles
+
+VIII. El falso ego: no es exceso de yo, es pérdida de sí mismo
+A lo largo de este libro se ha rehabilitado el ego como condición ontológica
+del sujeto: no la soberbia ni el egocentrismo, sino el punto de referencia
+desde el cual el individuo se localiza, actúa y se responsabiliza. Esa
+rehabilitación exige su contraparte: examinar lo que ocurre cuando lo que
+funciona como referencia no es el ego auténtico sino una imagen construida
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+122
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+para ser vista. Eso es el falso ego, y su nombre filosófico más preciso es
+egolatría.
+La confusión más frecuente sobre el falso ego consiste en creer que es exceso
+de yo: demasiada autoafirmación, demasiada centralidad del propio ego,
+demasiada atención a sí mismo. Esa confusión es comprensible porque el
+falso ego a menudo produce conductas que parecen exactamente eso —
+exigencias excesivas de atención, incapacidad de reconocer los límites del
+otro, narcisismo visible—. Pero la confusión invierte la causalidad: lo que
+produce esas conductas no es demasiado ego sino demasiado poco. El falso
+ego no es el ego expandido; es el ego ausente disfrazado de grandiosidad.
+El ego auténtico es el que vive desde sí mismo: actúa desde su posición, se
+responsabiliza de lo que produce, puede sostenerse solo sin necesitar la
+validación constante del entorno. El falso ego, en cambio, vive para una
+imagen: actúa para ser visto de cierta manera, valida cada decisión en
+función de cómo será percibida, necesita el aplauso del entorno para
+confirmar que existe. La diferencia no es de magnitud —uno más grande,
+otro más pequeño— sino de dirección: el ego auténtico mira hacia adentro
+como referencia; el falso ego mira hacia afuera buscando el reflejo que lo
+constituya.
+El falso ego no es exceso de yo. Es pérdida de sí mismo. El sujeto que vive
+para su imagen no tiene un ego demasiado grande; tiene un ego que no
+puede sostenerse sin la aprobación del otro, y que por tanto no es
+propiamente un ego sino una dependencia con máscara de soberbia.
+Lacan describió esta estructura con precisión en su análisis del estadio del
+espejo: el yo se constituye, en una etapa temprana del desarrollo, a través de
+la identificación con la imagen reflejada. [6] Esa imagen es siempre más
+unificada y coherente que la experiencia interior fragmentada del sujeto;
+produce una ilusión de totalidad que el sujeto necesita pero que es,
+fundamentalmente, una construcción. El problema no es que el yo tenga
+este origen imaginario —es constitutivo— sino cuando el sujeto adulto
+sigue dependiendo del reflejo especular para saber que existe. Cuando el yo
+nunca puede funcionar sin la aprobación del otro como espejo que lo
+confirme.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+123
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+En los términos de la angustia kierkegaardiana, el falso ego es la respuesta
+que el sujeto produce cuando no puede soportar la angustia de ser libre: en
+lugar de hacerse responsable de sus elecciones —lo que exige mirar hacia
+adentro como referencia—, construye una imagen que el entorno debe
+confirmar. Esa imagen externaliza la responsabilidad: si el entorno la valida,
+el sujeto existe; si la rechaza, el sujeto está amenazado. La decisión sobre lo
+que uno es ya no descansa en el propio ego; descansa en los ojos del otro.
+
+IX. El dilema de Aquiles: elegir la gloria o elegir la vida
+Pocos mitos de la tradición occidental capturan la estructura del falso ego
+con tanta precisión —y con tanta piedad hacia quien lo encarna— como el
+de Aquiles. No el Aquiles de la épica gloriosa sino el Aquiles del dilema: el
+que eligió.
+La tradición cuenta que Aquiles, hijo de la nereida Tetis, recibió la
+revelación de que tenía una elección que ningún otro mortal podía tener:
+podía vivir una vida larga, tranquila, sin gloria, y morir en la oscuridad del
+olvido; o podía ir a Troya, morir joven y gloriosamente, y ser recordado para
+siempre. Aquiles eligió Troya. Eligió la gloria. Eligió ser el mejor entre los
+hombres, aunque ese «ser el mejor» durara solo lo que dura una batalla. [7]
+Esa elección ha sido celebrada como ejemplo de heroísmo. Y lo es, en cierto
+sentido: exige valor, exige disposición a enfrentar la muerte, exige priorizar
+algo más que la simple supervivencia. Pero tiene una estructura que el
+argumento de este capítulo obliga a examinar con mayor cuidado: Aquiles
+no elige vivir. Elige ser recordado. No elige su vida; elige el relato que otros
+harán de ella.
+El nudo del dilema no está en la valentía de ir a Troya; está en el tipo de bien
+que Aquiles está persiguiendo. La gloria —kleos en el griego homérico— no
+es algo que el héroe experimenta mientras vive; es lo que otros dirán de él
+después de su muerte. Es, por definición, una propiedad que el sujeto nunca
+puede poseer en primera persona: solo puede ser otorgada por otros, y solo
+cuando el sujeto ya no está para recibirla. Aquiles, al elegir la gloria, está
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+124
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+eligiendo vivir para la mirada de otros. Está hipotecando su existencia
+presente en favor de un relato futuro que no podrá escuchar.
+Esto no es heroísmo en el sentido de la autodeterminación causal; es
+exactamente su contrario. Aquiles no está eligiendo desde sí mismo; está
+eligiendo desde la mirada que anticipa. No está siendo causa de su vida; está
+siendo el personaje de un relato que otros escribirán. Su ego no es el punto de
+referencia desde el que actúa; es la imagen que necesita que el mundo
+confirme.
+«Aquiles no vive para sí. Vive para el relato que el mundo hará de él. Y
+en esa elección reside toda la grandeza y toda la tragedia del héroe.»
+
+X. La tragicomedia del talón: eternos por nuestros límites
+Hay en el mito de Aquiles una ironía que la tradición tardó en apreciar y que
+resulta filosóficamente más rica que la historia de su gloria. Aquiles es
+inmortal —en el sentido de que lo recordamos para siempre— no por su
+perfección sino por su falla: el talón.
+La historia es conocida: Tetis, su madre, lo sumergió en el río Estigio para
+hacerlo invulnerable, sujetándolo por el talón, que quedó sin tocar el agua.
+Ese talón —la única parte de Aquiles que no fue protegida— fue el que la
+flecha de Paris encontró. Y ese talón es lo que hace que la historia de Aquiles
+siga importando: no su velocidad, no su fuerza, no la brutalidad de sus
+combates. Su límite.
+La ironía se profundiza cuando se examina la estructura de lo que Aquiles
+temía. Eligió la muerte gloriosa para escapar del olvido: quería que lo
+recordaran. Y fue recordado. Pero no por lo que quería que lo recordaran —
+su grandeza, su perfección guerrera, su invulnerabilidad— sino por
+exactamente lo contrario: la grieta en su invulnerabilidad, el punto donde la
+protección falló, el límite que no pudo cubrir.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+125
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+Aquiles es eterno no por su grandeza, sino por su límite. La gloria que
+persiguió —basada en la imagen de su perfección— se convirtió en el mito
+que lo recuerda por su imperfección. La imagen que quiso que el mundo
+viera no fue la que sobrevivió; sobrevivió lo que la imagen intentaba ocultar.
+La tragicomedia de Aquiles revela algo sobre la egolatría que ningún
+argumento abstracto puede mostrar con tanta claridad: la imagen que el
+falso ego construye para ser vista no puede controlar lo que el mundo
+termina viendo. El sujeto que vive para su imagen no tiene poder sobre el
+relato que otros harán de él; puede construir la fachada que quiera, pero la
+grieta en la fachada es lo que más llama la atención. Y con frecuencia es
+precisamente lo que intentó ocultar lo que define cómo será recordado.
+Hay en esto una lección que la egolatría no puede aprender mientras siga
+siendo egolatría: la autenticidad —vivir desde el propio ego con sus
+limitaciones reales, sin la mediación de una imagen que proteja de la
+vulnerabilidad— es más duradera que la imagen construida para durar. No
+porque la autenticidad sea más simpática o más popular, sino porque el
+sujeto que actúa desde sí mismo deja una huella que le pertenece, mientras
+que el que actúa desde su imagen deja una huella que pertenece a la imagen.
+Y la imagen no tiene historia; tiene apariencia.
+
+XI. Odiseo y la advertencia: reinar entre los muertos no es
+vivir
+El encuentro entre Aquiles y Odiseo en el Hades —en el canto XI de la
+Odisea— es uno de los pasajes más filosóficamente cargados de la épica
+homérica, y sus implicaciones para el argumento de este capítulo son
+directas.
+Odiseo baja al Hades durante su largo retorno y convoca a los muertos.
+Entre ellos aparece la sombra de Aquiles, y Odiseo lo saluda con las palabras
+que el héroe que eligió la gloria merece: ningún hombre fue más
+bienaventurado ni más glorioso; en vida fue honrado como un dios y ahora,
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+126
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
+entre los muertos, tiene gran poder. El elogio es sincero y corresponde
+exactamente a lo que Aquiles eligió.
+La respuesta de Aquiles desmonta toda esa lógica con una brutalidad que el
+poema no intenta suavizar: preferiría ser aparcero de otro, un hombre pobre
+sin hacienda, que reinar sobre todos los muertos que ya perecieron. La
+gloria, vista desde el otro lado de la muerte, vale menos que la vida más
+humilde. El relato que los vivos hacen del héroe no consolida al héroe: el
+héroe no puede escucharlo.
+Lo que Aquiles dice desde el Hades no es simplemente que la muerte es mala
+—lo cual es trivial—, sino algo más específico: que eligió mal. Que el bien
+que persiguió —la gloria, el relato, la mirada aprobatoria de otros— no es el
+bien que importa. Que vivir para ser recordado es una inversión que nunca se
+cobra. Que la vida propia —incluso la más oscura, incluso la más ordinaria,
+incluso la que nadie cantará en ningún poema— es incomparablemente
+más valiosa que el mito que otros construirán de uno.
 La advertencia que Aquiles hace a Odiseo —implícita, porque el texto
 nunca la formula directamente— es también la advertencia que el mito
 hace al lector: no hipoteques la vida presente por un relato futuro. No vivas
@@ -5079,6 +5397,15 @@ que produce el relato más grandioso, sino lo que corresponde a lo que el
 sujeto genuinamente es. No la gloria que otros otorgan, sino la vida que el
 ego puede sostener como propia.
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+127
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 XII. Egolatría: hipotecar la autodeterminación al aplauso
 La egolatría —el culto a la imagen de sí mismo— no es un fenómeno
 exclusivo de los héroes épicos. Opera, con distintas intensidades y distintas
@@ -5090,16 +5417,6 @@ consecuencias son radicales.
 El mecanismo de la egolatría puede describirse con precisión: el sujeto
 construye una imagen de sí mismo que aspira a recibir cierto tipo de
 aprobación. Esa imagen se convierte gradualmente en el verdadero criterio
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-120
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 de sus decisiones: lo que importa no es qué corresponde a lo que es sino qué
 corresponde a lo que la imagen requiere. Con el tiempo, el sujeto ya no
 decide qué quiere, qué valora, qué puede sostener; deja que lo decida la lógica
@@ -5119,6 +5436,16 @@ respuesta que el sujeto produce cuando no puede sostener la angustia de ser
 libre. Si lo que soy depende de la aprobación del entorno, entonces mis
 decisiones también dependen de esa aprobación, y la responsabilidad de lo
 que hago se distribuye entre el sujeto y quienes lo evalúan. La angustia de ser
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+128
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 el origen único de mis actos se diluye en la coautoría de la imagen y la
 mirada.
 Goffman, en su análisis de la presentación del yo en la vida cotidiana,
@@ -5131,15 +5458,6 @@ es, o si la actuación se ha convertido en la única referencia disponible. El
 sujeto que actúa, pero sabe que actúa puede volver a sí mismo; el que ha
 dejado de saber dónde termina la actuación y dónde empieza el ego
 auténtico ya no tiene dónde volver.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-121
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
 
 XIII. El falso ego como huida de la angustia: ser personaje
 antes que sujeto
@@ -5159,6 +5477,16 @@ El resultado es un tipo específico de sujeto que la tradición filosófica ha
 identificado de distintas maneras pero que todas apuntan al mismo
 fenómeno: el personaje. No el sujeto que actúa —que es origen, que puede
 ser interpelado por lo que hace, que se responsabiliza— sino el personaje que
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+129
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 es actuado por el relato que construyó de sí mismo. El personaje no decide;
 encarna. No elige; cumple con lo que el papel exige. No se angustia; sabe de
 antemano lo que corresponde hacer porque el guion ya está escrito.
@@ -5171,16 +5499,6 @@ sujeto que huye de la libertad hacia sistemas de sentido que la domestican: la
 fe ciega, el suicidio filosófico, cualquier forma de entrega a una causa que
 libere al individuo de la carga de crear su propio sentido.[10] La egolatría es
 una variante de esa huida: entrega al sujeto no a una causa externa sino a su
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-122
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 propia imagen externalizada, que cumple la misma función de sentido
 predeterminado que no exige la invención continua del yo.
 Frente al personaje, la figura que la autodeterminación causal propone es la
@@ -5200,6 +5518,15 @@ ahora de manera compacta. No como lista exhaustiva, sino como las tres que
 tienen mayor peso filosófico para el argumento de la autodeterminación
 causal.
 Primera distinción: el origen de la referencia.
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+130
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 El ego auténtico se toma a sí mismo como referencia de sus decisiones: lo
 que importa es qué corresponde a lo que el sujeto es, qué puede sostener
 desde su posición, qué es coherente con la trayectoria que ha construido. El
@@ -5211,16 +5538,6 @@ localización determina todo lo que sigue.
 Segunda distinción: la relación con la responsabilidad.
 El ego auténtico puede ser interpelado por sus actos: cuando actúa, actúa
 sabiendo que lo que produce le pertenece, que puede dar cuenta de ello, que
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-123
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 la autoría de sus consecuencias recae sobre él. El falso ego distribuye la
 responsabilidad: si la decisión fue aprobada por el entorno, entonces el
 entorno es coautor de las consecuencias; si la decisión fue criticada, la culpa
@@ -5240,6 +5557,15 @@ el falso ego «malo» en sentido ético— sino ontológicas: describen dos
 modos radicalmente distintos de ser sujeto, con consecuencias igualmente
 distintas para la capacidad del individuo de autodeterminarse.
 
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+131
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 XV. La angustia como condición de posibilidad del ego
 auténtico
 El argumento completo del capítulo puede cerrarse ahora desde el punto en
@@ -5251,16 +5577,6 @@ El sujeto que nunca se angustia ante sus decisiones no es un sujeto más libre
 ni más seguro; es un sujeto que ha conseguido evitar las decisiones genuinas,
 que ha instalado entre sí mismo y la posibilidad abierta el amortiguador del
 falso ego, la norma ciega, el victimismo o cualquier otra de las estrategias de
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-124
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 evasión que el capítulo ha examinado. Ha eliminado la incomodidad al
 precio de eliminar la profundidad.
 El sujeto que puede soportar la angustia —que no necesita resolverla de
@@ -5281,6 +5597,16 @@ lo que decide en ese momento es exactamente lo que es.
 Ese momento de confrontación es el nacimiento del ego auténtico. No del
 ego ya formado que los capítulos anteriores describieron como referencia;
 del ego en proceso de constituirse como tal, a través de la experiencia de ser
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+132
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 su propio origen sin intermediarios. No es un momento cómodo. Es el
 momento en que el sujeto comprende que su vida es suya: no heredada, no
 otorgada, no garantizada por ninguna instancia exterior. Suya en el sentido
@@ -5292,16 +5618,6 @@ XVI. Síntesis: el vértigo de saberse autor
 Este capítulo ha recorrido un arco que comienza en la distinción entre
 angustia y miedo —aparentemente técnica— y termina en la imagen de
 Aquiles mirando desde el Hades con la comprensión de que eligió mal.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-125
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 Entre esos dos puntos ha examinado la libertad como responsabilidad, la
 angustia como señal de que el sujeto es libre, las estrategias de evasión que el
 sujeto produce cuando no puede sostener esa señal, y el falso ego como la
@@ -5322,6 +5638,16 @@ la pérdida del ego auténtico como referencia. El sujeto que vive para su
 imagen no pierde solo la coherencia entre lo que piensa, dice y hace; pierde
 la posición desde la cual esa coherencia podría recuperarse. Aquiles en el
 Hades puede ver lo que eligió y lamentarlo; pero ya no puede elegir de otro
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+133
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 modo. El tiempo que se usa viviendo para el relato no puede recuperarse para
 vivir desde el ego.
 El tercer movimiento: la angustia soportada produce el ego auténtico. No
@@ -5334,16 +5660,6 @@ responsabilizarse de lo que produce: no porque sea más valiente, sino porque
 ha aceptado que no hay a quién culpar.
 La libertad no consiste en elegir caminos. Consiste en hacerse responsable
 del camino elegido. Y la angustia —ese vértigo de saberse autor de la propia
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-126
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 vida— no es el obstáculo de ese hacerse responsable. Es su única condición
 verdadera.
 El capítulo que sigue examina lo que ocurre cuando el sujeto ha atravesado la
@@ -5363,6 +5679,16 @@ angustia está enmarcado en una reflexión sobre la naturaleza del pecado
 original, pero su contenido filosófico es independiente de ese marco
 teológico: la angustia es el estado propio del ser que puede elegir y que aún
 no ha elegido.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+134
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 [2] Martin Heidegger, Ser y tiempo (1927), § 40. Heidegger distingue entre el
 miedo (Furcht), que tiene un ente intramundano como objeto, y la angustia
 (Angst), cuyo «ante-qué» es el propio ser-en-el-mundo del Dasein. La
@@ -5374,16 +5700,6 @@ nada (1943). La condena a la libertad expresa la idea de que la conciencia
 humana no tiene naturaleza previa que determine su conducta: existe
 primero y se define después a través de sus elecciones. La mala fe (mauvaise
 foi) es el intento de escapar de esa condena pretendiendo que se es cosa (seren-sí) cuando se es conciencia (ser-para-sí).
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-127
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 [4] Erich Fromm, El miedo a la libertad (1941). Fromm analizó cómo la
 libertad negativa —liberación de los vínculos tradicionales— produjo en la
 modernidad no sólo autonomía sino también aislamiento y angustia, que
@@ -5404,6 +5720,16 @@ yo, pero también de su alienación constitutiva: el yo es siempre, en alguna
 medida, otro.
 [7] El dilema de Aquiles aparece en la Ilíada de Homero, Canto IX, cuando
 Aquiles le dice a Odiseo que su madre Tetis le ha revelado las dos
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+135
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+TELAR DE LAS MOIRAS
+
 posibilidades de su destino. La versión más conocida del lamento de Aquiles
 desde el Hades está en la Odisea, Canto XI (la Nekyía), donde la sombra de
 Aquiles expresa preferir la vida más humilde sobre el reinado entre los
@@ -5416,16 +5742,6 @@ sobre la inmortalidad sin ella.
 [9] Erving Goffman, La presentación del yo en la vida cotidiana (1959).
 Goffman analizó la interacción social como actuación dramática en la que
 los individuos gestionan las impresiones que producen en los demás
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-128
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-TELAR DE LAS MOIRAS
-
 mediante fachadas, equipos e interacciones de escena y tras escena. Su
 contribución central es que esta actuación no es necesariamente deshonesta:
 es la forma en que los sujetos sociales se coordinan.
@@ -5447,7 +5763,7 @@ de ella hay libertad genuina.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-129
+136
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5482,7 +5798,7 @@ pregunta que se vive.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-130
+137
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5523,7 +5839,7 @@ mundo sensible, el sol es el mundo de las ideas, el filósofo liberado es el que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-131
+138
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5565,7 +5881,7 @@ examinado en sí mismo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-132
+139
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5608,7 +5924,7 @@ práctica filosófica— no era un llamado a la introspección ensimismada. Era
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-133
+140
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5649,7 +5965,7 @@ comprender no es lo mismo que causar. El sujeto que ha sido dañado conoce
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-134
+141
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5690,7 +6006,7 @@ frecuencia en términos afectivos que la hacen sonar a bondad natural. Esa
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-135
+142
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5732,7 +6048,7 @@ mutuamente legibles.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-136
+143
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5773,7 +6089,7 @@ ignorado, de que quien está frente a ti no te ve. Esa comprensión, nacida de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-137
+144
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5815,7 +6131,7 @@ convergen en este capítulo final en una formulación que las recoge todas.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-138
+145
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5858,7 +6174,7 @@ más directa: el sujeto que no se conoce a sí mismo —que vive mirando sus
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-139
+146
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5899,7 +6215,7 @@ capítulo, adquiere en este último su dimensión más plena: la responsabilidad
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-140
+147
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5940,7 +6256,7 @@ exactamente opuesto: el sujeto que ha elaborado su experiencia del daño —
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-141
+148
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5982,7 +6298,7 @@ que son propios pero que pertenecen al entorno que los instaló. Ese sujeto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-142
+149
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6024,7 +6340,7 @@ prefacio.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-143
+150
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6063,7 +6379,7 @@ ser que descubrí en mí.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-144
+151
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6102,7 +6418,7 @@ cambiando.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-145
+152
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6146,7 +6462,7 @@ experiencia subjetiva análoga a la propia.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-146
+153
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6178,7 +6494,7 @@ tradición occidental.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-147
+154
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6217,7 +6533,7 @@ condiciones de posibilidad para que el ciudadano pueda ejercer
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-148
+155
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6257,7 +6573,7 @@ sentido propio del término; tiene una imagen que el entorno debe
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-149
+156
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6296,7 +6612,7 @@ condición de la empatía genuina y del juicio político no egocéntrico.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-150
+157
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6320,7 +6636,7 @@ puede convertirse en información ética.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-151
+158
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6356,7 +6672,7 @@ VIDA: 1929–2009 CAPÍTULOS: Cap. V
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-152
+159
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6395,7 +6711,7 @@ VIDA: 1770–1831 CAPÍTULOS: Caps. VI, VIII
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-153
+160
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6434,7 +6750,7 @@ VIDA: 1613–1680 CAPÍTULOS: Cap. VIII
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-154
+161
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6473,7 +6789,7 @@ VIDA: 1921–2002 CAPÍTULOS: Cap. IV
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-155
+162
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6512,7 +6828,7 @@ VIDA: 1944– CAPÍTULOS: Cap. VII
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-156
+163
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6524,7 +6840,7 @@ VIDA: 1949– CAPÍTULOS: Cap. VIII
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-157
+164
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6557,7 +6873,7 @@ VIDA: 428–348 a.C.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-158
+165
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6593,7 +6909,7 @@ VIDA: 1588–1679
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-159
+166
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6631,7 +6947,7 @@ humanidad y de la universalizabilidad) estructura Caps. IV, VI, IX y X.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-160
+167
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6666,7 +6982,7 @@ VIDA: 1858–1918
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-161
+168
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6702,7 +7018,7 @@ VIDA: 1900–1944
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-162
+169
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6740,7 +7056,7 @@ el perdón, en Cap. VII; otras referencias aparecen en Caps. III, VI y X.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-163
+170
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6776,7 +7092,7 @@ VIDA: 1913–2005
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-164
+171
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6813,7 +7129,7 @@ VIDA: 1930–2002
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-165
+172
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6851,7 +7167,7 @@ retributiva aparece en Cap. VII.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-166
+173
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6876,6 +7192,6 @@ peligroso es el eje de Cap. VIII.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-167
+174
 
 
