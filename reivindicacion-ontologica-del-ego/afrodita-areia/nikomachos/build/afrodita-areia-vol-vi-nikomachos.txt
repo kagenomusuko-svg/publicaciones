@@ -3250,13 +3250,14 @@ NIKOMACHOS
 
 38
 
-La muerte civil (mors civilis) en el derecho medieval y moderno: el
-individuo condenado a ciertas penas graves — destierro perpetuo, esclavitud
-de galeras, profesión religiosa irrevocable — perdía su personalidad jurídica
-civil. No podía contraer matrimonio, no podía heredar, no podía ser parte
-en juicios. Fue abolida progresivamente en Europa durante el siglo XIX. Para
-su historia, véase Coke, Edward, Institutes of the Lawes of England (1628), y
-la discusión moderna en Goffman, Erving, Asylums (1961).
+La muerte civil (mors civilis) en el derecho medieval y moderno privaba
+al individuo de su personalidad jurídica civil y podía acompañar ciertas
+penas graves. En Inglaterra, véase Coke, Edward, Institutes of the Lawes of
+England (1628). En Francia, la institución fue abolida por la ley de 31 de
+mayo de 1854 (Sénat, «Loi du 31 mai 1854 portant abolition de la mort
+civile», sección «Historique de la loi»). Para la dimensión sociológica del
+encierro y sus efectos sobre la identidad, véase Goffman, Erving, Asylums
+(1961).
 39
 
 Agamben, Giorgio, Homo Sacer: El poder soberano y la nuda vida (1995).
@@ -5576,13 +5577,17 @@ Peirce (1983).
 62
 
 Einstein, Albert, «Zur Elektrodynamik bewegter Körper» (1905),
-Annalen der Physik 17: 891-921. La relatividad especial sin ninguna
-referencia a la «naturaleza íntima» del espacio o el tiempo — solo a sus
-propiedades operacionales: cómo se relacionan las mediciones de distintos
-observadores en movimiento relativo. La confirmación empírica de la
-curvatura del espacio-tiempo por el eclipse de 1919 (observaciones de
-Eddington) es el modelo de conocimiento por efectos: no se observa la
-curvatura directamente, se observan sus efectos sobre la trayectoria de la luz.
+Annalen der Physik 17: 891-921. La relatividad especial no hace referencia a
+la «naturaleza íntima» del espacio o el tiempo, sino a sus propiedades
+operacionales: cómo se relacionan las mediciones de distintos observadores
+en movimiento relativo. Para el informe de las observaciones del eclipse de
+1919, véase Dyson, F. W., A. S. Eddington y C. Davidson, «A determination
+of the deflection of light by the Sun’s gravitational field, from observations
+made at the total eclipse of May 29, 1919», Philosophical Transactions of the
+Royal Society A 220 (1920): 291–333, https://doi.org/10.1098/rsta.1920.0009. La
+confirmación empírica de la curvatura del espacio-tiempo por el eclipse de
+1919 es el modelo de conocimiento por efectos: no se observa la curvatura
+directamente, se observan sus efectos sobre la trayectoria de la luz.
 63
 
 Sistema Internacional de Unidades (SI), Bureau International des Poids et
@@ -5607,8 +5612,6 @@ Journal of Consciousness Studies 2 (1995): 200-219. El «problema dif ícil de l
 conciencia»: por qué y cómo los procesos f ísicos dan lugar a la experiencia
 subjetiva — por qué hay algo que se siente como ser este tipo de sistema. La
 distinción entre los «problemas fáciles» (los correlatos neurales de los
-estados mentales, que la neurociencia puede estudiar) y el problema dif ícil
-(la experiencia subjetiva misma).
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5619,6 +5622,8 @@ A.C.
 
 NIKOMACHOS
 
+estados mentales, que la neurociencia puede estudiar) y el problema dif ícil
+(la experiencia subjetiva misma).
 66
 
 Platón, República, VII, 514a-521b. La alegoría de la caverna: los
@@ -5657,8 +5662,6 @@ Parte IV, Sección VI: «De la identidad personal». La búsqueda introspectiva
 del yo: «Cuando entro más íntimamente en lo que llamo yo mismo,
 siempre tropiezo con alguna percepción particular u otra, de calor o frío, de
 luz o sombra, de amor u odio, de dolor o placer. Nunca puedo atraparme a
-mí mismo en ningún momento sin una percepción, y nunca puedo observar
-nada más que la percepción».
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5669,6 +5672,8 @@ A.C.
 
 NIKOMACHOS
 
+mí mismo en ningún momento sin una percepción, y nunca puedo observar
+nada más que la percepción».
 71
 
 Hume, Tratado, I.IV.VI: «Son solo un haz o colección de diferentes
