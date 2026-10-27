@@ -1,6 +1,6 @@
 {
   "pdf": "el-telar-de-las-moiras.pdf",
-  "total_pages": 189,
+  "total_pages": 180,
   "contents": [
     {
       "key": "nota-sobre-este-libro",
@@ -76,36 +76,36 @@
       "key": "cap-Capítulo IX",
       "label": "Capítulo IX · La angustia de la libertad",
       "kind": "chapter",
-      "physical_page": 123,
-      "printed_page": "111"
+      "physical_page": 122,
+      "printed_page": "110"
     },
     {
       "key": "cap-Capítulo X",
       "label": "Capítulo X · El mito como metáfora del desconocimiento de sí",
       "kind": "chapter",
-      "physical_page": 150,
-      "printed_page": "138"
+      "physical_page": 142,
+      "printed_page": "130"
     },
     {
       "key": "glosario",
       "label": "Glosario de conceptos clave",
       "kind": "appendix",
-      "physical_page": 169,
-      "printed_page": "157"
+      "physical_page": 160,
+      "printed_page": "148"
     },
     {
       "key": "ap-indice-de-autores-citados",
       "label": "APÉNDICE I · Índice de autores citados",
       "kind": "appendix",
-      "physical_page": 173,
-      "printed_page": "161"
+      "physical_page": 164,
+      "printed_page": "152"
     },
     {
       "key": "ap-cronologia-de-los-filosofos-referenciados",
       "label": "APÉNDICE II · Cronología de los filósofos referenciados",
       "kind": "appendix",
-      "physical_page": 179,
-      "printed_page": "167"
+      "physical_page": 170,
+      "printed_page": "158"
     }
   ]
 }
