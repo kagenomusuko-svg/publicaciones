@@ -824,8 +824,8 @@ Hay una tentación simétrica a la que ya se describió respecto del Caos, y que
 reaparece cada vez que la filosof ía intenta hablar con honestidad sobre lo
 que no es.
 La tentación dice: el no-ser es el dominio de las cosas que no existen — los
-objetos imposibles, los seres ficticios antes de ser creados, los estados de
-affairs que nunca se actualicen. Como si el ser y el no-ser fueran dos campos
+objetos imposibles, los seres ficticios antes de ser creados, los estados de cosas
+que nunca se actualizan. Como si el ser y el no-ser fueran dos campos
 adyacentes con una frontera entre ellos, y lo que hay en el campo del no-ser
 fueran todos los objetos ausentes, todos los seres posibles que todavía no han
 colapsado, todas las determinaciones que nunca se actualizarán.
@@ -2898,10 +2898,6 @@ discurso del declarante — y esa modificación puede tener consecuencias
 enormes sobre cómo Pedro es tratado, sin que eso equivalga a haber
 modificado lo que Pedro es.
 
-VI. La contradicción del déficit ontológico
-Aquí el argumento puede hacerse más preciso usando la herramienta que el
-norte editorial llama tautología euclidiana: la auditoría de las condiciones
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2911,8 +2907,10 @@ A.C.
 
 NIKOMACHOS
 
-que una operación tiene que preservar para seguir siendo predicada como
-aquello que afirma ser.
+VI. La contradicción del déficit ontológico
+Aquí el argumento puede hacerse más preciso usando la tautología
+euclidiana: la auditoría de las condiciones que una operación tiene que
+preservar para seguir siendo predicada como aquello que afirma ser.
 La operación del déficit ontológico dice: X es deficitario respecto de ser lo
 que es. Tiene menos ser del que debería tener.
 Para que esa operación tenga sentido, tiene que satisfacer ciertas
@@ -2940,9 +2938,6 @@ del modo de ser, no en la escala del ser qua ser.
 Aquí el argumento del sum no necesita elegir entre esos criterios ni
 proponer uno propio. Solo necesita mostrar que cualquier criterio de ser
 pleno que se aplique al ser qua ser produce la misma contradicción: o excluye
-seres que son — en cuyo caso aplica un criterio de modo de ser como si fuera
-criterio del ser en tanto ser —, o no excluye a nadie — en cuyo caso no
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2952,6 +2947,8 @@ A.C.
 
 NIKOMACHOS
 
+seres que son — en cuyo caso aplica un criterio de modo de ser como si fuera
+criterio del ser en tanto ser —, o no excluye a nadie — en cuyo caso no
 produce ninguna jerarquía ontológica y la pregunta por el déficit ontológico
 no tiene objeto.
 La contradicción del déficit ontológico no es una paradoja accidental. Es la
@@ -2981,8 +2978,6 @@ Segunda posibilidad: retirar la dignidad de X disuelve a X — X deja de ser lo
 que era porque la dignidad era parte constitutiva de lo que X era, y sin ella X
 ya no es X. En ese caso, el embargo de dignidad es la destrucción del ser que
 intenta embargar. Y si eso es lo que el embargo produce, entonces quien
-embarga a Pedro — quien le retira la dignidad de ser humano — está
-destruyendo al ser de Pedro. Pero Pedro sigue siendo. Pedro sigue siendo
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2993,6 +2988,8 @@ A.C.
 
 NIKOMACHOS
 
+embarga a Pedro — quien le retira la dignidad de ser humano — está
+destruyendo al ser de Pedro. Pero Pedro sigue siendo. Pedro sigue siendo
 roca, o árbol, o humano, o lo que fuera que era antes del embargo. El
 embargo no lo ha destruido. Ha fallado en su objetivo.
 En ninguna de las dos posibilidades el embargo produce lo que pretende
@@ -3022,7 +3019,6 @@ de un ciudadano que podía llegarse hasta la pérdida total de la ciudadanía, l
 libertad y la familia. 37 El ciudadano que sufría la capitis deminutio maxima
 era jurídicamente equivalente a quien nunca había sido ciudadano — perdía
 todos los derechos, todas las posiciones, todas las relaciones jurídicas que
-dependían de su estatus. No dejaba de ser humano en el sentido biológico.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3033,6 +3029,7 @@ A.C.
 
 NIKOMACHOS
 
+dependían de su estatus. No dejaba de ser humano en el sentido biológico.
 Pero era tratado como si hubiera dejado de ser el tipo de ser al que le
 correspondían esas condiciones.
 La muerte civil — que el derecho medieval y moderno temprano aplicó a
@@ -4419,9 +4416,10 @@ sino la pérdida del objeto que el concepto pretendía nombrar.
 En geometría euclidiana, si se niegan los postulados que definen el plano —
 si se acepta, por ejemplo, que por un punto exterior a una recta pasan
 múltiples paralelas —, no se obtiene una geometría plana defectuosa. Se
-obtiene otra geometría: la no-euclidiana. La negación de un postulado
+obtiene otra geometría: la no euclidiana. La negación de un postulado
 constitutivo no produce el objeto original con un defecto — produce otro
-objeto. Riemann no obtuvo una geometría plana imperfecta cuando negó el
+objeto. Riemann no obtuvo una geometría plana imperfecta al negar el
+postulado de las paralelas: desarrolló una geometría no euclidiana que puede
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4432,8 +4430,9 @@ A.C.
 
 NIKOMACHOS
 
-postulado de las paralelas: obtuvo la geometría que describe la superficie de
-una esfera. 54
+ilustrarse con la superficie de una esfera. La alternativa hiperbólica admite
+varias paralelas por un punto exterior a una recta; la elíptica o esférica no
+admite ninguna. 54
 Lo mismo ocurre con cualquier operación que tiene condiciones
 constitutivas. La predicación tiene condiciones constitutivas — las que los
 capítulos anteriores fueron construyendo. Si esas condiciones no se
@@ -4462,7 +4461,6 @@ embargado requiere que haya instrumentos que operen a ese nivel. El
 embargo pretende retirar algo que pertenece al ser qua ser del ser que
 embarga. Para que eso sea posible, el embargo necesita acceso al ser qua ser
 del embargado — acceso que ningún predicador que también sea puede
-tener. Sin ese acceso como condición satisfecha, el embargo no es lo que
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4473,6 +4471,7 @@ A.C.
 
 NIKOMACHOS
 
+tener. Sin ese acceso como condición satisfecha, el embargo no es lo que
 pretende ser: es una operación que actúa como si pudiera hacer algo que sus
 propias condiciones no le permiten hacer.
 Esa es la auditoría euclidiana del embargo: no «el embargo está prohibido»
@@ -4502,8 +4501,6 @@ La frontera parmenídea es un uso legítimo de la tautología euclidiana. «El
 ser es; el no-ser no es» no es una descripción empírica de lo que existe: es la
 explicitación de las condiciones bajo las cuales algo puede ser predicado. Si el
 ser pudiera devenir no-ser y volver a ser, la predicación perdería su objeto
-antes de terminar — y sin objeto, la predicación no es predicación. La
-frontera explicita la condición que la predicación requiere para ser posible.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4514,6 +4511,8 @@ A.C.
 
 NIKOMACHOS
 
+antes de terminar — y sin objeto, la predicación no es predicación. La
+frontera explicita la condición que la predicación requiere para ser posible.
 En todos esos casos, la tautología euclidiana funciona como auditora
 interna del concepto: no como instrumento para descubrir verdades sobre el
 mundo, sino como instrumento para asegurar que el concepto siga siendo el
@@ -4781,12 +4780,13 @@ Descartes, Spinoza (que organizó la Ética more geometrico) y Leibniz.
 
 Riemann, Georg Friedrich Bernhard, «Sobre las hipótesis que subyacen a
 la geometría» (conferencia de 1854, publicada póstumamente en 1868). La
-negación del postulado de las paralelas de Euclides produce la geometría
-riemanniana, en la que por un punto exterior a una recta no pasan rectas
-paralelas. Esa geometría no es una geometría euclidiana defectuosa: es una
-geometría diferente con sus propias propiedades consistentes, y es la que
-describe la curvatura del espacio-tiempo en la relatividad general de
-Einstein.
+geometría hiperbólica admite varias paralelas por un punto exterior a una
+recta; la geometría elíptica o esférica no admite ninguna. Ambas son
+alternativas no euclidianas, con propiedades propias. La geometría de la
+superficie esférica sirve como modelo de la alternativa elíptica. La
+relatividad general describe el espacio-tiempo mediante una geometría
+lorentziana o seudorriemanniana, no mediante una métrica riemanniana
+positiva definida.
 55
 
 Platón, Fedón, 102a-107b. El argumento final por la inmortalidad del
@@ -5751,7 +5751,7 @@ producido por la conjunción constante, ¿cómo puede fundarse la
 imputación sobre la causalidad? Si no observamos la conexión necesaria
 entre el acto de Pedro y sus consecuencias — si solo observamos que ciertos
 tipos de actos han sido seguidos de ciertos tipos de consecuencias en la
-experiencia pasada —, ¿en qué sentido Pedro «causó» lo que hizo? 1
+experiencia pasada —, ¿en qué sentido Pedro «causó» lo que hizo? 72
 Esa complicación no destruye el argumento del libro. La responde — pero
 la respuesta requiere el aparato de Caos, que esta Parte IV no ha incorporado
 todavía. Por ahora, lo que importa es que Hume fija el primer límite del
@@ -5822,7 +5822,7 @@ coincidencia directamente. Tenemos representaciones y tenemos el mundo
 Kant invirtió la pregunta. En lugar de preguntar cómo el conocimiento se
 ajusta al mundo, preguntó cómo el mundo se ajusta al conocimiento — o
 más precisamente, cómo los objetos de la experiencia se ajustan a las
-condiciones que el sujeto impone a cualquier experiencia posible. 2 La
+condiciones que el sujeto impone a cualquier experiencia posible. 73 La
 respuesta: los objetos que podemos conocer son los objetos que comparecen
 bajo las formas de la intuición sensible — espacio y tiempo — y bajo las
 categorías del entendimiento — causalidad, sustancia, unidad, pluralidad,
@@ -5936,7 +5936,7 @@ no sensible — una forma de conocimiento que no depende de las
 condiciones del espacio y el tiempo. Kant es explícito en que los seres
 humanos no tienen esa intuición intelectual. El noúmeno en sentido
 positivo no es un objeto de conocimiento para nosotros: es el concepto de un
-tipo de conocimiento que no tenemos. 3
+tipo de conocimiento que no tenemos. 74
 La función del noúmeno en el sistema kantiano es exactamente la de la
 frontera del barranco que el Capítulo III describió respecto de la dignidad:
 no prescribe que el conocimiento no deba intentar cruzar ese límite.
@@ -6061,7 +6061,7 @@ que saber, sabremos» — aplicada al ser humano concreto. Una pretensión
 audaz que, en el dominio del conocimiento del mundo f ísico, produjo una
 investigación fenomenal durante medio siglo. Gödel le respondió que hay
 proposiciones verdaderas que el sistema no puede demostrar dentro de sí
-mismo. 4 El límite kantiano le responde, con diferente vocabulario pero
+mismo. 75 El límite kantiano le responde, con diferente vocabulario pero
 estructura análoga, que hay un nivel del ser que el conocimiento no puede
 alcanzar desde adentro del ser.
 
@@ -6109,7 +6109,7 @@ En la filosof ía práctica kantiana, el sujeto moral no es el sujeto fenoménic
 causalidad, determinado por su historia, su biología, sus circunstancias. El
 sujeto moral es el sujeto noumenal: el Pedro como cosa-en-sí, libre de las
 cadenas de la causalidad fenoménica, capaz de determinarse por la razón
-pura práctica. 5
+pura práctica. 76
 La distinción es necesaria para el proyecto ético kantiano. Si Pedro es solo
 fenómeno — solo un evento en la cadena causal determinada por
 antecedentes —, entonces Pedro no tiene libertad, y sin libertad no hay
@@ -6140,8 +6140,8 @@ criminal es responsable de sus actos porque algo en él — el sujeto inteligibl
 simplemente como el resultado de causas previas. La imputabilidad tiene
 una base que el determinismo fenoménico no puede disolver.
 Pero la construcción tiene un costo que el propio sistema kantiano no puede
-asumir sin contradicción — y aquí comienza el movimiento "Kant contra
-Kant".
+asumir sin contradicción — y aquí comienza el movimiento «Kant contra
+Kant».
 
 XII. Kant contra Kant
 La Crítica de la razón pura establece con toda la claridad que el sistema
@@ -6151,7 +6151,7 @@ No tenemos intuición intelectual. Todo nuestro conocimiento del mundo
 opera bajo las condiciones de la intuición sensible — espacio y tiempo — y
 las categorías del entendimiento. El noúmeno, para nosotros, es un
 concepto límite: el concepto de aquello que está más allá de las condiciones
-de nuestra experiencia posible. Puede pensarse; no puede conocerse. 6
+de nuestra experiencia posible. Puede pensarse; no puede conocerse. 77
 La Crítica de la razón práctica necesita que el sujeto inteligible — el sujeto
 como noúmeno, libre de la determinación fenoménica — sea no solo
 pensable sino activo. El imperativo categórico se dirige al sujeto inteligible y
@@ -6178,13 +6178,13 @@ sabe entonces la razón práctica lo que el sujeto inteligible eligió? ¿Con qu
 instrumento la imputabilidad moral accede al Pedro-como-noúmeno que
 eligió?
 Kant respondió que la imputabilidad moral no necesita conocer la cosa-ensí de Pedro — solo necesita presuponer que Pedro, en cuanto ser racional,
-tiene la capacidad de actuar por la ley moral. 7 La imputabilidad es práctica,
+tiene la capacidad de actuar por la ley moral. 78 La imputabilidad es práctica,
 no teórica: no afirma conocer el noúmeno de Pedro sino postular que Pedro,
 en cuanto racional, es el tipo de ser al que la ley moral puede dirigirse. La
 libertad trascendental no es un hecho del mundo fenoménico — es un
 postulado de la razón práctica, necesario para que la ética tenga sentido.
 La defensa kantiana es sofisticada y ha sido elaborada por sus intérpretes más
-cuidadosos durante dos siglos. El movimiento "Kant contra Kant" de este
+cuidadosos durante dos siglos. El movimiento «Kant contra Kant» de este
 libro no la ignora: le concede su mejor versión y pregunta qué ocurre
 después.
 
@@ -6213,7 +6213,7 @@ el momento M. No dice nada sobre el «carácter inteligible» de Pedro —
 sobre la estructura noumenal de Pedro como sujeto moral específico.
 Pero en la filosof ía práctica kantiana, especialmente en la Metaf ísica de las
 costumbres, el carácter inteligible empieza a hacer trabajo predicativo
-específico. 8 El carácter inteligible de Pedro — la estructura de su voluntad
+específico. 79 El carácter inteligible de Pedro — la estructura de su voluntad
 como noúmeno — es lo que hace a Pedro responsable de sus actos
 específicos. No el postulado general de que los seres racionales pueden actuar
 por la ley moral, sino la predicación específica de que Pedro, como
@@ -6233,7 +6233,7 @@ problema al nivel del sujeto en general, pero deja abierto el problema al
 nivel del sujeto específico. El postulado dice que los seres racionales pueden
 ser libres. No dice que Pedro fue libre en el momento M de hacer lo que
 hizo. Para decir eso, necesitaría acceso al noúmeno de Pedro en ese
-momento — y ese acceso no está disponible. 9
+momento — y ese acceso no está disponible. 80
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6245,7 +6245,7 @@ A.C.
 NIKOMACHOS
 
 XIV. La razón que ya había puesto el límite
-El movimiento "Kant contra Kant" no es una refutación del sistema
+El movimiento «Kant contra Kant» no es una refutación del sistema
 kantiano. Es la aplicación de los instrumentos de la Crítica de la razón pura
 al dominio en el que la Crítica de la razón práctica opera — con la
 consecuencia de que el límite que la primera estableció aparece dentro del
@@ -6344,7 +6344,7 @@ responsabilidad, la imputación. Ninguna de esas operaciones requiere
 predicar del ser qua ser del agente. Y ninguna de ellas se atenúa por no
 hacerlo.
 
-1
+72
 
 Hume, David, Tratado sobre la naturaleza humana (1739-1740), Libro I,
 Parte III, Sección XIV: «De la idea de conexión necesaria». La causalidad
@@ -6355,7 +6355,7 @@ libertad y la necesidad». Hume argumenta que la libertad compatible con el
 determinismo — la libertad como ausencia de coerción externa, no como
 ausencia de determinación causal — es la única libertad que importa para la
 responsabilidad moral.
-2
+73
 
 Kant, Immanuel, Crítica de la razón pura (1781/1787), Prefacio a la
 segunda edición, Bxvi: el giro copernicano. En lugar de que el conocimiento
@@ -6372,16 +6372,17 @@ NIKOMACHOS
 conocimiento. La «revolución en la manera de pensar» que Kant compara
 con la revolución que Copérnico produjo al poner al Sol en el centro del
 sistema solar en lugar de la Tierra.
-3
+74
 
-Kant, Crítica de la razón pura, A235-260/B294-315: «Del fundamento de la
-distinción de todos los objetos en fenómenos y noúmenos». El noúmeno en
-sentido negativo como concepto límite: el objeto en la medida en que no es
-objeto de la intuición sensible. El noúmeno en sentido positivo como objeto
-de una intuición intelectual no sensible: un tipo de conocimiento que los
-seres humanos no tienen. Allison, Henry E., Kant's Transcendental Idealism
-(1983), cap. 14, ofrece la interpretación más cuidadosa de la distinción.
-4
+Kant, Crítica de la razón pura, A235-260/B294-315: «Del fundamento de
+la distinción de todos los objetos en fenómenos y noúmenos». El noúmeno
+en sentido negativo como concepto límite: el objeto en la medida en que no
+es objeto de la intuición sensible. El noúmeno en sentido positivo como
+objeto de una intuición intelectual no sensible: un tipo de conocimiento
+que los seres humanos no tienen. Allison, Henry E., Kant's Transcendental
+Idealism (1983), cap. 14, ofrece la interpretación más cuidadosa de la
+distinción.
+75
 
 Gödel, Kurt, «Über formal unentscheidbare Sätze der Principia
 Mathematica und verwandter Systeme I» (1931). El primer teorema de
@@ -6392,7 +6393,7 @@ consistencia. La analogía con el límite kantiano no es formal — Gödel
 habla de sistemas formales, Kant de la experiencia posible — pero la
 estructura es análoga: el sistema no puede cerrarse sobre sí mismo desde
 adentro.
-5
+76
 
 Kant, Immanuel, Crítica de la razón práctica (1788), Libro I, Cap. III:
 «De los motores de la razón pura práctica». La distinción entre el sujeto
@@ -6401,14 +6402,12 @@ de actuar por la ley moral). También Fundamentación de la metafísica de
 las costumbres (1785), Sección III: «Tránsito de la metaf ísica de las
 costumbres a la Crítica de la razón pura práctica». La libertad trascendental
 como condición de posibilidad de la imputabilidad moral.
-6
+77
 
 Kant, Crítica de la razón pura, A341-405/B399-432: «La dialéctica de los
 paralogismos de la razón pura». La razón teórica no puede conocer el alma
 como cosa-en-sí — solo puede conocer los fenómenos de la experiencia
 interna. El «yo pienso» que acompaña a todas las representaciones no es el
-conocimiento de una sustancia pensante sino la conciencia formal de la
-unidad del apercepción.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6419,16 +6418,18 @@ A.C.
 
 NIKOMACHOS
 
-7
+conocimiento de una sustancia pensante sino la conciencia formal de la
+unidad del apercepción.
+78
 
-Kant, Crítica de la razón práctica, Libro II, Cap. II, §V: «La existencia de
-Dios como postulado de la razón pura práctica». La libertad, la
+Kant, Crítica de la razón práctica, Libro II, Cap. II, §V: «La existencia
+de Dios como postulado de la razón pura práctica». La libertad, la
 inmortalidad del alma y la existencia de Dios como postulados de la razón
 pura práctica — no como conocimientos teóricos sino como
 presuposiciones necesarias para que el imperativo moral tenga sentido.
 Wood, Allen W., Kant's Moral Religion (1970), cap. 1, para la distinción
 entre postulados y conocimientos.
-8
+79
 
 Kant, Immanuel, Metafísica de las costumbres (1797), Primera parte:
 «Principios metaf ísicos de la doctrina del derecho», Introducción.
@@ -6437,7 +6438,7 @@ parte: el concepto de carácter inteligible como la disposición moral
 fundamental del sujeto — la elección originaria que el noúmeno del sujeto
 hizo antes de cualquier acto fenoménico específico. Allison, Henry E.,
 Kant's Theory of Freedom (1990), caps. 6-7.
-9
+80
 
 La tensión entre la imputabilidad específica y la inaccesibilidad del
 noúmeno es el problema que la tradición kantiana llama el «factum de la
@@ -6553,8 +6554,8 @@ actualización de una de ellas, con todo el peso que la irreversibilidad del
 colapso tiene en este libro.
 Esta caracterización del acto como determinación tiene antecedentes.
 Aristóteles distinguió entre lo que es en potencia y lo que es en acto — y el
-acto es la actualización de la potencia, el paso de lo que puede ser a lo que es. 1
-Pero la caracterización de Caos que este libro hereda va más lejos que la
+acto es la actualización de la potencia, el paso de lo que puede ser a lo que
+es. 81 Pero la caracterización de Caos que este libro hereda va más lejos que la
 aristotélica: el acto no solo actualiza una potencia preexistente — produce
 una determinación que no existía antes del colapso y que no puede
 deshacerse una vez producida. No es el árbol actualizado desde la semilla —
@@ -6575,7 +6576,7 @@ NIKOMACHOS
 
 movimiento de la mano — es la primera mediación de Pedro: el momento
 donde la voluntad de Pedro se orienta y produce la determinación que
-viene. 2 Sin esa orientación, hay movimiento f ísico, hay evento — pero no
+viene. 82 Sin esa orientación, hay movimiento f ísico, hay evento — pero no
 hay acto en el sentido que la imputabilidad requiere.
 Actuar es determinarse. Y determinarse es dejar huella.
 
@@ -6594,7 +6595,7 @@ natural, el daño no querido. Lo que produce imputabilidad es exactamente
 la intersección: que quien orientó su voluntad hacia el acto sea el mismo que
 produjo el efecto en el mundo.
 Arendt vio algo importante aquí cuando distinguió entre la labor, el trabajo
-y la acción. 3 La acción es la que revela al quien — el que actúa no solo
+y la acción. 83 La acción es la que revela al quien — el que actúa no solo
 produce un resultado sino que se revela a sí mismo en el acto. El artesano que
 trabaja la madera produce una silla; el actor que habla en el ágora se revela a
 quienes lo escuchan. La acción tiene esa dimensión de revelación que el
@@ -6641,7 +6642,7 @@ contexto temporal. Y ese contexto incluye lo que el sujeto era antes del acto,
 lo que el acto colapsa en el mundo, y — en un sentido que el capítulo
 siguiente desarrollará — lo que el acto produce en el sujeto mismo.
 MacIntyre vio que los actos son inteligibles solo dentro de las narrativas en
-las que están inscritos. 4 Un acto tomado aisladamente — sin la historia del
+las que están inscritos. 84 Un acto tomado aisladamente — sin la historia del
 agente, sin la práctica en la que se inscribe, sin el horizonte de intenciones
 que lo explica — no puede comprenderse. No porque sea misterioso, sino
 porque los actos son esencialmente narrativos: su sentido depende del
@@ -6678,7 +6679,7 @@ la voluntad hacia una respuesta entre las posibles. Viktor Frankl, que observó
 ese espacio en condiciones donde casi todo lo demás había sido quitado, lo
 formuló con una precisión que ninguna circunstancia podía refutar: entre el
 estímulo y la respuesta hay un espacio, y en ese espacio está la libertad del
-hombre. 5
+hombre. 85
 Ese espacio es lo que hace al acto humano un acto en sentido pleno — lo que
 distingue la acción de la reacción, la decisión del reflejo, la responsabilidad
 del accidente. No porque el espacio sea siempre grande ni siempre
@@ -6704,7 +6705,7 @@ sine qua non: como el elemento sin el cual el colapso específico no habría
 ocurrido. El viento habría movido las hojas con independencia de cualquier
 voluntad. El acto de Pedro no habría ocurrido si no hubiera sido Pedro —
 con su trayectoria, su orientación, su primera mediación — el que lo
-produjo. 6
+produjo. 86
 Eso no requiere libertad absoluta — no requiere que Pedro haya podido
 actuar desde un vacío causal sin condiciones. Requiere solo que Pedro haya
 sido la condición necesaria del acto, lo que hace que la imputación recaiga
@@ -6820,7 +6821,7 @@ A.C.
 NIKOMACHOS
 
 Parfit argumentó que la identidad personal a lo largo del tiempo es menos
-determinada de lo que ordinariamente suponemos. 7 Si la persona que
+determinada de lo que ordinariamente suponemos. 87 Si la persona que
 cometió el crimen hace veinte años no es exactamente la misma que la que
 hoy comparece ante el tribunal — si hay solo continuidad psicológica y no
 identidad metaf ísica —, entonces la responsabilidad por el crimen pasado
@@ -6947,7 +6948,7 @@ valentía comparezca con naturalidad ante las situaciones que la requieren.
 Aristóteles lo formuló con una precisión que la psicología contemporánea
 ha confirmado en gran medida: el carácter no es innato sino formado, y se
 forma a través del ejercicio de las virtudes — a través de la repetición de
-actos que gradualmente configuran quién es el sujeto. 8
+actos que gradualmente configuran quién es el sujeto. 88
 El carácter es la forma más rica que toma la disposición cuando se la
 examina a lo largo de la trayectoria completa del sujeto. No es un predicado
 simple sino una descripción del patrón acumulativo de la integral — de
@@ -7004,7 +7005,7 @@ posición que no es la posición del sujeto que vive la trayectoria desde
 adentro. Ricoeur distinguió entre la identidad-idem — la mismidad del
 sujeto a lo largo del tiempo, lo que permanece igual — y la identidad-ipse
 — la ipseidad del sujeto, su carácter como responsable de sus promesas y sus
-actos. 9 La trayectoria que el observador externo puede reconstruir es
+actos. 89 La trayectoria que el observador externo puede reconstruir es
 principalmente la identidad-idem: los patrones que se repiten, las
 disposiciones que persisten, los rastros que el sujeto deja en el mundo. La
 identidad-ipse — el quién que el sujeto es desde adentro, el que dice «yo
@@ -7024,8 +7025,6 @@ A.C.
 NIKOMACHOS
 
 XIV. Qué puede inferirse legítimamente desde un acto
-El capítulo puede cerrarse ahora con la respuesta a la pregunta que lo
-organiza: ¿qué puede inferirse legítimamente desde un acto?
 Desde un acto — o desde la trayectoria de actos de un sujeto — puede
 inferirse legítimamente lo siguiente, declarando en cada caso la escala desde
 la que se predica y la jurisdicción de la conclusión.
@@ -7052,6 +7051,8 @@ Lo que no puede inferirse legítimamente desde un acto — ni desde la suma
 de todos los actos — es lo que el ser qua ser del sujeto es con independencia
 de las condiciones bajo las cuales comparece ante el observador. Esa
 inferencia requeriría acceso a la cosa-en-sí del sujeto, que el Capítulo VIII
+declaró inaccesible. Y sin ese acceso, la inferencia no tiene el objeto que
+pretende tener.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7062,8 +7063,6 @@ A.C.
 
 NIKOMACHOS
 
-declaró inaccesible. Y sin ese acceso, la inferencia no tiene el objeto que
-pretende tener.
 El capítulo siguiente examina exactamente el punto donde las inferencias
 legítimas se convierten en sentencia ontológica — el momento en que
 «Pedro hizo esto» cruza sin puente hacia «Pedro es, en su ser, esto». Ese
@@ -7071,7 +7070,7 @@ cruce es el que los instrumentos construidos en los capítulos anteriores
 permiten identificar con precisión. Y esa precisión no debilita la crítica: la
 hace más honesta y, por eso mismo, más dif ícil de ignorar.
 
-1
+81
 
 Aristóteles, Metafísica, IX (Θ), especialmente 1045b27-1051b2. La
 distinción entre potencia (δύναμις) y acto (ἐνέργεια/ἐντελέχεια). El acto es la
@@ -7081,7 +7080,7 @@ actualiza una potencia preexistente; el acto del sum colapsa una posibilidad
 en una determinación irreversible. La diferencia es la teleología: Aristóteles
 necesita que la potencia tienda hacia el acto; el sum no necesita esa
 dirección.
-2
+82
 
 La primera mediación como el espacio entre estímulo y respuesta es la
 terminología de Caos: El abismo del ego y la doble mediación (2026). La
@@ -7090,7 +7089,7 @@ momento donde la voluntad se orienta y el ego dice, implícitamente, «este
 acto es mío». Sin primera mediación, hay reacción o accidente —
 determinación sin imputación. La segunda mediación es el retorno del acto
 al ego que lo produjo, integrándolo a la función acumulativa del sujeto.
-3
+83
 
 Arendt, Hannah, La condición humana (1958), especialmente cap. V: «La
 acción». La distinción entre labor, trabajo y acción. La acción es la única
@@ -7098,7 +7097,12 @@ actividad que ocurre directamente entre seres humanos sin la mediación de
 objetos o materia — y en ella el agente se revela a quienes lo rodean. «Con
 palabras y acciones nos insertamos en el mundo humano.» La acción revela
 el quién — no el qué del agente.
+84
 
+MacIntyre, Alasdair, Tras la virtud (1981), cap. 15: «Las virtudes, la
+unidad de la vida humana y el concepto de tradición». Los actos son
+ininteligibles sin las narrativas en las que están inscritos: «somos los
+coautores de nuestras propias narrativas, pero nunca sus autores únicos». La
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7108,15 +7112,10 @@ A.C.
 
 NIKOMACHOS
 
-4
-
-MacIntyre, Alasdair, Tras la virtud (1981), cap. 15: «Las virtudes, la unidad
-de la vida humana y el concepto de tradición». Los actos son ininteligibles
-sin las narrativas en las que están inscritos: «somos los coautores de nuestras
-propias narrativas, pero nunca sus autores únicos». La unidad de la vida
-humana como narrativa: el concepto de identidad personal que puede
-sostenerse después de Hume y sin recurrir a la sustancia cartesiana.
-5
+unidad de la vida humana como narrativa: el concepto de identidad
+personal que puede sostenerse después de Hume y sin recurrir a la sustancia
+cartesiana.
+85
 
 Frankl, Viktor, El hombre en busca de sentido (1946). La observación de
 Frankl en los campos de concentración nazis: incluso cuando todo lo demás
@@ -7126,7 +7125,7 @@ entre el estímulo y la respuesta como el espacio de la libertad humana. No
 una libertad absoluta — la situación de los prisioneros era de coerción
 extrema — sino la libertad mínima que hace de la respuesta algo más que
 una reacción determinada.
-6
+86
 
 La condición sine qua non como base de la imputabilidad causal es la
 formulación que Caos (cap. VII) usa para responder a Hume: no se necesita
@@ -7135,7 +7134,7 @@ necesita demostrar que el sujeto fue la condición sin la cual el acto específi
 no habría ocurrido. Para el debate filosófico sobre la causalidad en la
 responsabilidad penal, véase Hart, H.L.A., y Honoré, Tony, Causation in the
 Law (1959/1985), especialmente cap. II.
-7
+87
 
 Parfit, Derek, Razones y personas (1984), Parte III: «Identidad personal».
 La identidad personal como menos determinada de lo que ordinariamente
@@ -7146,10 +7145,13 @@ responsabilidad por actos pasados podría ser también menos plena. La
 respuesta del sum: la continuidad del ego no requiere identidad metaf ísica
 sino continuidad funcional de la integral — la trayectoria acumulativa que
 conecta los actos pasados con el sujeto presente.
-8
+88
 
 Aristóteles, Ética Nicomáquea, Libro II, 1103a14-b25. La formación del
 carácter a través del hábito: «nos hacemos justos practicando actos justos, y
+valientes practicando actos valientes». El carácter virtuoso no es innato sino
+adquirido mediante la repetición de actos hasta que las disposiciones se
+incorporen como parte del quién del sujeto. Para la confirmación
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7160,12 +7162,9 @@ A.C.
 
 NIKOMACHOS
 
-valientes practicando actos valientes». El carácter virtuoso no es innato sino
-adquirido mediante la repetición de actos hasta que las disposiciones se
-incorporen como parte del quién del sujeto. Para la confirmación
 psicológica contemporánea, véase Duhigg, Charles, El poder de los hábitos
 (2012) y Baumeister, Roy, y Tierney, John, Willpower (2011).
-9
+89
 
 Ricoeur, Paul, Sí mismo como otro (1990), Estudio V-VI. La distinción
 entre identidad-idem (mismidad: lo que permanece igual a través del
@@ -7483,7 +7482,7 @@ organizado cualquier otra logística. Lo que Arendt observó en él no fue la
 banalidad de una persona inofensiva, sino la banalidad de alguien que había
 cometido crímenes masivos sin pensar — sin el pensamiento que habría
 puesto en contacto sus actos con las consecuencias reales que producían en
-personas reales. 1
+personas reales. 90
 La formulación «la banalidad del mal» fue mal entendida casi
 inmediatamente. Se la leyó como exculpación — como si Arendt estuviera
 diciendo que Eichmann no era responsable porque sus crímenes eran
@@ -7491,7 +7490,7 @@ banales. Es exactamente lo contrario. La banalidad del mal dice que los
 crímenes más extremos no requieren un ser excepcional para cometerlos —
 que la ausencia de pensamiento, la incapacidad de ponerse en el lugar de las
 víctimas, la reducción del otro a un problema logístico, son suficientes para
-producir el horror a escala industrial. 2
+producir el horror a escala industrial. 91
 Lo que Arendt mostró con esa observación es filosóficamente decisivo para
 el argumento de este libro. Si los crímenes de Eichmann no requirieron un
 monstruo para cometerse — si los produjo un hombre mediocre con
@@ -7552,13 +7551,13 @@ A.C.
 NIKOMACHOS
 
 víctimas y verdugos donde el horror producía seres que no podían
-describirse en los términos simples del bien y el mal. 3 Los Sonderkommando
-que ayudaban a los nazis a gestionar las cámaras de gas para sobrevivir unos
-meses más. Los kapos que ejercían violencia sobre otros prisioneros para
-mantener un privilegio mínimo dentro del sistema. Levi se negó a juzgarlos
-— no porque no fueran responsables, sino porque su situación era tan
-extrema que cualquier juicio formulado desde afuera tenía que reconocer
-primero que no habría podido formularse desde adentro.
+describirse en los términos simples del bien y el mal. 92 Los
+Sonderkommando que ayudaban a los nazis a gestionar las cámaras de gas
+para sobrevivir unos meses más. Los kapos que ejercían violencia sobre otros
+prisioneros para mantener un privilegio mínimo dentro del sistema. Levi se
+negó a juzgarlos — no porque no fueran responsables, sino porque su
+situación era tan extrema que cualquier juicio formulado desde afuera tenía
+que reconocer primero que no habría podido formularse desde adentro.
 La zona gris de Levi es el caso que muestra con más claridad que «humano»
 y «monstruo» no son categorías que se excluyen. Los seres de la zona gris
 eran humanos — con todas las determinaciones que el sum atribuye al ser
@@ -7613,7 +7612,7 @@ monstruo era el ser que exhibía una naturaleza que contrariaba las
 expectativas del orden natural — el ser de dos cabezas, el ser mitad humano
 mitad animal, el prodigio que anunciaba una ruptura en el orden del
 mundo. El monstruo era un signo — portento de algo más grande que él
-mismo. 4
+mismo. 93
 En el uso moral contemporáneo, «monstruo» funciona de maneras muy
 diferentes. Puede funcionar como intensificación retórica: «lo que hizo fue
 monstruoso» — donde «monstruoso» amplifica la evaluación del acto sin
@@ -7726,7 +7725,7 @@ había anticipado — crímenes contra la humanidad, crímenes de guerra,
 conspiración para cometer actos que ningún sistema previo había tipificado
 con esa escala. La tentación de declarar a los acusados fuera del dominio
 humano — de tratarlos como seres de un tipo diferente — era enorme, y en
-parte explicaría la retórica que rodeó al juicio en algunos círculos. 5
+parte explicaría la retórica que rodeó al juicio en algunos círculos. 94
 Los jueces de Nuremberg, con la notable excepción de algunos momentos
 retóricos, eligieron el camino contrario: juzgar a los acusados dentro del
 derecho — aplicarles un régimen jurídico que los trataba como seres
@@ -7822,11 +7821,11 @@ humano. Todas ellas son más sólidas — tienen un fundamento más honesto
 — si se producen dentro del dominio que él todavía ocupa.
 
 XVI. Embargo de dignidad
-El capítulo puede cerrarse ahora con la convergencia que el índice anuncia:
-dignidad, predicación, conocimiento y acto confluyen en el problema del
-juicio de la persona.
+La dignidad, la predicación, el conocimiento y el acto confluyen en el
+problema del juicio de la persona.
 La dignidad que los Capítulos III y IV establecieron dice: lo que es es digno
 de ser lo que es. Aquello que es no puede ser deficitario respecto de ser lo que
+es sin que la noción de deficiencia pierda su objeto. La dignidad no protege
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7837,7 +7836,6 @@ A.C.
 
 NIKOMACHOS
 
-es sin que la noción de deficiencia pierda su objeto. La dignidad no protege
 al agente de la crítica — protege al agente de la confusión entre predicación
 y alteración ontológica.
 La predicación que los Capítulos V y VI construyeron dice: toda predicación
@@ -7864,12 +7862,13 @@ siendo. Lo que el próximo capítulo examina es qué puede hacerse con ese ser
 que sigue siendo — qué significa la responsabilidad cuando la sentencia
 ontológica ya no es el instrumento que la funda.
 
-1
+90
 
-Arendt, Hannah, Eichmann en Jerusalén: Un informe sobre la banalidad
-del mal (1963). El relato del juicio de Adolf Eichmann en Jerusalén y la
-formulación de «la banalidad del mal» — no como descripción de
-crímenes banales sino como descripción de un modo de participar en
+Arendt, Hannah, Eichmann en Jerusalén: Un informe sobre la
+banalidad del mal (1963). El relato del juicio de Adolf Eichmann en
+Jerusalén y la formulación de «la banalidad del mal» — no como
+descripción de crímenes banales sino como descripción de un modo de
+participar en crímenes extraordinarios sin el pensamiento que pondría en
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7880,11 +7879,10 @@ A.C.
 
 NIKOMACHOS
 
-crímenes extraordinarios sin el pensamiento que pondría en contacto los
-actos con sus consecuencias reales. Para la controversia que la formulación
-generó, véase Young-Bruehl, Elisabeth, Hannah Arendt: For Love of the
-World (1982), cap. 10.
-2
+contacto los actos con sus consecuencias reales. Para la controversia que la
+formulación generó, véase Young-Bruehl, Elisabeth, Hannah Arendt: For
+Love of the World (1982), cap. 10.
+91
 
 La distinción entre la banalidad del agente y la gravedad del crimen es
 central para entender a Arendt. Ella no dice que Eichmann no fuera
@@ -7893,15 +7891,15 @@ maligna que la imagen del monstruo presupone. Para la lectura más
 cuidadosa del argumento de Arendt, véase Benhabib, Seyla, «Judgment and
 the Moral Foundations of Politics in Arendt's Thought», Political Theory
 16 (1988): 29-51.
-3
+92
 
-Levi, Primo, Los hundidos y los salvados (1986), cap. II: «La zona gris». La
-descripción de los Sonderkommando — los prisioneros que asistían a los
+Levi, Primo, Los hundidos y los salvados (1986), cap. II: «La zona gris».
+La descripción de los Sonderkommando — los prisioneros que asistían a los
 nazis en la gestión de las cámaras de gas — y la negativa de Levi a juzgarlos
 desde afuera: «no me siento capaz de juzgar, y me abstengo de juzgar». La
 zona gris como el espacio donde las categorías morales ordinarias se vuelven
 insuficientes sin dejar de ser necesarias.
-4
+93
 
 Para la historia del monstruo como figura cultural y filosófica, véase
 Daston, Lorraine, y Park, Katharine, Wonders and the Order of Nature,
@@ -7909,7 +7907,7 @@ Daston, Lorraine, y Park, Katharine, Wonders and the Order of Nature,
 (augurio de desastre), como error de la naturaleza (fracaso de la forma),
 como maravilla (signo de la plenitud del poder divino). La secularización
 del concepto y su migración hacia el lenguaje moral moderno.
-5
+94
 
 Para el juicio de Nuremberg como problema filosófico y jurídico, véase
 Jaspers, Karl, El problema de la culpa (1946) — escrito en 1945, antes de que
@@ -8061,7 +8059,7 @@ dignidad no pierde su dignidad: pierde la descripción, que ya no tiene el
 objeto que pretendía tener.
 Hart distinguió entre las reglas que establecen obligaciones (reglas
 primarias) y las reglas que confieren poderes para crear, modificar o
-extinguir las reglas primarias (reglas secundarias). 1 La distinción hartiana
+extinguir las reglas primarias (reglas secundarias). 95 La distinción hartiana
 opera dentro del dominio normativo — dentro del sistema de reglas que el
 derecho instituye. Lo que la distinción entre ley constitutiva y norma
 prescriptiva añade es un nivel más anterior: antes de que haya reglas
@@ -8078,7 +8076,7 @@ orientación que el ser no tiene por sí mismo. Puede cumplirse o incumplirse.
 Puede sancionarse cuando se incumple. Puede modificarse, derogarse,
 revocarse.
 Kelsen formalizó la norma prescriptiva como un juicio de deber-ser: la
-norma no dice que algo es sino que algo debe ser. 2 La norma penal no dice
+norma no dice que algo es sino que algo debe ser. 96 La norma penal no dice
 que el homicidio ocurre — describe el homicidio y establece que debe
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8101,7 +8099,7 @@ incumplirla en el sentido que la norma requiere. Puede satisfacer o no
 satisfacer los predicados que la norma describe — puede causar el daño que
 la norma tipifica — sin ser el destinatario de la norma en el sentido que la
 imputabilidad requiere.
-Von Wright distinguió entre normas técnicas y normas prescriptivas. 3 Las
+Von Wright distinguió entre normas técnicas y normas prescriptivas. 97 Las
 normas técnicas dicen cómo obtener un resultado: «si quieres X, haz Y».
 Las normas prescriptivas dicen qué debe hacerse: «debes Y» o «no debes
 Z». Las normas técnicas no tienen destinatarios en el sentido normativo —
@@ -8179,7 +8177,7 @@ Aquí Hume reaparece en su función más específica para el argumento de la
 responsabilidad: la crítica a la causalidad como conexión necesaria.
 Hume observó que nunca observamos la conexión necesaria entre causa y
 efecto — solo observamos la conjunción constante de ciertos tipos de
-eventos. 4 De esa conjunción constante, la mente produce por hábito la
+eventos. 98 De esa conjunción constante, la mente produce por hábito la
 expectativa de que la conexión se mantendrá. Pero la conexión necesaria —
 la fuerza o poder que une causa y efecto de manera que el efecto no pueda
 dejar de seguirse — no es nunca directamente observable.
@@ -8335,7 +8333,7 @@ NIKOMACHOS
 
 Hart formuló el principio con una precisión que ningún sistema normativo
 moderno puede ignorar: donde no hay posibilidad de obedecer, no hay
-obligación de obedecer. 5 El tornado no puede obedecer ni desobedecer —
+obligación de obedecer. 99 El tornado no puede obedecer ni desobedecer —
 no porque le falte la voluntad de hacerlo, sino porque obedecer y
 desobedecer son conceptos que presuponen exactamente el tipo de
 orientación de la voluntad que el tornado no tiene. Aplicar esos conceptos al
@@ -8391,7 +8389,7 @@ conecta al agente con sus actos de una manera que el sistema normativo
 puede tomar como objeto.
 En la tradición jurídica continental, la imputabilidad ha sido asociada
 principalmente con la capacidad de comprender el significado de los propios
-actos y de actuar de conformidad con esa comprensión. 6 Un agente es
+actos y de actuar de conformidad con esa comprensión. 100 Un agente es
 imputable cuando puede comprender que lo que hace está tipificado por el
 sistema normativo, puede orientar su conducta en función de esa
 comprensión, y puede ser considerado responsable de la divergencia entre su
@@ -8580,7 +8578,7 @@ A.C.
 
 NIKOMACHOS
 
-1
+95
 
 Hart, H.L.A., El concepto de derecho (1961), especialmente cap. V: «El
 derecho como la unión de reglas primarias y secundarias». Las reglas
@@ -8589,17 +8587,17 @@ secundarias confieren potestades para crear, modificar y extinguir las reglas
 primarias, o para adjudicar sobre su aplicación. La regla de reconocimiento
 es la regla secundaria última que identifica las fuentes de derecho válido
 dentro del sistema.
-2
+96
 
-Kelsen, Hans, Teoría pura del derecho (1934/1960), especialmente §§4-6. La
-norma como juicio de deber-ser (Sollen): a diferencia de las leyes causales
+Kelsen, Hans, Teoría pura del derecho (1934/1960), especialmente §§4-6.
+La norma como juicio de deber-ser (Sollen): a diferencia de las leyes causales
 (es), las normas establecen que algo debe ser. La sanción como el elemento
 que distingue al derecho de otros sistemas normativos: la norma jurídica
 dice que si ocurre el acto antijurídico, debe aplicarse la sanción. Para la
 relación entre Kelsen y el problema de la imputación, véase la introducción
 de Ruiz Manero, Juan, a la edición castellana de la Teoría pura del derecho
 (UNAM, 1979).
-3
+97
 
 Von Wright, Georg Henrik, Norma y acción: Una investigación lógica
 (1963), especialmente cap. V: «Las normas técnicas y los imperativos
@@ -8607,7 +8605,7 @@ anankásticos». La distinción entre normas técnicas («si quieres X, haz Y»)
 y normas prescriptivas («debes/no debes Y»). También Deontic Logic (1951):
 la lógica de los operadores normativos (obligatorio, permitido, prohibido) y
 sus condiciones de aplicabilidad.
-4
+98
 
 Hume, David, Tratado sobre la naturaleza humana (1739-1740), Libro I,
 Parte III, Sección XIV: «De la idea de conexión necesaria». El argumento
@@ -8616,11 +8614,11 @@ expectativa de la conexión, pero esa expectativa no es observación de
 ninguna conexión necesaria. Para la respuesta del sistema de Caos a este
 argumento, véase Caos: El abismo del ego y la doble mediación (2026), cap.
 VII: «El ego como condición mínima causal».
-5
+99
 
-Hart, El concepto de derecho, cap. IX: «Derecho y moral». El principio de
-que la obligación de obedecer presupone la posibilidad de obedecer es uno de
-los principios mínimos de justicia natural que cualquier sistema jurídico
+Hart, El concepto de derecho, cap. IX: «Derecho y moral». El principio
+de que la obligación de obedecer presupone la posibilidad de obedecer es uno
+de los principios mínimos de justicia natural que cualquier sistema jurídico
 tiene que satisfacer para ser un sistema genuino. Para la discusión sobre
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -8634,14 +8632,14 @@ NIKOMACHOS
 
 capacidad y responsabilidad penal, véase cap. VII: «El formalismo y el
 escepticismo ante las reglas».
-6
+100
 
-La imputabilidad como capacidad de comprender y querer es la definición
-estándar en el derecho penal continental. Código Penal español, art. 20;
-Código Penal mexicano, art. 15; Código Penal alemán (StGB), §20. Para la
-fundamentación filosófica, véase Jakobs, Günther, Derecho penal: Parte
-general. Fundamentos y teoría de la imputación (1991/1995), especialmente
-§§17-18.
+La imputabilidad como capacidad de comprender y querer es la
+definición estándar en el derecho penal continental. Código Penal español,
+art. 20; Código Penal mexicano, art. 15; Código Penal alemán (StGB), §20.
+Para la fundamentación filosófica, véase Jakobs, Günther, Derecho penal:
+Parte general. Fundamentos y teoría de la imputación (1991/1995),
+especialmente §§17-18.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -9233,7 +9231,7 @@ Hay una imagen en Una temporada en el infierno de Rimbaud que hace
 visible la estructura del problema de jurisdicción con una economía que
 ninguna formulación directa iguala.
 Rimbaud escribe: «¡Qué orgullo! Ahora sé que la vida de los paganos era ya
-demasiado amplia para el infierno.» 1
+demasiado amplia para el infierno.» 101
 El infierno cristiano es un sistema punitivo — un régimen de consecuencias
 establecido por una economía moral específica: el pecado, la gracia, la
 redención, la condena eterna. Ese régimen tiene sus propios destinatarios:
@@ -9274,8 +9272,8 @@ que puede conservar, sino el título que convierte ese poder en ejercicio
 legítimo de la coerción.
 
 XVIII. Si expulsas al sujeto, ¿qué conserva tu jurisdicción?
-La pregunta que el norte editorial fija como la que Νικόμαχος
-debe responder y que Caelus no se formuló:
+El análisis del exilio ontológico deja abierta una pregunta que Caelus no
+formuló:
 Si has retirado la condición mediante la cual fundabas el título de tu
 coerción, ¿qué conserva ahora ese título?
 La pregunta no es retórica. Tiene una estructura que el argumento puede
@@ -9399,7 +9397,7 @@ sentencia ontológica pretende.
 Y lo que no puede predicarse no necesita predicarse. La responsabilidad es
 suficiente. La dignidad permanece.
 
-1
+101
 
 Rimbaud, Arthur, Une Saison en Enfer (1873), «Adieu»: «Jadis, si je me
 souviens bien, ma vie était un festin où s'ouvraient tous les cœurs, où tous les
@@ -9426,10 +9424,6 @@ NIKOMACHOS
 
 administra, no porque su vida sea mejor sino porque es de un tipo que el
 sistema no tiene instrumentos para procesar.
-
-Νικόμαχος
-El límite de la predicación
-Ser, dignidad y responsabilidad después del noúmeno
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
