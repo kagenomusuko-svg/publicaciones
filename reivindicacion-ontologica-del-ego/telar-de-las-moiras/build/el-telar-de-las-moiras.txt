@@ -6703,7 +6703,7 @@ autor. Los capítulos se indican con numeración romana. Se incluyen todas
 las citas con función argumentativa en el cuerpo del texto o en las notas.
 
 Arendt, Hannah
-VIDA: 1906–1975 CAPÍTULOS: Caps. IV, V, VI, VII, VIII, IX, X
+VIDA: 1906–1975 CAPÍTULOS: Caps. III, IV, VI, VII, X
 
 Aristóteles
 VIDA: 384–322 a.C. CAPÍTULOS: Cap. II
@@ -6717,11 +6717,11 @@ VIDA: 477–524 CAPÍTULOS: Cap. X
 Bourdieu, Pierre
 VIDA: 1930–2002 CAPÍTULOS: Cap. VI
 
-Bowlby, John
-VIDA: 1907–1990 CAPÍTULOS: Cap. VIII
-
 Camus, Albert
 VIDA: 1913–1960 CAPÍTULOS: Cap. IX
+
+Dahrendorf, Ralf
+VIDA: 1929–2009 CAPÍTULOS: Cap. V
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6732,11 +6732,8 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-Dahrendorf, Ralf
-VIDA: 1929–2009 CAPÍTULOS: Cap. V
-
 De Beauvoir, Simone
-VIDA: 1908–1986 CAPÍTULOS: Caps. VI
+VIDA: 1908–1986 CAPÍTULOS: Caps. VI, VIII
 
 Deleuze, Gilles
 VIDA: 1925–1995 CAPÍTULOS: Cap. III
@@ -6748,19 +6745,22 @@ Dworkin, Ronald
 VIDA: 1931–2013 CAPÍTULOS: Cap. IV
 
 Dussel, Enrique
-VIDA: 1934–2023 CAPÍTULOS: Cap. V
+VIDA: 1934–2023 CAPÍTULOS: Caps. V, X
 
 Foucault, Michel
 VIDA: 1926–1984 CAPÍTULOS: Cap. VII
 
 Freud, Sigmund
-VIDA: 1856–1939 CAPÍTULOS: Caps. VII, VIII, IX
+VIDA: 1856–1939 CAPÍTULOS: Caps. II, VII
 
 Fromm, Erich
-VIDA: 1900–1980 CAPÍTULOS: Cap. IX
+VIDA: 1900–1980 CAPÍTULOS: Caps. VIII, IX
 
 Gadamer, Hans-Georg
 VIDA: 1900–2002 CAPÍTULOS: Caps. V, X
+
+Hegel, G.W.F.
+VIDA: 1770–1831 CAPÍTULOS: Caps. VI, VIII
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6771,11 +6771,8 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-Hegel, G.W.F.
-VIDA: 1770–1831 CAPÍTULOS: Cap. VIII
-
 Heidegger, Martin
-VIDA: 1889–1976 CAPÍTULOS: Cap. IX
+VIDA: 1889–1976 CAPÍTULOS: Caps. I, II, IX
 
 Heráclito
 VIDA: c. 535–475 a.C. CAPÍTULOS: Cap. II
@@ -6796,10 +6793,13 @@ Kant, Immanuel
 VIDA: 1724–1804 CAPÍTULOS: Caps. IV, VI, IX, X
 
 Kierkegaard, Søren
-VIDA: 1813–1855 CAPÍTULOS: Cap. IX
+VIDA: 1813–1855 CAPÍTULOS: Caps. IX, X
 
 Lacan, Jacques
-VIDA: 1901–1981 CAPÍTULOS: Caps. VIII, IX
+VIDA: 1901–1981 CAPÍTULOS: Cap. IX
+
+La Rochefoucauld, François de
+VIDA: 1613–1680 CAPÍTULOS: Cap. VIII
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6811,34 +6811,34 @@ A.C.
 TELAR DE LAS MOIRAS
 
 Levinas, Emmanuel
-VIDA: 1906–1995 CAPÍTULOS: Caps. III, IV
+VIDA: 1906–1995 CAPÍTULOS: Caps. III, V
 
 Locke, John
 VIDA: 1632–1704 CAPÍTULOS: Caps. II, IV
 
 Marco Aurelio
-VIDA: 121–180 CAPÍTULOS: Caps. III, V
+VIDA: 121–180 CAPÍTULOS: Caps. II, III, V
 
 Merleau-Ponty, Maurice
-VIDA: 1908–1961 CAPÍTULOS: Cap. II
-
-Neff, Kristin
-VIDA: 1966– CAPÍTULOS: Cap. VIII
+VIDA: 1908–1961 CAPÍTULOS: Caps. II, VIII
 
 Nietzsche, Friedrich
-VIDA: 1844–1900 CAPÍTULOS: Caps. III, VII, IX
+VIDA: 1844–1900 CAPÍTULOS: Caps. III, VII
 
 Nussbaum, Martha
 VIDA: 1947– CAPÍTULOS: Cap. IV
 
 Parménides
-VIDA: c. 515–450 a.C. CAPÍTULOS: Cap. II
+VIDA: c. 515–450 a.C. CAPÍTULOS: Caps. I, II
 
 Platón
-VIDA: 428–348 a.C. CAPÍTULOS: Caps. IV, X
+VIDA: 428–348 a.C. CAPÍTULOS: Cap. X
 
 Plotino
 VIDA: 204–270 CAPÍTULOS: Cap. X
+
+Rawls, John
+VIDA: 1921–2002 CAPÍTULOS: Cap. IV
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6849,14 +6849,11 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-Rawls, John
-VIDA: 1921–2002 CAPÍTULOS: Cap. IV
-
 Ricoeur, Paul
-VIDA: 1913–2005 CAPÍTULOS: Caps. VII, X
+VIDA: 1913–2005 CAPÍTULOS: Caps. I, VII, VIII, X
 
 Rousseau, Jean-Jacques
-VIDA: 1712–1778 CAPÍTULOS: Cap. IV
+VIDA: 1712–1778 CAPÍTULOS: Caps. IV, VIII
 
 Saint-Exupéry, A. de
 VIDA: 1900–1944 CAPÍTULOS: Cap. VIII
@@ -6869,6 +6866,9 @@ VIDA: 1933– CAPÍTULOS: Cap. IV
 
 Simmel, Georg
 VIDA: 1858–1918 CAPÍTULOS: Cap. V
+
+Weil, Simone
+VIDA: 1909–1943 CAPÍTULOS: Cap. VIII
 
 Winnicott, Donald
 VIDA: 1896–1971 CAPÍTULOS: Cap. VIII
@@ -6935,7 +6935,7 @@ TELAR DE LAS MOIRAS
 
 Platón
 DESCRIPCIÓN: Filósofo ateniense. La República (alegoría de la caverna) es
-el eje del Cap. X; el Menón y el Fedón aparecen en Cap. IV.
+el eje del Cap. X.
 VIDA: 384–322 a.C.
 
 Aristóteles
@@ -6977,6 +6977,11 @@ VIDA: 1596–1650
 Descartes, René
 DESCRIPCIÓN: Filósofo francés. El cogito ergo sum es examinado
 críticamente en Cap. II desde la anterioridad del ser sobre el pensamiento.
+VIDA: 1613–1680
+
+La Rochefoucauld, François de
+DESCRIPCIÓN: Escritor francés. Sus Máximas aparecen mencionadas en
+Cap. VIII en relación con el amor propio.
 VIDA: 1632–1704
 
 Locke, John
@@ -6993,9 +6998,6 @@ Kant, Immanuel
 DESCRIPCIÓN: Filósofo prusiano. El imperativo categórico (fórmula de la
 humanidad y de la universalizabilidad) estructura Caps. IV, VI, IX y X.
 
-Siglo XIX
-VIDA: 1770–1831
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7005,9 +7007,14 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+Siglo XVIII
+VIDA: 1770–1831
+
 Hegel, G.W.F.
 DESCRIPCIÓN: Filósofo alemán. La dialéctica del reconocimiento (amo y
 esclavo) es convocada en Cap. VIII sobre el amor y la intersubjetividad.
+
+Siglo XIX
 VIDA: 1813–1855
 
 Kierkegaard, Søren
@@ -7016,9 +7023,8 @@ filosófico central del Cap. IX.
 VIDA: 1844–1900
 
 Nietzsche, Friedrich
-DESCRIPCIÓN: Filósofo alemán. El eterno retorno (Cap. III), el
-resentimiento (Cap. VII) y la voluntad de potencia (Cap. IX) articulan tres
-momentos del libro.
+DESCRIPCIÓN: Filósofo alemán. El eterno retorno (Cap. III) y el
+resentimiento (Cap. VII) articulan dos momentos del libro.
 VIDA: 1856–1939
 
 Freud, Sigmund
@@ -7026,13 +7032,6 @@ DESCRIPCIÓN: Médico y fundador del psicoanálisis. El malestar en la
 cultura (Cap. VII), el enamoramiento (Cap. VIII) y el duelo (Caps. VIII, IX)
 son convocados en distintos momentos.
 VIDA: 1858–1918
-
-Simmel, Georg
-DESCRIPCIÓN: Sociólogo alemán. Su teoría del conflicto como forma de
-socialización estructura el argumento del Cap. V.
-
-Siglo XX — primera mitad
-VIDA: 1859–1938
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7042,6 +7041,13 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Simmel, Georg
+DESCRIPCIÓN: Sociólogo alemán. Su teoría del conflicto como forma de
+socialización estructura el argumento del Cap. V.
+
+Siglos XIX–XX — primera mitad
+VIDA: 1859–1938
 
 Husserl, Edmund
 DESCRIPCIÓN: Fundador de la fenomenología. Las Meditaciones
@@ -7055,22 +7061,13 @@ VIDA: 1889–1976
 
 Heidegger, Martin
 DESCRIPCIÓN: Filósofo alemán. La distinción angustia/miedo de Ser y
-tiempo es central en Cap. IX.
+tiempo aparece en Caps. I, II y IX.
 VIDA: 1896–1971
 
 Winnicott, Donald
 DESCRIPCIÓN: Psicoanalista británico. El concepto de ambiente
 facilitador aparece en Cap. VIII.
 VIDA: 1900–1944
-
-Saint-Exupéry, A. de
-DESCRIPCIÓN: Escritor francés. El principito (la domesticación del zorro)
-es el eje simbólico del apartado sobre el vínculo en Cap. VIII.
-VIDA: 1900–1980
-
-Fromm, Erich
-DESCRIPCIÓN: Psicoanalista alemán. El miedo a la libertad estructura el
-argumento sobre la evasión de la angustia en Cap. IX.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7081,6 +7078,14 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+Saint-Exupéry, A. de
+DESCRIPCIÓN: Escritor francés. El principito (la domesticación del zorro)
+es el eje simbólico del apartado sobre el vínculo en Cap. VIII.
+VIDA: 1900–1980
+
+Fromm, Erich
+DESCRIPCIÓN: Psicoanalista alemán. El miedo a la libertad estructura el
+argumento sobre la evasión de la angustia en Cap. IX.
 VIDA: 1900–2002
 
 Gadamer, Hans-Georg
@@ -7090,7 +7095,7 @@ VIDA: 1901–1981
 
 Lacan, Jacques
 DESCRIPCIÓN: Psicoanalista francés. El estadio del espejo y el objeto
-pequeño a aparecen en Caps. VIII y IX.
+pequeño a aparecen en Cap. IX.
 VIDA: 1905–1980
 
 Sartre, Jean-Paul
@@ -7099,15 +7104,8 @@ articulan el argumento de Caps. III y IX.
 VIDA: 1906–1975
 
 Arendt, Hannah
-DESCRIPCIÓN: Filósofa política. La acción, la banalidad del mal, el juicio,
-la promesa y el perdón son convocados en múltiples capítulos (IV, V, VI, VII,
-VIII, IX, X).
-VIDA: 1906–1995
-
-Levinas, Emmanuel
-DESCRIPCIÓN: Filósofo lituano-francés. La irreductibilidad del rostro del
-otro articula Caps. III y IV.
-VIDA: 1907–1990
+DESCRIPCIÓN: Filósofa política. La acción y el juicio aparecen en Cap. IV;
+el perdón, en Cap. VII; otras referencias aparecen en Caps. III, VI y X.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7118,9 +7116,11 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
-Bowlby, John
-DESCRIPCIÓN: Psiquiatra británico. La teoría del apego estructura el
-argumento sobre el amor en Cap. VIII.
+VIDA: 1906–1995
+
+Levinas, Emmanuel
+DESCRIPCIÓN: Filósofo lituano-francés. La irreductibilidad del rostro del
+otro articula Caps. III y V.
 VIDA: 1908–1961
 
 Merleau-Ponty, Maurice
@@ -7129,21 +7129,19 @@ la reflexión aparece en Cap. II.
 VIDA: 1908–1986
 
 De Beauvoir, Simone
-DESCRIPCIÓN: Filósofa francesa. La ética de la ambigüedad y la mala fe
-existencial estructuran Cap. VI.
+DESCRIPCIÓN: Filósofa francesa. La ética de la ambigüedad aparece en
+Caps. VI y VIII.
+VIDA: 1909–1943
+
+Weil, Simone
+DESCRIPCIÓN: Filósofa francesa. La gravedad y la gracia aparece citada en
+Cap. VIII.
 VIDA: 1913–1960
 
 Camus, Albert
 DESCRIPCIÓN: Escritor y filósofo francés. El mito de Sísifo (el suicidio
 filosófico) es convocado en Cap. IX.
 VIDA: 1913–2005
-
-Ricoeur, Paul
-DESCRIPCIÓN: Filósofo francés. La memoria y el olvido (Cap. VII), la
-solicitud y la identidad narrativa (Cap. X) son sus contribuciones principales.
-
-Siglo XX — segunda mitad y contemporáneos
-VIDA: 1921–2002
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7153,6 +7151,14 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Ricoeur, Paul
+DESCRIPCIÓN: Filósofo francés. El sí mismo y la alteridad (Cap. I), la
+memoria y el olvido (Cap. VII), el amor (Cap. VIII) y la identidad narrativa
+(Cap. X) son sus contribuciones principales.
+
+Siglo XX — segunda mitad y contemporáneos
+VIDA: 1921–2002
 
 Rawls, John
 DESCRIPCIÓN: Filósofo político estadounidense. El velo de ignorancia y la
@@ -7174,15 +7180,6 @@ DESCRIPCIÓN: Sociólogo alemán-británico. Su teoría del conflicto social
 moderno aparece en Cap. V.
 VIDA: 1930–2002
 
-Bourdieu, Pierre
-DESCRIPCIÓN: Sociólogo francés. El habitus y la reproducción social del
-irrespeto estructuran Cap. VI.
-VIDA: 1931–2013
-
-Dworkin, Ronald
-DESCRIPCIÓN: Filósofo del derecho estadounidense. Los derechos como
-«triunfos» sobre decisiones utilitaristas aparecen en Cap. IV.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7192,6 +7189,14 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+Bourdieu, Pierre
+DESCRIPCIÓN: Sociólogo francés. El habitus y la reproducción social del
+irrespeto estructuran Cap. VI.
+VIDA: 1931–2013
+
+Dworkin, Ronald
+DESCRIPCIÓN: Filósofo del derecho estadounidense. Los derechos como
+«triunfos» sobre decisiones utilitaristas aparecen en Cap. IV.
 VIDA: 1933–
 
 Sen, Amartya
@@ -7212,12 +7217,6 @@ VIDA: 1944–
 Zehr, Howard
 DESCRIPCIÓN: Teórico de la justicia restaurativa. Su crítica a la justicia
 retributiva aparece en Cap. VII.
-VIDA: 1947–
-
-Nussbaum, Martha
-DESCRIPCIÓN: Filósofa estadounidense. El enfoque de las capacidades
-complementa a Sen en Cap. IV.
-VIDA: 1949–
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7228,6 +7227,13 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+VIDA: 1947–
+
+Nussbaum, Martha
+DESCRIPCIÓN: Filósofa estadounidense. El enfoque de las capacidades
+complementa a Sen en Cap. IV.
+VIDA: 1949–
+
 Honneth, Axel
 DESCRIPCIÓN: Filósofo alemán. La lucha por el reconocimiento como
 motor del conflicto social aparece en Cap. VI.
@@ -7236,11 +7242,6 @@ VIDA: 1949–
 Žižek, Slavoj
 DESCRIPCIÓN: Filósofo esloveno. Su filosof ía del amor como acto
 peligroso es el eje de Cap. VIII.
-VIDA: 1966–
-
-Neff, Kristin
-DESCRIPCIÓN: Psicóloga estadounidense. La autocompasión como
-alternativa al narcisismo aparece en Cap. VIII.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
