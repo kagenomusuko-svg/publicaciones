@@ -9615,7 +9615,7 @@ A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                               CAOS
 
-C = [0,1] \ ∪k I_k
+C = [0,1] \ ∪k Ik
 
 donde los Iₖ son todos los tercios centrales retirados en todos los pasos. El
 conjunto de Cantor tiene propiedades que parecen paradójicas pero que son
@@ -11234,15 +11234,15 @@ ego sin sum.
 
 sujeto s.m.
 
-        1. La condición material mínima de la posibilidad del ego. El sujeto es
-           el organismo viviente dotado de sistema nervioso suficientemente
-           organizado para que la doble mediación pueda operar. No es todavía
-           el ego, pero es su soporte necesario.
+     1. La condición material mínima de la posibilidad del ego. El sujeto es
+        el organismo viviente dotado de sistema nervioso suficientemente
+        organizado para que la doble mediación pueda operar. No es todavía
+        el ego, pero es su soporte necesario.
 
-       2. En la ontología del ego: el punto de partida de la integral
-          acumulativa, previo al primer colapso. El sujeto existe como suelo
-          antes de que ningún colapso lo haya determinado como este ego y no
-          otro.
+     2. En la ontología del ego: el punto de partida de la integral
+        acumulativa, previo al primer colapso. El sujeto existe como suelo
+        antes de que ningún colapso lo haya determinado como este ego y no
+        otro.
 
 El sujeto no se identifica con ningún tipo de sustancia —no es el alma, ni la
 conciencia trascendental, ni el cerebro. Es la condición biológica y
@@ -11261,20 +11261,20 @@ Véase también: ego, colapso, doble mediación, primera mediación
 
 caos s.m.
 
-        1. El infinito atemporal de posibilidad absoluta anterior a toda
-           determinación. No el desorden —la ausencia de estructura— sino la
-           coexistencia simultánea de todas las determinaciones posibles antes
-           de que ninguna haya colapsado.
+     1. El infinito atemporal de posibilidad absoluta anterior a toda
+        determinación. No el desorden —la ausencia de estructura— sino la
+        coexistencia simultánea de todas las determinaciones posibles antes
+        de que ninguna haya colapsado.
 
-       2. En sentido estricto: el espacio lógico de todas las posibilidades del
-          ego, desde el que cada colapso toma su punto de partida. El caos no
+     2. En sentido estricto: el espacio lógico de todas las posibilidades del
+        ego, desde el que cada colapso toma su punto de partida. El caos no
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                              251
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                               CAOS
+                                                                            CAOS
 
           desaparece con el colapso: se redistribuye. Cada determinación abre
           nuevas posibilidades al cerrar otras.
@@ -11304,21 +11304,21 @@ Véase también: colapso, posibilidad, superposición cuántica (Apéndice II)
 
 colapso s.m.
 
-        1. (general) El evento de transición de la posibilidad a la
-           determinación: la actualización irreversible de una posibilidad entre
-           todas las coexistentes en el caos. El colapso no es gradual: es discreto.
-           O hay determinación o hay posibilidad; el colapso es el instante en
-           que la posibilidad deja de ser solo posibilidad.
+     1. (general) El evento de transición de la posibilidad a la
+        determinación: la actualización irreversible de una posibilidad entre
+        todas las coexistentes en el caos. El colapso no es gradual: es discreto.
+        O hay determinación o hay posibilidad; el colapso es el instante en
+        que la posibilidad deja de ser solo posibilidad.
 
-       2. (del ego) El colapso producido por la doble mediación: la transición
-          de la posibilidad abierta al acto determinado, con primera
-          mediación (intencionalidad presupuesta) e integración a la integral
+     2. (del ego) El colapso producido por la doble mediación: la transición
+        de la posibilidad abierta al acto determinado, con primera
+        mediación (intencionalidad presupuesta) e integración a la integral
 
 
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                 252
+                                                                              252
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11326,11 +11326,11 @@ A.C.
           acumulativa (segunda mediación). Es el colapso con responsabilidad
           posible.
 
-       3. (neutral) El colapso sin primera mediación: la determinación
-          producida por mediaciones que no incluyen intencionalidad. El río
-          que encuentra su cauce colapsa; la célula que se divide colapsa; el
-          átomo radiactivo que decae colapsa. Ninguno de estos colapsos es del
-          ego.
+     3. (neutral) El colapso sin primera mediación: la determinación
+        producida por mediaciones que no incluyen intencionalidad. El río
+        que encuentra su cauce colapsa; la célula que se divide colapsa; el
+        átomo radiactivo que decae colapsa. Ninguno de estos colapsos es del
+        ego.
 
 El colapso del ego se distingue del colapso neutral por dos propiedades que
 deben concurrir simultáneamente: (i) presupuesta intencionalidad del sujeto
@@ -11374,20 +11374,20 @@ mediación, mediación neutral, acto
 
 mediación s.f.
 
-        1. (general) Todo proceso que produce determinación en la
-           intersección entre una estructura y un mundo que la encuentra. La
-           mediación es ontológicamente anterior al ego: el mundo está lleno
-           de mediaciones que ocurren sin intencionalidad. El martillo media,
-           el río media, la célula media.
+     1. (general) Todo proceso que produce determinación en la
+        intersección entre una estructura y un mundo que la encuentra. La
+        mediación es ontológicamente anterior al ego: el mundo está lleno
+        de mediaciones que ocurren sin intencionalidad. El martillo media,
+        el río media, la célula media.
 
-       2. (del ego) La mediación que incluye intencionalidad presupuesta: la
-          orientación del sujeto hacia un objeto representado como fin que
-          precede y orienta el acto. La mediación del ego no elimina la
-          mediación neutral que la rodea sino que la transforma: el acto del
-          ego ocurre a través de mediaciones neutrales pero no como ellas.
+     2. (del ego) La mediación que incluye intencionalidad presupuesta: la
+        orientación del sujeto hacia un objeto representado como fin que
+        precede y orienta el acto. La mediación del ego no elimina la
+        mediación neutral que la rodea sino que la transforma: el acto del
+        ego ocurre a través de mediaciones neutrales pero no como ellas.
 
-       3. (doble) La estructura completa de la mediación del ego, compuesta
-          por primera y segunda mediación. Véase doble mediación.
+     3. (doble) La estructura completa de la mediación del ego, compuesta
+        por primera y segunda mediación. Véase doble mediación.
 
 La distinción entre mediación neutral y mediación del ego no es una
 distinción entre tipos de objetos sino entre tipos de estructura: la mediación
@@ -11414,14 +11414,14 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                            254
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
+                                                                       CAOS
 
 mediación neutral loc. s.f.
 
-        1. Mediación que produce determinación sin intencionalidad: sin que
-           el proceso incluya orientación hacia un objeto representado como
-           fin. La mediación neutral es la forma más abundante de
-           determinación en el universo.
+     1. Mediación que produce determinación sin intencionalidad: sin que
+        el proceso incluya orientación hacia un objeto representado como
+        fin. La mediación neutral es la forma más abundante de
+        determinación en el universo.
 
 Ejemplos canónicos: el martillo que golpea el clavo (mediación técnica), el
 río que erosiona su cauce (mediación natural), la célula que se divide
@@ -11448,23 +11448,23 @@ Véase también: mediación, primera mediación, accidente, escala de colapso
 
 primera mediación loc. s.f.
 
-        1. La determinación de la voluntad orientada hacia un objeto
-           representado como fin, que precede y estructura el acto. La primera
-           mediación es el evento en el que la posibilidad se orienta hacia una
-           dirección determinada antes de que el acto la exteriorice.
+     1. La determinación de la voluntad orientada hacia un objeto
+        representado como fin, que precede y estructura el acto. La primera
+        mediación es el evento en el que la posibilidad se orienta hacia una
+        dirección determinada antes de que el acto la exteriorice.
 
 
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              255
+                                                                           255
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
 
-       2. El componente del colapso del ego que funda la imputación: la
-          condición necesaria para que pueda atribuirse responsabilidad al
-          sujeto por el acto producido.
+     2. El componente del colapso del ego que funda la imputación: la
+        condición necesaria para que pueda atribuirse responsabilidad al
+        sujeto por el acto producido.
 
 Condiciones necesarias de la primera mediación: (i) intencionalidad: el
 sujeto orienta su voluntad hacia un objeto representado como fin (Husserl:
@@ -11506,15 +11506,15 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                            256
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                             CAOS
+                                                                          CAOS
 
 intencionalidad presupuesta loc. s.f.
 
-        1. La condición estructural del sujeto que actúa como agente: la
-           capacidad de orientar la voluntad hacia objetos representados y de
-           actuar desde esa orientación. No es un estado mental específico que
-           debe verificarse caso por caso: es la presuposición que hace posible
-           tratar al sujeto como agente y no como mecanismo.
+     1. La condición estructural del sujeto que actúa como agente: la
+        capacidad de orientar la voluntad hacia objetos representados y de
+        actuar desde esa orientación. No es un estado mental específico que
+        debe verificarse caso por caso: es la presuposición que hace posible
+        tratar al sujeto como agente y no como mecanismo.
 
 La intencionalidad presupuesta se distingue del dolo (la intención específica
 de producir el resultado dañoso) y de la culpa (la falta de cuidado que el
@@ -11535,14 +11535,14 @@ responsabilidad
 
 campo de acción loc. s.m.
 
-        1. El espacio de posibilidades efectivamente disponibles para el ego en
-           un momento dado, delimitado por la intersección entre las
-           capacidades del sujeto y las condiciones del mundo en que actúa. Es el
-           territorio desde el que la primera mediación puede operar.
+     1. El espacio de posibilidades efectivamente disponibles para el ego en
+        un momento dado, delimitado por la intersección entre las
+        capacidades del sujeto y las condiciones del mundo en que actúa. Es el
+        territorio desde el que la primera mediación puede operar.
 
-       2. En términos formales: el subconjunto del caos que está
-          efectivamente accesible para el ego dado el estado del mundo y las
-          capacidades del sujeto en el momento del colapso.
+     2. En términos formales: el subconjunto del caos que está
+        efectivamente accesible para el ego dado el estado del mundo y las
+        capacidades del sujeto en el momento del colapso.
 
 El campo de acción puede ser amplio o estrecho, pero nunca infinito:
 siempre está delimitado por las condiciones del cuerpo del sujeto, sus
@@ -11550,7 +11550,7 @@ siempre está delimitado por las condiciones del cuerpo del sujeto, sus
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                  257
+                                                                               257
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11581,15 +11581,15 @@ Véase también: primera mediación, accidente, colapso, responsabilidad
 
 segunda mediación loc. s.f.
 
-        1. La integración del resultado del acto a la función acumulativa del
-           ego: el proceso por el cual el colapso producido por la primera
-           mediación retorna al sujeto como modificación de su función, sus
-           disposiciones y la tendencia de su integral.
+     1. La integración del resultado del acto a la función acumulativa del
+        ego: el proceso por el cual el colapso producido por la primera
+        mediación retorna al sujeto como modificación de su función, sus
+        disposiciones y la tendencia de su integral.
 
-       2. El componente del colapso del ego que produce identidad: la
-          condición mediante la cual el ego que actuó ayer es el mismo ego que
-          actúa hoy —no en el sentido de identidad sustancial sino en el
-          sentido de continuidad funcional acumulativa.
+     2. El componente del colapso del ego que produce identidad: la
+        condición mediante la cual el ego que actuó ayer es el mismo ego que
+        actúa hoy —no en el sentido de identidad sustancial sino en el
+        sentido de continuidad funcional acumulativa.
 
 La segunda mediación no es un proceso automático: puede fallar. El fallo
 más estudiado clínicamente es la compulsión de repetición (Freud): cuando
@@ -11599,7 +11599,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                              258
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
+                                                                            CAOS
 
 el sujeto no puede integrar una experiencia pasada, esta persiste como herida
 abierta que el sujeto revive sin que la segunda mediación pueda incorporarla
@@ -11627,9 +11627,9 @@ identidad del ego
 
 actualización funcional / φ₂
 
-Para un acto a_t = φ₁(v_t,c_t) y una trayectoria previa I(t), la actualización
-de la segunda mediación puede representarse mediante I(t+1) = φ₂(a_t,I(t)).
-Esta expresión caracteriza el retorno del acto a la historia del ego como
+Para un acto at = φ₁(vt,ct) y una trayectoria previa I(t), la actualización de la
+segunda mediación puede representarse mediante I(t+1) = φ₂(at,I(t)). Esta
+expresión caracteriza el retorno del acto a la historia del ego como
 transformación de su trayectoria; no exige que φ₂ sea una mera suma
 aritmética ni que la trayectoria esté representada literalmente como un
 conjunto. La escritura I′ = I ∪ {a} puede mantenerse solo si I designa
@@ -11642,7 +11642,7 @@ ciertas trayectorias I₀ y actos a y b, φ₂(b,φ₂(a,I₀)) ≠ φ₂(a,φ�
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            259
+                                                                              259
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                           CAOS
@@ -11653,31 +11653,31 @@ las posteriores.
 
 doble mediación loc. s.f.
 
-        1. La estructura completa del colapso del ego, compuesta por dos
-           mediaciones sucesivas: la primera mediación (voluntad orientada que
-           determina el acto) y la segunda mediación (acto que retorna al ego
-           como modificación de la integral). Sin ambas mediaciones no hay
-           colapso del ego sino solo colapso neutral o fallo de mediación.
+     1. La estructura completa del colapso del ego, compuesta por dos
+        mediaciones sucesivas: la primera mediación (voluntad orientada que
+        determina el acto) y la segunda mediación (acto que retorna al ego
+        como modificación de la integral). Sin ambas mediaciones no hay
+        colapso del ego sino solo colapso neutral o fallo de mediación.
 
-       2. La fórmula del ego. La identidad del ego es el resultado de la
-          aplicación iterada de la doble mediación a lo largo de la vida del
-          sujeto:
+     2. La fórmula del ego. La identidad del ego es el resultado de la
+        aplicación iterada de la doble mediación a lo largo de la vida del
+        sujeto:
 
-Ego(t) = φ₂(φ₁(v_t, c_t), I(t)) para cada momento t
+Ego(t) = φ₂(φ₁(vt, ct), I(t)) para cada momento t
 
-donde v_t es la orientación de la voluntad en el momento t, c_t es el campo
-de acción disponible en t, φ₁ es la primera mediación, φ₂ es la segunda
+donde vt es la orientación de la voluntad en el momento t, ct es el campo de
+acción disponible en t, φ₁ es la primera mediación, φ₂ es la segunda
 mediación, e I(t) es la integral acumulativa de todos los colapsos anteriores a
 t.
 
 convención del tiempo t y del ciclo t+1
 
-En Ego(t) = φ₂(φ₁(v_t,c_t),I(t)), el índice t puede emplearse para designar
-la operación constitutiva correspondiente al momento considerado. Si se
-distingue expresamente el estado previo del estado resultante, se escribe a_t
-= φ₁(v_t,c_t), I(t+1) = φ₂(a_t,I(t)). Se trata de dos convenciones de
-indexación de una misma articulación: acto actual, historia previamente
-constituida y retorno constitutivo.
+En Ego(t) = φ₂(φ₁(vt,ct),I(t)), el índice t puede emplearse para designar la
+operación constitutiva correspondiente al momento considerado. Si se
+distingue expresamente el estado previo del estado resultante, se escribe at =
+φ₁(vt,ct), I(t+1) = φ₂(at,I(t)). Se trata de dos convenciones de indexación de
+una misma articulación: acto actual, historia previamente constituida y
+retorno constitutivo.
 
 La doble mediación distingue al ego de dos objetos con los que podría
 confundirse: (a) del mecanismo —que produce colapsos neutrales sin
@@ -11691,7 +11691,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                             260
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
+                                                                         CAOS
 
 ego —hay sujeto que podría ser ego pero que no lo es todavía. «Suficiente»:
 todo sistema que opera mediante doble mediación es un ego,
@@ -11710,13 +11710,13 @@ integral acumulativa, responsabilidad
 
 acto s.m.
 
-        1. El colapso del ego considerado desde la perspectiva de su
-           exteriorización en el mundo: el momento en que la primera
-           mediación produce una determinación pública e irreversible. El acto
-           es la bisagra entre primera y segunda mediación.
+     1. El colapso del ego considerado desde la perspectiva de su
+        exteriorización en el mundo: el momento en que la primera
+        mediación produce una determinación pública e irreversible. El acto
+        es la bisagra entre primera y segunda mediación.
 
-       2. En sentido estricto: el resultado de la primera mediación a ∈ A,
-          antes de ser integrado por la segunda mediación a la integral del ego.
+     2. En sentido estricto: el resultado de la primera mediación a ∈ A,
+        antes de ser integrado por la segunda mediación a la integral del ego.
 
 El acto se distingue del mero movimiento f ísico por su estructura
 intencional: el movimiento f ísico puede ocurrir sin primera mediación; el
@@ -11734,23 +11734,23 @@ no haya ocurrido.[213]
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              261
+                                                                            261
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                          CAOS
+                                                                       CAOS
 
 Véase también: primera mediación, segunda mediación, colapso,
 responsabilidad, mediación neutral
 
 integral acumulativa loc. s.f.
 
-        1. La función que describe el estado del ego como la acumulación de
-           todos sus colapsos pasados. No es la suma de los actos: es el patrón
-           funcional que emerge de esa acumulación y que determina la
-           tendencia del ego en el presente.
+     1. La función que describe el estado del ego como la acumulación de
+        todos sus colapsos pasados. No es la suma de los actos: es el patrón
+        funcional que emerge de esa acumulación y que determina la
+        tendencia del ego en el presente.
 
-       2. Formalmente: dada la función de colapso c: T → E y la función de
-          peso w: T → ℝ₊, la integral acumulativa hasta el tiempo t es:
+     2. Formalmente: dada la función de colapso c: T → E y la función de
+        peso w: T → ℝ₊, la integral acumulativa hasta el tiempo t es:
 
 I(t) = ∫₀t c(τ) · w(τ) dτ
 
@@ -11775,21 +11775,21 @@ del próximo colapso—; el ego que muere se convierte en integral cerrada.
 
 Véase también: segunda mediación, ego, identidad del ego, colapso
 
-colapso asumido / c_asumido
+colapso asumido / casumido
 
 
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                            262
+                                                                         262
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                            CAOS
+                                                                          CAOS
 
 En la notación I(t) = ∫₀t c(τ)·w(τ) dτ, c(τ) designa, para fines de
 modelación de la trayectoria egoica, las contribuciones de colapsos
-incorporados mediante la segunda mediación. Puede escribirse
-c_asumido(τ) cuando sea necesario distinguirlas del conjunto de todos los
+incorporados mediante la segunda mediación. Puede escribirse casumido(τ)
+cuando sea necesario distinguirlas del conjunto de todos los
 acontecimientos que comparecen como sum. La integral no equivale al
 registro de todos los acontecimientos materiales del mundo ni a una
 enumeración de actos jurídicamente imputables al sujeto.
@@ -11806,31 +11806,31 @@ un punto singular.
 
 ego s.m.
 
-        1. (definición nuclear) La función acumulativa que emerge de la
-           aplicación iterada de la doble mediación al sujeto que colapsa en su
-           intersección con el mundo. El ego no es una entidad sino un proceso;
-           no es un punto sino una función; no es un sustrato sino una
-           estructura.
+     1. (definición nuclear) La función acumulativa que emerge de la
+        aplicación iterada de la doble mediación al sujeto que colapsa en su
+        intersección con el mundo. El ego no es una entidad sino un proceso;
+        no es un punto sino una función; no es un sustrato sino una
+        estructura.
 
-       2. (definición operacional) El sistema que tiene primera mediación
-          (intencionalidad que orienta el acto), segunda mediación
-          (integración del acto a la función acumulativa) y campo de acción
-          disponible para que ambas puedan operar.
+     2. (definición operacional) El sistema que tiene primera mediación
+        (intencionalidad que orienta el acto), segunda mediación
+        (integración del acto a la función acumulativa) y campo de acción
+        disponible para que ambas puedan operar.
 
-       3. (definición estructural: cuatro niveles) El ego es simultáneamente: (i)
-          el sujeto como punto de partida de la integral; (ii) la función
-          acumulativa de todos sus colapsos; (iii) la condición sine qua non del
-          acto humano; (iv) la integral cerrada en la muerte como respuesta
-          total.
+     3. (definición estructural: cuatro niveles) El ego es simultáneamente: (i)
+        el sujeto como punto de partida de la integral; (ii) la función
+        acumulativa de todos sus colapsos; (iii) la condición sine qua non del
+        acto humano; (iv) la integral cerrada en la muerte como respuesta
+        total.
 
 
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                              263
+                                                                            263
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
+                                                                         CAOS
 
 La definición del ego en esta ontología es funcional, no sustancial. El ego
 no requiere ningún sustrato específico: es la estructura de la doble mediación
@@ -11857,12 +11857,12 @@ qua non, identidad del ego
 
 identidad del ego loc. s.f.
 
-        1. La continuidad funcional de la integral acumulativa a lo largo del
-           tiempo. La identidad del ego no es la identidad de ningún sustrato
-           material (los átomos del cuerpo se reemplazan) ni la identidad de
-           ningún estado mental específico (los estados cambian
-           continuamente): es la continuidad del patrón de la función que
-           emerge de la acumulación de los colapsos.
+     1. La continuidad funcional de la integral acumulativa a lo largo del
+        tiempo. La identidad del ego no es la identidad de ningún sustrato
+        material (los átomos del cuerpo se reemplazan) ni la identidad de
+        ningún estado mental específico (los estados cambian
+        continuamente): es la continuidad del patrón de la función que
+        emerge de la acumulación de los colapsos.
 
 La identidad funcional es compatible con cambios radicales en la función:
 el ego puede cambiar dramáticamente —por conversión, por trauma
@@ -11873,7 +11873,7 @@ continuidad del proceso de acumulación. El ego de hoy no necesita ser
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                264
+                                                                             264
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                            CAOS
@@ -11893,10 +11893,10 @@ Véase también: ego, integral acumulativa, segunda mediación
 
 escala de colapso loc. s.f.
 
-        1. El nivel de organización en que opera un proceso de determinación.
-           Los colapsos ocurren a múltiples escalas —subatómica, molecular,
-           celular, orgánica, psíquica, social, cosmológica— y las escalas son
-           materialmente permeables pero causalmente impermeables.
+     1. El nivel de organización en que opera un proceso de determinación.
+        Los colapsos ocurren a múltiples escalas —subatómica, molecular,
+        celular, orgánica, psíquica, social, cosmológica— y las escalas son
+        materialmente permeables pero causalmente impermeables.
 
 Permeabilidad material significa que lo que ocurre en una escala modifica el
 campo de posibilidades de la escala superior: los colapsos celulares
@@ -11934,15 +11934,15 @@ Véase también: colapso, accidente, impermeabilidad causal, ego
 
 accidente s.m.
 
-        1. (técnico) La modificación del campo de acción del ego producida por
-           colapsos de escalas que el ego no operó. El accidente no es lo que el
-           ego hizo: es lo que ocurrió al sujeto sin ser producido por su primera
-           mediación.
+     1. (técnico) La modificación del campo de acción del ego producida por
+        colapsos de escalas que el ego no operó. El accidente no es lo que el
+        ego hizo: es lo que ocurrió al sujeto sin ser producido por su primera
+        mediación.
 
-       2. (aristotélico recuperado) En el sentido técnico de Aristóteles
-          (Metafísica, V, 30): lo que se da en la sustancia sin derivar de su
-          esencia. El accidente es la condición que le ocurre al sujeto sin ser
-          parte de su estructura constitutiva como ego.
+     2. (aristotélico recuperado) En el sentido técnico de Aristóteles
+        (Metafísica, V, 30): lo que se da en la sustancia sin derivar de su
+        esencia. El accidente es la condición que le ocurre al sujeto sin ser
+        parte de su estructura constitutiva como ego.
 
 El accidente no suspende el ego: mientras el campo de acción no se colapsa a
 cero, el ego sigue siendo ego en el campo que el accidente ha delimitado. El
@@ -11968,7 +11968,7 @@ Centro Multidisciplinario Meriadock Formación y Asesoría
                                                                               266
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                               CAOS
+                                                                            CAOS
 
 mediación—, aunque el campo desde el que actúa haya sido determinado
 por el accidente. Las condiciones del campo no operan el colapso.
@@ -11978,16 +11978,16 @@ mediación, responsabilidad
 
 condición sine qua non loc. lat.
 
-        1. La condición necesaria (no suficiente) de un evento: la condición sin
-           la cual el evento no habría ocurrido. En el derecho y la filosof ía de la
-           acción: la condición que, si se elimina contrafácticamente, elimina
-           también el evento.
+     1. La condición necesaria (no suficiente) de un evento: la condición sin
+        la cual el evento no habría ocurrido. En el derecho y la filosof ía de la
+        acción: la condición que, si se elimina contrafácticamente, elimina
+        también el evento.
 
-       2. (del ego) El ego es la condición sine qua non del acto humano: sin este
-          ego —sin este sujeto con esta primera mediación en este momento
-          — este acto no habría ocurrido como acto humano. El movimiento
-          físico puede haber ocurrido; el acto, como acto con primera
-          mediación, no.
+     2. (del ego) El ego es la condición sine qua non del acto humano: sin este
+        ego —sin este sujeto con esta primera mediación en este momento
+        — este acto no habría ocurrido como acto humano. El movimiento
+        físico puede haber ocurrido; el acto, como acto con primera
+        mediación, no.
 
 La precisión del «como acto humano» es decisiva. El ego es condición sine
 qua non del acto como acto —como determinación producida por la doble
@@ -12011,10 +12011,10 @@ primera mediación en este momento —si hubiera reaccionado
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                 267
+                                                                              267
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                           CAOS
+                                                                        CAOS
 
 reflejamente, o si hubiera estado inconsciente, o si hubiera sido víctima de
 una fuerza irresistible—, el movimiento f ísico podría haber ocurrido pero
@@ -12025,15 +12025,15 @@ Véase también: primera mediación, responsabilidad, imputación, ego
 
 responsabilidad s.f.
 
-        1. (ontológica) La relación entre el ego y un acto tal que el ego fue la
-           condición sine qua non del acto con primera mediación. La
-           responsabilidad ontológica no es una valoración normativa: es la
-           descripción de una relación causal de tipo específico.
+     1. (ontológica) La relación entre el ego y un acto tal que el ego fue la
+        condición sine qua non del acto con primera mediación. La
+        responsabilidad ontológica no es una valoración normativa: es la
+        descripción de una relación causal de tipo específico.
 
-       2. (moral/jurídica) La relación normativa derivada de la
-          responsabilidad ontológica: el ego puede ser interpelado por el acto,
-          puede dar cuenta de él, puede ser destinatario de consecuencias
-          normativas en razón de su producción del acto.
+     2. (moral/jurídica) La relación normativa derivada de la
+        responsabilidad ontológica: el ego puede ser interpelado por el acto,
+        puede dar cuenta de él, puede ser destinatario de consecuencias
+        normativas en razón de su producción del acto.
 
 La responsabilidad nace en la primera mediación, no en el resultado. El ego
 es responsable de haber producido el acto —de haber sido la condición sine
@@ -12057,10 +12057,10 @@ responsabilidad reducida proporcional al campo; (c) campo normal: hay
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                             268
+                                                                          268
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
-                                                                              CAOS
+                                                                           CAOS
 
 responsabilidad plena por los actos producidos; (d) campo ampliado
 artificialmente por privilegio o poder: hay responsabilidad aumentada
@@ -12072,10 +12072,10 @@ campo de acción
 
 imputación s.f.
 
-        1. La atribución del acto al ego como su condición sine qua non con
-           primera mediación. La imputación es el acto epistémico y práctico de
-           reconocer que este ego fue la condición necesaria de este acto en
-           razón de su primera mediación.
+     1. La atribución del acto al ego como su condición sine qua non con
+        primera mediación. La imputación es el acto epistémico y práctico de
+        reconocer que este ego fue la condición necesaria de este acto en
+        razón de su primera mediación.
 
 La imputación requiere: (i) identificar que hubo primera mediación; (ii)
 establecer que el ego fue la condición sine qua non del acto como acto; (iii)
@@ -12096,15 +12096,15 @@ campo de acción
 
 tiempo del ego loc. s.m.
 
-        1. La sucesión de colapsos del ego experimentada desde la perspectiva de
-           la primera persona. El tiempo del ego no es el tiempo f ísico —la
-           variable t de la f ísica—: es el tiempo vivido, la estructura de pasado-
-           presente-futuro que emerge de la acumulación de la integral.
+     1. La sucesión de colapsos del ego experimentada desde la perspectiva de
+        la primera persona. El tiempo del ego no es el tiempo f ísico —la
+        variable t de la f ísica—: es el tiempo vivido, la estructura de pasado-
+        presente-futuro que emerge de la acumulación de la integral.
 
 
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
-                                                                                269
+                                                                             269
 A.C.
           REIVINDICACIÓN ONTOLÓGICA DEL EGO
                                                                          CAOS
@@ -12219,7 +12219,7 @@ corresponden a distintas elecciones de w.
 
 Peso temporal w(τ). La función de ponderación w modela la distinta
 relevancia de las contribuciones asumidas. Si el peso de un colapso depende
-de su antigüedad respecto del instante actual t, puede escribirse w_t(τ) = W(t
+de su antigüedad respecto del instante actual t, puede escribirse wt(τ) = W(t
 − τ), donde W decrece con la antigüedad. Por ejemplo, W(s) = e^(−λs) con
 λ > 0. El libro no impone ninguna ley de ponderación específica; esta
 notación solo aclara la lectura temporal de un posible peso decreciente.
