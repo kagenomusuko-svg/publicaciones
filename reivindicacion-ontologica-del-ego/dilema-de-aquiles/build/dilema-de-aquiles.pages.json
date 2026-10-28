@@ -1,6 +1,6 @@
 {
   "pdf": "dilema-de-aquiles.pdf",
-  "total_pages": 161,
+  "total_pages": 163,
   "contents": [
     {
       "key": "notas-autor",
@@ -34,50 +34,50 @@
       "key": "cap-Capítulo iii",
       "label": "Capítulo iii · Aquiles como estructura",
       "kind": "chapter",
-      "physical_page": 49,
-      "printed_page": "34"
+      "physical_page": 50,
+      "printed_page": "35"
     },
     {
       "key": "cap-Capítulo iv",
       "label": "Capítulo iv · La disociación del ego",
       "kind": "chapter",
-      "physical_page": 65,
-      "printed_page": "50"
+      "physical_page": 66,
+      "printed_page": "51"
     },
     {
       "key": "cap-Capítulo v",
       "label": "Capítulo v · La caída",
       "kind": "chapter",
-      "physical_page": 82,
-      "printed_page": "67"
+      "physical_page": 83,
+      "printed_page": "68"
     },
     {
       "key": "cap-Capítulo vi",
       "label": "Capítulo vi · Hobbes, el miedo y el perdón",
       "kind": "chapter",
-      "physical_page": 98,
-      "printed_page": "83"
+      "physical_page": 99,
+      "printed_page": "84"
     },
     {
       "key": "cap-Capítulo vii",
       "label": "Capítulo vii · La autodeterminación causal",
       "kind": "chapter",
-      "physical_page": 115,
-      "printed_page": "100"
+      "physical_page": 116,
+      "printed_page": "101"
     },
     {
       "key": "cap-Capítulo viii",
       "label": "Capítulo viii · Vivir sin gloria prestada",
       "kind": "chapter",
-      "physical_page": 131,
-      "printed_page": "116"
+      "physical_page": 132,
+      "printed_page": "117"
     },
     {
       "key": "epilogo",
       "label": "Epílogo · Habitar la tensión",
       "kind": "chapter",
-      "physical_page": 148,
-      "printed_page": "133"
+      "physical_page": 150,
+      "printed_page": "135"
     }
   ]
 }

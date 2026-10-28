@@ -52,31 +52,31 @@ Capítulo ii · La gloria y la trampa
 
 Capítulo iii · Aquiles como estructura
 
-34
+35
 
 Capítulo iv · La disociación del ego
 
-50
+51
 
 Capítulo v · La caída
 
-67
+68
 
 Capítulo vi · Hobbes, el miedo y el perdón
 
-83
+84
 
 Capítulo vii · La autodeterminación causal
 
-100
+101
 
 Capítulo viii · Vivir sin gloria prestada
 
-116
+117
 
 Epílogo · Habitar la tensión
 
-133
+135
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -214,7 +214,7 @@ AQUILES
 
 Sobre el método
 El método de este libro es el de la filosof ía analítica con sensibilidad
-continental: se trabaja con distinciones conceptuales precisas —la triada:
+continental: se trabaja con distinciones conceptuales precisas —la tríada:
 ego, egolatría, egocentrismo es el ejemplo más claro— pero se acepta que
 esas distinciones no pueden agotarse en definiciones formales, sino que
 requieren ser habitadas, ilustradas, vistas desde distintos ángulos antes de
@@ -314,11 +314,11 @@ XI
 AQUILES
 
 II.
-El concepto que organiza el argumento —el dilema de Aquiles— no es una
+El concepto que organiza el argumento —el dilema de Aquiles—no es una
 categoría clásica de la filosof ía. Es una formulación que emerge de una
 teoría mayor: la de la autodeterminación causal, desarrollada en el libro del
 que este volumen es hijo. La idea central de esa teoría es que el sujeto existe
-como punto de referencia desde el cual actúa, y que la salud del ego —en el
+como punto de referencia desde el cual actúa, y que la salud del ego — en el
 sentido no clínico sino ontológico del término— depende de que ese punto
 de referencia sea genuinamente propio y no una construcción importada de
 afuera.
@@ -737,7 +737,7 @@ existen para mí» sino «yo existo para la mirada de los otros».
 Esta inversión es filosóficamente crucial y merece formularse con toda la
 precisión posible. El egocentrismo es una sobreabundancia de perspectiva
 propia: el sujeto ocupa demasiado espacio relacional, desplaza a los otros. La
-egolatría prestada —el dilema de Aquiles— es una privación de perspectiva
+egolatría prestada —el dilema de Aquiles—es una privación de perspectiva
 propia: el sujeto ha cedido su propio espacio a la imagen que los otros
 construyeron de él y ha quedado en una posición estructuralmente
 dependiente. Los dos fenómenos pueden coexistir en el mismo sujeto —
@@ -793,10 +793,10 @@ tienen de él no está siendo egoísta ni está descuidando a los otros en favor
 sí mismo: está descuidando a sí mismo en favor de la imagen. Y prescribirle
 que piense menos en sí mismo y más en los otros es, en ese contexto, un
 consejo que va exactamente en la dirección equivocada.
-El tercer error —y el más sutil— consiste en tratar los tres conceptos como
+El tercer error —y el más sutil—consiste en tratar los tres conceptos como
 variantes de un mismo problema: el problema del yo excesivo. Desde esa
 perspectiva, ego, egolatría y egocentrismo son tres formas de decir lo mismo
-—demasiado yo—, y la solución es siempre la misma: menos yo, más
+— demasiado yo—, y la solución es siempre la misma: menos yo, más
 apertura, más generosidad, más entrega. Esa prescripción es seductora
 porque tiene la apariencia de la virtud. Pero ignora que la raíz del problema
 puede ser exactamente la opuesta: no demasiado yo sino demasiado poco yo
@@ -863,7 +863,7 @@ puede ser un proceso gradual, irregular, que avanza en algunas dimensiones
 mientras permanece bloqueado en otras.
 William James, en su descripción del yo empírico, distinguió entre el yo
 material —el cuerpo y sus extensiones—, el yo social —la imagen que el
-sujeto tiene de sí mismo en relación con los otros— y el yo espiritual —la
+sujeto tiene de sí mismo en relación con los otros—y el yo espiritual — la
 conciencia de los propios estados mentales y capacidades. [6] Esta distinción
 no es la misma que la que aquí se propone, pero ilumina algo importante: el
 yo no es monolítico. Tiene dimensiones, y esas dimensiones pueden estar en
@@ -905,7 +905,7 @@ parte constitutiva del yo?
 La objeción es legítima y apunta a una tensión real que el argumento debe
 sostener, no resolver por simplificación. La respuesta comienza por
 reconocer que la distinción no es entre un yo formado en soledad —que es
-una ficción— y un yo formado en relación con otros —que es la única
+una ficción—y un yo formado en relación con otros — que es la única
 posibilidad real—. La distinción es entre dos modos de relacionarse con la
 imagen que el intercambio social produce.
 En el primer modo, la imagen que los otros construyen sobre el sujeto es
@@ -986,10 +986,10 @@ puede equivocarse, no puede cambiar, no puede integrar información que
 contradiga la imagen. Su problema no es la ausencia de yo sino la
 absolutización de una versión fija del yo que tarde o temprano choca con la
 realidad.
-La egolatría prestada —el dilema de Aquiles— es la sustitución del ego por
+La egolatría prestada —el dilema de Aquiles—es la sustitución del ego por
 la imagen ajena: el sujeto que ha cedido su eje de referencia a la mirada
 exterior y que existe en la medida en que esa mirada lo confirma. Este sujeto
-no carece de imagen de sí mismo —tiene una, y muy nítida—pero esa
+no carece de imagen de sí mismo — tiene una, y muy nítida—pero esa
 imagen no es genuinamente suya. Es la representación que los otros
 construyeron sobre él y que él adoptó como su centro. Su problema no es el
 exceso de yo sino su ausencia: donde debería haber un eje hay un espejo.
@@ -1033,12 +1033,12 @@ los propios actos. Esta formulación, que el libro principal desarrolla en su
 dimensión teórica, tiene en el análisis del ego su fundamento existencial
 más básico: solo puede ser causa de sus propios actos el sujeto que tiene un eje
 de referencia genuinamente propio desde el cual actuar.
-El sujeto disociado —el que ha cedido su eje a la imagen prestada— no es
+El sujeto disociado —el que ha cedido su eje a la imagen prestada—no es
 libre en este sentido no porque esté determinado por fuerzas externas que lo
 coaccionen directamente sino porque el punto de partida de su acción no es
 suyo. Actúa desde una imagen que no construyó, hacia metas que no eligió
 desde sí mismo, para una audiencia cuya aprobación necesita para existir. Sus
-actos pueden ser voluntarios en el sentido técnico —nadie lo obliga por la
+actos pueden ser voluntarios en el sentido técnico — nadie lo obliga por la
 fuerza— pero no son libres en el sentido que importa: no parten de su
 propio eje sino del eje prestado que la mirada ajena le proporcionó.
 Sartre dijo que el ser humano está condenado a ser libre: no puede dejar de
@@ -1114,14 +1114,13 @@ equivalente adulto —que algunos sujetos no desarrollen plenamente esa
 capacidad de descentración— es una de las líneas de investigación más
 productivas en la psicología del desarrollo y la psicopatología.
 5 La literatura sobre dependencia emocional y codependencia es amplia y
-heterogénea en calidad. Entre los trabajos más rigurosos en este ámbito se
-encuentran los de Ross Rosenberg (The Human Magnet Syndrome, 2013) y
-los desarrollos más recientes de la teoría del apego aplicada a relaciones
-adultas, en particular el trabajo de Sue Johnson sobre la terapia focalizada en
-las emociones. Lo que interesa destacar aquí es que la dificultad de habitar
-una perspectiva genuinamente propia —lo que clínicamente se describe
-como pérdida de identidad en la relación— tiene una correlación directa
-con lo que filosóficamente se analiza como disociación del ego.
+heterogénea en calidad. Entre los trabajos pertinentes se encuentran los de
+Ross Rosenberg (The Human Magnet Syndrome, 2013) y Sue Johnson sobre
+la terapia focalizada en las emociones y el apego adulto. La relación entre la
+dificultad de habitar una perspectiva propia —descrita en algunos contextos
+clínicos como pérdida de identidad en la relación— y la disociación del ego
+es la correspondencia conceptual que propone este libro; no se presenta
+como una equivalencia clínica establecida por esas fuentes.
 6 William James, Principios de psicología (1890), cap. X. La taxonomía del
 yo que James propone —material, social y espiritual— sigue siendo una de
 las más útiles disponibles para aproximarse a la complejidad del yo sin
@@ -1172,10 +1171,11 @@ Capítulo ii
 La gloria y la trampa
 Vivir para la imagen prestada
 «Somos lo que hacemos repetidamente. La excelencia, por
-tanto, no es un acto sino un hábito.» — Aristóteles, Ética a
-Nicómaco, II, 1. «Nada es tan ruinoso para el carácter como
-ocupar un asiento en el espectáculo de la propia vida.» —
-Séneca, Epístolas morales a Lucilio, VII, 3.
+tanto, no es un acto sino un hábito.» — Will Durant, The
+Story of Philosophy (1926), al resumir la ética de Aristóteles.
+«Nada es tan ruinoso para el carácter como ocupar un
+asiento en el espectáculo de la propia vida.» — Paráfrasis
+libre inspirada en Séneca, Epístolas morales a Lucilio, 7.3.
 
 I. El inicio del desplazamiento
 Nadie decide un día dejar de vivir desde sí mismo para empezar a vivir para
@@ -1194,7 +1194,6 @@ valora, lo devuelve como algo que tiene peso en el mundo—, algo se activa
 en nosotros que es fundamentalmente distinto a la simple satisfacción de
 haber sido halagados. El reconocimiento genuino no es lisonja; es
 confirmación de existencia. Es la experiencia de que lo que uno es tiene un
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1215,11 +1214,11 @@ su propia perspectiva en el mapa de las perspectivas posibles. Los estudios
 sobre desarrollo temprano han mostrado con consistencia que el
 reconocimiento —la respuesta del entorno a las expresiones del niño, la
 confirmación de que lo que el niño experimenta tiene una realidad que los
-otros también perciben— es una condición del desarrollo psicológico sano,
+otros también perciben—es una condición del desarrollo psicológico sano,
 no un lujo ni una debilidad. [1] El problema no empieza en el
 reconocimiento. Empieza en el momento en que el reconocimiento deja de
 ser una confirmación de lo que uno es y se convierte en una condición de lo
-que uno es. Esa transición —de la confirmación a la condición— es el
+que uno es. Esa transición — de la confirmación a la condición— es el
 primer paso del desplazamiento. Y el momento exacto en que ocurre es con
 frecuencia invisible desde adentro, porque desde adentro la experiencia se
 siente igual: sigue siendo reconocimiento, sigue siendo placentero, sigue
@@ -1228,10 +1227,10 @@ cambiado no es la textura de la experiencia sino su función en la economía
 del ego.
 El reconocimiento que confirma al ego lo fortalece. El reconocimiento que
 constituye al ego lo captura.
-La diferencia entre los dos modos —confirmar y constituir— puede
+La diferencia entre los dos modos —confirmar y constituir—puede
 articularse con una pregunta simple, aunque dif ícil de responder con
 honestidad: ¿puede el sujeto existir con la misma solidez en ausencia del
-reconocimiento? Si la respuesta es sí —si el sujeto puede actuar desde sí
+reconocimiento? Si la respuesta es sí — si el sujeto puede actuar desde sí
 mismo independientemente de que esa acción sea vista, valorada o aplaudida
 —, el reconocimiento cumple su función de confirmación sin volverse
 constitutivo. Si la respuesta es no —si la ausencia de reconocimiento
@@ -1306,10 +1305,10 @@ la servidumbre a una imagen. El sujeto no es consistente porque actúa desde
 sí mismo; es consistente porque tiene que serlo para que la imagen se
 sostenga.
 El cuarto paso —que no siempre ocurre pero que cuando ocurre completa la
-trampa— es la expansión de la imagen a la totalidad del sujeto. Lo que
+trampa—es la expansión de la imagen a la totalidad del sujeto. Lo que
 comenzó como la especialización en una dimensión termina reclamando
 todo el espacio. La imagen de «el que nunca falla» no solo organiza la
-conducta en el ámbito donde nació —el trabajo, el deporte, la familia—;
+conducta en el ámbito donde nació — el trabajo, el deporte, la familia—;
 comienza a organizar todos los ámbitos. El sujeto no puede fallar en
 ninguna parte, porque fallar en cualquier parte es fallar como sujeto. La
 imagen ya no describe una dimensión de lo que es: lo define entero. Y en ese
@@ -1338,7 +1337,7 @@ precisión es que la excelencia, cuando se convierte en identidad, deja de ser
 una descripción de lo que el sujeto puede hacer y se convierte en una
 exigencia de lo que el sujeto tiene que ser.
 Este mecanismo —la transformación de la excelencia en identidad
-obligatoria— es uno de los patrones más estudiados en la psicología del
+obligatoria—es uno de los patrones más estudiados en la psicología del
 rendimiento, aunque con frecuencia se lo examina desde el ángulo
 equivocado: como un problema de perfeccionismo o de miedo al fracaso, en
 lugar de como lo que es en su raíz, que es un problema de disociación del
@@ -1347,8 +1346,8 @@ consigo mismo; es un sujeto cuyo ego ha quedado atrapado en una imagen
 de excelencia que él ya no controla. [2] Carol Dweck, en su investigación
 sobre las teorías implícitas de la inteligencia, documentó con precisión una
 de las formas más concretas en que este mecanismo opera: los sujetos que
-tienen una mentalidad fija —que creen que sus capacidades son atributos
-estables que se tienen o no se tienen— no pueden tolerar el error porque el
+tienen una mentalidad fija — que creen que sus capacidades son atributos
+estables que se tienen o no se tienen—no pueden tolerar el error porque el
 error no es para ellos una información sobre lo que hicieron sino una
 revelación sobre lo que son. El fracaso no dice «esto no funcionó»; dice «tú
 no eres lo que creías ser». Y la amenaza que esa revelación produce no es
@@ -1358,7 +1357,7 @@ vocabulario de este libro, la egolatría en su versión más cotidiana: la
 conversión de una imagen de capacidad en un fundamento de identidad que
 no puede ser cuestionado sin que el sujeto entero se tambalee. Y lo que su
 investigación muestra es que esa mentalidad no es un rasgo de personalidad
-innato sino el resultado de ciertos tipos de retroalimentación —en
+innato sino el resultado de ciertos tipos de retroalimentación — en
 particular, el elogio centrado en la identidad en lugar de en el proceso— que
 el entorno ha proporcionado sistemáticamente.
 Elogiar a un niño diciéndole «eres muy inteligente» produce un efecto
@@ -1440,10 +1439,10 @@ rasgos que no son en sí mismos negativos. Lo que los convierte en trampa es
 la función que cumplen: no apertura al otro sino sustitución del propio eje
 por la perspectiva ajena.
 Un estudio de neuroimagen observó que obtener una buena reputación —
-una forma de aprobación social— activa áreas relacionadas con la
+una forma de aprobación social—activa áreas relacionadas con la
 recompensa, con solapamiento respecto de las activadas por recompensas
 monetarias.[4] Esta observación no debe tomarse como una reducción del
-problema a un mecanismo neurológico —el problema del ego disociado no
+problema a un mecanismo neurológico — el problema del ego disociado no
 es principalmente un problema de circuitos cerebrales—, pero ilumina algo
 importante sobre la dificultad de la dependencia de la aprobación: tiene la
 estructura funcional de una adicción. El sujeto que ha organizado su ego en
@@ -1511,12 +1510,12 @@ respecto a las formas anteriores de producción de imagen es que hacen
 explícita, numérica y permanente la evaluación que antes era implícita,
 cualitativa y efímera.
 Cuando la aprobación o el rechazo de la imagen llega en forma de número
-—de seguidores, de «me gusta», de vistas, de comentarios— algo cambia
-en la relación del sujeto con esa evaluación. El número es objetivable de una
+—de seguidores, de «me gusta», de vistas, de comentarios—algo cambia en
+la relación del sujeto con esa evaluación. El número es objetivable de una
 manera que la aprobación social anterior no lo era. Puede compararse, puede
 crecer o decrecer, puede monitorearse en tiempo real. Y esa objetivación
 produce una forma de retroalimentación que tiene exactamente la
-estructura que el paso tres del desplazamiento —la inversión de la relación
+estructura que el paso tres del desplazamiento — la inversión de la relación
 entre el sujeto y la imagen— requiere para completarse: la imagen ya no es
 una consecuencia de los actos del sujeto sino una métrica que el sujeto
 persigue y a la que adapta sus actos.
@@ -1609,14 +1608,14 @@ ella. La imagen interpone una distancia entre el sujeto y cualquier forma de
 contacto genuino: para que el otro pueda llegar realmente al sujeto, tendría
 que atravesar la imagen, y la imagen está ahí precisamente para que eso no
 ocurra.
-El cuarto costo —el más dif ícil de articular y quizás el más profundo— es la
+El cuarto costo —el más dif ícil de articular y quizás el más profundo—es la
 pérdida del acceso a la propia experiencia. El sujeto que vive para la imagen
 no habita su experiencia; la produce. Hay una diferencia entre vivir algo y
 construir una versión de ese algo que sea coherente con la imagen que debe
 sostenerse. El primero es la experiencia directa del mundo desde el propio
 eje; el segundo es la mediación permanente de toda experiencia a través del
 filtro de la imagen. Y en el segundo caso, algo de la textura de la experiencia
-—su inmediatez, su impredictibilidad, su capacidad de sorprender al sujeto
+— su inmediatez, su impredictibilidad, su capacidad de sorprender al sujeto
 con algo que no esperaba sentir— se pierde en el proceso de mediación.
 El sujeto que vive para la imagen no tiene experiencias: tiene material. Cada
 momento de su vida es evaluado, antes de ser vivido, en función de si
@@ -1799,22 +1798,28 @@ A.C.
 
 AQUILES
 
-5 John Bowlby, El apego y la pérdida (3 vols., 1969-1980). La teoría del apego
-de Bowlby, extendida por Mary Ainsworth con su clasificación de los estilos
-de apego (seguro, ansioso-ambivalente, evitativo), es el marco más sólido
-disponible para entender el origen temprano de los patrones de búsqueda de
-reconocimiento en la vida adulta. El apego ansioso-ambivalente, en
-particular, produce exactamente la hipervigilancia a las señales de
-aprobación y rechazo que aquí se describe.
-6 Jean M. Twenge, iGen: Por qué los niños superconectados de hoy están
-creciendo menos rebeldes, más tolerantes, menos felices —y
-completamente sin preparación para la adultez (2017). El debate sobre la
-magnitud de los efectos de las redes sociales en el bienestar psicológico de los
-adolescentes sigue activo. Los trabajos más recientes de Jonathan Haidt (La
-generación ansiosa, 2024) sostienen efectos más fuertes; otros investigadores
-como Candice Odgers han planteado reservas metodológicas. Lo que parece
-robusto es que la correlación existe, aunque su interpretación causal requiera
-cautela.
+5 John Bowlby, El apego y la pérdida (3 vols., 1969–1980), y Mary Ainsworth
+et al., Patterns of Attachment (1978), describen el desarrollo y la clasificación
+de patrones de apego en la infancia. Para su estudio en relaciones románticas
+adultas, véase Cindy Hazan y Phillip Shaver, «Romantic Love
+Conceptualized as an Attachment Process», Journal of Personality and
+Social
+Psychology,
+52(3)
+(1987),
+511–524,
+https://doi.org/
+10.1037/0022-3514.52.3.511. La hipervigilancia ante señales de aprobación o
+rechazo se plantea aquí como una aplicación interpretativa posible, no
+como consecuencia universal de un estilo de apego.
+6 Jean M. Twenge, iGen (2017). Para el análisis longitudinal citado en el
+capítulo, véase también Jean M. Twenge, Thomas E. Joiner, Megan L.
+Rogers y Gabrielle N. Martin, «Increases in Depressive Symptoms, SuicideRelated Outcomes, and Suicide Rates Among U.S. Adolescents After 2010
+and Links to Increased New Media Screen Time», Clinical Psychological
+Science, 6(1) (2018), 3–17, https://doi.org/10.1177/2167702617723376. El estudio
+analiza encuestas y estadísticas poblacionales; sus asociaciones no establecen
+por sí solas causalidad. El debate sobre la magnitud y la interpretación de
+esos efectos sigue abierto.
 7 Guy Debord, La sociedad del espectáculo (1967). Debord formuló su crítica
 desde el marxismo situacionista, y su análisis tiene una dimensión política
 que aquí no se desarrolla. Lo que interesa al argumento del libro es la
@@ -1830,13 +1835,23 @@ también ha sido criticada por implicar una esencia fija del yo que podría
 entrar en conflicto con concepciones más dinámicas e intersubjetivas de la
 identidad. Lo que aquí se toma de Winnicott no es la ontología del self
 verdadero sino la descripción funcional del mecanismo defensivo: la
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+33
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
 organización del yo en torno a una representación que sirve a la adaptación
 al entorno en lugar de a la expresión genuina.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-33
+34
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1849,8 +1864,8 @@ El falso ego en acción
 «Escoge: o una vida breve y gloriosa, o una larga y sin
 nombre. Pero no las dos.» — Homero, Ilíada, canto IX, vv.
 410-416 (paráfrasis). «El héroe vive hacia su muerte. Es su
-muerte lo que da sentido a cada uno de sus actos.» — José
-Ortega y Gasset, Ideas sobre el teatro y la novela, 1925.
+muerte lo que da sentido a cada uno de sus actos.» —
+Atribuida a José Ortega y Gasset; fuente no localizada.
 
 I. Por qué Aquiles y no otro
 Los mitos no duran por accidente. Duran porque nombran algo que la
@@ -1873,7 +1888,7 @@ una imagen de lo humano que ilumina la experiencia desde adentro.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-34
+35
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1916,7 +1931,7 @@ después de la muerte en el sentido pleno; hay memoria después de la muerte.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-35
+36
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -1959,7 +1974,7 @@ posibilidad de tomar una esposa y tener hijos. Pero esas palabras, que suenan
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-36
+37
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2001,7 +2016,7 @@ realmente. La cólera que eso produce no es proporcional al agravio porque
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-37
+38
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2019,11 +2034,11 @@ sino la imagen que organiza su sentido de identidad. La cólera de Aquiles
 no es la ira de alguien que ha sido dañado; es la respuesta defensiva de un ego
 disociado ante una amenaza a la imagen que lo sostiene.
 Este análisis no pretende reducir la cólera de Aquiles a un síntoma clínico ni
-evacuar su dimensión moral y política — hay algo genuinamente injusto en
+evacuar su dimensión moral y política —hay algo genuinamente injusto en
 el comportamiento de Agamenón, y hay una dimensión legítima en la
 resistencia de Aquiles a aceptar un trato que viola los códigos del honor
 guerrero. Lo que pretende es señalar que la intensidad y la duración de esa
-cólera —la que lleva a Aquiles a retirarse de la batalla, a dejar morir a sus
+cólera — la que lleva a Aquiles a retirarse de la batalla, a dejar morir a sus
 compañeros, a rechazar cualquier reparación que no sea la humillación total
 del agresor— solo se explica si se comprende la función que la imagen
 cumple en la economía de su ego.
@@ -2043,7 +2058,7 @@ sobre la disociación del ego que merece examinarse con detenimiento.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-38
+39
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2087,7 +2102,7 @@ solo podían vivir a través de otro.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-39
+40
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2129,7 +2144,7 @@ armadura lo haría invulnerable, pero la armadura solo protege a quien
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-40
+41
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2170,24 +2185,24 @@ ciego que la egolatría prestada produce estructuralmente, sin excepción.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-41
+42
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
 El relato del talón —que, como se señaló en el prólogo, no aparece en la
-Ilíada sino en fuentes posteriores— dice que Tetis sumergió al recién nacido
+Ilíada sino en fuentes posteriores—dice que Tetis sumergió al recién nacido
 Aquiles en el río Estigia para hacerlo inmortal, pero lo sostuvo por el talón,
 que quedó fuera del agua y por tanto fue el único punto de su cuerpo que no
 recibió la protección. La metáfora tiene una lógica interna que la hace
 filosóficamente más interesante que la simple noción de punto débil: el
 talón no es débil porque Aquiles sea débil en ese punto; es vulnerable porque
 fue el punto que quedó fuera de la protección precisamente en el acto en que
-se intentó hacer al sujeto completamente invulnerable. [6] Esa lógica —el
+se intentó hacer al sujeto completamente invulnerable. [6] Esa lógica — el
 punto ciego como consecuencia necesaria del intento de invulnerabilidad
-total— es exactamente la que la egolatría prestada produce. El sujeto que ha
-construido una imagen de sí mismo que lo cubre completamente —o que
+total—es exactamente la que la egolatría prestada produce. El sujeto que ha
+construido una imagen de sí mismo que lo cubre completamente — o que
 ha adoptado una imagen ajena que lo define en todos sus aspectos— no
 elimina sus vulnerabilidades reales; las desplaza al único lugar que la imagen
 no puede cubrir: el lugar donde la imagen y el yo no coinciden. Y ese lugar
@@ -2213,7 +2228,7 @@ imagen de fortaleza absoluta es percibida por sus cercanos como alguien que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-42
+43
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2232,10 +2247,10 @@ su imagen, sino desde un ángulo que la imagen no cubre. Y esa es
 exactamente la dinámica del colapso aquileano: el daño que termina con la
 imagen no llega desde el lugar que la imagen defiende sino desde el lugar
 que la imagen no puede ver. El ejecutivo que construyó una imagen de
-control absoluto colapsa no por una crisis profesional —que sabe cómo
-manejar— sino por una crisis en sus vínculos íntimos, que la imagen de
+control absoluto colapsa no por una crisis profesional — que sabe cómo
+manejar—sino por una crisis en sus vínculos íntimos, que la imagen de
 control no le enseñó a habitar. El atleta que construyó una imagen de
-cuerpo invulnerable colapsa no por una lesión —que entra dentro del guion
+cuerpo invulnerable colapsa no por una lesión — que entra dentro del guion
 heroico— sino por una depresión que su imagen no tiene categorías para
 nombrar.
 
@@ -2256,7 +2271,7 @@ necesitado para habitarlas genuinamente. La tragedia es la disociación, no el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-43
+44
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2267,10 +2282,10 @@ marcha desde el principio.
 Aristóteles definió la tragedia como la representación de una acción seria y
 completa que, a través de la piedad y el terror, produce la catarsis de esas
 emociones. [7] Y especificó que la caída del héroe trágico debe producirse por
-un error —la hamartía— que no es depravación moral sino algo más
+un error —la hamartía—que no es depravación moral sino algo más
 cercano a una limitación de perspectiva, un punto en el que el héroe no
 puede ver lo que, desde afuera, parece visible. La hamartía de Aquiles, en el
-análisis que aquí se propone, no es su cólera ni su orgullo —que son
+análisis que aquí se propone, no es su cólera ni su orgullo — que son
 síntomas— sino la confusión fundamental entre la imagen y el ego, entre
 lo que se es y lo que se representa. Esa confusión es su error trágico.
 Pero hay una dimensión de la tragedia de Aquiles que la categoría
@@ -2297,7 +2312,7 @@ fue construida por todos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-44
+45
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2339,7 +2354,7 @@ ha sido construida por y para una institución —una empresa, una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-45
+46
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2382,7 +2397,7 @@ póstuma.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-46
+47
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2424,7 +2439,7 @@ no es simplemente fama sino el tipo específico de fama que la épica produce
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-47
+48
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2446,13 +2461,13 @@ quienes la ejercen y a quienes la padecen igualmente en objetos. La lectura
 de Weil complementa el análisis aquí propuesto desde una dirección
 diferente.
 3 Roy F. Baumeister, Laura Smart y Joseph M. Boden, «Relation of
-threatened egotism to violence and aggression: the dark side of high selfesteem» (1996), Psychological Review, 103(1), 5-33. La investigación de
-Baumeister y sus colaboradores fue contraintuitiva en su momento:
-mostraron que la violencia y la agresión no se correlacionan con la baja
-autoestima, como se había asumido, sino con la amenaza a una autoestima
-alta e inestable. El ego que reacciona con violencia desproporcionada ante
-un agravio no es un ego débil sino un ego organizado en torno a una
-imagen que no puede tolerar la contradicción.
+Threatened Egotism to Violence and Aggression: The Dark Side of High
+Self-Esteem» (1996), Psychological Review, 103(1), 5–33. Los autores
+cuestionaron que la baja autoestima explique por sí sola la agresión y
+propusieron que la amenaza a una autoestima alta —en especial cuando está
+ligada a una imagen favorable de sí— puede ayudar a explicar ciertas
+respuestas agresivas. La aplicación de ese marco al ego organizado en torno a
+una imagen es la lectura que propone este libro.
 4 La lectura del vínculo Aquiles-Patroclo como relación de
 complementariedad psíquica ha sido desarrollada desde distintas
 perspectivas. En la tradición clásica, la relación fue leída fundamentalmente
@@ -2466,28 +2481,28 @@ proyectada en otros.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-48
+49
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
 5 Melanie Klein describió la identificación proyectiva como un mecanismo
-por el cual el sujeto deposita en el otro, partes de sí mismo —generalmente
-las que producen ansiedad o que no son compatibles con la imagen del yo—
-para que el otro las porte. La extensión de este concepto más allá del
-contexto clínico estricto —para describir dinámicas relacionales en pares,
-familias y grupos— ha sido desarrollada por Wilfred Bion y, más
-recientemente, en la teoría de las relaciones objetales. Véase Melanie Klein,
-Envy and Gratitude and Other Works 1946-1963 (1975).
-6 El relato del talón de Aquiles aparece en fuentes tardías: Higino (Fábulas,
-107), Estacio (Aquileida, I, 268-270) y otros autores del período romano. Su
-ausencia en la Ilíada es filosóficamente significativa: Homero no necesita la
-vulnerabilidad f ísica porque la vulnerabilidad que le interesa es de otro tipo.
-La tradición posterior, al añadir el talón, concretizó en el cuerpo lo que el
-poema homérico mantenía en el nivel del carácter y la lógica del honor. Esa
-concretización redujo la riqueza filosófica del mito, aunque al mismo
-tiempo produjo la metáfora que nos interesa.
+por el cual el sujeto deposita en el otro partes de sí mismo, generalmente las
+que producen ansiedad o no son compatibles con la imagen del yo. La
+extensión del concepto a dinámicas de grupo fue desarrollada, entre otros,
+por Wilfred Bion, Experiences in Groups (1961). Aquí se emplea esa tradición
+como lente interpretativa para leer el vínculo Aquiles–Patroclo, no como
+diagnóstico clínico de los personajes. Véase Melanie Klein, Envy and
+Gratitude and Other Works 1946–1963 (1975).
+6 Higino, Fábulas, 107, relata la herida mortal en el talón. Estacio,
+Aquileida, I, 268–270, se cita aquí por la tradición de la inmersión de
+Aquiles en el Estigia; esos versos no deben tomarse por sí solos como fuente
+de la muerte por una flecha en el talón. La ausencia del relato completo en
+la Ilíada es filosóficamente significativa para la lectura que propone este
+libro: Homero no necesita esa vulnerabilidad f ísica porque la vulnerabilidad
+que aquí interesa se sitúa en otro nivel. La tradición posterior concretizó en
+el cuerpo lo que el poema mantenía en el carácter y la lógica del honor.
 7 Aristóteles, Poética (siglo IV a.C.), cap. VI. La definición aristotélica de la
 tragedia y su análisis de la hamartía como el error del héroe —que no es
 depravación moral sino limitación de perspectiva o error de juicio— es el
@@ -2496,8 +2511,8 @@ textos trágicos. Paul Ricoeur, en Tiempo y narración (1984-1985), extendió
 el análisis aristotélico para argumentar que la narrativa trágica no solo
 describe la acción humana, sino que configura la comprensión que los
 sujetos tienen de sus propias vidas.
-8 Ilíada, canto IX, vv. 401-403 (traducción aproximada). El pasaje exacto en
-griego es: ληïστοὶ μὲν γάρ τε βόες καὶ ἴφια μῆλα, / κτητοὶ δὲ τρίποδές τε καὶ
+8 Ilíada, canto IX, vv. 406–409 (traducción aproximada). El pasaje exacto
+en griego es: ληïστοὶ μὲν γάρ τε βόες καὶ ἴφια μῆλα, / κτητοὶ δὲ τρίποδές τε καὶ
 ἵππων ξανθὰ κάρηνα, / ἀνδρὸς δὲ ψυχὴ πάλιν ἐλθεῖν οὔτε ληïστὴ / οὔθ᾽ ἑλετή.
 Literalmente: «Los bueyes y las gordas ovejas pueden ser tomados como
 botín, y los trípodes y las crines rubias de los caballos pueden ser adquiridos;
@@ -2508,7 +2523,7 @@ el poema, y también el momento que más rápidamente abandona.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-49
+50
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2519,11 +2534,11 @@ Capítulo iv
 La disociación del ego
 Cuando el yo se parte
 «Hay personas que, en lugar de vivir, representan el papel de
-alguien que vive.» — Søren Kierkegaard, Diario, 1843.
-«Dividirse en dos, contemplarse desde afuera, ¿no es quizás
-la condición de todo artista? ¿Y no es esa la condición de todo
-infierno?» — Rainer Maria Rilke, Cartas a un joven poeta,
-VIII.
+alguien que vive.» — Atribuida a Søren Kierkegaard; fuente
+no localizada. «Dividirse en dos, contemplarse desde afuera,
+¿no es quizás la condición de todo artista? ¿Y no es esa la
+condición de todo infierno?» — Atribuida a Rainer Maria
+Rilke; fuente no localizada.
 
 I. El nombre del problema
 Los capítulos anteriores han construido el camino hasta este punto. Han
@@ -2537,15 +2552,15 @@ cuando la imagen ha tomado el lugar del eje, cuando el yo que actúa y el yo
 que representa han divergido lo suficiente como para que ya no puedan
 reconocerse el uno al otro.
 Ese fenómeno —la divergencia interna entre el yo que actúa y el yo que
-representa— es lo que este libro llama disociación del ego. El término
+representa—es lo que este libro llama disociación del ego. El término
 requiere inmediatamente una precisión, porque «disociación» tiene un uso
 técnico en psiquiatría y psicología clínica que designa fenómenos específicos
-—la disociación disociativa, las personalidades múltiples, los estados
+— la disociación disociativa, las personalidades múltiples, los estados
 disociativos producidos por trauma— que no son exactamente lo que aquí se
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-50
+51
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2588,7 +2603,7 @@ afuera nunca coincide perfectamente con la experiencia que se tiene desde
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-51
+52
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2631,13 +2646,13 @@ los otros, que controlan su «fachada» —su apariencia, sus modales, su
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-52
+53
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
-escenario— para producir una imagen coherente ante sus audiencias.[2] Lo
+escenario—para producir una imagen coherente ante sus audiencias.[2] Lo
 que el análisis de la disociación del ego añade a esa descripción es una
 distinción que Goffman no desarrolló con suficiente detalle: hay sujetos para
 los que la gestión de la fachada es un aspecto de su vida social sin que se
@@ -2645,8 +2660,8 @@ convierta en su modo de existir, y hay sujetos para los que la fachada es la
 existencia. Los primeros gestionan la representación desde un yo que existe
 independientemente de ella; los segundos solo existen en la medida en que
 la representación se sostiene. La diferencia entre los dos no está en la
-conducta exterior —que puede ser similar— sino en lo que ocurre cuando la
-representación se interrumpe o colapsa.
+conducta exterior — que puede ser similar— sino en lo que ocurre cuando
+la representación se interrumpe o colapsa.
 
 III. Cómo se produce la disociación: los mecanismos de la
 escisión
@@ -2674,7 +2689,7 @@ cognitivo que no ha encontrado otro canal—, o lo que en el lenguaje
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-53
+54
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2718,7 +2733,7 @@ necesitar alguien en mi posición?»; no se pregunta «¿qué me ocurre?» sino
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-54
+55
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2760,7 +2775,7 @@ es. Si el yo genuino ha quedado desplazado y la imagen ha tomado su lugar,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-55
+56
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2803,7 +2818,7 @@ confirmación de que todo está bien.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-56
+57
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2844,7 +2859,7 @@ disociación del ego, en el sentido que aquí se analiza, puede entenderse
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-57
+58
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2887,7 +2902,7 @@ orgánica. El insomnio que se intensifica justo cuando el sujeto debería
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-58
+59
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2928,19 +2943,19 @@ ningún mecanismo de defensa puede neutralizar indefinidamente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-59
+60
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
 VII. Grados de disociación: el espectro y sus formas
-La disociación del ego no es un estado binario —presente o ausente— sino
+La disociación del ego no es un estado binario —presente o ausente—sino
 un espectro con múltiples grados y formas. El análisis hasta aquí se ha
 concentrado en los casos de mayor intensidad, en los que la imagen ha
 tomado el lugar del eje de manera casi completa. Pero conviene examinar el
 espectro más amplio, porque la disociación leve es extraordinariamente
-común —puede decirse que es, en cierta medida, la condición ordinaria de
+común — puede decirse que es, en cierta medida, la condición ordinaria de
 muchos sujetos en la cultura contemporánea— y porque comprender los
 grados menores ayuda a entender tanto la progresión hacia los mayores
 como las posibilidades de detención y retorno.
@@ -2969,7 +2984,7 @@ experimentar. Este sujeto con frecuencia no experimenta malestar visible —
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-60
+61
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3011,7 +3026,7 @@ nombrar pero que experimenta: la sensación de estar hablando con alguien
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-61
+62
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3033,8 +3048,8 @@ sí mismo, pero no puede ofrecerle la presencia que el encuentro genuino
 requiere.
 El segundo efecto en los vínculos es la dificultad de recibir. El sujeto
 disociado puede dar —puede dar mucho, puede dar con una generosidad que
-frecuentemente sobrepasa lo que la situación requiere— pero tiene grandes
-dificultades para recibir. Recibir —cuidado, atención, afecto, apoyo—
+frecuentemente sobrepasa lo que la situación requiere—pero tiene grandes
+dificultades para recibir. Recibir — cuidado, atención, afecto, apoyo—
 requiere exponer la necesidad, reconocer la propia vulnerabilidad, permitir
 que el otro ocupe una posición de mayor poder momentáneo en la relación.
 Todas esas cosas son incompatibles con la imagen que la disociación
@@ -3054,7 +3069,7 @@ construye porque son los que su ego disociado puede tolerar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-62
+63
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3086,7 +3101,7 @@ dramático —una crisis de ansiedad, una depresión, una ruptura relacional
 que el sujeto no puede manejar con los recursos habituales—. Puede ser una
 erosión gradual — el agotamiento que ya no responde al descanso, la
 pérdida progresiva de motivación, el distanciamiento emocional que se
-instala sin que el sujeto pueda identificar su causa— . Puede ser un
+instala sin que el sujeto pueda identificar su causa—. Puede ser un
 acontecimiento externo que la imagen no tenía categorías para manejar —
 una pérdida, una enfermedad, un fracaso que atraviesa todas las defensas—.
 O puede ser, en los casos más afortunados, una apertura: un momento de
@@ -3096,7 +3111,7 @@ se asoma a la brecha sin ser destruido por lo que encuentra ahí.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-63
+64
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3120,37 +3135,35 @@ precisión sobre lo que se toca cuando se toca fondo: no el fracaso personal,
 no la derrota moral, sino el yo genuino que la imagen había desplazado y
 que el fondo de la disociación, paradójicamente, vuelve a hacer accesible.
 El capítulo siguiente examina ese momento —el colapso de la imagen, el
-día en que Aquiles falló— en toda su complejidad. Lo que este capítulo ha
+día en que Aquiles falló—en toda su complejidad. Lo que este capítulo ha
 establecido es la condición desde la que ese examen puede hacerse con rigor:
 la disociación del ego es un proceso real, con mecanismos identificables, con
 una dinámica que tiende hacia un umbral, y con una estructura que hace
-posible —aunque no inevitable— el retorno al yo que la perdura como
+posible — aunque no inevitable— el retorno al yo que la perdura como
 posibilidad incluso en los niveles más profundos de la disociación.
 El fondo de la disociación no es el final del yo. Es el lugar donde el yo que
 fue desplazado lleva más tiempo esperando. El colapso de la imagen no
 destruye al sujeto; revela lo que había debajo de ella.
 Notas
-1 La clasificación clínica de los trastornos disociativos aparece en el DSM-5
-(Manual diagnóstico y estadístico de los trastornos mentales, quinta
-edición, 2013) bajo la categoría de Trastornos disociativos, que incluye la
-amnesia disociativa, el trastorno de despersonalización/desrealización, y el
+1 La clasificación de los trastornos disociativos aparece en el DSM-5 (Manual
+diagnóstico y estadístico de los trastornos mentales, 5.ª ed., 2013). Los
+trastornos de esta categoría no exigen todos una discontinuidad de
+conciencia o memoria: los criterios varían; el trastorno de
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-64
+65
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
-trastorno de identidad disociativo. Lo que distingue el uso filosófico del
-término en este libro del uso clínico no es la ausencia de una base
-experiencial real —la disociación del ego en el sentido aquí descrito es
-experiencialmente real y produce sufrimiento genuino— sino que no
-requiere la discontinuidad de la conciencia o de la memoria que los
-diagnósticos clínicos exigen. Es una disociación de función, no de
-conciencia.
+despersonalización/desrealización, por ejemplo, se caracteriza por
+experiencias persistentes o recurrentes de despersonalización o
+desrealización y no requiere amnesia. La distinción de este libro es
+conceptual: usa «disociación» para describir un desplazamiento de la
+función de orientación del ego, sin presentarlo como diagnóstico clínico.
 2 Erving Goffman, La presentación de la persona en la vida cotidiana (1959).
 Goffman desarrolló su análisis dramatúrgico de la interacción social a partir
 de observaciones etnográficas en comunidades de las islas Shetland. Su
@@ -3162,10 +3175,10 @@ cuando la fachada deja de ser un aspecto de la vida social y se convierte en el
 modo de existir.
 3 La relación entre la supresión emocional y los síntomas f ísicos ha sido
 documentada en la investigación sobre la alexitimia —la dificultad de
-identificar y describir los propios estados emocionales— y en la
+identificar y describir los propios estados emocionales—y en la
 investigación sobre el estrés crónico. James Pennebaker mostró en una serie
 de estudios que la inhibición activa de pensamientos y emociones tiene
-costos fisiológicos medibles, y que la expresión de esos estados —en
+costos fisiológicos medibles, y que la expresión de esos estados — en
 particular a través de la escritura— produce mejoras en indicadores de salud
 física. Véase James W. Pennebaker, Opening Up: The Healing Power of
 Expressing Emotions (1997).
@@ -3177,32 +3190,30 @@ no es la taxonomía completa sino la comprensión de que los mecanismos de
 defensa son respuestas adaptativas, no simplemente errores o patologías:
 tienen una función que en su contexto original era protectora, aunque
 pueden convertirse en obstáculos en contextos posteriores.
+5 La investigación sobre la somatización es extensa y transversal a múltiples
+disciplinas. En medicina psicosomática, los trabajos de George Engel sobre
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-65
+66
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
-5 La investigación sobre la somatización es extensa y trasversal a múltiples
-disciplinas. En el campo de la medicina psicosomática, los trabajos de
-George Engel sobre el modelo biopsicosocial de la enfermedad fueron
-fundacionales. En la psicología clínica, la investigación de Peter Levine
-sobre el trauma somático — desarrollada en su libro Waking the Tiger
-(1997)— describe con precisión los mecanismos por los que el cuerpo
-registra y almacena información que el procesamiento consciente no
-integra.
-6 Bessel van der Kolk, El cuerpo lleva la cuenta (2014). El libro de Van der
-Kolk sintetiza décadas de investigación sobre el trauma, el cerebro y el
-cuerpo, y argumenta que los efectos del trauma no se almacenan
-principalmente en la narrativa verbal sino en la memoria corporal y en los
-sistemas de respuesta al estrés. Aunque su contexto es el trauma clínico en
-sentido estricto, su formulación sobre el cuerpo como testigo de la
-experiencia que la mente no puede integrar ilumina directamente el
-fenómeno más amplio que aquí se describe.
+el modelo biopsicosocial fueron fundacionales. Peter Levine, en Waking the
+Tiger (1997), propone un modelo de trauma somático en el que respuestas
+corporales pueden persistir sin integrarse en el procesamiento consciente.
+Esta referencia presenta el modelo de Levine; no lo formula como un hecho
+general establecido por toda la investigación clínica.
+6 Bessel van der Kolk, El cuerpo lleva la cuenta (2014). Van der Kolk
+sintetiza investigaciones y propone que el trauma puede expresarse en la
+memoria corporal y en los sistemas de respuesta al estrés, aun cuando no se
+articule como narrativa verbal. La afirmación se atribuye aquí a su enfoque y
+a su ámbito clínico; no implica que todo trauma se almacene
+principalmente fuera de la memoria narrativa ni que esa formulación sea un
+consenso único.
 7 Martin Buber, Yo y Tú (1923). La distinción buberiana entre la actitud YoTú y la actitud Yo-Ello es una de las aportaciones más influyentes de la
 filosofía del diálogo del siglo XX. Buber argumentó que la actitud Yo-Tú —
 en la que el otro es encontrado en su alteridad genuina, no reducido a objeto
@@ -3216,7 +3227,7 @@ desde el cual esa actitud emerge.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-66
+67
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3227,10 +3238,11 @@ Capítulo v
 La caída
 El día que fallaste
 «Nada deja huella tan profunda en el espíritu como la
-experiencia de la propia derrota.» — Carl Gustav Jung, El
-yo y el inconsciente, 1928. «Lo que te rompe también te
-enseña la forma exacta de lo que eras antes de romperte.» —
-Simone Weil, Cuadernos, 1942.
+experiencia de la propia derrota.» — Atribuida a Carl
+Gustav Jung; fuente no localizada. «Lo que te rompe
+también te enseña la forma exacta de lo que eras antes de
+romperte.» — Atribuida a Simone Weil; fuente no
+localizada.
 
 I. La inevitabilidad de la caída
 Hay una lógica en la estructura del dilema de Aquiles que hace de la caída no
@@ -3242,23 +3254,23 @@ permanente con la realidad que promete representar. La imagen es una
 abstracción; la realidad es concreta, cambiante, irrespetuosa de las categorías
 que le imponemos. Y tarde o temprano, la realidad produce algo que la
 imagen no anticipó y para lo que no tiene respuesta.
-Ese momento —en el que la realidad supera la capacidad de la imagen— es
+Ese momento —en el que la realidad supera la capacidad de la imagen—es
 lo que este capítulo llama la caída. No necesariamente una derrota pública
 ni un fracaso espectacular, aunque puede tomar esas formas. La caída puede
 ser silenciosa, visible solo para el sujeto y para quienes lo conocen de cerca.
-Puede ser gradual —una erosión lenta de la imagen que finalmente llega a
-un punto de no sostenimiento— o súbita —un acontecimiento que
+Puede ser gradual — una erosión lenta de la imagen que finalmente llega a
+un punto de no sostenimiento—o súbita — un acontecimiento que
 atraviesa todas las defensas en un instante—. Lo que la define no es su forma
-exterior sino su función interna: es el momento en que la imagen ya no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-67
+68
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+exterior sino su función interna: es el momento en que la imagen ya no
 puede cumplir la función que ha estado cumpliendo, y en que el sujeto queda
 expuesto a sí mismo de una manera que la disociación le había impedido
 hasta entonces.
@@ -3291,11 +3303,10 @@ algo y el sujeto respondió con más intensidad de la que la situación requerí
 porque la pregunta tocó algo cerca de la fisura. En esta fase, los mecanismos
 de sostén que el capítulo anterior describió funcionan todavía con suficiente
 eficacia: la fisura es cubierta, reinterpretada, ignorada.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-68
+69
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3334,7 +3345,7 @@ soy si no soy esto?
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-69
+70
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3375,7 +3386,7 @@ la vigilancia ante lo negativo tiene valor adaptativo—, pero produce
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-70
+71
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3417,7 +3428,7 @@ yo genuino que la imagen había desplazado. La caída, en ese sentido, no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-71
+72
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3460,7 +3471,7 @@ la única oportunidad.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-72
+73
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3502,7 +3513,7 @@ las instrucciones más precisas disponibles para el proceso de retorno al yo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-73
+74
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3545,7 +3556,7 @@ habitualmente, porque ambas emergen juntas y tienen una textura
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-74
+75
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3588,7 +3599,7 @@ misma: produce la necesidad de esconderse, de no ser visto, de evitar
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-75
+76
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3630,7 +3641,7 @@ ante la primera señal de rechazo en una relación revela que su imagen de ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-76
+77
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3649,9 +3660,9 @@ imagen.
 Esta función diagnóstica del colapso tiene un antecedente en la tradición
 filosófica que vale la pena señalar: la noción estoica de la dicotomía del
 control —la distinción entre lo que está en nuestro poder y lo que no lo está
-— adquiere una urgencia completamente nueva cuando se examina desde el
+—adquiere una urgencia completamente nueva cuando se examina desde el
 ángulo de la imagen disociada. El sujeto que ha organizado su imagen en
-torno a algo que no está completamente en su poder —la aprobación ajena,
+torno a algo que no está completamente en su poder — la aprobación ajena,
 el éxito continuo, la perfección de sus actos, la ausencia de error— no ha
 simplemente construido una imagen exigente; ha construido una imagen
 estructuralmente frágil, porque su sostén depende de condiciones que el
@@ -3672,7 +3683,7 @@ la imagen que cayó, que tiene reacciones ante el colapso, y que con sus
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-77
+78
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3715,7 +3726,7 @@ exigir que el sujeto restaure lo que cayó, que pueden habitar la incomodidad
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-78
+79
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3746,18 +3757,18 @@ requiere que sean sostenidas juntas: que la caída es dolorosa y que es también
 una oportunidad. Que lo que destruye no es al sujeto sino a la imagen. Que
 lo que queda no es nada sino algo que la imagen impedía ver.
 Lo que resta es formular con precisión qué hace del colapso un umbral —un
-punto de paso— y no simplemente un final. El umbral no es una metáfora
+punto de paso—y no simplemente un final. El umbral no es una metáfora
 de esperanza; es una descripción estructural de lo que el colapso produce. Un
 umbral es un lugar que no es ni el interior ni el exterior, ni el antes ni el
 después, sino el espacio de tránsito entre los dos. El colapso de la imagen es
-ese espacio: el sujeto ya no puede ser lo que era —la imagen cayó y no puede
+ese espacio: el sujeto ya no puede ser lo que era — la imagen cayó y no puede
 simplemente ser restaurada— pero todavía no sabe qué puede ser en su lugar.
 Esa suspensión es la condición más incómoda posible para un sujeto cuya
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-79
+80
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3798,7 +3809,7 @@ Notas
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-80
+81
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3823,32 +3834,35 @@ frecuentemente malentendidas. Winnicott no está diciendo que el self
 verdadero sea inferior o menos capaz; está diciendo que ha sido privado de
 las condiciones de desarrollo que el self falso se apropió, y que necesita esas
 condiciones antes de poder funcionar plenamente.
-3 Mary Ainsworth y John Bowlby desarrollaron el concepto de «base
-segura» (secure base) para describir la función que el cuidador principal
-cumple en el desarrollo del niño: proporcionar un punto de seguridad desde
-el cual el niño puede explorar el mundo y al cual puede regresar cuando la
-exploración produce angustia. La extensión de este concepto a los vínculos
-adultos — desarrollada por Mary Main, Philip Shaver y otros— sugiere que
-los adultos con apego seguro pueden funcionar como base segura para otros
-y pueden usar relaciones de apego como base desde la cual atravesar
-experiencias de crisis. Véase Mary Ainsworth et al., Patterns of Attachment
-(1978).
+3 Mary Ainsworth et al., Patterns of Attachment (1978), estudia patrones de
+apego en la infancia. Para la extensión del marco a relaciones románticas
+adultas, véase Cindy Hazan y Phillip Shaver, «Romantic Love
+Conceptualized as an Attachment Process», Journal of Personality and
+Social
+Psychology,
+52(3)
+(1987),
+511–524,
+https://doi.org/
+10.1037/0022-3514.52.3.511. La referencia de Ainsworth por sí sola no respalda
+la generalización a vínculos adultos.
 4 Brené Brown, Los dones de la imperfección (2010) y El poder de ser
 vulnerable (2012). La investigación de Brown sobre la vergüenza,
 desarrollada a través de métodos de investigación cualitativa con miles de
 participantes, documentó con consistencia la distinción entre vergüenza y
 culpa y sus efectos diferenciales en el bienestar y en la capacidad de
+conexión. Lo que Brown llama «resiliencia ante la vergüenza» —la
+capacidad de atravesar experiencias de vergüenza sin que produzcan
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-81
+82
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
-conexión. Lo que Brown llama «resiliencia ante la vergüenza» —la
-capacidad de atravesar experiencias de vergüenza sin que produzcan
 aislamiento o hundimiento— requiere exactamente lo que aquí se describe:
 la capacidad de separar el acto de la identidad, lo que se hizo de lo que se es.
 5 La dicotomía del control aparece en Epicteto, Enquiridión, 1: «De las
@@ -3873,7 +3887,7 @@ existencia a pesar de ella.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-82
+83
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3910,7 +3924,7 @@ simplemente no sabía hacer las cosas de otra manera, sino el daño con
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-83
+84
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3952,7 +3966,7 @@ más seguro que recibirlo; que acumula poder no por codicia sino por la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-84
+85
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3961,7 +3975,7 @@ AQUILES
 lógica implacable de que quien tiene más poder es menos vulnerable. [1] En
 ese estado, dice Hobbes, la vida es «solitaria, pobre, breve, tosca y brutal». Y
 la solución no es la virtud: es la sujeción.
-El contrato social hobbessiano es, en consecuencia, el acto por el cual los
+El contrato social hobbesiano es, en consecuencia, el acto por el cual los
 individuos ceden su libertad de acción al soberano no porque conf íen en él
 sino porque temen más al caos que a cualquier soberano. La obediencia no
 descansa en la aprobación moral del poder; descansa en el cálculo de que la
@@ -3994,7 +4008,7 @@ solo como descripción del origen del Estado sino como descripción de un
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-85
+86
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4002,7 +4016,7 @@ AQUILES
 
 mecanismo que opera en el interior de cada sujeto que ha organizado su ego
 en torno a una imagen prestada.
-El dilema de Aquiles, analizado desde el ángulo hobbessiano, tiene una
+El dilema de Aquiles, analizado desde el ángulo hobbesiano, tiene una
 dimensión que hasta ahora no había sido nombrada con esta precisión: la
 imagen prestada no se instala únicamente porque el sujeto la desea o la
 encuentra conveniente. Se instala, en buena medida, porque el sujeto teme
@@ -4036,7 +4050,7 @@ puede ser atendido.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-86
+87
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4045,16 +4059,16 @@ AQUILES
 El miedo que no se nombra como miedo no puede ser evaluado ni decidido.
 Solo puede obedecer. Y un sujeto que obedece a un miedo que no reconoce
 como tal es un sujeto que ha cedido su soberanía sin saberlo.
-Aquí aparece la conexión entre el análisis hobbessiano y el dilema de
-Aquiles en toda su precisión: Hobbes dijo que los hombres construyen el
-orden político porque temen más al caos que a cualquier soberano. Lo que el
+Aquí aparece la conexión entre el análisis hobbesiano y el dilema de Aquiles
+en toda su precisión: Hobbes dijo que los hombres construyen el orden
+político porque temen más al caos que a cualquier soberano. Lo que el
 análisis del dilema de Aquiles añade es que el mismo mecanismo opera en el
 nivel interpersonal y en el nivel interior del sujeto. El ego disociado teme
 más al vacío de no tener imagen —al caos que vendría si la imagen cayera—
 que a cualquier costo que sostener la imagen imponga. Y eso convierte a la
 imagen en un soberano interior: un poder que el sujeto no eligió
 conscientemente, pero al que obedece con la misma fidelidad con que el
-ciudadano hobbessiano obedece al Leviatán.
+ciudadano hobbesiano obedece al Leviatán.
 
 IV. Traducción existencial: someterse para no ser devorado
 La filosofía política de Hobbes describe el origen del Estado. Pero su lógica
@@ -4078,7 +4092,7 @@ construido desde la autodeterminación y uno construido desde el miedo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-87
+88
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4104,7 +4118,7 @@ como parte del marco en que opera. Y lo que no se percibe como daño no se
 confronta, no se nombra, no genera límite.
 Hay una consecuencia de esto que el argumento debe nombrar
 directamente: quien hiere y no es confrontado se vuelve soberano en el
-sentido hobbessiano. No porque haya conquistado ningún territorio por la
+sentido hobbesiano. No porque haya conquistado ningún territorio por la
 fuerza, sino porque la ausencia de límite le otorga un poder que nadie le ha
 cedido conscientemente pero que nadie tampoco le ha negado. Cada vez que
 el sujeto dañado elige el silencio — por miedo al conflicto, por miedo a
@@ -4114,14 +4128,14 @@ corresponde a ese ámbito de la relación. Y el daño, sin resistencia, se
 convierte en orden.
 
 V. El miedo y la imagen prestada: el vínculo invisible
-La conexión entre el miedo como mecanismo hobbessiano y la egolatría
+La conexión entre el miedo como mecanismo hobbesiano y la egolatría
 prestada que organiza el dilema de Aquiles puede formularse ahora con una
 precisión que los análisis aislados de cada uno de esos fenómenos no
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-88
+89
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4144,9 +4158,9 @@ sobre él no estaba siendo irracional; estaba respondiendo a condiciones en
 las que esa dependencia era la adaptación más razonable disponible. El
 miedo que la produjo era un miedo a algo real: la exclusión, el abandono, la
 pérdida del lugar que la imagen garantizaba.
-Lo que el análisis hobbessiano ilumina es que ese miedo, aunque nacido de
+Lo que el análisis hobbesiano ilumina es que ese miedo, aunque nacido de
 condiciones reales, produce una servidumbre que va más lejos de lo que esas
-condiciones justifican. El sujeto hobbessiano cede libertad a cambio de
+condiciones justifican. El sujeto hobbesiano cede libertad a cambio de
 seguridad; el sujeto aquileano cede ego a cambio de reconocimiento. Y en
 ambos casos, lo que se cede no puede recuperarse simplemente decidiendo
 recuperarlo: requiere un proceso más complejo, porque lo que fue cedido
@@ -4156,15 +4170,15 @@ dependa de la imagen que el miedo exigía sostener.
 Esa fuente alternativa tiene un nombre en el vocabulario de este libro: el ego
 genuino como eje de autodeterminación causal. El sujeto que puede actuar
 desde su propio punto de referencia —que no necesita la confirmación de la
-imagen ajena para saber quién es y desde dónde actúa— no está libre del
+imagen ajena para saber quién es y desde dónde actúa—no está libre del
 miedo, pero no está gobernado por él. El miedo puede ser información: una
 señal de que algo en el entorno requiere atención. Pero deja de ser el
-soberano que dicta la conducta. Y esa diferencia —entre el miedo como
+soberano que dicta la conducta. Y esa diferencia — entre el miedo como
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-89
+90
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4205,7 +4219,7 @@ necesariamente vuelve, no necesariamente borra el límite que el daño
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-90
+91
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4247,7 +4261,7 @@ sufriendo: está atando parte de su ego al agresor. El daño que no se suelta no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-91
+92
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4290,7 +4304,7 @@ flaco favor tanto al perdón como a la justicia.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-92
+93
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4333,7 +4347,7 @@ que avisa es un ego que ha recuperado su soberanía sobre su propia historia.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-93
+94
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4373,7 +4387,7 @@ perdón desde la soberanía del ego; es capitulación desde el miedo. Y la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-94
+95
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4399,7 +4413,7 @@ cayera, el miedo al rechazo que produciría mostrarse sin imagen, el miedo al
 conflicto que generaría confrontar al que daña. Ese miedo es el Leviatán
 interior del sujeto aquileano: el soberano que no fue elegido
 conscientemente, pero al que se obedece con la misma fidelidad con que el
-ciudadano hobbessiano obedece al poder que le prometió no destruirlo.
+ciudadano hobbesiano obedece al poder que le prometió no destruirlo.
 El antídoto no es la ingenuidad sobre la naturaleza humana ni la
 afirmación de que el amor o la razón bastan para producir vínculos sanos. Es
 algo más modesto y más exigente: el reconocimiento del propio miedo
@@ -4410,21 +4424,21 @@ Pero produce algo que el miedo no produce: un sujeto que actúa desde sí
 mismo.
 El perdón es el momento en que esa dinámica alcanza su expresión más
 radical. No el perdón que el miedo dicta — perdonar para no quedarse solo,
-para no perder el vínculo, para no incomodar— sino el que la soberanía del
+para no perder el vínculo, para no incomodar—sino el que la soberanía del
 ego produce: la decisión de que el daño no va a seguir siendo el organizador
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-95
+96
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
-de la propia posición en el mundo. No porque el daño no haya sido real —lo
-fue— ni porque el otro no tenga responsabilidad —la tiene—, sino porque
-el ego que se queda atado al daño le ha cedido al agresor algo que ningún
-agresor merece: el gobierno de su historia.
+de la propia posición en el mundo. No porque el daño no haya sido real —
+lo fue—ni porque el otro no tenga responsabilidad — la tiene—, sino
+porque el ego que se queda atado al daño le ha cedido al agresor algo que
+ningún agresor merece: el gobierno de su historia.
 No perdono para que el otro cambie. Perdono para que el daño no me
 gobierne.
 Esta frase puede malentenderse como una invitación a la indiferencia ante
@@ -4438,7 +4452,7 @@ exigir justicia sin que esa exigencia esté contaminada por el resentimiento;
 puede sostener el límite sin que ese sostenimiento dependa de que el otro
 reconozca su error; puede avanzar sin esperar que el agresor cambie para
 poder hacerlo.
-Así como el hombre hobbessiano entrega su libertad para no ser destruido,
+Así como el hombre hobbesiano entrega su libertad para no ser destruido,
 muchas veces entregamos nuestro ego para no quedarnos solos. El perdón
 que nace del miedo conserva al agresor como soberano; el perdón que nace
 del ego no somete: desactiva. Y la diferencia entre los dos no está en el gesto
@@ -4457,7 +4471,7 @@ lo que le hicieron no ha recuperado todavía su eje. El perdón que desactiva es
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-96
+97
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4499,7 +4513,7 @@ de su propia sujeción.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-97
+98
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4542,7 +4556,7 @@ necesidades de las víctimas. La justicia restaurativa pregunta en cambio:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-98
+99
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4557,7 +4571,7 @@ resentimiento o el miedo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-99
+100
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4594,7 +4608,7 @@ libro ha construido: la autodeterminación causal como la forma específica
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-100
+101
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4636,7 +4650,7 @@ sostenga.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-101
+102
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4679,7 +4693,7 @@ no decir, y en algún momento esa acumulación produce señales que el sujeto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-102
+103
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4721,7 +4735,7 @@ que el reconocimiento le muestra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-103
+104
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4762,7 +4776,7 @@ puede ser sin que ningún determinante externo decida por uno. [1] Esa
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-104
+105
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4779,9 +4793,9 @@ ocurriendo —y no la señal de que algo está saliendo mal— es una de las
 comprensiones más importantes que el sujeto en retorno puede adquirir. El
 dolor no significa que el retorno sea equivocado; significa que el yo atrofiado
 está siendo reactivado, que las dimensiones de la perspectiva propia que no
-tuvieron expresión directa están siendo exercitadas por primera vez en
+tuvieron expresión directa están siendo ejercitadas por primera vez en
 mucho tiempo. Ese dolor tiene una dirección. Y esa dirección, aunque no sea
-visible en sus detalles, apunta hacia algo que es genuinamente del sujeto.[5]
+visible en sus detalles, apunta hacia algo que es genuinamente del sujeto.[2]
 El retorno al yo duele como duele recuperar el uso de algo que estuvo
 paralizado. No porque el movimiento sea malo sino porque la parálisis fue
 larga. El dolor del retorno es la señal de que algo que dejó de moverse está
@@ -4795,7 +4809,7 @@ no son técnicas ni ejercicios en el sentido de procedimientos que se siguen
 mecánicamente —porque la mecánica es exactamente lo que la imagen
 produce y lo que el retorno al yo debe superar—. Son más bien disposiciones:
 formas de orientar la atención y la acción que, ejercitadas consistentemente,
-van devolviendo al sujeto el acceso a su perspectiva genuina.[4]
+van devolviendo al sujeto el acceso a su perspectiva genuina.[3]
 La primera disposición es la que podría llamarse la consulta interior previa:
 el hábito de preguntarse, antes de actuar, desde dónde viene el impulso de
 actuar de cierta manera. No como un interrogatorio paralizante sino como
@@ -4804,7 +4818,7 @@ correcto desde mi propio eje, o estoy haciéndolo porque es lo que la imagen
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-105
+106
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4827,11 +4841,11 @@ práctica de la tolerancia a la discrepancia consiste en permanecer en esa
 tensión el tiempo suficiente para que la perspectiva propia pueda articularse
 con suficiente claridad como para orientar la acción.
 La tercera disposición —quizás la más concreta y la más inmediatamente
-practicable— es lo que podría llamarse la habitación de la experiencia
+practicable—es lo que podría llamarse la habitación de la experiencia
 directa: el ejercicio deliberado de prestar atención a lo que se experimenta
 desde adentro en el momento en que se experimenta, sin la mediación
 inmediata del filtro de la imagen. Qué siento ahora. Qué quiero en esta
-situación. Qué me parece a mí —no qué debería parecerme, no qué le
+situación. Qué me parece a mí — no qué debería parecerme, no qué le
 parecería a alguien como yo—esta conversación, esta decisión, este
 momento. Esas preguntas, que pueden parecer triviales, son
 extraordinariamente dif íciles para el sujeto que ha estado mediando toda su
@@ -4847,7 +4861,7 @@ conversaciones pequeñas, en decisiones menores, en situaciones donde el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-106
+107
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4889,7 +4903,7 @@ realmente ahí.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-107
+108
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4899,17 +4913,17 @@ El retorno al yo transforma la calidad de los vínculos de una manera que
 puede resultar desconcertante para el entorno del sujeto en retorno. Algunos
 vínculos que se sostenían en la imagen —que existían porque la imagen del
 sujeto cumplía una función para el otro, o porque el otro cumplía una
-función de confirmación de la imagen del sujeto— se vuelven insostenibles
-o se vacían de contenido cuando la imagen deja de estar. Eso puede producir
+función de confirmación de la imagen del sujeto—se vuelven insostenibles o
+se vacían de contenido cuando la imagen deja de estar. Eso puede producir
 pérdidas relacionales reales que el sujeto en retorno debe estar dispuesto a
-atravesar. Pero otros vínculos —los que siempre tuvieron más profundidad
+atravesar. Pero otros vínculos — los que siempre tuvieron más profundidad
 de la que la imagen permitía expresar— se vuelven más ricos, más directos,
-más capaces de la presencia genuina que la imagen impedía.[6]
+más capaces de la presencia genuina que la imagen impedía.[4]
 Erich Fromm formuló una distinción que ilumina esta transformación: la
 diferencia entre el amor como tener — poseer al otro, usar la relación para
-satisfacer la necesidad de confirmación— y el amor como ser —estar
+satisfacer la necesidad de confirmación—y el amor como ser — estar
 genuinamente presente con el otro desde el propio eje, sin necesitar de esa
-presencia nada más que lo que el encuentro genuino produce.[2] El sujeto
+presencia nada más que lo que el encuentro genuino produce.[5] El sujeto
 disociado ama en el primer sentido aunque crea que lo hace en el segundo; el
 sujeto en retorno al yo comienza a desarrollar la capacidad del segundo tipo
 de amor, no porque haya tomado una decisión moral sino porque el ego
@@ -4931,7 +4945,7 @@ cuestionada, un nuevo eje tan rígido como la imagen que reemplazó.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-108
+109
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4974,7 +4988,7 @@ argumento, o mi defensa de ella se activa de manera desproporcionada ante
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-109
+110
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4999,7 +5013,7 @@ desarrolló también una filosof ía de la identidad narrativa que ilumina esta
 dimensión del retorno: el yo no es una sustancia fija que permanece idéntica
 a través del tiempo sino una identidad narrativa, una unidad construida por
 la capacidad de integrar los acontecimientos del pasado en una historia que
-el sujeto puede reconocer como la suya.[3] Esa identidad narrativa no exige
+el sujeto puede reconocer como la suya.[6] Esa identidad narrativa no exige
 que todos los capítulos de la historia sean gloriosos ni coherentes; exige que
 el sujeto pueda asumir esa historia como suya, incluyendo los capítulos que
 preferiría no haber vivido.
@@ -5016,7 +5030,7 @@ la disociación, y esa diferencia no es solo una pérdida: es también una forma
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-110
+111
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5058,16 +5072,16 @@ la calidad de la acción y en la sostenibilidad del compromiso.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-111
+112
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
 La generosidad que nace del ego genuino —que el sujeto elige porque,
-evaluado desde su propio eje, valora el bienestar de los otros— es
-estructuralmente diferente de la generosidad que nace de la imagen —que el
-sujeto ejerce porque la imagen de persona generosa es parte de su
+evaluado desde su propio eje, valora el bienestar de los otros—es
+estructuralmente diferente de la generosidad que nace de la imagen — que
+el sujeto ejerce porque la imagen de persona generosa es parte de su
 representación—. La primera puede sostenerse en el tiempo y puede tener
 límites: el sujeto que da desde su ego genuino puede también recibir, puede
 decir que no cuando la situación lo requiere, puede reconocer sus propios
@@ -5101,7 +5115,7 @@ nombre que el mito le da a la vida que el sujeto aquileano podría haber
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-112
+113
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5110,8 +5124,8 @@ AQUILES
 tenido si el ego no hubiera sido capturado por la imagen del kleos. Una vida
 menos visible, quizás, pero genuinamente suya.
 Lo que Aquiles no tiene —y lo que el sujeto en retorno al yo está
-construyendo trabajosamente— es acceso a su propio deseo desde adentro.
-No el deseo que la imagen le dicta —la gloria, el ser recordado, el kleos
+construyendo trabajosamente—es acceso a su propio deseo desde adentro.
+No el deseo que la imagen le dicta — la gloria, el ser recordado, el kleos
 imperecedero—sino el deseo que emerge de su perspectiva genuina cuando
 esa perspectiva tiene espacio para articularse. En el canto IX, Aquiles puede
 decir las palabras de Ftía, pero no puede sentirlas como suyas, porque su ego
@@ -5143,7 +5157,7 @@ experiencia de estar ante la posibilidad de lo posible, ante el abismo de lo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-113
+114
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5156,45 +5170,7 @@ que es constitutiva de la libertad genuina y que no puede ser eliminada sin
 eliminar la libertad misma. En el vocabulario de este libro: la angustia de la
 autodeterminación es la señal de que el ego genuino está comenzando a
 funcionar como tal.
-2 Erich Fromm, El arte de amar (1956). La distinción entre el amor como
-tener y el amor como ser es uno de los ejes del pensamiento de Fromm,
-desarrollado con mayor extensión en Tener o ser (1976). Lo que Fromm
-llama «amor maduro» —la capacidad de amar desde la propia plenitud en
-lugar de desde la necesidad de ser amado— es exactamente la forma de
-vinculación que la autodeterminación causal hace posible: no la ausencia de
-necesidad del otro, sino la ausencia de necesidad del otro como condición de
-la propia existencia.
-3 Paul Ricoeur, Sí mismo como otro (1990), especialmente el estudio quinto:
-«Identidad personal e identidad narrativa». La distinción ricoeuriana entre
-la identidad como idem —la mismidad, la identidad numérica del objeto
-que permanece igual a través del tiempo— y la identidad como ipse —la
-ipseidad, la identidad del sujeto que se mantiene fiel a sí mismo a través del
-tiempo sin necesitar ser siempre igual— es fundamental para comprender
-cómo el yo puede cambiar y desarrollarse sin perder la continuidad que hace
-posible hablar de un yo que persiste. La identidad narrativa es la forma en
-que la ipseidad se articula: el yo que puede reconocer su historia como suya,
-incluyendo sus transformaciones.
-4 La investigación sobre la motivación intrínseca vs. extrínseca de Edward
-Deci y Richard Ryan —desarrollada en la Teoría de la Autodeterminación
-(Self-Determination Theory, SDT)—proporciona el respaldo empírico más
-sólido disponible para la distinción filosófica que este libro establece entre
-actuar desde el propio eje y actuar para sostener una imagen. Deci y Ryan
-mostraron que la motivación intrínseca —hacer algo porque tiene valor
-desde la perspectiva del propio sujeto— produce mayor bienestar, mayor
-persistencia y mayor creatividad que la motivación extrínseca —hacer algo
-para obtener recompensas o evitar castigos externos—. Véase Edward L.
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-114
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-AQUILES
-
-Deci y Richard M. Ryan, Intrinsic Motivation and Self-Determination in
-Human Behavior (1985).
-5 Viktor Frankl, El hombre en busca de sentido (1946). Frankl desarrolló la
+2 Viktor Frankl, El hombre en busca de sentido (1946). Frankl desarrolló la
 logoterapia a partir de su experiencia en los campos de concentración nazis,
 argumentando que la capacidad de encontrar sentido en la propia existencia
 —incluso en las condiciones más extremas de privación y sufrimiento— es
@@ -5205,18 +5181,21 @@ cualquier circunstancia dada» es una expresión extrema de lo que aquí se
 llama autodeterminación causal: la capacidad de actuar desde el propio eje
 incluso cuando las condiciones externas lo hacen extraordinariamente
 difícil.
-6 Carl R. Rogers, El proceso de convertirse en persona (1961). La psicoterapia
+3 Edward L. Deci y Richard M. Ryan desarrollaron la Teoría de la
+Autodeterminación, entre otros lugares, en Intrinsic Motivation and SelfDetermination in Human Behavior (1985). La teoría distingue formas de
+motivación intrínseca y extrínseca, pero no las identifica sin más con actuar
+desde el propio eje o sostener una imagen; además, contempla grados de
+internalización de motivos inicialmente externos. El vínculo entre esa
+teoría y la distinción filosófica de este libro es una aplicación conceptual del
+autor, no una equivalencia ni una conclusión empírica de Deci y Ryan.
+4 Carl R. Rogers, El proceso de convertirse en persona (1961). La psicoterapia
 centrada en el cliente que Rogers desarrolló descansa en una intuición
 filosófica que es la misma que organiza este capítulo: el sujeto tiene en sí
 mismo los recursos para el desarrollo y la salud, y lo que la terapia —o
-cualquier relación de acompañamiento genuino— puede proporcionar son
+cualquier relación de acompañamiento genuino—puede proporcionar son
 las condiciones en que esos recursos pueden actualizarse. Las tres
 condiciones que Rogers identificó como necesarias y suficientes para el
-cambio terapéutico —autenticidad del terapeuta, consideración positiva
-incondicional y comprensión empática—son exactamente las condiciones
-que el sujeto en retorno al yo necesita en sus vínculos para poder avanzar en
-el proceso.
-
+cambio terapéutico — autenticidad del terapeuta, consideración positiva
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5226,15 +5205,47 @@ A.C.
 
 AQUILES
 
+incondicional y comprensión empática—son exactamente las condiciones
+que el sujeto en retorno al yo necesita en sus vínculos para poder avanzar en
+el proceso.
+5 Erich Fromm, El arte de amar (1956). La distinción entre el amor como
+tener y el amor como ser es uno de los ejes del pensamiento de Fromm,
+desarrollado con mayor extensión en Tener o ser (1976). Lo que Fromm
+llama «amor maduro» —la capacidad de amar desde la propia plenitud en
+lugar de desde la necesidad de ser amado— es exactamente la forma de
+vinculación que la autodeterminación causal hace posible: no la ausencia de
+necesidad del otro, sino la ausencia de necesidad del otro como condición de
+la propia existencia.
+6 Paul Ricoeur, Sí mismo como otro (1990), especialmente el estudio quinto:
+«Identidad personal e identidad narrativa». La distinción ricoeuriana entre
+la identidad como idem —la mismidad, la identidad numérica del objeto
+que permanece igual a través del tiempo—y la identidad como ipse — la
+ipseidad, la identidad del sujeto que se mantiene fiel a sí mismo a través del
+tiempo sin necesitar ser siempre igual— es fundamental para comprender
+cómo el yo puede cambiar y desarrollarse sin perder la continuidad que hace
+posible hablar de un yo que persiste. La identidad narrativa es la forma en
+que la ipseidad se articula: el yo que puede reconocer su historia como suya,
+incluyendo sus transformaciones.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+116
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
 Capítulo viii
 
 Vivir sin gloria prestada
 Una ética del ego auténtico
-«La primera y más grande victoria es conquistarse a uno
-mismo.» — Platón, Las leyes, I, 626e. «Ser lo que somos y
-convertirnos en lo que somos capaces de ser es la única
-finalidad de la vida.» — Robert Louis Stevenson, carta a un
-amigo, 1880.
+«La victoria sobre uno mismo es la primera y mejor de las
+victorias.» — Platón, Leyes, I, 626e (traducción). «Ser lo que
+somos y convertirnos en lo que somos capaces de ser es la única
+finalidad de la vida.» — Robert Louis Stevenson, «Henry
+David Thoreau: His Character and Opinions», § V, en
+Familiar Studies of Men and Books (1882).
 
 I. El último capítulo y su pregunta
 Los siete capítulos anteriores han construido un argumento que comenzó
@@ -5256,7 +5267,7 @@ cuando ya no está gobernado por la imagen que los otros construyeron sobre
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-116
+117
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5284,7 +5295,7 @@ mayor economía describe lo que cambia cuando el sujeto retorna al yo.
 La performance es el modo de habitar la existencia en el que el sujeto está,
 en todo momento, produciendo una versión de sí mismo para una
 audiencia. Esa audiencia puede ser externa —personas concretas cuya
-aprobación o validación el sujeto necesita— o puede ser interna —la
+aprobación o validación el sujeto necesita—o puede ser interna — la
 imagen internalizada que el sujeto ha convertido en su propio observador—.
 Lo que define la performance no es la presencia de una audiencia real sino la
 estructura de la relación del sujeto con su propia experiencia: en la
@@ -5298,7 +5309,7 @@ filtro de la imagen. No significa transparencia total ni ausencia de toda
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-117
+118
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5340,7 +5351,7 @@ necesariamente en su número —el ego genuino no produce más vínculos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-118
+119
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5364,8 +5375,9 @@ tiene fricción real: hay desacuerdos que se pueden nombrar, necesidades que
 se pueden expresar, límites que se pueden sostener sin que sostenerlos
 destruya la relación. Esa fricción no es un defecto del vínculo; es la señal de
 que dos perspectivas genuinas están en contacto. Y el contacto entre
-perspectivas genuinas —que a veces produce tensión— es lo que hace posible
-el tipo de transformación mutua que los vínculos más ricos producen.
+perspectivas genuinas — que a veces produce tensión— es lo que hace
+posible el tipo de transformación mutua que los vínculos más ricos
+producen.
 John Gottman, en su investigación sobre las relaciones de pareja que
 perduran, identificó un hallazgo contraintuitivo: las parejas más estables no
 son las que tienen menos conflicto sino las que tienen un coeficiente alto de
@@ -5377,25 +5389,25 @@ ambos sujetos pueden estar en el conflicto sin perder el acceso a sí mismos; el
 vínculo desde la imagen no lo tiene porque el conflicto amenaza la
 representación y produce reacciones defensivas que escalan en lugar de
 resolver.
-La transformación en la calidad de los vínculos que el retorno al yo produce
-tiene también una dimensión de selección: el sujeto que actúa desde su ego
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-119
+120
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+La transformación en la calidad de los vínculos que el retorno al yo produce
+tiene también una dimensión de selección: el sujeto que actúa desde su ego
 genuino tiende a atraer y a elegir vínculos con personas que pueden hacer lo
 mismo. No porque sea intolerante con quienes están disociados —la
 compasión que el análisis del dilema de Aquiles permite es genuina y no
-condescendiente— sino porque el encuentro genuino entre dos perspectivas
+condescendiente—sino porque el encuentro genuino entre dos perspectivas
 produce una calidad de experiencia que el sujeto que ha tenido acceso a ella
 ya no puede conformarse con su ausencia. Una vez que se ha habitado la
-presencia genuina en un vínculo, el vínculo especular —el que solo ofrece
+presencia genuina en un vínculo, el vínculo especular — el que solo ofrece
 confirmación— resulta empobrecido de una manera que antes era invisible.
 
 IV. Las decisiones desde el eje: coherencia sin rigidez
@@ -5420,27 +5432,27 @@ El sujeto que actúa desde su ego genuino toma decisiones de una manera que
 tiene una característica que podría parecer paradójica: es simultáneamente
 más coherente y más flexible que las decisiones de la imagen. Más coherente
 porque hay un eje real desde el que las decisiones parten, y ese eje produce
-una consistencia que no necesita ser vigilada, sino que emerge naturalmente
-de la perspectiva propia. Más flexible porque el eje genuino puede
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-120
+121
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+una consistencia que no necesita ser vigilada, sino que emerge naturalmente
+de la perspectiva propia. Más flexible porque el eje genuino puede
 actualizarse con la experiencia: el sujeto puede cambiar de posición cuando
 la evidencia y la reflexión lo justifican, sin que ese cambio amenace el
 fundamento de quién es.
-Esa combinación —coherencia con flexibilidad— es la que Aristóteles tenía
+Esa combinación —coherencia con flexibilidad—es la que Aristóteles tenía
 en mente cuando describió la virtud como un hábito que no es ni
 deficiencia ni exceso, sino la disposición estable del carácter que permite
 responder adecuadamente a cada situación desde la perspectiva propia.[2] Lo
 que el análisis del dilema de Aquiles añade a esa descripción es la
-comprensión de que la virtud aristotélica —la aretê como excelencia del
+comprensión de que la virtud aristotélica — la aretê como excelencia del
 carácter— no puede ser la excelencia de la imagen sino solo la del ego
 genuino. La imagen puede imitar la virtud, puede producir
 comportamientos que exteriormente se le asemejan, pero no puede tener la
@@ -5463,18 +5475,18 @@ La tesis que el título de este capítulo anuncia —que el sujeto que vive desd
 mismo es paradójicamente más generoso con los otros— puede parecer
 contraintuitiva a primera vista. La cultura que valora la humildad y sospecha
 del amor propio tiende a suponer que cuanto más centrado está el sujeto en
-sí mismo, menos puede dar a los otros; y que la generosidad requiere
-precisamente el tipo de abnegación del yo que la autodeterminación causal
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-121
+122
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+sí mismo, menos puede dar a los otros; y que la generosidad requiere
+precisamente el tipo de abnegación del yo que la autodeterminación causal
 rechaza. Esa suposición es errónea, y el análisis que el libro ha construido
 permite mostrar por qué con una precisión que la intuición cultural no
 alcanza.
@@ -5505,25 +5517,25 @@ reales. Puede recibir cuando necesita recibir, sin que esa recepción lo
 desestructure. Y todo eso —el dar honesto, el no honesto, el recibir honesto
 — produce en el otro algo que el dar desde la imagen no puede producir: la
 sensación de estar en contacto con alguien real.
-La generosidad genuina no da todo; da lo que tiene. No ofrece la imagen de
-la abundancia; ofrece lo que el ego genuino realmente puede dar en este
-momento, en esta situación, a esta persona. Esa generosidad acotada y
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-122
+123
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+La generosidad genuina no da todo; da lo que tiene. No ofrece la imagen de
+la abundancia; ofrece lo que el ego genuino realmente puede dar en este
+momento, en esta situación, a esta persona. Esa generosidad acotada y
 honesta vale más que la generosidad ilimitada de quien da para sostener la
 representación de que es alguien que da.
 La paradoja se completa cuando se examina la dimensión temporal: el sujeto
 que da desde la imagen se agota y termina o en el resentimiento silencioso
 —dando cada vez más y recibiendo cada vez menos gratitud, porque el otro
-percibe que el don no es genuino— o en el colapso visible —dejando de dar
+percibe que el don no es genuino—o en el colapso visible — dejando de dar
 de repente, con una brusquedad que desconcierta a los que recibían—. El
 sujeto que da desde el ego genuino puede dar de manera sostenida, porque da
 desde una fuente que se renueva: la perspectiva propia, que no se agota en el
@@ -5548,18 +5560,18 @@ física, en la capacidad de placer y descanso genuinos, en la relación con el
 dolor y la vulnerabilidad corporal.
 El sujeto que actúa desde su ego genuino puede habitar el cuerpo desde
 adentro: puede percibirlo como la dimensión de su existencia que registra y
-comunica la experiencia propia, no como la superficie de la representación.
-Esa diferencia no es abstracta. Tiene consecuencias en cómo se experimenta
-el descanso —como algo que el cuerpo genuinamente necesita y que puede
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-123
+124
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+comunica la experiencia propia, no como la superficie de la representación.
+Esa diferencia no es abstracta. Tiene consecuencias en cómo se experimenta
+el descanso —como algo que el cuerpo genuinamente necesita y que puede
 ser honrado, en lugar de como algo que la imagen debe minimizar porque
 descansa quien no puede más—. En cómo se experimenta el placer —como
 algo que el cuerpo genuinamente busca y que puede ser recibido sin que la
@@ -5588,21 +5600,20 @@ requieren que la vulnerabilidad corporal sea ocultada, la práctica gradual de
 honrar lo que el cuerpo señala en lugar de suprimirlo en nombre de la
 imagen.
 
-VII. La ética de la posición: ocupar el espacio que le
-corresponde
-La vida sin gloria prestada tiene implicaciones éticas que van más allá del
-sujeto individual y tocan la manera en que ese sujeto ocupa su lugar en el
-entramado de las relaciones y las responsabilidades. Porque el ego genuino
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-124
+125
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+VII. La ética de la posición: ocupar el espacio que le
+corresponde
+La vida sin gloria prestada tiene implicaciones éticas que van más allá del
+sujeto individual y tocan la manera en que ese sujeto ocupa su lugar en el
+entramado de las relaciones y las responsabilidades. Porque el ego genuino
 no es solo una condición de bienestar individual; es también una condición
 ética: la condición sin la cual la responsabilidad genuina —no la
 responsabilidad de la imagen sino la responsabilidad del sujeto que se sabe
@@ -5615,36 +5626,37 @@ rendición de cuentas —cuando algo sale mal, cuando alguien es dañado,
 cuando una decisión produce resultados que no eran los deseados—, el sujeto
 disociado tiende a responder desde la imagen: o defendiéndola —el error no
 fue un error, o fue responsabilidad de otro, o estaba justificado por
-circunstancias excepcionales— o hundiéndose ante ella —el error confirma
+circunstancias excepcionales—o hundiéndose ante ella — el error confirma
 que la imagen era falsa, que la persona entera es un fracaso, que la vergüenza
 es proporcional al colapso de la representación—. Ninguna de esas respuestas
 es responsabilidad genuina.
-La responsabilidad genuina —la que emerge del ego genuino— tiene una
+La responsabilidad genuina —la que emerge del ego genuino—tiene una
 estructura diferente: puede reconocer el acto como propio, evaluar sus
 consecuencias desde la perspectiva de los afectados, hacerse cargo de la
 reparación en la medida en que sea posible, y aprender de lo que ocurrió sin
 que ese aprendizaje requiera ni la aniquilación de la imagen ni su defensa. Es
 la responsabilidad del sujeto que sabe que es el autor de sus actos y que puede
-sostener ese saber sin que lo destruya. Y esa responsabilidad —que es la más
+sostener ese saber sin que lo destruya. Y esa responsabilidad — que es la más
 exigente de todas— solo es posible para el ego que tiene un eje genuino
 desde el cual ejercerla.
-La ética de la posición incluye también la capacidad de ocupar el espacio que
-le corresponde al propio ego sin expansión ni contracción defensiva. El
-sujeto disociado tiende a uno de dos extremos: o expande el espacio que
-ocupa más allá de lo que le corresponde —porque la imagen requiere más
-visibilidad, más confirmación, más lugar que el que la situación asigna
-naturalmente— o contrae el espacio que ocupa por debajo de lo que le
-corresponde —porque la imagen de modestia, de no-incomodar, de no-serdemasiado exige una presencia mínima que en realidad es una forma de
-ausencia—. El ego genuino puede ocupar el espacio que genuinamente le
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-125
+126
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+La ética de la posición incluye también la capacidad de ocupar el espacio que
+le corresponde al propio ego sin expansión ni contracción defensiva. El
+sujeto disociado tiende a uno de dos extremos: o expande el espacio que
+ocupa más allá de lo que le corresponde —porque la imagen requiere más
+visibilidad, más confirmación, más lugar que el que la situación asigna
+naturalmente—o contrae el espacio que ocupa por debajo de lo que le
+corresponde — porque la imagen de modestia, de no-incomodar, de noser-demasiado exige una presencia mínima que en realidad es una forma de
+ausencia—. El ego genuino puede ocupar el espacio que genuinamente le
 corresponde: ni más ni menos, sin que esa ocupación requiera ninguna
 gestión de imagen.
 Ocupar el espacio que le corresponde al ego genuino no es agresivo ni es
@@ -5668,6 +5680,16 @@ era real— y el futuro como proyecto de su mantenimiento o expansión. El
 presente tiende a desaparecer en esa estructura: es solo el momento de
 producción de los actos que confirmarán la imagen o la amenazarán,
 evaluado antes de ser vivido en función de su valor para la representación.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+127
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
 Esa relación con el tiempo tiene un nombre en la tradición filosófica:
 Heidegger la llamó la existencia impropia o inauténtica, el modo de ser en
 el que el sujeto no habita genuinamente su propio tiempo sino que existe
@@ -5677,16 +5699,6 @@ solitario que ha renunciado al mundo; es la del sujeto que puede habitar su
 propio tiempo —incluyendo la conciencia de su finitud— desde el propio
 eje, sin que ninguna imagen externe decida por él qué cuenta como una vida
 vivida bien.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-126
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-AQUILES
-
 La vida desde el ego genuino produce una relación con el tiempo que tiene
 una textura específicamente diferente. El presente se expande: cuando el
 sujeto no está gestionando permanentemente la imagen, tiene acceso a la
@@ -5703,7 +5715,7 @@ desde el ego genuino o desde la imagen. El sujeto que puede estar
 completamente en el presente —que no está permanentemente evaluando el
 momento desde la perspectiva de cómo quedará registrado en la imagen—
 está habitando la autodeterminación causal en su forma más concreta. No
-porque el presente sea todo —la memoria y la anticipación son parte
+porque el presente sea todo — la memoria y la anticipación son parte
 constitutiva de la existencia humana— sino porque el presente habitado
 desde adentro es la señal inequívoca de que el eje está funcionando como
 genuinamente propio.
@@ -5711,6 +5723,16 @@ genuinamente propio.
 IX. La excelencia sin imagen: hacer bien lo que se hace
 Una de las preguntas que el análisis del dilema de Aquiles puede suscitar —y
 que merece una respuesta directa antes de cerrar el libro— es si la vida sin
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+128
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
 gloria prestada implica necesariamente renunciar a la excelencia. Si el
 problema fue vivir para una imagen de excelencia, ¿significa eso que el
 retorno al yo requiere abandonar la aspiración a hacer las cosas bien, a
@@ -5720,16 +5742,6 @@ modesta, menos intensa, menos comprometida con la calidad de lo que se
 hace?
 La respuesta es no, y el análisis permite mostrar por qué con precisión. La
 excelencia no es el problema; la imagen de la excelencia es el problema. Lo
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-127
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-AQUILES
-
 que el dilema de Aquiles produce no es un sujeto que hace las cosas bien;
 produce un sujeto que hace las cosas para que parezcan excelentes ante la
 mirada ajena. Y esas dos cosas —hacer bien y parecer excelente— pueden
@@ -5755,6 +5767,15 @@ sujeto en flujo no está monitoreando cómo se ve mientras actúa. [5] Esas
 condiciones son posibles precisamente cuando el ego no está gobernado por
 la imagen, cuando la actividad puede ser habitada desde adentro sin el filtro
 permanente de cómo aparecerá desde afuera.
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+129
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
 La excelencia desde el ego genuino no aspira a la gloria de Aquiles —a la
 imagen imperecedera que los poetas cantarán— sino a algo más modesto y
 más real: a hacer bien lo que se hace, por el valor intrínseco de hacerlo bien,
@@ -5764,20 +5785,11 @@ recordada o no; puede producir fama o puede ser completamente invisible.
 Ninguna de esas posibilidades la invalida, porque su fundamento no es la
 mirada ajena sino el eje interno desde el que el sujeto actúa.
 
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-128
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-AQUILES
-
 X. Una ética para el sujeto que retornó: principios, no reglas
-El último apartado de este capítulo —y del libro— puede formularse como
+El último apartado de este capítulo —y del libro—puede formularse como
 una síntesis ética de todo lo que el argumento ha construido. No en el
 sentido de un código de conducta ni de un conjunto de reglas que el sujeto
-que retornó al yo debe seguir —las reglas son la forma que la imagen toma
+que retornó al yo debe seguir — las reglas son la forma que la imagen toma
 cuando quiere parecer ética—, sino en el sentido de los principios que
 emergen naturalmente de la perspectiva del ego genuino y que orientan la
 acción sin dictarla.
@@ -5797,6 +5809,15 @@ imagen ni su colapso. Esta forma de responsabilidad no es la penitencia; es la
 capacidad de decir
 «hice esto, esto produjo aquello, esto puedo reparar» desde el eje propio y no
 desde la vergüenza ni desde el orgullo herido.
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+130
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
 El tercer principio es el de la generosidad acotada: dar lo que genuinamente
 se tiene para dar, con la atención real a lo que el otro necesita y con la
 honestidad sobre los propios límites que esa atención requiere. No la
@@ -5804,16 +5825,6 @@ generosidad de la imagen —ilimitada, sin reciprocidad posible, orientada a
 confirmar la representación— sino la generosidad del ego genuino: real,
 sostenible, capaz de recibir porque sabe que recibir es también parte del
 intercambio genuino.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-129
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-AQUILES
-
 El cuarto principio es el de la presencia sin garantías: el ego genuino puede
 estar completamente en la experiencia sin necesitar que esa experiencia
 confirme ninguna imagen. Puede estar en el fracaso sin que el fracaso lo
@@ -5838,8 +5849,18 @@ se es. Esa gloria no la cantan los poetas. La vive el sujeto. Y eso, finalmente,
 es suficiente.
 El dilema de Aquiles fue la elección de una vida para la imagen a costa de la
 vida desde el yo. Aquiles eligió el kleos —la fama que los otros sostendrían
-— sobre Ftía —la vida que él mismo podría haber habitado—. Esa elección
+—sobre Ftía — la vida que él mismo podría haber habitado—. Esa elección
 no fue libre en el sentido que importa: fue el resultado de una formación que
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+131
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
 nunca le mostró que existía otra opción, que organizó su ego en torno a la
 gloria antes de que pudiera tener perspectiva suficiente para evaluar qué
 quería que fuera el centro de su existencia.
@@ -5847,26 +5868,16 @@ El sujeto contemporáneo que ha atravesado su propia versión del dilema —
 que ha sostenido su propia imagen prestada, que ha caído desde ella, que ha
 comenzado el proceso dif ícil y no lineal del retorno al yo— tiene algo que
 Aquiles no tuvo: la posibilidad de elegir con perspectiva. No la perspectiva
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-130
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-AQUILES
-
 perfecta ni la que garantiza que la imagen no volverá a aparecer. La
 perspectiva del que ha estado en la trampa y la ha reconocido, y que desde ese
 reconocimiento puede orientar la acción hacia algo que es genuinamente
 suyo.
 Esa posibilidad —modesta en su formulación, radical en sus consecuencias
-— es lo que este libro ha intentado articular a lo largo de sus páginas. No la
+—es lo que este libro ha intentado articular a lo largo de sus páginas. No la
 promesa de una vida sin imagen ni la celebración de la soledad
 autosuficiente. La descripción precisa de un mecanismo que produce
 sufrimiento innecesario y de las condiciones bajo las que ese mecanismo
-puede ser desactivado. Y la afirmación —que el argumento completo del
+puede ser desactivado. Y la afirmación — que el argumento completo del
 libro sostiene— de que el ego genuino, recuperado desde la caída y
 ejercitado en la práctica de la autodeterminación causal, es el único
 fundamento disponible para una existencia que puede ser llamada, sin
@@ -5883,22 +5894,22 @@ necesitan un contexto de conexión genuina suficientemente sólido para que
 puedan procesarse sin dañar el vínculo. Esa proporción es exactamente el
 tipo de ambiente que el ego genuino puede construir y el ego disociado no
 puede.
-2 Aristóteles, Ética a Nicómaco (siglo IV a.C.), libro II, cap. 1-7. La
-descripción aristotélica de la virtud como habitus —una disposición estable
-del carácter que se adquiere por la práctica y que permite responder
-adecuadamente a cada situación desde el propio juicio— es incompatible
-con la egolatría en cualquiera de sus formas. La virtud aristotélica exige la
-phronesis —la prudencia, el juicio práctico— que a su vez exige un sujeto
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-131
+132
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
+2 Aristóteles, Ética a Nicómaco (siglo IV a.C.), libro II, cap. 1-7. La
+descripción aristotélica de la virtud como habitus —una disposición estable
+del carácter que se adquiere por la práctica y que permite responder
+adecuadamente a cada situación desde el propio juicio—es incompatible con
+la egolatría en cualquiera de sus formas. La virtud aristotélica exige la
+phronesis — la prudencia, el juicio práctico— que a su vez exige un sujeto
 que pueda evaluar cada situación desde su perspectiva genuina sin que
 ninguna imagen predetermine la respuesta.
 3 Maurice Merleau-Ponty, Fenomenología de la percepción (1945), primera
@@ -5912,29 +5923,37 @@ corporal de la disociación del ego: el cuerpo sabe cosas que la imagen
 suprime.
 4 Martin Heidegger, Ser y tiempo (1927), §§ 25-27 y §§ 54-60. La distinción
 heideggeriana entre la existencia auténtica e inauténtica —Eigentlichkeit e
-Uneigentlichkeit— ha sido frecuentemente malinterpretada como una
+Uneigentlichkeit—ha sido frecuentemente malinterpretada como una
 distinción moral entre lo bueno y lo malo. Heidegger no estaba haciendo
 un juicio de valor sino una descripción ontológica: la existencia inauténtica
-es la que el Dasein vive cuando está gobernado por el «Se» —das Man, el
+es la que el Dasein vive cuando está gobernado por el «Se» — das Man, el
 modo impersonal de existir según las normas del entorno— sin que
 ninguna elección genuina propia oriente ese vivir. La existencia auténtica es
 la que el Dasein asume cuando puede confrontar su propia finitud y, desde
 esa confrontación, elegir su posibilidad más propia.
-5 Mihaly Csikszentmihalyi, Fluir: una psicología de la felicidad (1990). La
-investigación de Csikszentmihalyi sobre el estado de flujo —documentada a
-través de miles de entrevistas con personas en actividades tan diversas como
-la cirugía, la escalada, el ajedrez y la música— mostró de manera consistente
-que las experiencias subjetivas de mayor satisfacción, sentido y rendimiento
-ocurren en condiciones que son exactamente las contrarias a las de la
-performance de la imagen: desaf ío al nivel de la capacidad real,
-retroalimentación directa, y pérdida de la autoconciencia ordinaria. El flujo
-es, en el vocabulario de este libro, la experiencia de la autodeterminación
-causal en su forma más intensa.
+5 Mihaly Csikszentmihalyi, Fluir: una psicología de la felicidad (1990). Su
+investigación sobre el flujo combinó entrevistas, cuestionarios y,
+posteriormente, el método de muestreo de experiencias; el autor informa
+entrevistas con miles de personas y más de cien mil registros de experiencia.
+Los rasgos descritos —desaf ío ajustado a la capacidad, retroalimentación y
+menor autoconciencia ordinaria— se resumen aquí desde su obra. Llamar al
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-132
+133
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+AQUILES
+
+flujo «autodeterminación causal en su forma más intensa» es la
+interpretación conceptual de este libro.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+134
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5947,7 +5966,8 @@ El dilema que no se resuelve, sino que se aprende a vivir
 «No quiero la paz que excede todo entendimiento; quiero el
 entendimiento que trae paz.» — Helen Keller (atribuida;
 traducción). «El arco quiere estar quieto y el oficio del arco es
-vibrar.» — Heráclito, Fragmento 51 (paráfrasis).
+vibrar.» — Formulación del autor inspirada en Heráclito, fr.
+51.
 
 I. Lo que el libro no prometió
 Este libro comenzó con Aquiles y termina con una pregunta que el lector
@@ -5967,21 +5987,20 @@ la condición del sujeto humano que vive en sociedad, que necesita de los
 otros para constituirse, que tiene una historia de formación que lo organizó
 en cierta dirección antes de que pudiera evaluar si esa dirección era la suya.
 Esa tensión es constitutiva. No tiene solución definitiva.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-133
+135
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
 Lo que sí cambia —y en eso consiste todo el trabajo que el libro ha
-intentado articular— es la relación del sujeto con esa tensión. La diferencia
+intentado articular—es la relación del sujeto con esa tensión. La diferencia
 entre el sujeto aquileano y el sujeto que ha retornado al yo no es que el
 segundo ya no siente la atracción de la imagen. Es que el segundo puede
-sentirla sin ser gobernado por ella. Puede reconocerla como lo que es —la
+sentirla sin ser gobernado por ella. Puede reconocerla como lo que es — la
 atracción de la egolatría prestada, el tirón del soberano interior que el
 miedo instaló— sin que ese reconocimiento produzca ni la obediencia
 automática ni la negación defensiva. Puede habitarla. Y esa capacidad de
@@ -5993,12 +6012,12 @@ de que desaparezca para poder seguir viviendo.
 
 II. La tensión como condición: Heráclito y el arco
 El fragmento de Heráclito que encabeza este epílogo —en su forma
-parafraseada, porque el texto original es más lacónico y más oscuro— dice
+parafraseada, porque el texto original es más lacónico y más oscuro—dice
 algo sobre la tensión que ninguna otra imagen filosófica ha formulado con
 igual economía: el arco quiere estar quieto, pero el oficio del arco es vibrar.
 La naturaleza del arco es la tensión entre los dos extremos que lo curvan; sin
 esa tensión, el arco no sería un arco sino un palo. Y lo que el arco puede
-hacer —lanzar la flecha, producir su función específica— solo es posible
+hacer — lanzar la flecha, producir su función específica— solo es posible
 porque la tensión se sostiene, no porque desaparezca.
 Heráclito llamó logos a la estructura que organiza el cosmos: no una
 armonía de partes que encajan sin fricción sino una unidad de opuestos que
@@ -6013,7 +6032,7 @@ esa tensión.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-134
+136
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6037,7 +6056,7 @@ mismo necesario para ofrecer resistencia. El sujeto que ha retornado al yo
 puede sostener la tensión sin que se resuelva automáticamente: puede sentir
 el tirón de la imagen y evaluarlo desde su eje, puede recibir la presión del
 reconocimiento ajeno y decidir qué hacer con ella desde su perspectiva
-propia.[3] La tensión no desaparece; el sujeto aprende a ser más grande que
+propia.[2] La tensión no desaparece; el sujeto aprende a ser más grande que
 ella.
 
 III. El sujeto que puede fallar: la imperfección como
@@ -6055,7 +6074,7 @@ perdido temporalmente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-135
+137
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6076,9 +6095,9 @@ La imperfección del sujeto que ha retornado al yo no es un defecto del
 proceso sino su condición natural. Un eje genuino que nunca cede no es un
 eje más sólido; es un eje rígido, que es otra forma de la egolatría. La solidez
 del eje genuino no proviene de su impermeabilidad a la presión — que sería
-rigidez— sino de su capacidad de recuperación después de ceder: de doblarse
+rigidez—sino de su capacidad de recuperación después de ceder: de doblarse
 sin romperse, de perder momentáneamente el centro y encontrar el camino
-de regreso a él. Esa elasticidad —que en la psicología contemporánea se
+de regreso a él. Esa elasticidad — que en la psicología contemporánea se
 llama resiliencia y que en el vocabulario de este libro podría llamarse la
 capacidad de retorno dentro del retorno— es la característica más distintiva
 del ego genuino en funcionamiento.
@@ -6098,7 +6117,7 @@ más: puede ser la compañía.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-136
+138
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6138,7 +6157,7 @@ recorrido completo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-137
+139
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6152,13 +6171,13 @@ propio eje, una fuente. Una fuente de creatividad, de profundidad en los
 vínculos, de una forma de acción que tiene la calidad específica de lo que
 emerge de la tensión productiva en lugar de la resolución prematura.
 La creatividad es el dominio en que esto es más evidente. El trabajo
-genuinamente creativo —en cualquier campo, no solo en las artes— emerge
+genuinamente creativo —en cualquier campo, no solo en las artes—emerge
 de la tensión entre lo que el sujeto puede hacer y lo que no puede hacer
 todavía, entre lo que ya sabe y lo que todavía no sabe, entre la perspectiva
 propia y las perspectivas que la cuestionan y la enriquecen. Esa tensión es
 incómoda: el sujeto que está en el proceso genuino de creación está con
 frecuencia desorientado, inseguro, sin la certeza que la imagen proporciona.
-Pero es exactamente esa incomodidad —ese habitar el espacio entre lo que
+Pero es exactamente esa incomodidad — ese habitar el espacio entre lo que
 se es y lo que se puede llegar a ser— lo que produce el trabajo que tiene algo
 genuino.
 El trabajo producido desde la imagen tiene una característica que los que lo
@@ -6175,11 +6194,11 @@ la mirada ajena— es la condición de posibilidad de cualquier obra que dure
 más que la imagen que la produjo.
 En los vínculos, la tensión habitada produce la posibilidad del encuentro
 genuino que la ausencia de tensión —el vínculo especular, el que solo
-confirma— no puede producir. Dos perspectivas genuinas en contacto
+confirma—no puede producir. Dos perspectivas genuinas en contacto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-138
+140
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6188,7 +6207,7 @@ AQUILES
 producen fricción; esa fricción es la señal de que dos mundos distintos están
 realmente tocándose. El vínculo sin fricción no es un vínculo más
 armonioso; es un vínculo más superficial. La profundidad de los vínculos
-más ricos —los que transforman a quienes los habitan— no viene de la
+más ricos — los que transforman a quienes los habitan— no viene de la
 ausencia de tensión sino de la calidad del marco en que la tensión se procesa:
 la seguridad de que el desacuerdo no destruirá la relación, la confianza en
 que el otro puede ser visto en su versión fallida sin que esa visibilidad lo
@@ -6222,7 +6241,7 @@ disociación del ego en los otros no autoriza a diagnosticarlos ni a intervenir
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-139
+141
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6237,14 +6256,14 @@ la trampa en que está porque el observador ya la puede ver.
 La persona que vive en la trampa de la imagen prestada no necesita que le
 señalen la trampa antes de que esté lista para verla. Lo que necesita —y lo
 que el sujeto que ha atravesado su propio proceso puede ofrecer con una
-autenticidad que ningún otro puede igualar— es la presencia que no
-requiere la imagen. El acompañamiento que no está condicionado a que el
-otro sea lo que su imagen prometía. El vínculo que puede sostener la
-incomodidad del colapso ajeno sin necesitar que el otro restaure
-rápidamente lo que cayó. Eso es lo que el sujeto que ha retornado al yo puede
-dar a quien está todavía en la trampa: no el mapa del camino de salida —que
-cada uno debe encontrar desde su propio eje—, sino la compañía que hace
-más habitable el umbral cuando llega.
+autenticidad que ningún otro puede igualar—es la presencia que no requiere
+la imagen. El acompañamiento que no está condicionado a que el otro sea
+lo que su imagen prometía. El vínculo que puede sostener la incomodidad
+del colapso ajeno sin necesitar que el otro restaure rápidamente lo que cayó.
+Eso es lo que el sujeto que ha retornado al yo puede dar a quien está todavía
+en la trampa: no el mapa del camino de salida — que cada uno debe
+encontrar desde su propio eje—, sino la compañía que hace más habitable el
+umbral cuando llega.
 Hay también una consecuencia de comprender el dilema de Aquiles en los
 otros que toca la responsabilidad de los entornos que lo producen. Los
 entornos —las familias, las instituciones, las culturas— que construyen
@@ -6265,7 +6284,7 @@ imagen están contenidos el problema y la resolución: no la resolución que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-140
+142
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6293,10 +6312,10 @@ La metáfora se completa cuando se añade al arquero. Porque el arco solo
 vibra de la manera correcta cuando el arquero lo tensa desde el eje adecuado,
 desde la postura que le corresponde a ese arco específico con esa cuerda
 específica. El arquero que intenta usar el arco de otro — que adopta la
-postura que otro arquero desarrolló para su propio arco— no obtendrá el
+postura que otro arquero desarrolló para su propio arco—no obtendrá el
 resultado que ese arco puede dar: obtendrá algo forzado, inestable, que
 requiere más energía de la que debería para producir menos de lo que podría.
-El arquero que aprende la postura que le corresponde a su propio arco —que
+El arquero que aprende la postura que le corresponde a su propio arco — que
 actúa desde el eje que genuinamente le pertenece— puede tensar con
 precisión y soltar con confianza. Puede lanzar sin garantizar dónde llegará
 la flecha. Pero puede lanzar desde sí mismo, que es lo único que el eje
@@ -6308,7 +6327,7 @@ libertad disponible para quien vive en el tiempo y entre los otros.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-141
+143
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6349,14 +6368,14 @@ tensión sino como capacidad de habitarla desde el propio eje, produce
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-142
+144
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
 finalmente: no un sujeto sin historia, sin imagen, sin la atracción de la
-gloria prestada. Un sujeto que conoce su propia historia,[2] que puede ver la
+gloria prestada. Un sujeto que conoce su propia historia,[3] que puede ver la
 imagen cuando aparece, que puede sentir la atracción de la gloria sin ser
 arrastrado por ella, y que tiene acceso a algo que Aquiles no tuvo: el eje desde
 el que puede evaluar cada una de esas fuerzas y decidir —con la libertad
@@ -6374,7 +6393,7 @@ imagen del que tiene algo importante que decir, del que ha comprendido
 algo que merece ser transmitido, del que puede ofrecer a los otros un mapa
 de un terreno que él mismo ha recorrido.
 Esa honestidad exige que el epílogo señale lo que todo el libro ha intentado
-sostener pero que en ningún lugar ha dicho con esta explicites: los
+sostener pero que en ningún lugar ha dicho con esta claridad: los
 argumentos de este libro no están más allá del dilema que describen. El
 autor que los escribió no ha resuelto su propia versión del dilema de Aquiles
 de una vez y para siempre; ha avanzado en el proceso del retorno al yo con la
@@ -6391,7 +6410,7 @@ el momento en que se reconoció en la descripción de la imagen prestada, el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-143
+145
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6427,39 +6446,37 @@ dependiendo de cómo se la use. El sujeto que habita su propia tensión desde
 el ego genuino tiene la posibilidad de elegir entre las dos: puede lanzar o
 puede hacer música, dependiendo de lo que la situación pida y de lo que su
 perspectiva genuina decida.
-2 La distinción entre el tiempo que se vive y el tiempo que se narra ha
-ocupado a la filosof ía desde Agustín —«¿qué es el tiempo? Si nadie me lo
-pregunta, lo sé; si quiero explicárselo al que me lo pregunta, ya no lo
+2 Martin Seligman presenta el bienestar mediante varios componentes —
+emoción positiva, compromiso, relaciones, sentido y logro— en Flourish
+(2011); en La auténtica felicidad (2002), su marco anterior enfatiza emoción
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-144
+146
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
 
-sé» (Confesiones, libro XI)— hasta Ricoeur, cuya fenomenología del
+positiva, compromiso y sentido. Esos modelos no identifican la agencia
+causal como componente medido en los términos que usa esta nota. La
+conexión entre agencia, vínculos y autodeterminación causal es la síntesis
+interpretativa que propone este libro.
+3 La distinción entre el tiempo que se vive y el tiempo que se narra ha
+ocupado a la filosof ía desde Agustín —«¿qué es el tiempo? Si nadie me lo
+pregunta, lo sé; si quiero explicárselo al que me lo pregunta, ya no lo
+sé» (Confesiones, libro XI)—hasta Ricoeur, cuya fenomenología del
 tiempo narrativo argumenta que la identidad del sujeto se constituye en la
 tensión entre el tiempo vivido y el tiempo narrado. Lo que el epílogo añade
-a esa tradición es la observación de que la calidad de esa tensión —si produce
-una narrativa genuinamente propia o una que replica la imagen prestada—
-depende de si el eje desde el que se narra es el ego genuino o el ego disociado.
-3 La psicología positiva de Martin Seligman y sus colaboradores ha
-documentado que la satisfacción con la propia vida no se correlaciona
-principalmente con la ausencia de experiencias negativas ni con el nivel de
-placer experimentado, sino con el sentido de agencia —la percepción de que
-los propios actos tienen conexión causal con los propios resultados— y con
-la calidad de las relaciones. Véase Martin Seligman, La auténtica felicidad
-(2002) y Flourish (2011). Esos correlatos de la satisfacción son exactamente
-los que la autodeterminación causal produce: la agencia del ego genuino y la
-calidad de los vínculos que ese ego puede construir desde su presencia
-genuina.
+a esa tradición es la observación de que la calidad de esa tensión — si
+produce una narrativa genuinamente propia o una que replica la imagen
+prestada— depende de si el eje desde el que se narra es el ego genuino o el
+ego disociado.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-145
+147
 
 
