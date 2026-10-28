@@ -17,9 +17,9 @@ Primera edición: 2026
 DOI: 10.5281/zenodo.19601694
 © Miguel Hilario Olvera Aguilar, 2026
 © Centro Multidisciplinario Meriadock Formación y Asesoría A.C., 2026
-Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida,
-almacenada o transmitida en manera alguna ni por ningún medio, ya sea eléctrico, químico,
-mecánico, óptico, de grabación o de fotocopia, sin permiso previo del editor.
+Esta obra se distribuye bajo la licencia CC BY-NC-ND 4.0. La reproducción y distribución
+están permitidas dentro de los términos de esa licencia; cualquier uso que exceda lo que la
+licencia autoriza requiere permiso previo de los titulares de derechos.
 El dilema de Aquiles: o la disociación del ego © 2026 de Miguel Hilario Olvera Aguilar está
 licenciado bajo CC BY-NC-ND 4.0.
 
@@ -73,6 +73,10 @@ Capítulo vii · La autodeterminación causal
 Capítulo viii · Vivir sin gloria prestada
 
 116
+
+Epílogo · Habitar la tensión
+
+133
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -481,10 +485,8 @@ Capítulo i
 El ego, la egolatría y el
 egocentrismo
 Mapa de un territorio confundido
-«El hombre que se conoce a sí mismo no tiene miedo de las
-acusaciones de otros.» — Cicerón, Tusculanas, III, 1. «La
-imagen es la prisión del alma.» — Oscar Wilde, El retrato de
-Dorian Gray, cap. II.
+«La imagen es una prisión del alma…» — Derek Jarman,
+Blue (1993).
 
 I. El problema de los conceptos que creemos conocer
 Hay una categoría de problemas filosóficos que son especialmente resistentes
@@ -501,6 +503,9 @@ usan en el lenguaje cotidiano con una confianza que no siempre está
 justificada; los tres se oponen, implícitamente, a virtudes que la cultura
 occidental ha valorado —humildad, generosidad, apertura al otro—; y los
 tres cargan con juicios morales que han dificultado su examen claro.
+La tesis de este capítulo es que esa confusión no es inocente. Confundir ego
+con egolatría, o egolatría con egocentrismo, produce consecuencias que van
+mucho más allá del descuido terminológico: produce una comprensión
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -511,9 +516,6 @@ A.C.
 
 AQUILES
 
-La tesis de este capítulo es que esa confusión no es inocente. Confundir ego
-con egolatría, o egolatría con egocentrismo, produce consecuencias que van
-mucho más allá del descuido terminológico: produce una comprensión
 distorsionada del yo, genera una moral del sacrificio del ego que con
 frecuencia no produce más salud sino más disociación, y hace invisible
 exactamente el mecanismo que el dilema de Aquiles pone en juego. Para
@@ -544,6 +546,9 @@ El ego, en el sentido que interesa a este libro, no es una imagen ni una
 representación ni un conjunto de creencias sobre uno mismo. Es algo más
 fundamental y más dif ícil de captar con precisión precisamente porque es la
 condición de posibilidad de toda experiencia: es el punto de referencia desde
+el cual el sujeto se localiza y actúa. No es el yo que se describe cuando alguien
+pregunta quién eres —esa descripción ya es una construcción, ya implica una
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -553,8 +558,6 @@ A.C.
 
 AQUILES
 
-el cual el sujeto se localiza y actúa. No es el yo que se describe cuando alguien
-pregunta quién eres —esa descripción ya es una construcción, ya implica una
 imagen—; es el yo que hace posible que haya alguien que responda esa
 pregunta.
 La tradición filosófica ha abordado este nivel del yo con distintos
@@ -1775,15 +1778,15 @@ crecimiento es coherente con el ego genuino como función dinámica.
 common neural alarm system for physical and social pain» (2004), Trends
 in Cognitive Sciences, 8(7), 294-300. La investigación de Eisenberger y
 Lieberman mostró que el dolor social —la exclusión o el rechazo— activa
-regiones cerebrales superpuestas con las que procesan el dolor f ísico. Lo que
-aquí se añade es que el correlato positivo —la aprobación social— activa
-circuitos de recompensa de manera similar a otras formas de gratificación,
-lo que proporciona una base neurológica para la analogía con la adicción.
-5 John Bowlby, El apego y la pérdida (3 vols., 1969-1980). La teoría del apego
-de Bowlby, extendida por Mary Ainsworth con su clasificación de los estilos
-de apego (seguro, ansioso-ambivalente, evitativo), es el marco más sólido
-disponible para entender el origen temprano de los patrones de búsqueda de
-
+regiones cerebrales superpuestas con las que procesan el dolor f ísico. La
+relación con la aprobación social se apoya también en Keise Izuma, Daisuke
+N. Saito y Norihiro Sadato, «Processing of social and monetary rewards in
+the human striatum», Neuron, 58(2) (2008), 284–294, https://doi.org/10.1016/
+j.neuron.2008.03.020. En ese estudio, obtener una buena reputación activó
+áreas relacionadas con la recompensa, entre ellas el estriado, con
+solapamiento respecto de las activadas por recompensas monetarias. Esta
+evidencia respalda la analogía con la recompensa social, aunque no
+demuestra por sí sola que la dependencia de aprobación sea una adicción.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1793,6 +1796,10 @@ A.C.
 
 AQUILES
 
+5 John Bowlby, El apego y la pérdida (3 vols., 1969-1980). La teoría del apego
+de Bowlby, extendida por Mary Ainsworth con su clasificación de los estilos
+de apego (seguro, ansioso-ambivalente, evitativo), es el marco más sólido
+disponible para entender el origen temprano de los patrones de búsqueda de
 reconocimiento en la vida adulta. El apego ansioso-ambivalente, en
 particular, produce exactamente la hipervigilancia a las señales de
 aprobación y rechazo que aquí se describe.
@@ -2197,8 +2204,9 @@ percibir sus propios deseos de recibir. Esas dimensiones existen — siguen
 siendo parte del sujeto real— pero no tienen representación en la imagen, y
 por tanto el sujeto no tiene acceso consciente a ellas.
 La segunda característica es su visibilidad para los otros. Lo que el sujeto no
-puede ver desde adentro, los otros con
-
+puede ver desde adentro, los otros con frecuencia lo ven desde afuera con
+una claridad que puede resultar perturbadora. La persona que porta la
+imagen de fortaleza absoluta es percibida por sus cercanos como alguien que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2208,14 +2216,12 @@ A.C.
 
 AQUILES
 
-frecuencia lo ven desde afuera con una claridad que puede resultar
-perturbadora. La persona que porta la imagen de fortaleza absoluta es
-percibida por sus cercanos como alguien que no sabe pedir ayuda; la que
-porta la imagen de inteligencia total es percibida como alguien que no
-puede admitir ignorancia; la que porta la imagen de generosidad ilimitada
-es percibida como alguien que acumula resentimiento silencioso. El punto
-ciego es invisible desde adentro y visible desde afuera; esa asimetría es una de
-las fuentes más frecuentes de conflicto en los vínculos del sujeto aquileano.
+no sabe pedir ayuda; la que porta la imagen de inteligencia total es percibida
+como alguien que no puede admitir ignorancia; la que porta la imagen de
+generosidad ilimitada es percibida como alguien que acumula
+resentimiento silencioso. El punto ciego es invisible desde adentro y visible
+desde afuera; esa asimetría es una de las fuentes más frecuentes de conflicto
+en los vínculos del sujeto aquileano.
 La tercera característica —y la más relevante para el argumento del libro—
 es que el punto ciego es precisamente el lugar desde el que el colapso llega.
 La flecha de Paris no llega desde el frente, donde Aquiles está protegido por
@@ -2241,6 +2247,8 @@ La tragedia de Aquiles no es su muerte. Es su vida. Es que vivió para algo que
 no era suyo, que organizó su existencia entera alrededor de una imagen que
 no eligió desde su propio eje, que no pudo habitar ninguna alternativa a la
 gloria no porque las alternativas no existieran —existían, y él las articuló en
+el canto IX— sino porque su ego ya no tenía el acceso a sí mismo que habría
+necesitado para habitarlas genuinamente. La tragedia es la disociación, no el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2251,8 +2259,6 @@ A.C.
 
 AQUILES
 
-el canto IX— sino porque su ego ya no tenía el acceso a sí mismo que habría
-necesitado para habitarlas genuinamente. La tragedia es la disociación, no el
 final. La muerte es solo la consecuencia visible de una lógica que ya estaba en
 marcha desde el principio.
 Aristóteles definió la tragedia como la representación de una acción seria y
@@ -2703,7 +2709,8 @@ Sus reflexiones, sus autocríticas, sus justificaciones, sus planes son articula
 en el lenguaje de la imagen que debe sostenerse, no en el lenguaje de su
 experiencia genuina. Ya no se pregunta «¿qué quiero?» sino «¿qué querría
 alguien como yo?»; no se pregunta «¿qué necesito?» sino «¿qué debería
-necesitar alguien en mi posición?»; no se pregunta
+necesitar alguien en mi posición?»; no se pregunta «¿qué me ocurre?» sino
+«¿qué es lo que me pasa según el relato que tengo de mí mismo?». El
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2714,10 +2721,9 @@ A.C.
 
 AQUILES
 
-«¿qué me ocurre?» sino «¿qué es lo que me pasa según el relato que tengo de
-mí mismo?». El diálogo interno ha sido capturado por la imagen, y en esa
-captura el yo genuino pierde su último reducto: la posibilidad de hablarse a
-sí mismo en su propio idioma.
+diálogo interno ha sido capturado por la imagen, y en esa captura el yo
+genuino pierde su último reducto: la posibilidad de hablarse a sí mismo en
+su propio idioma.
 
 IV. Por qué es tan difícil percibir desde adentro
 Si la disociación del ego produce consecuencias tan significativas, ¿por qué el
@@ -2746,7 +2752,8 @@ dirección en que ya está yendo. No hay señales externas que le indiquen que
 algo está mal; al contrario, hay señales que le indican que lo está haciendo
 bien. La disociación no produce fracaso inmediato; produce un tipo
 específico de éxito que confirma la imagen y hace más dif ícil cuestionarla.
-
+La tercera razón es identitaria: cuestionar la imagen es cuestionar quién se
+es. Si el yo genuino ha quedado desplazado y la imagen ha tomado su lugar,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2756,8 +2763,6 @@ A.C.
 
 AQUILES
 
-La tercera razón es identitaria: cuestionar la imagen es cuestionar quién se
-es. Si el yo genuino ha quedado desplazado y la imagen ha tomado su lugar,
 la imagen ya no es una representación que el sujeto tiene de sí mismo; es lo
 que el sujeto cree que es. Preguntarse si la imagen es genuina es, desde
 adentro, preguntarse si uno existe. Esa pregunta produce una angustia que el
@@ -2790,6 +2795,8 @@ anticipó y para las que no tiene respuesta preparada, en los vínculos que
 exigen una presencia genuina que la imagen no puede proporcionar. Esos
 bordes son los momentos en que el sujeto se asoma, sin quererlo, a la brecha
 entre lo que es y lo que representa. Y la respuesta habitual no es explorar la
+brecha sino cubrirla rápidamente con más actividad, más imagen, más
+confirmación de que todo está bien.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2798,9 +2805,6 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
-
-brecha sino cubrirla rápidamente con más actividad, más imagen, más
-confirmación de que todo está bien.
 
 V. La disociación como defensa: lo que protege y lo que cuesta
 Comprender la disociación del ego requiere comprender que no es
@@ -2832,6 +2836,8 @@ operar desde la imagen: el sujeto se juzga desde el estándar que la imagen le
 impone, no desde la comprensión genuina de lo que le ocurrió.
 Anna Freud describió los mecanismos de defensa como estrategias que el yo
 desarrolla para protegerse de la angustia producida por conflictos internos o
+demandas externas que exceden su capacidad de integración.[4] La
+disociación del ego, en el sentido que aquí se analiza, puede entenderse
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2841,8 +2847,6 @@ A.C.
 
 AQUILES
 
-demandas externas que exceden su capacidad de integración.[4] La
-disociación del ego, en el sentido que aquí se analiza, puede entenderse
 como un mecanismo de defensa de largo alcance: una estrategia que el yo
 desarrolló para sobrevivir en un entorno que no podía tolerar su expresión
 directa, y que funcionó suficientemente bien como para consolidarse en una
@@ -2874,6 +2878,8 @@ en su descripción de un fenómeno que la experiencia clínica conoce bien: el
 sujeto que no puede integrar conscientemente ciertos estados los expresa a
 través del cuerpo. La tensión muscular crónica que no tiene causa f ísica
 identificable. La fatiga que no mejora con el descanso. Los problemas
+digestivos que aparecen en situaciones de presión sin que haya causa
+orgánica. El insomnio que se intensifica justo cuando el sujeto debería
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2884,8 +2890,6 @@ A.C.
 
 AQUILES
 
-digestivos que aparecen en situaciones de presión sin que haya causa
-orgánica. El insomnio que se intensifica justo cuando el sujeto debería
 sentirse más seguro. El cuerpo habla el idioma que el yo consciente ha
 aprendido a no escuchar. [5] Esto tiene implicaciones que van más allá de la
 psicosomática clínica. En el contexto del análisis del dilema de Aquiles,
@@ -3878,11 +3882,10 @@ Hobbes, el miedo y el perdón
 El orden construido sobre la sumisión
 «El origen de las grandes y duraderas sociedades no ha sido
 la benevolencia mutua de los hombres, sino su miedo
-recíproco.» — Thomas Hobbes, De Cive, cap. I, § 2. «El
-perdón es el nombre del milagro que permite des-hacer lo que
-se hizo, que invierte lo que parece ser la irreversibilidad del
-tiempo.» — Hannah Arendt, La condición humana, cap. V,
-§ 33.
+recíproco.» — Thomas Hobbes, De Cive, cap. I, § 2. El
+perdón responde a la irreversibilidad de la acción y abre la
+posibilidad de un nuevo comienzo. — Síntesis de Hannah
+Arendt, La condición humana, cap. V, § 33.
 
 I. El colapso y lo que viene después: la pregunta del perdón
 El capítulo anterior dejó al sujeto en el umbral. La imagen cayó. Lo que
@@ -3900,6 +3903,7 @@ capítulos anteriores analizaron no ocurrió en el vacío: ocurrió en vínculos
 concretos, con personas concretas, en situaciones concretas en las que el
 sujeto aprendió que lo que valía era la imagen y no el yo. Y en algunos de
 esos vínculos hubo daño real: no el daño difuso de un entorno que
+simplemente no sabía hacer las cosas de otra manera, sino el daño con
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3909,7 +3913,6 @@ A.C.
 
 AQUILES
 
-simplemente no sabía hacer las cosas de otra manera, sino el daño con
 nombre y con cara, el que tiene un responsable identificable y consecuencias
 que el sujeto todavía lleva.
 El retorno al yo genuino no puede completarse mientras ese daño siga
@@ -3942,6 +3945,7 @@ hipótesis abstracta sobre lo que ocurriría si el Estado desapareciera. Es una
 descripción de lo que el ser humano es cuando se le quita el freno del poder
 soberano: un ser que desconf ía de los demás porque sabe que los demás
 desconfían de él; que agrede preventivamente porque anticipar el golpe es
+más seguro que recibirlo; que acumula poder no por codicia sino por la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3951,7 +3955,6 @@ A.C.
 
 AQUILES
 
-más seguro que recibirlo; que acumula poder no por codicia sino por la
 lógica implacable de que quien tiene más poder es menos vulnerable. [1] En
 ese estado, dice Hobbes, la vida es «solitaria, pobre, breve, tosca y brutal». Y
 la solución no es la virtud: es la sujeción.
@@ -3984,6 +3987,7 @@ controlan lo que el ser humano haría sin ellos.
 III. El miedo como mecanismo de la disociación
 Lo que el recorrido de los capítulos anteriores permite ahora es leer a
 Hobbes de una manera que él no anticipó pero que su lógica permite: no
+solo como descripción del origen del Estado sino como descripción de un
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3993,7 +3997,6 @@ A.C.
 
 AQUILES
 
-solo como descripción del origen del Estado sino como descripción de un
 mecanismo que opera en el interior de cada sujeto que ha organizado su ego
 en torno a una imagen prestada.
 El dilema de Aquiles, analizado desde el ángulo hobbessiano, tiene una
@@ -4207,9 +4210,6 @@ AQUILES
 
 confirmó. Hace algo más preciso: decide que el daño no va a seguir
 definiendo su posición en el mundo.
-«El perdón es el nombre del milagro que permite des-hacer lo que se hizo,
-que invierte lo que parece ser la irreversibilidad del tiempo.»
-— Hannah Arendt, La condición humana, cap. V, § 33.
 Arendt vio en el perdón una de las dos capacidades fundacionales de la vida
 política —la otra es la promesa—: la capacidad de interrumpir las
 consecuencias automáticas de los actos pasados, de impedir que el daño
@@ -4236,6 +4236,10 @@ decide que el daño no va a seguir siendo el centro organizador de la propia
 posición.
 Perdonar no es volver al punto cero. Es avanzar sin cargar al enemigo
 dentro.
+Esta formulación puede sonar abstracta; tiene una consecuencia muy
+concreta. El sujeto que no ha perdonado en el sentido que aquí se describe
+—que sigue cargando el daño como herida activa— no está nada más
+sufriendo: está atando parte de su ego al agresor. El daño que no se suelta no
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4246,10 +4250,6 @@ A.C.
 
 AQUILES
 
-Esta formulación puede sonar abstracta; tiene una consecuencia muy
-concreta. El sujeto que no ha perdonado en el sentido que aquí se describe
-—que sigue cargando el daño como herida activa— no está nada más
-sufriendo: está atando parte de su ego al agresor. El daño que no se suelta no
 solo duele; organiza. Define la manera en que el sujeto se relaciona con el
 mundo, condiciona sus reacciones, colorea sus expectativas, restringe su
 capacidad de actuar desde sí mismo porque una parte de su energía está
@@ -4279,6 +4279,10 @@ Uno de los malentendidos más dañinos sobre el perdón es que equivale a
 reconciliación. Que perdonar significa volver, que soltar significa abrir la
 puerta, que la liberación del ego respecto al daño implica restablecer la
 relación que lo produjo. Ese malentendido convierte el perdón en una
+trampa: si perdonar obliga a volver, entonces no perdonar —mantener el
+alejamiento, sostener el límite, no reanudar el vínculo— se convierte en
+evidencia de que no se ha perdonado de verdad. Y esa ecuación le hace un
+flaco favor tanto al perdón como a la justicia.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4289,10 +4293,6 @@ A.C.
 
 AQUILES
 
-trampa: si perdonar obliga a volver, entonces no perdonar —mantener el
-alejamiento, sostener el límite, no reanudar el vínculo— se convierte en
-evidencia de que no se ha perdonado de verdad. Y esa ecuación le hace un
-flaco favor tanto al perdón como a la justicia.
 La distinción que este capítulo propone es simple, pero tiene consecuencias
 importantes: se puede perdonar sin volver. Se puede soltar el poder que el
 daño tiene sobre el propio ego sin restablecer las condiciones que produjeron
@@ -4320,6 +4320,12 @@ colonizarla por completo.[6] El perdón auténtico, en ese marco, es el acto
 que completa ese trabajo: no la negación del daño sino su integración en la
 historia del ego de una manera que no lo convierte en el organizador
 principal de esa historia.
+Con esto, la relación entre perdón, memoria y límite puede formularse con
+precisión: el perdón no borra la memoria del daño, sino que cambia el lugar
+que esa memoria ocupa en el ego. El daño pasa de ser estructura activa que
+organiza la posición del sujeto a ser información que protege esa posición.
+Ya no manda; avisa. Y un ego que puede distinguir entre lo que manda y lo
+que avisa es un ego que ha recuperado su soberanía sobre su propia historia.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4329,13 +4335,6 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
-
-Con esto, la relación entre perdón, memoria y límite puede formularse con
-precisión: el perdón no borra la memoria del daño, sino que cambia el lugar
-que esa memoria ocupa en el ego. El daño pasa de ser estructura activa que
-organiza la posición del sujeto a ser información que protege esa posición.
-Ya no manda; avisa. Y un ego que puede distinguir entre lo que manda y lo
-que avisa es un ego que ha recuperado su soberanía sobre su propia historia.
 
 IX. El perdón como acto político: la promesa y el nuevo
 comienzo
@@ -4362,6 +4361,11 @@ la liberación que el perdón genuino produce. Conservan el daño bajo la
 superficie, donde acumula presión hasta que encuentra otra salida.
 La justicia restaurativa, que ha ganado terreno en el debate jurídico
 contemporáneo, parte de esta intuición: el perdón no puede ser el primer
+paso; exige que antes haya reconocimiento del daño, responsabilidad del que
+lo causó y condiciones mínimas de seguridad para quien lo recibió. [7] Esta
+exigencia no es un obstáculo al perdón; es su condición de posibilidad
+genuina. El perdón que se produce antes del reconocimiento del daño no es
+perdón desde la soberanía del ego; es capitulación desde el miedo. Y la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4372,11 +4376,6 @@ A.C.
 
 AQUILES
 
-paso; exige que antes haya reconocimiento del daño, responsabilidad del que
-lo causó y condiciones mínimas de seguridad para quien lo recibió. [7] Esta
-exigencia no es un obstáculo al perdón; es su condición de posibilidad
-genuina. El perdón que se produce antes del reconocimiento del daño no es
-perdón desde la soberanía del ego; es capitulación desde el miedo. Y la
 diferencia entre los dos —que desde afuera puede parecer idéntica— es
 exactamente la diferencia que este capítulo ha tratado de articular.
 
@@ -4404,7 +4403,12 @@ algo más modesto y más exigente: el reconocimiento del propio miedo
 como miedo —no como elección, no como lealtad, no como amor
 complejo—, y la decisión de actuar desde el ego, aunque eso tenga costos.
 Esa decisión no garantiza que el vínculo mejore; puede terminar el vínculo.
-
+Pero produce algo que el miedo no produce: un sujeto que actúa desde sí
+mismo.
+El perdón es el momento en que esa dinámica alcanza su expresión más
+radical. No el perdón que el miedo dicta — perdonar para no quedarse solo,
+para no perder el vínculo, para no incomodar— sino el que la soberanía del
+ego produce: la decisión de que el daño no va a seguir siendo el organizador
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4414,12 +4418,6 @@ A.C.
 
 AQUILES
 
-Pero produce algo que el miedo no produce: un sujeto que actúa desde sí
-mismo.
-El perdón es el momento en que esa dinámica alcanza su expresión más
-radical. No el perdón que el miedo dicta — perdonar para no quedarse solo,
-para no perder el vínculo, para no incomodar— sino el que la soberanía del
-ego produce: la decisión de que el daño no va a seguir siendo el organizador
 de la propia posición en el mundo. No porque el daño no haya sido real —lo
 fue— ni porque el otro no tenga responsabilidad —la tiene—, sino porque
 el ego que se queda atado al daño le ha cedido al agresor algo que ningún
@@ -4446,6 +4444,12 @@ exterior —ambos pueden llamarse
 Con esto, el capítulo ha cerrado el arco que comenzó en el miedo y terminó
 en la soberanía del ego. Ha articulado la conexión que el libro necesitaba
 establecer entre la disociación que los capítulos anteriores analizaron y el
+proceso de retorno que los capítulos siguientes examinarán: el perdón
+genuino no es el final del retorno al yo, pero es uno de sus actos más
+decisivos. Porque mientras el daño siga siendo el organizador de la posición
+del sujeto, el ego no puede ser genuinamente propio: sigue siendo, en parte,
+la respuesta a algo que le hicieron. Y un ego que existe solo como respuesta a
+lo que le hicieron no ha recuperado todavía su eje. El perdón que desactiva es
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4456,12 +4460,6 @@ A.C.
 
 AQUILES
 
-proceso de retorno que los capítulos siguientes examinarán: el perdón
-genuino no es el final del retorno al yo, pero es uno de sus actos más
-decisivos. Porque mientras el daño siga siendo el organizador de la posición
-del sujeto, el ego no puede ser genuinamente propio: sigue siendo, en parte,
-la respuesta a algo que le hicieron. Y un ego que existe solo como respuesta a
-lo que le hicieron no ha recuperado todavía su eje. El perdón que desactiva es
 el que devuelve ese eje al sujeto que lo cedió bajo la presión del miedo y del
 daño. Es, en ese sentido, el acto más hobbessianamente subversivo que el
 sujeto puede realizar: la rebelión interior contra el soberano que el miedo
@@ -4489,6 +4487,11 @@ civilización no puede tolerar son desplazadas del acceso consciente.
 (1976). El análisis foucaultiano del poder como red de relaciones que se ejerce
 en todos los niveles de la vida social —no solo desde arriba hacia abajo— y
 que produce sujetos que se vigilan a sí mismos es uno de los marcos más
+fecundos para entender cómo la dominación opera sin necesitar siempre de
+la coacción directa. La normalización del daño en los vínculos
+interpersonales es un ejemplo preciso de lo que Foucault describía: el poder
+que se ejerce sin violencia porque el sujeto ha internalizado las condiciones
+de su propia sujeción.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4499,11 +4502,6 @@ A.C.
 
 AQUILES
 
-fecundos para entender cómo la dominación opera sin necesitar siempre de
-la coacción directa. La normalización del daño en los vínculos
-interpersonales es un ejemplo preciso de lo que Foucault describía: el poder
-que se ejerce sin violencia porque el sujeto ha internalizado las condiciones
-de su propia sujeción.
 4 Hannah Arendt, La condición humana (1958), cap. V, § 33
 («Irreversibilidad y el poder de perdonar»). Para Arendt, el perdón y la
 promesa son las dos respuestas humanas a los dos problemas fundamentales
@@ -4532,7 +4530,12 @@ distinción entre perdón y olvido. La noción de «trabajo de duelo» que aquí
 se usa está directamente tomada de la elaboración que Ricoeur hace del
 concepto freudiano de Trauerarbeit aplicado a la memoria histórica y
 personal.
-
+7 Howard Zehr, Cambiando de lentes: un nuevo enfoque sobre el crimen y
+la justicia (1990). Zehr es considerado el padre de la justicia restaurativa
+contemporánea. Su argumento central es que la justicia retributiva —que
+pregunta «qué ley se violó y cómo se castiga»— deja sin resolver las
+necesidades de las víctimas. La justicia restaurativa pregunta en cambio:
+¿quiénes fueron dañados, cuáles son sus necesidades y cómo pueden
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4542,12 +4545,6 @@ A.C.
 
 AQUILES
 
-7 Howard Zehr, Cambiando de lentes: un nuevo enfoque sobre el crimen y
-la justicia (1990). Zehr es considerado el padre de la justicia restaurativa
-contemporánea. Su argumento central es que la justicia retributiva —que
-pregunta «qué ley se violó y cómo se castiga»— deja sin resolver las
-necesidades de las víctimas. La justicia restaurativa pregunta en cambio:
-¿quiénes fueron dañados, cuáles son sus necesidades y cómo pueden
 satisfacerse de manera que el daño no se replique? Lo que aquí se añade a esa
 perspectiva es la dimensión ontológica: antes de que la justicia restaurativa
 pueda funcionar, el sujeto dañado necesita recuperar el ego genuino desde el
@@ -4569,10 +4566,7 @@ La autodeterminación causal
 El retorno al yo
 «Llegar a ser lo que se es requiere no tener la menor idea de
 lo que se es.» — Friedrich Nietzsche, Ecce Homo, «Por qué
-soy tan inteligente», § 9. «El hombre que no escucha la voz
-de su propio interior está condenado a escuchar la voz de los
-demás como si fuera la suya.» — Erich Fromm, El miedo a
-la libertad, cap. VII.
+soy tan inteligente», § 9.
 
 I. El problema del retorno: no hay mapa
 El retorno al yo no tiene la estructura de un viaje que puede planificarse con
@@ -4591,6 +4585,9 @@ un reconocimiento, lo que el sujeto necesita es algo diferente: condiciones
 que permitan que lo que siempre estuvo se haga perceptible de nuevo.
 Condiciones de quietud, de honestidad, de riesgo controlado, de presencia
 genuina en la propia experiencia. No materiales sino apertura.
+Este capítulo examina el retorno al yo desde el marco conceptual que el
+libro ha construido: la autodeterminación causal como la forma específica
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4600,8 +4597,6 @@ A.C.
 
 AQUILES
 
-Este capítulo examina el retorno al yo desde el marco conceptual que el
-libro ha construido: la autodeterminación causal como la forma específica
 de habitar la existencia en la que el sujeto actúa desde su propio eje de
 referencia, sin que ese eje sea una imagen que deba sostenerse ni un miedo al
 que deba obedecerse. No es el capítulo más fácil del libro, porque el retorno
@@ -4632,6 +4627,8 @@ relación; todo eje se constituye en intercambio. Lo que la
 autodeterminación causal exige no es la ausencia de influencia sino la
 posición desde la cual se procesa esa influencia: el sujeto autodeterminado
 recibe la perspectiva de los otros como información que evalúa desde su
+propio eje, no como mandato que debe obedecerse para que la imagen se
+sostenga.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4642,8 +4639,6 @@ A.C.
 
 AQUILES
 
-propio eje, no como mandato que debe obedecerse para que la imagen se
-sostenga.
 La segunda precisión es que la autodeterminación causal no exige perfección
 ni consistencia absoluta. El yo genuino comete errores, tiene dudas, cambia
 de posición, se contradice. Nada de eso es incompatible con la
@@ -4673,6 +4668,10 @@ examinó en detalle por qué la disociación es tan dif ícil de percibir desde
 adentro; lo que este apartado examina es cómo, a pesar de esa dificultad, el
 reconocimiento llega. Porque llega. No siempre de la manera que el sujeto
 esperaría o elegiría, pero llega.
+Con frecuencia llega a través del cuerpo, como el capítulo IV señaló: la fatiga
+que no cede, el insomnio, la tensión crónica que no tiene causa
+identificable. El cuerpo registra lo que el lenguaje consciente ha aprendido a
+no decir, y en algún momento esa acumulación produce señales que el sujeto
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4683,10 +4682,6 @@ A.C.
 
 AQUILES
 
-Con frecuencia llega a través del cuerpo, como el capítulo IV señaló: la fatiga
-que no cede, el insomnio, la tensión crónica que no tiene causa
-identificable. El cuerpo registra lo que el lenguaje consciente ha aprendido a
-no decir, y en algún momento esa acumulación produce señales que el sujeto
 no puede seguir ignorando sin costo visible. Esas señales no son el
 reconocimiento de la disociación en sí, pero son el primer tirón hacia él: el
 primer indicio de que algo en el nivel del ego no está funcionando como
@@ -4716,6 +4711,9 @@ llega progresivamente, no de una vez—. Requiere algo más básico y más
 exigente: la disposición a permanecer con la incomodidad de lo que el
 reconocimiento produce, en lugar de cubrirla rápidamente con más
 imagen, más actividad, más confirmación de que todo está bien. Esa
+disposición es el umbral real del retorno: no el momento del
+reconocimiento en sí, sino el momento en que el sujeto decide no huir de lo
+que el reconocimiento le muestra.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4725,10 +4723,6 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 AQUILES
-
-disposición es el umbral real del retorno: no el momento del
-reconocimiento en sí, sino el momento en que el sujeto decide no huir de lo
-que el reconocimiento le muestra.
 
 IV. El yo atrofiado: por qué el retorno duele
 Una de las expectativas más frecuentes —y más desencaminadas— sobre el
@@ -4758,7 +4752,10 @@ afuera—; es la angustia de la desorientación. Es la experiencia de no saber
 exactamente quién es uno cuando no está sosteniendo la imagen, de no
 tener el guion que la imagen proporcionaba, de enfrentar situaciones sin la
 certeza automática de saber qué haría alguien como él en esa situación.
-
+Kierkegaard describió una forma de angustia que ilumina esto con una
+precisión que sus contemporáneos encontraron desconcertante: la angustia
+ante la libertad, la experiencia de estar ante la posibilidad de ser lo que uno
+puede ser sin que ningún determinante externo decida por uno. [1] Esa
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4768,10 +4765,6 @@ A.C.
 
 AQUILES
 
-Kierkegaard describió una forma de angustia que ilumina esto con una
-precisión que sus contemporáneos encontraron desconcertante: la angustia
-ante la libertad, la experiencia de estar ante la posibilidad de ser lo que uno
-puede ser sin que ningún determinante externo decida por uno. [1] Esa
 angustia no es la que produce el mal ni el peligro; es la que produce el bien
 posible que todavía no ha sido elegido. El yo en retorno experimenta algo de
 esa angustia kierkegaardiana: la apertura de posibilidades que la imagen
@@ -4785,7 +4778,7 @@ dolor no significa que el retorno sea equivocado; significa que el yo atrofiado
 está siendo reactivado, que las dimensiones de la perspectiva propia que no
 tuvieron expresión directa están siendo exercitadas por primera vez en
 mucho tiempo. Ese dolor tiene una dirección. Y esa dirección, aunque no sea
-visible en sus detalles, apunta hacia algo que es genuinamente del sujeto.
+visible en sus detalles, apunta hacia algo que es genuinamente del sujeto.[5]
 El retorno al yo duele como duele recuperar el uso de algo que estuvo
 paralizado. No porque el movimiento sea malo sino porque la parálisis fue
 larga. El dolor del retorno es la señal de que algo que dejó de moverse está
@@ -4799,8 +4792,12 @@ no son técnicas ni ejercicios en el sentido de procedimientos que se siguen
 mecánicamente —porque la mecánica es exactamente lo que la imagen
 produce y lo que el retorno al yo debe superar—. Son más bien disposiciones:
 formas de orientar la atención y la acción que, ejercitadas consistentemente,
-van devolviendo al sujeto el acceso a su perspectiva genuina.
-
+van devolviendo al sujeto el acceso a su perspectiva genuina.[4]
+La primera disposición es la que podría llamarse la consulta interior previa:
+el hábito de preguntarse, antes de actuar, desde dónde viene el impulso de
+actuar de cierta manera. No como un interrogatorio paralizante sino como
+una pregunta breve y honesta: ¿estoy haciendo esto porque lo evalúo como lo
+correcto desde mi propio eje, o estoy haciéndolo porque es lo que la imagen
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4810,11 +4807,6 @@ A.C.
 
 AQUILES
 
-La primera disposición es la que podría llamarse la consulta interior previa:
-el hábito de preguntarse, antes de actuar, desde dónde viene el impulso de
-actuar de cierta manera. No como un interrogatorio paralizante sino como
-una pregunta breve y honesta: ¿estoy haciendo esto porque lo evalúo como lo
-correcto desde mi propio eje, o estoy haciéndolo porque es lo que la imagen
 requiere, porque es lo que los otros esperan, porque tengo miedo de lo que
 pasaría si no lo hiciera? Esa pregunta no siempre tiene una respuesta
 inmediata y clara —la mezcla de motivaciones es real y frecuente—, pero el
@@ -4844,6 +4836,11 @@ experiencia a través del filtro de la imagen durante años. Y son exactamente
 el tipo de práctica que va reconstituyendo el acceso al eje genuino.
 La cuarta disposición es la expresión de la perspectiva propia en situaciones
 de bajo riesgo: el entrenamiento gradual de la capacidad de decir lo que se
+piensa, de ocupar el espacio que le corresponde al propio eje, en contextos
+donde las consecuencias de hacerlo son manejables. El sujeto en retorno no
+necesita comenzar expresando su perspectiva genuina en las situaciones más
+complejas y más cargadas de consecuencias de su vida; puede comenzar en
+conversaciones pequeñas, en decisiones menores, en situaciones donde el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4853,11 +4850,6 @@ A.C.
 
 AQUILES
 
-piensa, de ocupar el espacio que le corresponde al propio eje, en contextos
-donde las consecuencias de hacerlo son manejables. El sujeto en retorno no
-necesita comenzar expresando su perspectiva genuina en las situaciones más
-complejas y más cargadas de consecuencias de su vida; puede comenzar en
-conversaciones pequeñas, en decisiones menores, en situaciones donde el
 costo de desviarse de la imagen es bajo. Esa práctica gradual va construyendo
 la confianza en que actuar desde el eje propio no produce necesariamente la
 catástrofe que el ego disociado anticipaba.
@@ -4886,6 +4878,10 @@ relación Yo-Tú que Buber describió —el encuentro genuino entre dos
 perspectivas que se reconocen mutuamente en su alteridad— requiere
 precisamente el ego genuino que la disociación suprime. No puede haber
 encuentro genuino entre dos sujetos cuando al menos uno de ellos es
+fundamentalmente una imagen. La imagen puede ocupar el espacio
+relacional, puede ser encantadora y competente en ese espacio, pero no
+puede encontrarse con nadie porque el encuentro requiere alguien que esté
+realmente ahí.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4896,10 +4892,6 @@ A.C.
 
 AQUILES
 
-fundamentalmente una imagen. La imagen puede ocupar el espacio
-relacional, puede ser encantadora y competente en ese espacio, pero no
-puede encontrarse con nadie porque el encuentro requiere alguien que esté
-realmente ahí.
 El retorno al yo transforma la calidad de los vínculos de una manera que
 puede resultar desconcertante para el entorno del sujeto en retorno. Algunos
 vínculos que se sostenían en la imagen —que existían porque la imagen del
@@ -4909,7 +4901,7 @@ o se vacían de contenido cuando la imagen deja de estar. Eso puede producir
 pérdidas relacionales reales que el sujeto en retorno debe estar dispuesto a
 atravesar. Pero otros vínculos —los que siempre tuvieron más profundidad
 de la que la imagen permitía expresar— se vuelven más ricos, más directos,
-más capaces de la presencia genuina que la imagen impedía.
+más capaces de la presencia genuina que la imagen impedía.[6]
 Erich Fromm formuló una distinción que ilumina esta transformación: la
 diferencia entre el amor como tener — poseer al otro, usar la relación para
 satisfacer la necesidad de confirmación— y el amor como ser —estar
@@ -4929,6 +4921,9 @@ riesgo de que el yo recuperado se convierta en un nuevo objeto de culto. El
 sujeto que ha atravesado el colapso de la imagen y ha comenzado el proceso
 de retorno puede, en ciertos momentos del proceso, experimentar el acceso
 al ego genuino como algo tan valioso —después de tantos años de no
+tenerlo— que tiende a absolutizarlo. A hacer del yo genuino un nuevo
+punto de llegada definitivo, una nueva certeza que ya no puede ser
+cuestionada, un nuevo eje tan rígido como la imagen que reemplazó.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4939,9 +4934,6 @@ A.C.
 
 AQUILES
 
-tenerlo— que tiende a absolutizarlo. A hacer del yo genuino un nuevo
-punto de llegada definitivo, una nueva certeza que ya no puede ser
-cuestionada, un nuevo eje tan rígido como la imagen que reemplazó.
 Esa absolutización del yo recuperado es exactamente la egolatría que el
 capítulo I distinguió con cuidado del ego genuino: la conversión del eje en
 objeto de culto, la rigidización de la perspectiva propia en una imagen que
@@ -4972,6 +4964,9 @@ revisión. El ego genuino puede revisar sus posiciones porque el fundamento
 de su certeza no es ninguna posición en particular sino el acceso al propio
 proceso de evaluación. El ego ególatra —sea prestado o propio— no puede
 revisar las posiciones que lo constituyen porque hacerlo amenazaría el
+fundamento. La pregunta que el sujeto puede hacerse para orientarse entre
+los dos es: ¿puede mi perspectiva actual ser cambiada por evidencia y
+argumento, o mi defensa de ella se activa de manera desproporcionada ante
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4982,9 +4977,6 @@ A.C.
 
 AQUILES
 
-fundamento. La pregunta que el sujeto puede hacerse para orientarse entre
-los dos es: ¿puede mi perspectiva actual ser cambiada por evidencia y
-argumento, o mi defensa de ella se activa de manera desproporcionada ante
 cualquier cuestionamiento? Si la defensa es desproporcionada, algo en esa
 perspectiva se ha vuelto imagen.
 
@@ -5015,6 +5007,8 @@ estuvo—, ni de celebrar el sufrimiento que produjo como si tuviera un valor
 intrínseco. Se trata de algo más sobrio y más honesto: reconocer que ese
 período ocurrió, que produjo las consecuencias que produjo, que dejó las
 marcas que dejó, y que el yo que existe ahora existe en parte porque atravesó
+eso y no a pesar de ello. El yo que retorna no es el mismo que habría sido sin
+la disociación, y esa diferencia no es solo una pérdida: es también una forma
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5025,8 +5019,6 @@ A.C.
 
 AQUILES
 
-eso y no a pesar de ello. El yo que retorna no es el mismo que habría sido sin
-la disociación, y esa diferencia no es solo una pérdida: es también una forma
 específica de conocimiento sobre la trampa de la imagen y sobre lo que
 cuesta sostenerla que el yo que nunca se disoció no tiene.
 Esta integración narrativa no puede forzarse ni completarse en un tiempo
@@ -5058,6 +5050,8 @@ actúa desde su ego genuino puede elegir la generosidad, el cuidado de los
 otros, el compromiso con causas que van más allá de sus intereses
 inmediatos. La diferencia entre ese sujeto y el sujeto que hace lo mismo
 desde la imagen no es lo que hace sino desde dónde lo hace. Y esa diferencia,
+aunque invisible desde afuera, produce resultados radicalmente distintos en
+la calidad de la acción y en la sostenibilidad del compromiso.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5067,8 +5061,6 @@ A.C.
 
 AQUILES
 
-aunque invisible desde afuera, produce resultados radicalmente distintos en
-la calidad de la acción y en la sostenibilidad del compromiso.
 La generosidad que nace del ego genuino —que el sujeto elige porque,
 evaluado desde su propio eje, valora el bienestar de los otros— es
 estructuralmente diferente de la generosidad que nace de la imagen —que el
@@ -5100,6 +5092,9 @@ prestada que organizaba su ego.
 Llegados al final del capítulo sobre el retorno al yo, ese momento puede ser
 leído con una profundidad que la primera lectura no permitía. Ftía no es
 solo una alternativa geográfica a Troya: es la metáfora del retorno al yo que
+Aquiles tiene la capacidad de vislumbrar, pero no de recorrer. Ftía es el
+nombre que el mito le da a la vida que el sujeto aquileano podría haber
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5109,8 +5104,6 @@ A.C.
 
 AQUILES
 
-Aquiles tiene la capacidad de vislumbrar, pero no de recorrer. Ftía es el
-nombre que el mito le da a la vida que el sujeto aquileano podría haber
 tenido si el ego no hubiera sido capturado por la imagen del kleos. Una vida
 menos visible, quizás, pero genuinamente suya.
 Lo que Aquiles no tiene —y lo que el sujeto en retorno al yo está
@@ -5140,6 +5133,9 @@ existir para los demás. Aquiles no llegó. El sujeto en retorno puede llegar, s
 elige el camino que el mito no tomó pero que el mito, al no tomarlo, hizo
 visible para siempre.
 Notas
+1 Søren Kierkegaard, El concepto de la angustia (1844). La formulación
+kierkegaardiana de la angustia como «el vértigo de la libertad» —la
+experiencia de estar ante la posibilidad de lo posible, ante el abismo de lo
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5150,9 +5146,6 @@ A.C.
 
 AQUILES
 
-1 Søren Kierkegaard, El concepto de la angustia (1844). La formulación
-kierkegaardiana de la angustia como «el vértigo de la libertad» —la
-experiencia de estar ante la posibilidad de lo posible, ante el abismo de lo
 que uno podría elegir ser— es una de las descripciones fenomenológicas más
 precisas de la experiencia que el retorno al yo produce. Kierkegaard no
 estaba describiendo la angustia patológica sino la angustia ontológica: la
@@ -5184,6 +5177,9 @@ Deci y Richard Ryan —desarrollada en la Teoría de la Autodeterminación
 sólido disponible para la distinción filosófica que este libro establece entre
 actuar desde el propio eje y actuar para sostener una imagen. Deci y Ryan
 mostraron que la motivación intrínseca —hacer algo porque tiene valor
+desde la perspectiva del propio sujeto— produce mayor bienestar, mayor
+persistencia y mayor creatividad que la motivación extrínseca —hacer algo
+para obtener recompensas o evitar castigos externos—. Véase Edward L.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5193,9 +5189,6 @@ A.C.
 
 AQUILES
 
-desde la perspectiva del propio sujeto— produce mayor bienestar, mayor
-persistencia y mayor creatividad que la motivación extrínseca —hacer algo
-para obtener recompensas o evitar castigos externos—. Véase Edward L.
 Deci y Richard M. Ryan, Intrinsic Motivation and Self-Determination in
 Human Behavior (1985).
 5 Viktor Frankl, El hombre en busca de sentido (1946). Frankl desarrolló la
@@ -5945,12 +5938,13 @@ A.C.
 AQUILES
 
 Epílogo
+
 Habitar la tensión
 El dilema que no se resuelve, sino que se aprende a vivir
-«No busco la paz que supera todo entendimiento. Busco el entendimiento
-que hace soportable la paz.» — Elias Canetti, El juego de ojos, 1985. «El
-arco quiere estar quieto y el oficio del arco es vibrar.» — Heráclito,
-Fragmento 51 (paráfrasis).
+«No quiero la paz que excede todo entendimiento; quiero el
+entendimiento que trae paz.» — Helen Keller (atribuida;
+traducción). «El arco quiere estar quieto y el oficio del arco es
+vibrar.» — Heráclito, Fragmento 51 (paráfrasis).
 
 I. Lo que el libro no prometió
 Este libro comenzó con Aquiles y termina con una pregunta que el lector
@@ -5968,6 +5962,9 @@ desaparece con el análisis, ni con el proceso del retorno al yo, ni siquiera
 después de años de práctica de la autodeterminación causal. Forma parte de
 la condición del sujeto humano que vive en sociedad, que necesita de los
 otros para constituirse, que tiene una historia de formación que lo organizó
+en cierta dirección antes de que pudiera evaluar si esa dirección era la suya.
+Esa tensión es constitutiva. No tiene solución definitiva.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5977,8 +5974,6 @@ A.C.
 
 AQUILES
 
-en cierta dirección antes de que pudiera evaluar si esa dirección era la suya.
-Esa tensión es constitutiva. No tiene solución definitiva.
 Lo que sí cambia —y en eso consiste todo el trabajo que el libro ha
 intentado articular— es la relación del sujeto con esa tensión. La diferencia
 entre el sujeto aquileano y el sujeto que ha retornado al yo no es que el
@@ -6009,6 +6004,8 @@ y el sueño, la vida y la muerte no son alternativas que se excluyen sino pares
 que se constituyen mutuamente. [1] Lo que parece contradicción desde el
 análisis estático es, desde el análisis dinámico, la condición de posibilidad
 del movimiento y de la vida. El cosmos heracliteano no es un sistema en
+equilibrio; es un sistema en tensión perpetua que produce precisamente por
+esa tensión.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6019,8 +6016,6 @@ A.C.
 
 AQUILES
 
-equilibrio; es un sistema en tensión perpetua que produce precisamente por
-esa tensión.
 La tensión entre el ego genuino y la atracción de la imagen tiene esa
 estructura heracliteana. No es un problema que deba resolverse —una de las
 dos fuerzas eliminada por la otra— sino una condición que debe ser
@@ -6039,7 +6034,8 @@ mismo necesario para ofrecer resistencia. El sujeto que ha retornado al yo
 puede sostener la tensión sin que se resuelva automáticamente: puede sentir
 el tirón de la imagen y evaluarlo desde su eje, puede recibir la presión del
 reconocimiento ajeno y decidir qué hacer con ella desde su perspectiva
-propia. La tensión no desaparece; el sujeto aprende a ser más grande que ella.
+propia.[3] La tensión no desaparece; el sujeto aprende a ser más grande que
+ella.
 
 III. El sujeto que puede fallar: la imperfección como
 condición del eje
@@ -6357,7 +6353,7 @@ A.C.
 AQUILES
 
 finalmente: no un sujeto sin historia, sin imagen, sin la atracción de la
-gloria prestada. Un sujeto que conoce su propia historia, que puede ver la
+gloria prestada. Un sujeto que conoce su propia historia,[2] que puede ver la
 imagen cuando aparece, que puede sentir la atracción de la gloria sin ser
 arrastrado por ella, y que tiene acceso a algo que Aquiles no tuvo: el eje desde
 el que puede evaluar cada una de esas fuerzas y decidir —con la libertad
@@ -6417,20 +6413,20 @@ genuino no fue destruido por la imagen que lo desplazó, y que la vida desde
 el propio eje, aunque no tenga la gloria de la épica, tiene algo que la épica no
 puede dar: es genuinamente suya.
 Nota final
-1 Heráclito, Fragmento 51 (numeración Diels-Kranz): «ο□ ξυνι□σιν □κως
-διαφερόμενον □ωυτ□ □μολογέει· παλίντροπος □ρμονίη □κωσπερ τόξου
-κα□ λύρης» — «No comprenden cómo lo que se separa se acuerda consigo
-mismo: la armonía de tensiones opuestas, como la del arco y la lira.»
-Heráclito usó el arco y la lira —instrumentos cuya función depende de la
-tensión de una cuerda— como imágenes de la unidad de opuestos que
-organiza el cosmos. La lira añade una dimensión que el arco solo no tiene:
-la tensión que en el arco lanza, en la lira produce música. La misma tensión,
-dos resultados distintos dependiendo de cómo se la use. El sujeto que habita
-su propia tensión desde el ego genuino tiene la posibilidad de elegir entre las
-dos: puede lanzar o puede hacer música, dependiendo de lo que la situación
-pida y de lo que su perspectiva genuina decida.
+1 Heráclito, Fragmento 51 (numeración Diels-Kranz): «No comprenden
+cómo lo que se separa se acuerda consigo mismo: la armonía de tensiones
+opuestas, como la del arco y la lira.» Heráclito usó el arco y la lira —
+instrumentos cuya función depende de la tensión de una cuerda— como
+imágenes de la unidad de opuestos que organiza el cosmos. La lira añade una
+dimensión que el arco solo no tiene: la tensión que en el arco lanza, en la
+lira produce música. La misma tensión, dos resultados distintos
+dependiendo de cómo se la use. El sujeto que habita su propia tensión desde
+el ego genuino tiene la posibilidad de elegir entre las dos: puede lanzar o
+puede hacer música, dependiendo de lo que la situación pida y de lo que su
+perspectiva genuina decida.
 2 La distinción entre el tiempo que se vive y el tiempo que se narra ha
 ocupado a la filosof ía desde Agustín —«¿qué es el tiempo? Si nadie me lo
+pregunta, lo sé; si quiero explicárselo al que me lo pregunta, ya no lo
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6441,7 +6437,6 @@ A.C.
 
 AQUILES
 
-pregunta, lo sé; si quiero explicárselo al que me lo pregunta, ya no lo
 sé» (Confesiones, libro XI)— hasta Ricoeur, cuya fenomenología del
 tiempo narrativo argumenta que la identidad del sujeto se constituye en la
 tensión entre el tiempo vivido y el tiempo narrado. Lo que el epílogo añade
