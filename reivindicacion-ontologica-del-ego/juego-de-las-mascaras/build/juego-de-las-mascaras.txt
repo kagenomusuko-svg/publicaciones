@@ -816,7 +816,7 @@ asociación entre el camuflaje, la pertenencia frustrada y la suicidabilidad en
 una muestra de estudiantes universitarios. Para los costos del camuflaje y su
 relación con el bienestar en adultos autistas, véase E. Cage y Z. TroxellWhitman, «Understanding the Reasons, Contexts and Costs of
 Camouflaging for Autistic Adults», Journal of Autism and Developmental
-Disorders, 49, 2019, pp. 1899–1911, https://doi.org/10.1007/s10803–018–03878x.
+Disorders, 49, 2019, pp. 1899–1911, https://doi.org/10.1007/s10803-018-03878-x.
 [6] Erving Goffman, La presentación de la persona en la vida cotidiana
 (1959). Goffman propone que toda interacción social es una performance en
 la que los actores gestionan la impresión que producen sobre los otros. Su
@@ -831,6 +831,7 @@ transición de la sociedad disciplinaria —que opera desde la prohibición y el
 castigo— a la sociedad del rendimiento —que opera desde la exigencia y el
 agotamiento voluntario—. El sujeto contemporáneo no es reprimido desde
 afuera: se autoexplota porque ha interiorizado los criterios de productividad
+como propios. Su limitación es no distinguir entre el sujeto que ha
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -840,7 +841,6 @@ A.C.
 
 MÁSCARAS
 
-como propios. Su limitación es no distinguir entre el sujeto que ha
 interiorizado la exigencia de manera voluntaria y el que lo ha hecho por
 sustitución del ego.
 [8] El concepto de institución que aquí se usa se acerca al de Douglass C.
