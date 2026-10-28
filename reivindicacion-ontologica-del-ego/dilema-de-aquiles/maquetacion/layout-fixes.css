@@ -1,0 +1,4 @@
+.chapter p.note-19 {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}

@@ -8,6 +8,8 @@ on:
       - 'reivindicacion-ontologica-del-ego/dilema-de-aquiles/*.png'
       - 'reivindicacion-ontologica-del-ego/dilema-de-aquiles/maquetacion.json'
       - 'reivindicacion-ontologica-del-ego/dilema-de-aquiles/publicacion.json'
+      - 'reivindicacion-ontologica-del-ego/dilema-de-aquiles/maquetacion/*.py'
+      - 'reivindicacion-ontologica-del-ego/dilema-de-aquiles/maquetacion/*.css'
       - 'maquetacion/build_book.py'
       - 'maquetacion/estilo-libro-6x9.css'
       - '.github/workflows/dilema-de-aquiles-full.yml'
@@ -45,7 +47,7 @@ jobs:
 
       - name: Generar libro completo
         run: |
-          python maquetacion/build_book.py \
+          python reivindicacion-ontologica-del-ego/dilema-de-aquiles/maquetacion/build_aquiles.py \
             --root reivindicacion-ontologica-del-ego/dilema-de-aquiles \
             --output reivindicacion-ontologica-del-ego/dilema-de-aquiles/build/dilema-de-aquiles.pdf
 
