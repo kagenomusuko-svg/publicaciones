@@ -462,7 +462,9 @@ lo que el campo espera. Simplemente lo hace, desde un marco que ya no
 distingue como externo porque se ha vuelto parte de la textura desde la que
 actúa. Esa interiorización no hace la renovación menos genuina: es su forma
 sedimentada. El problema empieza cuando la segunda naturaleza persiste
-después de que las condiciones que la hicieron posible han desaparecido.
+después de que las condiciones que la hicieron posible han desaparecido. La
+conducta puede continuar por hábito, pero esa persistencia no equivale por
+sí sola a una renovación genuina del contrato bajo las condiciones presentes.
 
 III.
 La renovación del contrato adopta tres modos que este libro necesita
@@ -475,8 +477,6 @@ espacio de ejercicio de la propia segunda mediación bajo condiciones que
 el colectivo garantiza—. Es la renovación más robusta porque opera desde
 el reconocimiento, no desde el hábito ni desde la conveniencia. También es
 la más exigente: requiere que el marco colectivo continúe siendo
-identificable como propio, lo que requiere que el Estado continúe
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -486,6 +486,7 @@ A.C.
 
 KRATOS
 
+identificable como propio, lo que requiere que el Estado continúe
 cumpliendo el abono de la partida doble. (La más vulnerable al fraude
 annona acumulado.)
 Renovación habitual. La segunda mediación opera sin deliberación: el
@@ -659,20 +660,20 @@ cesión de la segunda mediación es el evento que produce el Estado como ego
 colectivo. Lo que este capítulo añade es que esa cesión no es un evento único
 sino una serie continua de actos de asunción. La partida doble de Caelus
 describe la estructura de la cesión; Kratos describe su dinámica temporal.
-2 Caelus, Cap. 12: «La eutaxia utópica como criterio de auditoría». La
-eutaxia utópica no es la descripción de un estado alcanzable sino la
-denominación de un vector: la tendencia constitutiva del ego hacia
-condiciones que amplíen su campo de colisión. La distinción entre eutaxia
-utópica como tendencia (Caelus) y eutaxia utópica como criterio operativo
-(Kratos, Cap. 2) es exactamente la distinción entre describir la brújula y
-usarla para orientar la navegación.
+2 Afrodita Areia, Volumen V: Caelus, cap. 12: «La eutaxia utópica como
+criterio de auditoría». La eutaxia utópica no es la descripción de un estado
+alcanzable sino la denominación de un vector: la tendencia constitutiva del
+ego hacia condiciones que amplíen su campo de colisión. La distinción
+entre eutaxia utópica como tendencia (Caelus) y eutaxia utópica como
+criterio operativo (Kratos, Cap. 2) es exactamente la distinción entre
+describir la brújula y usarla para orientar la navegación.
 3 La opacidad como instrumento de captura es lo que Fraenkel identificó, en
 el plano jurídico, como el mecanismo definitorio del Estado de
 prerrogativa: el poder que opera por fuera del Estado normativo sin hacerse
 visible como tal. Fraenkel, Ernst. The Dual State: A Contribution to the
-Theory of Dictatorship. Oxford University Press, 1941/2017. La relación
-entre la opacidad fraenkeliana y el deterioro de la verificabilidad en el
-sentido de este capítulo se desarrolla en el Cap. 7.
+Theory of Dictatorship. Oxford University Press, 1941/2017. La relación entre
+la opacidad fraenkeliana y el deterioro de la verificabilidad en el sentido de
+este capítulo se desarrolla en el Cap. 7.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -689,7 +690,7 @@ La eutaxia utópica como brújula
 De la tendencia constitutiva al criterio operativo
 Cómo el ego soberano evalúa si el sistema se mueve en la dirección que lo
 constituyó o en la contraria
-La eutaxia utópica no como utopía — como parámetro de auditoría del
+La eutaxia utópica: no como utopía, sino como parámetro de auditoría del
 presente
 «El ego no tiende hacia un destino.
 Tiende hacia condiciones.
@@ -1008,12 +1009,11 @@ pasado y evaluación a través del tiempo.
 Lo que el criterio produce —cuando se aplica a los tres ejes simultáneamente
 y a través del tiempo— es una lectura del estado del contrato que no es un
 juicio moral sino una descripción de la dirección en que se mueve el sistema.
-Esa descripción tiene tres posibles resultados: el contrato es sano (los tres ejes
-se mueven en la dirección de la eutaxia), el contrato está bajo tensión (algún
-eje se deteriora mientras otros se sostienen) o el contrato está en default (los
-tres ejes se mueven consistentemente en la dirección contraria a la eutaxia).
-Esos tres estados y los umbrales que los separan son el objeto del capítulo
-siguiente.
+Esa descripción tiene tres posibles resultados: el contrato es sano (al menos
+dos de los tres ejes avanzan en la dirección de la eutaxia y el tercero no
+muestra deterioro sostenido), el contrato está bajo tensión (algún eje se
+deteriora mientras otros se sostienen) o el contrato está en default (los tres
+ejes se mueven consistentemente en la dirección contraria a la eutaxia).
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1024,38 +1024,38 @@ A.C.
 
 KRATOS
 
+Esos tres estados y los umbrales que los separan son el objeto del capítulo
+siguiente.
 ***
 
 Notas
 1 El problema de la circularidad en los criterios normativos es el que Rawls
-intentó resolver con el velo de ignorancia y que Habermas intentó resolver
-con la acción comunicativa. Ninguna de las dos soluciones escapa
-completamente al círculo porque ambas presuponen ya una estructura de
-racionalidad que tiene su propio contenido normativo. La eutaxia utópica
-evita ese círculo porque su contenido no es normativo en el sentido de
-prescribir un deber: es descriptivo de la estructura del ego soberano, y de esa
-descripción se sigue la dirección del criterio sin necesidad de un salto
-deóntico.
-2 Caelus, Cap. 12: «La eutaxia utópica como criterio de auditoría». La
-formulación exacta en Caelus: la tendencia constitutiva del ego hacia
-condiciones de vida mejores como el vector que orienta la segunda
-mediación cuando opera sin captura. Kratos toma esa formulación y le
-añade la dimensión operativa: no solo es el vector que la segunda mediación
-sigue cuando opera sin captura, sino el criterio desde el que puede medirse si
-el contrato fiscal se mueve en la dirección que lo constituyó.
+aborda mediante la posición original y el velo de ignorancia en A Theory of
+Justice (1971), y que Habermas examina desde la acción comunicativa en The
+Theory of Communicative Action (1981) y Between Facts and Norms (1992).
+Ninguna de las dos soluciones escapa completamente al círculo porque
+ambas presuponen ya una estructura de racionalidad que tiene su propio
+contenido normativo. La eutaxia utópica evita ese círculo porque su
+contenido no es normativo en el sentido de prescribir un deber: es
+descriptivo de la estructura del ego soberano, y de esa descripción se sigue la
+dirección del criterio sin necesidad de un salto deóntico.
+2 Afrodita Areia, Volumen V: Caelus, cap. 12: «La eutaxia utópica como
+criterio de auditoría». La formulación exacta en Caelus: la tendencia
+constitutiva del ego hacia condiciones de vida mejores como el vector que
+orienta la segunda mediación cuando opera sin captura. Kratos toma esa
+formulación y le añade la dimensión operativa: no solo es el vector que la
+segunda mediación sigue cuando opera sin captura, sino el criterio desde el
+que puede medirse si el contrato fiscal se mueve en la dirección que lo
+constituyó.
 3 Mill, John Stuart. Utilitarianism, 1863. El hedonismo utilitarista mide el
 bien en términos de placer y sufrimiento. El problema que es relevante aquí:
 el placer es un estado subjetivo que puede ser producido por la captura tanto
 como por la eutaxia genuina. El ego en disforia de identidad puede
 experimentar su disforia como satisfacción, lo que hace al hedonismo ciego
 al tipo de deterioro que este libro examina.
-4 Sen, Amartya. Development as Freedom, 1999; Nussbaum, Martha.
-Women and Human Development, 2000. El enfoque de las capacidades
-identifica un piso de condiciones necesarias para el desarrollo humano. Es el
-marco más cercano al argumento de este capítulo, y la eutaxia utópica como
-criterio es compatible con él. La diferencia es de arquitectura: el enfoque de
-las capacidades describe qué condiciones son necesarias; la eutaxia utópica
-describe el vector que orienta al ego hacia esas condiciones desde su
+4 Sen, Amartya. Development as Freedom, 1999; Nussbaum, Martha. Women
+and Human Development, 2000. El enfoque de las capacidades identifica un
+piso de condiciones necesarias para el desarrollo humano. Es el marco más
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1066,6 +1066,10 @@ A.C.
 
 KRATOS
 
+cercano al argumento de este capítulo, y la eutaxia utópica como criterio es
+compatible con él. La diferencia es de arquitectura: el enfoque de las
+capacidades describe qué condiciones son necesarias; la eutaxia utópica
+describe el vector que orienta al ego hacia esas condiciones desde su
 estructura constitutiva. El primero es normativo; el segundo es ontológicodescriptivo.
 5 Aristóteles. Ética Nicomáquea, I, 7 (1097a–1098a). La eudaimonia
 aristotélica supone una naturaleza del ser humano —una función propia
@@ -1228,13 +1232,13 @@ incierta.
 posición del acreedor y la del súbdito según el tema y el contexto. El
 soberano puede hablar de sus derechos en algunos dominios y de la gracia
 del Estado en otros. La inconsistencia no es percibida como tal.
-· La eutaxia utópica muestra deterioro en al menos un eje con trayectoria
-sostenida, sin que los otros ejes compensen suficientemente.
+· La eutaxia utópica muestra deterioro sostenido en al menos un eje. El
+avance de otros ejes puede mejorar el balance general, pero no elimina
+este indicador de estrés.
 
 IV.
 El contrato en default es el estado en que la segunda mediación colectiva ya
 no renueva el contrato desde ninguno de los tres modos genuinos. Las tres
-condiciones para la renovación han fallado: la correspondencia ha sido
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1245,6 +1249,7 @@ A.C.
 
 KRATOS
 
+condiciones para la renovación han fallado: la correspondencia ha sido
 rechazada porque el soberano reconoce que el retorno no existe o es
 irrisorio; la operabilidad del marco colectivo desde el propio eje del ego ha
 sido bloqueada porque el marco ya no es el marco del contrato sino el marco
@@ -1274,8 +1279,6 @@ parcial como en el estrés; es un juicio sobre la estructura completa de la
 relación.
 · El lenguaje de la relación con el Estado ha abandonado la posición del
 acreedor. El soberano habla del Estado como de un poder externo —una
-fuerza que le impone condiciones— o habla desde la disforia de identidad
-que el campo le impuso, sin reconocerla como tal.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1286,6 +1289,8 @@ A.C.
 
 KRATOS
 
+fuerza que le impone condiciones— o habla desde la disforia de identidad
+que el campo le impuso, sin reconocerla como tal.
 · La eutaxia utópica muestra deterioro sostenido en los tres ejes
 simultáneamente, o muestra expansión en condiciones que el soberano
 reconoce como ajenas a su propia segunda mediación.
@@ -1315,8 +1320,6 @@ respuesta precisamente porque el deterioro ha dejado de ser reconocido. El
 soberano que sabe que fue defraudado puede actuar sobre esa constatación,
 aunque los mecanismos de corrección sean costosos. El soberano que fue
 defraudado pero lo acepta como normalidad no tiene razón para activar
-ningún mecanismo de corrección: desde su perspectiva, no hay nada que
-corregir.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1327,6 +1330,8 @@ A.C.
 
 KRATOS
 
+ningún mecanismo de corrección: desde su perspectiva, no hay nada que
+corregir.
 La normalización del estrés es el objetivo más valioso del poder fáctico que
 1
 
@@ -1358,10 +1363,7 @@ histórico, otro grupo político imaginado en el poder. El desplazamiento de
 la clase de comparación permite al soberano concluir que el sistema
 funciona «relativamente bien» aunque funcione significativamente peor de
 lo que el contrato fiscal requiere.
-Desde afuera: las expectativas sobre lo que el contrato fiscal debe retornar se
-han revisado hacia abajo sin que el soberano sea consciente de esa revisión.
-El soberano que en una generación esperaba un servicio de salud universal y
-eficiente acepta en la generación siguiente que el servicio de salud «es lo que
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1371,6 +1373,10 @@ A.C.
 
 KRATOS
 
+Desde afuera: las expectativas sobre lo que el contrato fiscal debe retornar se
+han revisado hacia abajo sin que el soberano sea consciente de esa revisión.
+El soberano que en una generación esperaba un servicio de salud universal y
+eficiente acepta en la generación siguiente que el servicio de salud «es lo que
 hay» y en la generación después critica como utópica la expectativa de la
 primera generación. La revisión hacia abajo de las expectativas es la
 sedimentación del estrés normalizado: la segunda naturaleza que el
@@ -1400,9 +1406,6 @@ brecha entre la inversión y el retorno es real pero no calculable. El soberano
 que no puede calcular la brecha no puede reclamarla como deuda.
 2. El reencuadre narrativo del deterioro. El estrés normalizado requiere que
 el deterioro sea explicable sin apelar al fraude annona. Los instrumentos
-narrativos más eficientes son tres: la naturalización («siempre ha sido así»),
-la externalización («es culpa de X externo al sistema») y la
-individualización («es tu responsabilidad personal, no la del Estado»). Los
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1413,6 +1416,9 @@ A.C.
 
 KRATOS
 
+narrativos más eficientes son tres: la naturalización («siempre ha sido así»),
+la externalización («es culpa de X externo al sistema») y la
+individualización («es tu responsabilidad personal, no la del Estado»). Los
 tres reencuadres desplazan la atención del deterioro estructural del contrato
 hacia causas que no activan la posición del acreedor.
 3. La administración de la clase de comparación. El soberano que compara el
@@ -1444,15 +1450,10 @@ del estrés normalizado a la disforia de identidad colectiva: el soberano que
 ya no tiende hacia las condiciones de su propia segunda mediación sino
 hacia las condiciones del campo que lo capturó.
 
-3
-
-VIII.
-Los tres capítulos de esta primera parte han establecido la estructura
-completa de la vida del contrato fiscal. El contrato es un proceso de
-renovación permanente de la segunda mediación colectiva —no un acto
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
+
+3
 
 28
 
@@ -1460,6 +1461,10 @@ A.C.
 
 KRATOS
 
+VIII.
+Los tres capítulos de esta primera parte han establecido la estructura
+completa de la vida del contrato fiscal. El contrato es un proceso de
+renovación permanente de la segunda mediación colectiva —no un acto
 fundacional—. Esa renovación tiene una dirección que la eutaxia utópica
 como criterio permite identificar. Y esa dirección produce, a través del
 tiempo, tres estados de la segunda mediación colectiva que tienen
@@ -1484,14 +1489,9 @@ Notas
 default tiene una explicación estructural precisa que este libro desarrolla en
 la Parte II: el default produce los costos de la ruptura —inestabilidad,
 presión internacional, posibilidad de corrección desde afuera del sistema—,
-mientras que el estrés normalizado es autosostenible. Gramsci lo formuló
-como el problema de la hegemonía: el poder que necesita coerción
-permanente es más costoso y más frágil que el poder que ha logrado que el
-dominado asuma el marco del dominador como propio. Gramsci, Antonio.
-Cuadernos de la cárcel, ca. 1929–1935. La diferencia entre la formulación
-gramsciana y la de este capítulo es de nivel: Gramsci describe el proceso en
-términos de clase y de ideología; Kratos lo describe en términos de la
-segunda mediación colectiva y de la eutaxia utópica capturada.
+mientras que el estrés normalizado es autosostenible. Gramsci formuló el
+problema de la hegemonía y la relación entre coerción y consenso en los
+Cuadernos de la cárcel, en particular en el Cuaderno 6, § 88. La diferencia
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1502,15 +1502,23 @@ A.C.
 
 KRATOS
 
-2 El desplazamiento de la clase de comparación como instrumento de
-normalización del deterioro tiene evidencia empírica extensa en la
-psicología social y en la economía del comportamiento. Lo que este capítulo
-añade es la descripción ontológica del mecanismo: no es una distorsión
-cognitiva del soberano sino el resultado de la administración deliberada del
-monopolio de la narrativa. La diferencia importa para la corrección: si fuera
-una distorsión cognitiva, la corrección sería educativa; si es el resultado del
-monopolio de la narrativa, la corrección requiere la ruptura de ese
-monopolio.
+entre la formulación gramsciana y la de este capítulo es de nivel: Gramsci
+describe el proceso en términos de clase y de ideología; Kratos lo describe en
+términos de la segunda mediación colectiva y de la eutaxia utópica
+capturada.
+2 La selección y el cambio de los grupos de referencia en las comparaciones
+sociales han sido estudiados empíricamente en psicología social y economía
+del comportamiento. Véanse Leon Festinger, «A Theory of Social
+Comparison Processes», Human Relations 7, n.º 2 (1954), pp. 117–140; Armin
+Falk y Markus Knell, «Choosing the Joneses: Endogenous Goals and
+Reference Standards», Scandinavian Journal of Economics 106, n.º 3 (2004),
+pp. 417–435; y Juil Lee, Mooweon Rhee y Kyung Min Park, «Looking
+Backward through the Looking Glass: Reference Groups and Social
+Comparison», Journal of Management & Organization 26, n.º 1 (2020), pp.
+110–131. Estos trabajos documentan la selección y modificación de referencias
+comparativas; el capítulo aplica ese fenómeno a la administración política
+de la clase de comparación y describe su relación con el monopolio de la
+narrativa.
 3 La captura de la eutaxia utópica —el quinto instrumento— es
 ontológicamente el más grave porque opera sobre la tendencia constitutiva
 del ego. El ego que ya no tiende hacia las condiciones que amplían su propia
@@ -2339,16 +2347,17 @@ tendencia y la ha orientado hacia la reproducción de la captura que lo afecta.
 ***
 
 Notas
-1 La distinción entre las tres formas del fraude annona tiene su correlato en
-la teoría de las obligaciones del Estado en el derecho internacional de los
-derechos humanos, donde se denomina la trilogía respetar-protegergarantizar. La obligación de respetar corresponde a la abstención de la
-negación activa; la obligación de proteger corresponde a la intervención
-contra terceros que niegan el derecho; la obligación de garantizar
-corresponde a la creación activa de las condiciones materiales para el
-ejercicio del derecho. Comité de Derechos Económicos, Sociales y
-Culturales de la ONU, Observación General n.° 3, 1990. Lo que Kratos añade
-a esa trilogía es la descripción ontológica de por qué las tres formas de
-incumplimiento producen el mismo estado en la partida doble y por qué ese
+1 La distinción entre las tres formas del fraude annona puede ponerse en
+relación con la tipología de las obligaciones estatales en materia de derechos
+humanos. El Comité de Derechos Económicos, Sociales y Culturales aborda
+la naturaleza general de esas obligaciones en la Observación General n.º 3
+(1990) y formula expresamente las obligaciones de respetar, proteger y
+cumplir en la Observación General n.º 14 (2000), párr. 33. En este capítulo,
+«garantizar» nombra la creación de las condiciones materiales para el
+ejercicio del derecho. La relación es conceptual: la tipología jurídica clasifica
+obligaciones estatales; Kratos distingue formas de incumplimiento del
+contrato fiscal. Lo que Kratos añade es la descripción ontológica de por qué
+las tres formas producen el mismo estado en la partida doble y por qué ese
 estado —y no la forma que adopta el incumplimiento— es el objeto del
 análisis del contrato fiscal.
 2 El principio de que el daño ontológico del fraude annona es equivalente en
@@ -2787,15 +2796,14 @@ ontológica de la disforia —el ego que opera desde el eje del campo
 capturador como si fuera el eje propio— y examina los mecanismos de
 estabilización adicionales que la escala colectiva produce.
 2 El monopolio narrativo como mecanismo de producción de disforia tiene
-su formulación más precisa en el análisis gramsciano de la hegemonía
-cultural: el poder que no necesita coerción permanente porque ha logrado
-que el dominado asuma el marco del dominador como propio. Gramsci,
-Antonio. Cuadernos de la cárcel, ca. 1929–1935. La formulación de Kratos es
-más precisa en un aspecto: identifica el mecanismo ontológico por el que esa
-asunción es posible —la captura de la segunda mediación colectiva— y la
-distingue de la asunción estratégica o calculada, que no produce disforia
-porque el ego mantiene su propio eje aunque opere desde el del capturador
-por conveniencia.
+un antecedente en el análisis gramsciano de la hegemonía cultural: el poder
+que obtiene consentimiento y no depende únicamente de la coerción.
+Véanse Antonio Gramsci, Cuadernos de la cárcel, Cuaderno 1, § 44, y
+Cuaderno 6, § 88. La formulación de Kratos identifica el mecanismo
+ontológico por el que esa asunción es posible —la captura de la segunda
+mediación colectiva— y la distingue de la asunción estratégica o calculada,
+que no produce disforia porque el ego mantiene su propio eje aunque opere
+desde el del capturador por conveniencia.
 3 El quinto mecanismo de estabilización —el costo asimétrico de la
 reversión— tiene su correlato formal en la teoría de juegos bajo la figura del
 dilema del prisionero aplicado a bienes colectivos: el ego que podría
@@ -2807,6 +2815,7 @@ ruptura de la disforia colectiva requiere siempre la existencia de egos
 dispuestos a pagar ese costo asimétrico, o la existencia de condiciones que
 reduzcan ese costo a un nivel que más egos puedan asumir. El diseño de esas
 condiciones es parte de lo que la Parte III examina.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3200,23 +3209,19 @@ producción de disforia tiene su antecedente más preciso en el análisis de
 Louis Althusser sobre los aparatos ideológicos de Estado: las instituciones —
 educativas, religiosas, mediáticas, políticas— que producen al sujeto que el
 sistema requiere. Althusser, Louis. «Ideología y aparatos ideológicos de
-Estado», en La filosof ía como arma de la revolución, 1970. La diferencia
-con la formulación de Kratos es de nivel: Althusser opera en el nivel de la
+Estado», en La filosofía como arma de la revolución, 1970. La diferencia con
+la formulación de Kratos es de nivel: Althusser opera en el nivel de la
 producción del sujeto como efecto de la ideología; Kratos opera en el nivel
 ontológico de la captura de la segunda mediación. La primera formulación
 tiene consecuencias políticas que Kratos comparte; la segunda tiene una
 descripción del mecanismo que Althusser no produce.
-3 La distinción entre la eficiencia del monopolio de la narrativa y la del
-monopolio de la violencia tiene evidencia empírica en la literatura sobre
-cambio de régimen: los regímenes que dependen primariamente de la
-coerción son históricamente menos estables que los que han logrado
-establecer el monopolio de la narrativa. La hegemonía cultural —en el
-sentido gramsciano— produce una estabilidad que la coerción no puede
-producir, precisamente porque no requiere la activación continua que la
-coerción demanda. La conexión entre ese resultado empírico y el análisis
-ontológico de Kratos es directa: la hegemonía cultural es la forma que
-adopta el monopolio de la narrativa cuando ha consolidado su captura de la
-segunda mediación colectiva.
+3 La diferencia entre el monopolio de la narrativa y el de la violencia puede
+leerse junto al concepto gramsciano de hegemonía cultural: un poder que
+logra que el dominado asuma como propio el marco dominante puede
+reproducirse sin activar continuamente la coerción directa. Gramsci,
+Antonio. Cuadernos de la cárcel, 1929–1935. Kratos reformula esa relación
+como la diferencia entre la captura narrativa de la segunda mediación y la
+violencia que protege ese proceso.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3233,8 +3238,8 @@ La asimetría temporal como diseño
 del campo
 El poder que planifica en ciclos de décadas frente al soberano que vive en
 ciclos de quincenas
-No como dato sociológico sino como estructura del campo diseñada para que el
-soberano no pueda ver el arco completo de su propio desplazamiento
+No como dato sociológico, sino como estructura del campo diseñada para que
+el soberano no pueda ver el arco completo de su propio desplazamiento
 «El soberano que vive en el presente
 solo puede ser desplazado en el tiempo.
 No de golpe —eso lo vería—.
@@ -3609,9 +3614,9 @@ KRATOS
 Notas
 1 La distinción entre la asimetría temporal como dato sociológico y como
 diseño del campo tiene antecedentes en la literatura sobre la política de la
-atención (Baumgartner & Jones, 1993, Agendas and Instabilities in
-American Politics) y en la economía política de la reforma institucional
-(Acemoglu & Robinson, 2012, Why Nations Fail). Lo que Kratos añade a esa
+atención (Baumgartner y Jones, Agendas and Instability in American
+Politics, 1993) y en la economía política de la reforma institucional
+(Acemoglu y Robinson, Why Nations Fail, 2012). Lo que Kratos añade a esa
 literatura es la descripción ontológica del mecanismo: no solo el poder
 capturador tiene más paciencia que el soberano, sino que el campo está
 estructurado para que la segunda mediación del soberano no pueda acceder a
@@ -3620,16 +3625,15 @@ la escala temporal en que el desplazamiento es visible. La diferencia entre
 soberano no pueda tener esa paciencia» es la diferencia entre una ventaja
 táctica y una característica estructural.
 2 La desfinanciación de la infraestructura de la memoria larga como
-mecanismo de captura tiene evidencia en la literatura sobre la captura de los
-medios y de las instituciones académicas. Lo que este capítulo denomina
-«gestión de la producción del análisis longitudinal» corresponde a lo que
-Zuboff llama «economía de la atención» en The Age of Surveillance
-Capitalism, 2019: la estructura de incentivos que produce el ecosistema
-informativo contemporáneo, en el que los procesos lentos son
-sistemáticamente subrepresentados frente a los eventos inmediatos. La
-diferencia es que Zuboff lo analiza como resultado de la lógica del
-capitalismo de vigilancia; Kratos lo analiza como resultado del diseño
-deliberado del campo capturado.
+mecanismo de captura tiene antecedentes en la literatura sobre la captura de
+los medios y de las instituciones académicas. The Age of Surveillance
+Capitalism (2019), de Shoshana Zuboff, analiza la lógica económica que
+convierte la experiencia humana en datos y organiza el entorno
+informativo para intervenir sobre la conducta. En este capítulo, la relación
+entre esa lógica y la menor visibilidad de los procesos lentos se plantea
+mediante la «gestión de la producción del análisis longitudinal»; la
+aplicación al diseño deliberado del campo capturado forma parte del
+argumento de Kratos.
 3 La conexión entre la asimetría temporal y la disforia de identidad colectiva
 a través de la gestión del acceso al estado anterior tiene un correlato en la
 psicología del trauma colectivo: las comunidades que han sufrido un trauma
@@ -4082,7 +4086,7 @@ A.C.
 
 KRATOS
 
-Hirschman llamó «exit» en Exit, Voice, and Loyalty, 1970: la decisión de
+Hirschman llamó «exit» en Exit, Voice, and Loyalty (1970): la decisión de
 retirarse del sistema cuando el sistema falla. Lo que Kratos añade es la
 descripción ontológica del mecanismo: no es simplemente la elección
 racional de retirarse, sino la operación de la segunda mediación desde el
@@ -4095,7 +4099,7 @@ contrato fiscal.
 2 La distinción entre el duelo que se completa y el duelo que se convierte en
 identidad permanente del colectivo tiene resonancias con el análisis
 psicoanalítico de Freud sobre la diferencia entre el duelo y la melancolía
-(Trauer und Melancholie, 1917): el duelo que se completa libera la energía
+(«Trauer und Melancholie», 1917): el duelo que se completa libera la energía
 libidinosa hacia nuevos objetos; la melancolía es el duelo que no puede
 completarse porque el objeto perdido ha sido interiorizado de manera que su
 pérdida es sentida como pérdida del propio ego. La aplicación a la escala
@@ -4495,7 +4499,7 @@ de corrección y «loyalty» como mecanismo de reproducción del sistema: el
 soberano en disforia puede ejercer voz (voice) pero esa voz opera desde la
 lealtad (loyalty) al marco capturado, lo que la convierte en un mecanismo de
 reproducción del sistema en lugar de un mecanismo de corrección. Exit,
-Voice, and Loyalty, 1970. La reformulación de Kratos añade la dimensión
+Voice, and Loyalty (1970). La reformulación de Kratos añade la dimensión
 ontológica que Hirschman no desarrolla: la diferencia entre voz desde
 asunción y voz desde disforia no es solo de contenido —qué se demanda—
 sino de eje —desde qué segunda mediación se demanda.
@@ -4936,13 +4940,13 @@ condiciones de posibilidad que importan no son solo las históricas y
 culturales sino las del estado de la segunda mediación colectiva en el
 momento de la acción.
 2 El principio de no-cancelación —los mecanismos superiores no cancelan
-sino que agregan los inferiores— tiene consecuencias prácticas que los
-movimientos sociales históricos confirman de manera consistente. Los
-movimientos que produjeron las correcciones más duraderas del contrato
-fiscal combinaron la acumulación de documentación en niveles bajos del
-gradiente con la acción de alto impacto en los niveles superiores: el
-movimiento por los derechos civiles en los Estados Unidos combinó el
-litigio estratégico de Thurgood Marshall (nivel 3) con la desobediencia civil
+sino que agregan los inferiores— tiene un paralelo histórico en la
+combinación de litigio estratégico y acción directa del movimiento por los
+derechos civiles en Estados Unidos. La estrategia jurídica de Thurgood
+Marshall y la NAACP se documenta en Mark V. Tushnet, Making Civil
+Rights Law: Thurgood Marshall and the Supreme Court, 1936–1961
+(Oxford University Press, 1994); los procesos de Montgomery, Birmingham
+y Selma, en J. Mills Thornton III, Dividing Lines: Municipal Politics and
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4952,10 +4956,10 @@ A.C.
 
 KRATOS
 
-de Montgomery y Birmingham (nivel 5) mientras mantenía la
-documentación sistemática del fraude annona (niveles 1 y 2). Esa
-combinación es lo que hizo que la corrección producida fuera más dif ícil de
-revertir que la que habría producido cualquier nivel aislado.
+the Struggle for Civil Rights in Montgomery, Birmingham, and Selma
+(University of Alabama Press, 2006). La lectura de esas acciones como
+mecanismos complementarios del gradiente es la aplicación conceptual de
+Kratos.
 3 La función formativa del gradiente —el proceso de subir por él es en sí
 mismo el proceso de recuperación del eje de la segunda mediación— tiene
 una implicación pedagógica que Kratos registra pero no desarrolla en
@@ -5365,16 +5369,16 @@ durante el tiempo suficiente.
 Notas
 1 La genealogía teórica de la desobediencia civil tiene tres referencias
 fundamentales que Kratos usa, reforma y en algún caso corrige. Thoreau
-(1849) la concibió como obligación moral del individuo ante el gobierno
-injusto: el fundamento es moral, no contractual. Gandhi (1920-1947) la
-convirtió en estrategia política de resistencia no violenta: el fundamento es
-político y moral, sin la precisión contractual que Kratos requiere. King
-(1963) la articuló en términos de la distinción entre leyes justas e injustas: el
-fundamento es moral y legal, más cercano al lenguaje contractual pero
-todavía sin la estructura de la partida doble. Lo que Kratos añade en todos
-los casos es el fundamento ontológico-contractual: la declaración de default
-del acreedor que constata el incumplimiento del depositario, con las tres
-condiciones que distinguen esa declaración de la ilegalidad ordinaria.
+formuló la resistencia civil como obligación moral del individuo ante el
+gobierno injusto en «Resistance to Civil Government», publicado en
+Aesthetic Papers (1849). Gandhi desarrolló la desobediencia civil como
+estrategia de resistencia no violenta en sus escritos de Young India; véase, por
+ejemplo, el artículo del 4 de agosto de 1921. King articuló la distinción entre
+leyes justas e injustas en «Letter from Birmingham Jail» (1963). Lo que
+Kratos añade en los tres casos es el fundamento ontológico-contractual: la
+declaración de default del acreedor que constata el incumplimiento del
+depositario, con las tres condiciones que distinguen esa declaración de la
+ilegalidad ordinaria.
 2 El efecto de eutaxia colectiva —que la declaración de default es la
 experiencia más formativa del eje del acreedor— tiene un antecedente
 parcial en el análisis de Arendt sobre el poder como acción concertada: el
@@ -5401,7 +5405,7 @@ de producirlo —y que por eso invierte la carga de la prueba— tiene un
 antecedente en la filosof ía del derecho en el análisis de Rawls sobre la
 desobediencia civil como comunicación: el acto que comunica al sistema
 que la ley viola los principios de justicia desde los que el propio sistema
-justifica su autoridad. Rawls, John. A Theory of Justice, 1971, §55-59. Lo que
+justifica su autoridad. Rawls, John. A Theory of Justice, 1971, §§ 55–59. Lo que
 Kratos añade a ese análisis es la especificación ontológica: la comunicación
 que Rawls describe es la constatación del incumplimiento de la partida
 doble del contrato fiscal, y la inversión de la carga de la prueba que produce
@@ -5779,10 +5783,10 @@ una opinión.
 ***
 
 Notas
-1 La reemergencia de tradiciones suprimidas después del colapso de
-regímenes autoritarios tiene evidencia histórica sistemática en los casos de la
-transición democrática de Europa Central y del Este después de 1989. Los
-estudios de Putnam sobre el capital social en Italia —que demostraron que
+1 Para Europa Central y del Este, Grzegorz Ekiert y Jan Kubik documentan
+la diversidad de las sociedades civiles poscomunistas y la persistencia de
+legados asociativos anteriores a 1989: «The Legacies of 1989: Myths and
+Realities of Civil Society», Journal of Democracy 25, n.º 1 (2014), pp. 46–58.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5793,14 +5797,14 @@ A.C.
 
 KRATOS
 
-las diferencias en el desempeño institucional entre el norte y el sur de Italia
-podían rastrearse hasta diferencias en las tradiciones cívicas del siglo XIII—
-ofrecen la confirmación de largo plazo más documentada de la persistencia
-del fue colectivo a través de siglos de transformación política. Putnam,
-Robert D. Making Democracy Work: Civic Traditions in Modern Italy,
-1993. En términos de Caelus: el fue colectivo que Putnam documentó como
-«capital social» es la acumulación de segunda mediación colectiva
-operando desde el eje del acreedor a través de generaciones.
+Para Italia, Robert D. Putnam, Robert Leonardi y Raffaella Y. Nanetti
+relacionan las diferencias regionales en el desempeño institucional con
+tradiciones cívicas de largo plazo, especialmente las comunidades comunales
+medievales: Making Democracy Work: Civic Traditions in Modern Italy
+(Princeton University Press, 1993). En términos de Caelus, el fue colectivo
+que Putnam y sus colaboradores documentan como «capital social» es la
+acumulación de segunda mediación colectiva operando desde el eje del
+acreedor a través de generaciones.
 2 La afirmación de que incluso el fue de la supresión es una forma de
 acumulación en el fue colectivo tiene una precisión que requiere cuidado. El
 ego que creció bajo la supresión y cuyo fue contiene la experiencia de la
@@ -5818,12 +5822,13 @@ términos de la psicología del desarrollo, a los mecanismos de formación de
 la identidad: el lenguaje como estructura de la cognición sobre la posición
 propia, la experiencia como consolidación de esa estructura en evidencia
 vivida y la transmisión como internalización de la estructura antes de que
-sea objeto de elección. Vygotsky identificó el lenguaje como mediador del
-desarrollo cognitivo; Erikson identificó la transmisión intergeneracional
-como el mecanismo que produce identidades que trascienden las vidas
-individuales. Lo que Kratos añade es la especificación ontológica del
-contenido de esa transmisión: no cualquier identidad, sino el eje del
-acreedor del contrato fiscal.
+sea objeto de elección. Para el lenguaje como mediador del desarrollo
+cognitivo, véase Lev S. Vygotsky, Thought and Language (1934; trad. inglesa
+de 1962). Para la identidad en relación con el desarrollo a lo largo de la vida
+y las generaciones, véase Erik H. Erikson, Childhood and Society (1950) e
+Identity: Youth and Crisis (1968). Lo que Kratos añade es la especificación
+ontológica del contenido de esa transmisión: no cualquier identidad, sino el
+eje del acreedor del contrato fiscal.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6063,8 +6068,9 @@ movimiento hacia la eutaxia donde los críticos del sistema no quieren
 reconocerlo. Eso es lo que la imputación con rigor produce. Eso es Eris.
 
 VI.
-Kratos comenzó con una pregunta sobre el Monte Aventino: ¿qué hicieron
-los plebeyos romanos cuando subieron al monte en 494 a.C.? La respuesta
+Kratos comenzó con una pregunta sobre el Aventino, variante que Livio
+atribuye a Pisón al relatar la primera secesión plebeya (Ab urbe condita, II.
+32.2–3): ¿qué hicieron los plebeyos al retirarse allí en 494 a. C.? La respuesta
 que el libro desarrolló en trece capítulos es esta: restauraron el eje de su
 segunda mediación. No hicieron la revolución —no destruyeron la
 República—. No aceptaron la disforia —no siguieron produciendo los actos
@@ -6074,7 +6080,6 @@ declaración de default más sencilla que el registro histórico conserva: sin
 palabras, sin manifiestos, sin ideología. Solo el retiro de la segunda
 mediación que hacía funcionar el sistema que los defraudaba, hasta que el
 sistema entendió que sin esa segunda mediación no había sistema.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6111,15 +6116,15 @@ KRATOS
 
 Sobre la colección El Contrato Fiscal
 Kratos es el primero de dos volúmenes de la colección El Contrato Fiscal,
-inherente a la hexalogía Afrodita Areia de la colección Paradigma del
+que forma parte de la colección Afrodita Areia, integrada en Paradigma, del
 Centro Multidisciplinario Meriadock. El segundo volumen, Eris, aplica los
 instrumentos que Kratos desarrolló a la auditoría de los sistemas políticos
 que la historia moderna de los Estados ha producido. La colección parte de
-la demostración ontológica de Caelus —el quinto volumen de Afrodita
-Areia— que estableció el contrato fiscal como descripción ontológica de la
-relación entre el soberano y el Estado. Kratos despliega ese fundamento
-hacia el mundo concreto de los egos soberanos que viven bajo contratos que
-funcionan o que fallan. Eris aplica la imputación.
+la demostración ontológica de Caelus —Volumen V de la colección
+Afrodita Areia—, que estableció el contrato fiscal como descripción
+ontológica de la relación entre el soberano y el Estado. Kratos despliega ese
+fundamento hacia el mundo concreto de los egos soberanos que viven bajo
+contratos que funcionan o que fallan. Eris aplica la imputación.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
