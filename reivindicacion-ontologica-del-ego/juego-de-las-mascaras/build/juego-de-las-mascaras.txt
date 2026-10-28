@@ -935,7 +935,7 @@ agudo. No es crisis. Es la tonalidad persistente de una existencia que no
 termina de coincidir con algo que no puede nombrarse con exactitud, pero
 cuya ausencia se nota.
 El término tiene uso clínico en varios contextos —disforia de género,
-disforia premenstrual, disforia post-coital— y en todos esos usos conserva
+disforia premenstrual, disforia postcoital— y en todos esos usos conserva
 algo de su sentido etimológico original: no la enfermedad, sino la
 incomodidad que produce una discordancia entre lo que el sujeto
 experimenta y lo que el entorno —o el propio cuerpo, o la propia historia—
