@@ -562,12 +562,12 @@ imagen—; es el yo que hace posible que haya alguien que responda esa
 pregunta.
 La tradición filosófica ha abordado este nivel del yo con distintos
 vocabularios. Descartes lo llamó la res cogitans, la cosa que piensa, el único
-punto de certeza en la cadena de la duda metódica.[1] Kant distinguió entre
+punto de certeza en la cadena de la duda metódica.[3] Kant distinguió entre
 el yo empírico —el yo tal como aparece en la experiencia, determinado por
 las condiciones de la percepción y del pensamiento— y el yo trascendental,
 la unidad sintética de la apercepción que hace posible que toda experiencia se
-atribuya a un único sujeto.[2] Husserl habló del ego trascendental como el
-polo desde el cual toda intencionalidad se dirige hacia el mundo.[3] Las
+atribuya a un único sujeto.[4] Husserl habló del ego trascendental como el
+polo desde el cual toda intencionalidad se dirige hacia el mundo.[5] Las
 diferencias entre estas formulaciones son filosóficamente importantes; lo
 que comparten es la intuición de que hay un nivel del yo que no es una
 representación sino una función: la función de ser el punto desde el que la
@@ -709,7 +709,7 @@ adoptar la perspectiva del otro: el niño pequeño no está siendo egoísta
 cuando describe el mundo desde su propio punto de vista sin considerar que
 otros ven el mismo objeto desde ángulos distintos; simplemente no ha
 desarrollado todavía la capacidad cognitiva que ese cambio de perspectiva
-requiere.[4] Ese uso técnico del término ilumina algo importante sobre el
+requiere.[6] Ese uso técnico del término ilumina algo importante sobre el
 egocentrismo en sentido amplio: es, en su forma más básica, una limitación
 de perspectiva. No necesariamente una falla moral, aunque puede
 convertirse en una cuando el sujeto adulto no ha desarrollado —o ha
@@ -820,7 +820,7 @@ diagnostican ciertos patrones de sufrimiento que la psicología
 contemporánea ha comenzado a articular con mayor precisión bajo
 términos como dependencia emocional, codependencia, o los rasgos de
 personalidad que algunos autores han vinculado a la dificultad de habitar
-una perspectiva genuinamente propia.[5]
+una perspectiva genuinamente propia.[7]
 
 VI. El yo como proceso: contra las concepciones estáticas del
 ego
@@ -864,7 +864,7 @@ mientras permanece bloqueado en otras.
 William James, en su descripción del yo empírico, distinguió entre el yo
 material —el cuerpo y sus extensiones—, el yo social —la imagen que el
 sujeto tiene de sí mismo en relación con los otros—y el yo espiritual — la
-conciencia de los propios estados mentales y capacidades. [6] Esta distinción
+conciencia de los propios estados mentales y capacidades. [8] Esta distinción
 no es la misma que la que aquí se propone, pero ilumina algo importante: el
 yo no es monolítico. Tiene dimensiones, y esas dimensiones pueden estar en
 estados distintos. Lo que el análisis del dilema de Aquiles añade a esa
@@ -926,7 +926,7 @@ de afuera —toda imagen tiene esa componente— sino el hecho de que no
 haya nadie adentro que la evalúe.
 Hegel vio en el reconocimiento mutuo el fundamento de la autoconciencia:
 el yo se constituye a sí mismo a través de la relación con otro yo que lo
-reconoce y al que a su vez reconoce. [7] Esa descripción capta algo real e
+reconoce y al que a su vez reconoce. [9] Esa descripción capta algo real e
 importante sobre la naturaleza social de la identidad. Pero lo que el análisis
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -948,7 +948,7 @@ Sartre formuló el mismo riesgo desde otro ángulo cuando describió la
 mirada del otro como una amenaza a la libertad: ser visto es, en la
 fenomenología sartriana, ser convertido en objeto por la conciencia ajena,
 ser fijado en una imagen que el otro constituye y que el sujeto no puede
-completamente controlar.[8] La angustia sartriana ante la mirada ajena no
+completamente controlar.[10] La angustia sartriana ante la mirada ajena no
 es paranoia: es el reconocimiento de que la imagen que los otros construyen
 sobre nosotros tiene un poder que nos excede, y que la libertad genuina
 requiere una cierta resistencia a ese poder. Lo que la egolatría prestada
@@ -1043,7 +1043,7 @@ fuerza— pero no son libres en el sentido que importa: no parten de su
 propio eje sino del eje prestado que la mirada ajena le proporcionó.
 Sartre dijo que el ser humano está condenado a ser libre: no puede dejar de
 elegir, no puede escapar de la responsabilidad de sus actos, incluso la huida
-de la libertad es una forma de elegir. [9] Esa formulación es correcta en el
+de la libertad es una forma de elegir. [11] Esa formulación es correcta en el
 nivel formal, pero omite algo importante: la calidad de la elección depende
 del punto desde el que se elige. No todas las elecciones parten del mismo
 lugar. La elección que parte de la imagen prestada —la que el sujeto realiza
@@ -1078,20 +1078,20 @@ La tarea no es eliminar el ego sino habitarlo. No reducirlo sino recuperarlo.
 No suprimirlo sino distinguirlo, por fin, de todas las imágenes que lo han
 suplantado.
 Notas
-1 René Descartes, Meditaciones metaf ísicas (1641), Segunda Meditación. La
+3 René Descartes, Meditaciones metaf ísicas (1641), Segunda Meditación. La
 certeza del cogito —«pienso, luego existo»— no establece que el yo sea una
 sustancia con determinadas propiedades; establece que hay algo que piensa, y
 que ese algo no puede ser puesto en duda mientras está pensando. Es una
 afirmación funcional, no sustancial.
-2 Immanuel Kant, Crítica de la razón pura (1781), «Deducción trascendental
-de los conceptos puros del entendimiento». La distinción kantiana entre el
-yo empírico y el yo trascendental es técnicamente compleja, pero su
-importancia para el argumento aquí desarrollado reside en el
-reconocimiento de que hay un nivel del yo —el que hace posible la unidad
-de la experiencia— que no puede ser objeto de experiencia sin dejar de ser el
-sujeto que la hace posible.
-3 Edmund Husserl, Ideas relativas a una fenomenología pura y una filosof ía
-fenomenológica (1913), §§ 57-62. La descripción husserliana del ego como
+4 Immanuel Kant, Crítica de la razón pura (1781), «Deducción
+trascendental de los conceptos puros del entendimiento». La distinción
+kantiana entre el yo empírico y el yo trascendental es técnicamente
+compleja, pero su importancia para el argumento aquí desarrollado reside en
+el reconocimiento de que hay un nivel del yo —el que hace posible la
+unidad de la experiencia— que no puede ser objeto de experiencia sin dejar
+de ser el sujeto que la hace posible.
+5 Edmund Husserl, Ideas relativas a una fenomenología pura y una filosof ía
+fenomenológica (1913), §§ 57–62. La descripción husserliana del ego como
 polo de toda intencionalidad —el punto desde el que la conciencia se dirige
 siempre hacia algo— es la formulación más rigurosa disponible de lo que
 aquí se llama el ego como función de orientación.
@@ -1105,7 +1105,7 @@ A.C.
 
 AQUILES
 
-4 Jean Piaget, La representación del mundo en el niño (1926). El
+6 Jean Piaget, La representación del mundo en el niño (1926). El
 egocentrismo infantil que Piaget describe no es un defecto moral sino una
 limitación cognitiva evolutivamente normal: el niño en las primeras etapas
 del desarrollo no ha construido todavía la capacidad de descentración que
@@ -1113,7 +1113,7 @@ permite adoptar la perspectiva del otro. Que esta limitación tenga un
 equivalente adulto —que algunos sujetos no desarrollen plenamente esa
 capacidad de descentración— es una de las líneas de investigación más
 productivas en la psicología del desarrollo y la psicopatología.
-5 La literatura sobre dependencia emocional y codependencia es amplia y
+7 La literatura sobre dependencia emocional y codependencia es amplia y
 heterogénea en calidad. Entre los trabajos pertinentes se encuentran los de
 Ross Rosenberg (The Human Magnet Syndrome, 2013) y Sue Johnson sobre
 la terapia focalizada en las emociones y el apego adulto. La relación entre la
@@ -1121,20 +1121,20 @@ dificultad de habitar una perspectiva propia —descrita en algunos contextos
 clínicos como pérdida de identidad en la relación— y la disociación del ego
 es la correspondencia conceptual que propone este libro; no se presenta
 como una equivalencia clínica establecida por esas fuentes.
-6 William James, Principios de psicología (1890), cap. X. La taxonomía del
+8 William James, Principios de psicología (1890), cap. X. La taxonomía del
 yo que James propone —material, social y espiritual— sigue siendo una de
 las más útiles disponibles para aproximarse a la complejidad del yo sin
 reducirla a un único principio. La dimensión social del yo, en particular,
 captura algo que la filosof ía continental tardó en articular con igual
 claridad: que el yo no es una unidad monolítica, sino que tiene una cara
 inevitablemente formada por la mirada de los otros.
-7 G. W. F. Hegel, Fenomenología del espíritu (1807), sección IV, «La verdad
+9 G. W. F. Hegel, Fenomenología del espíritu (1807), sección IV, «La verdad
 de la certeza de sí mismo». La dialéctica del amo y el esclavo es la
 formulación más influyente de la tesis de que la autoconciencia no puede
 constituirse a sí misma sin pasar por el reconocimiento del otro. Kojève, en
 su lectura del siglo XX, subrayó las implicaciones políticas y existenciales de
 esa dependencia estructural.
-8 Jean-Paul Sartre, El ser y la nada (1943), tercera parte, «El para-otro». La
+10 Jean-Paul Sartre, El ser y la nada (1943), tercera parte, «El para-otro». La
 descripción sartriana de la mirada como mecanismo por el cual el otro me
 convierte en objeto —me fija, me petrifica, me reduce a una dimensión de
 
@@ -1149,7 +1149,7 @@ AQUILES
 
 lo que soy— es una de las fenomenologías más precisas disponibles del poder
 que la imagen ajena ejerce sobre el sujeto.
-9 Jean-Paul Sartre, El existencialismo es un humanismo (1945). La tesis de la
+11 Jean-Paul Sartre, El existencialismo es un humanismo (1945). La tesis de la
 condena a la libertad —que el ser humano no puede no elegir, que incluso la
 inacción es una elección— es el corolario de la afirmación existencialista de
 que la existencia precede a la esencia: no hay una naturaleza humana dada
@@ -3129,9 +3129,9 @@ posibilidad del retorno.
 En el vocabulario de la teoría del cambio psicológico, este momento de fallo
 de la imagen se describe a veces como «tocar fondo», una metáfora que
 captura algo de su estructura: el punto en que ya no hay más profundidad
-adonde ir sin cambiar la dirección—. Lo que el análisis filosófico del dilema
-de Aquiles añade a esa descripción es la precisión sobre lo que se toca cuando
-se toca fondo: no el fracaso personal, no la derrota moral, sino el yo genuino
+adonde ir sin cambiar la dirección. Lo que el análisis filosófico del dilema de
+Aquiles añade a esa descripción es la precisión sobre lo que se toca cuando se
+toca fondo: no el fracaso personal, no la derrota moral, sino el yo genuino
 que la imagen había desplazado y que el fondo de la disociación,
 paradójicamente, vuelve a hacer accesible.
 El capítulo siguiente examina ese momento —el colapso de la imagen, el
@@ -5805,9 +5805,8 @@ mal —y saldrá mal, porque el ego genuino comete errores como cualquier
 ego—, el sujeto puede reconocer el acto como suyo y hacerse cargo de sus
 consecuencias sin que ese reconocimiento requiera ni la defensa de la
 imagen ni su colapso. Esta forma de responsabilidad no es la penitencia; es la
-capacidad de decir
-«hice esto, esto produjo aquello, esto puedo reparar» desde el eje propio y no
-desde la vergüenza ni desde el orgullo herido.
+capacidad de decir «hice esto, esto produjo aquello, esto puedo reparar»
+desde el eje propio y no desde la vergüenza ni desde el orgullo herido.
 El tercer principio es el de la generosidad acotada: dar lo que genuinamente
 se tiene para dar, con la atención real a lo que el otro necesita y con la
 honestidad sobre los propios límites que esa atención requiere. No la
