@@ -391,7 +391,7 @@ La máscara como institución
 I. Lo que la psicología nombró primero
 El término masking entró al vocabulario clínico para describir algo que los
 investigadores observaron con particular frecuencia en personas autistas: la
-capacidad — o más exactamente, la compulsión— de suprimir, disimular o
+capacidad —o más exactamente, la compulsión— de suprimir, disimular o
 compensar los rasgos propios de su neurodivergencia para ajustarse a las
 expectativas del entorno neurotípico. Aprender a sonreír cuando el
 protocolo lo demanda, aunque la emoción no esté presente. Sostener el
@@ -399,22 +399,22 @@ contacto visual, aunque resulte abrumador. Reprimir los movimientos del
 cuerpo —las llamadas stimming, conductas de autoestimulación—que el
 entorno percibe como inusuales. Memorizar guiones de conversación,
 calibrar el tono de voz, simular el interés que no se siente, esconder el que sí
-se siente. [1] La escala CAT-Q, desarrollada en 2019, midió este fenómeno
+se siente. [4] La escala CAT-Q, desarrollada en 2019, midió este fenómeno
 con tres componentes principales: asimilación —adoptar comportamientos
 de los neurotípicos observados—, compensación —desarrollar estrategias
 para encubrir dificultades— y camuflaje —ajustar la presentación de uno
-mismo al contexto social. Los estudios que la utilizaron confirmaron lo que
-muchas personas neurodivergentes ya sabían desde adentro: que el
-enmascaramiento es costoso. Produce agotamiento cognitivo, ansiedad,
-pérdida de claridad sobre la propia identidad, y en muchos casos favorece la
-aparición de cuadros depresivos. [2] Esa descripción clínica es precisa, valiosa
-y necesaria. Y, sin embargo, hay un punto en el que se detiene donde debería
-continuar: asume que el enmascaramiento es una respuesta excepcional a
-una condición particular. Lo que este capítulo propone es que esa suposición
-es inexacta. No porque el enmascaramiento neurodivergente no tenga sus
-especificidades —las tiene, y son relevantes—, sino porque la operación que
-describe no es una excepción al modo en que los seres humanos habitamos el
-mundo. Es su descripción más precisa.
+mismo al contexto social. Los estudios han relacionado el camuflaje con
+costos para el bienestar y con síntomas de ansiedad y depresión. El desgaste
+puede acumularse con el tiempo: no es solo cognitivo, sino también
+identitario, pues puede erosionar la claridad sobre quién se es. [5] Esa
+descripción clínica es precisa, valiosa y necesaria. Y, sin embargo, hay un
+punto en el que se detiene donde debería continuar: asume que el
+enmascaramiento es una respuesta excepcional a una condición particular.
+Lo que este capítulo propone es que esa suposición es inexacta. No porque el
+enmascaramiento neurodivergente no tenga sus especificidades —las tiene,
+y son relevantes—, sino porque la operación que describe no es una
+excepción al modo en que los seres humanos habitamos el mundo. Es su
+descripción más precisa.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -495,7 +495,7 @@ estructura básica de la sociabilidad humana. Lo que aquí se propone no es
 contradecir esa descripción sino añadir la pregunta que Goffman no
 planteó: ¿en qué momento la gestión de la impresión deja de ser una
 herramienta y se convierte en el único modo disponible de existir? ¿Cuándo
-deja el actor de tener un yo fuera del escenario? [3] Esa pregunta es la que
+deja el actor de tener un yo fuera del escenario? [6] Esa pregunta es la que
 separa el enmascaramiento como habilidad social del enmascaramiento
 como sustitución del yo.
 
@@ -593,7 +593,7 @@ MÁSCARAS
 de Han no siente que lo están obligando: siente que eso es simplemente lo
 que hace, lo que es, lo que quiere. La coerción se ha vuelto indistinguible de
 la voluntad porque la voluntad ha sido sustituida con suficiente anticipación
-como para que no haya memoria de otra cosa. [4] Pero la sustitución no es el
+como para que no haya memoria de otra cosa. [7] Pero la sustitución no es el
 fin del camino. Aquí es donde la descripción de Han, precisa en su
 diagnóstico, resulta insuficiente en su pronóstico: da la impresión de que el
 sujeto agotado no tiene salida porque ya no hay nada genuino que recuperar.
@@ -618,7 +618,7 @@ una dirección determinada sin que nadie tenga que ordenar nada. La
 institución del saludo, de la vestimenta apropiada para cada contexto, del
 tono de voz esperado en cada tipo de relación: ninguna de estas normas está
 escrita en ninguna ley, y sin embargo su transgresión tiene costos tan reales
-como los de una infracción legal. [5] El enmascaramiento es una institución
+como los de una infracción legal. [8] El enmascaramiento es una institución
 en este sentido preciso. No hay nadie que ordene a los seres humanos
 suprimir sus respuestas genuinas y producir las esperadas. Hay, en cambio, un
 conjunto de incentivos tan antiguo y tan profundamente incorporado que
@@ -653,7 +653,7 @@ interviene
 Para comprender con precisión qué está en juego cuando la máscara
 sustituye al ego, es necesario introducir aquí la estructura básica de la
 autodeterminación causal, desarrollada en extenso en el libro fundacional
-de esta colección. [6] La autodeterminación causal describe el mecanismo
+de esta colección. [9] La autodeterminación causal describe el mecanismo
 por el cual un sujeto es genuinamente el origen de sus actos, no en el sentido
 ingenuo de que los produce desde la nada, sino en el sentido preciso de que
 en la cadena que produce el acto hay un operador que es el sujeto mismo: la
@@ -675,7 +675,7 @@ A.C.
 
 MÁSCARAS
 
-momento en que el sujeto interviene sobre el sesgo — lo sostiene, lo
+momento en que el sujeto interviene sobre el sesgo —lo sostiene, lo
 modifica, lo cuestiona— antes de que produzca su efecto en el mundo. La
 primera mediación es la elaboración que transforma el sesgo, operado por la
 voluntad, en un acto. El acto es el colapso: el momento en que la posibilidad
@@ -689,7 +689,7 @@ Pero hay una segunda fórmula. La que produce la disforia. Y es,
 formalmente, más simple:
 Sesgo (como suma fáctica) → Primera mediación → Acto → Segunda
 mediación → Ego
-La diferencia es la ausencia de la voluntad. El sesgo — ahora no como
+La diferencia es la ausencia de la voluntad. El sesgo —ahora no como
 predisposición que la voluntad trabaja, sino como suma fáctica, como peso
 que se reproduce solo— produce directamente la mediación y de ahí el acto,
 sin que el sujeto haya intervenido como operador. El acto ocurre, sí. Hay
@@ -764,7 +764,7 @@ que los sujetos no solo aceptan su condición, sino que la defienden con
 convicción, porque han confundido la máscara con su deseo. No hay
 rebelión posible no porque esté prohibida sino porque nadie la quiere: la
 institución ha producido sujetos para quienes la libertad que no tienen no
-hace ninguna falta. [7] Pero incluso en el mundo de Huxley hay un John el
+hace ninguna falta. [10] Pero incluso en el mundo de Huxley hay un John el
 Salvaje. Alguien que no fue perfectamente condicionado y que por eso puede
 ver lo que los demás no ven, y sufrirlo. El personaje de Huxley es trágico no
 porque sea víctima: es trágico porque tiene acceso a algo que los demás no
@@ -775,7 +775,7 @@ visión. Qué se hace con el duelo cuando el duelo llega.
 IX. Puente: lo que el capítulo siguiente tendrá que responder
 Este capítulo ha establecido el terreno. Ha distinguido el enmascaramiento
 clínico del ontológico, el código social de la máscara, la modulación de la
-sustitución. Ha propuesto que el enmascaramiento es una institución — no
+sustitución. Ha propuesto que el enmascaramiento es una institución —no
 un accidente individual sino una estructura que se reproduce a través de los
 propios sujetos que produce—. Ha introducido la diferencia entre la fórmula
 de la autodeterminación sin disforia y la fórmula que la produce. Y ha
@@ -800,23 +800,24 @@ A.C.
 
 MÁSCARAS
 
-[1] Laura Hull, K.V. Petrides y William Mandy, «The Female Autism
-Phenotype and Camouflaging: a Systematic Review and Evidence
-Synthesis», Review Journal of Autism and Developmental Disorders, 7,
-2020, pp. 1-12. La escala CAT-Q fue desarrollada por Laura Hull et al. en
-2019 y publicada en el Journal of Autism and Developmental Disorders. Los
-tres componentes —asimilación, compensación y camuflaje— no son
-exclusivos del autismo: investigaciones posteriores encontraron
-puntuaciones elevadas también en personas con TDAH y otras condiciones
-neurodivergentes.
-[2] Sarah Cassidy et al., «Is Camouflaging Autistic Traits Associated with
-Suicidal Thoughts and Behaviours?» (Autism, 2018). Los estudios sobre el
-costo del enmascaramiento confirman lo que muchas personas
-neurodivergentes ya sabían desde adentro: el enmascaramiento produce
-agotamiento cognitivo, ansiedad y pérdida de claridad sobre la propia
-identidad. No es solo un esfuerzo cognitivo: es un esfuerzo identitario cuyo
-costo se acumula con el tiempo.
-[3] Erving Goffman, La presentación de la persona en la vida cotidiana
+[4] Laura Hull, K.V. Petrides y William Mandy, «The Female Autism
+Phenotype and Camouflaging: a Narrative Review», Review Journal of
+Autism and Developmental Disorders, 7, 2020, pp. 306–317. La escala CATQ fue desarrollada por Laura Hull et al. en 2019 y publicada en el Journal of
+Autism and Developmental Disorders. Los tres factores del cuestionario —
+compensación, masking y asimilación— no son exclusivos del autismo:
+investigaciones posteriores encontraron puntuaciones elevadas también en
+personas con TDAH y otras condiciones neurodivergentes.
+[5] S. A. Cassidy et al., «Is Camouflaging Autistic Traits Associated with
+Suicidal Thoughts and Behaviours? Expanding the Interpersonal
+Psychological Theory of Suicide in an Undergraduate Student Sample»,
+Journal of Autism and Developmental Disorders, 50(10), 2020, pp. 3638–
+3648, https://doi.org/10.1007/s10803-019-04323-3. El estudio encontró una
+asociación entre el camuflaje, la pertenencia frustrada y la suicidabilidad en
+una muestra de estudiantes universitarios. Para los costos del camuflaje y su
+relación con el bienestar en adultos autistas, véase E. Cage y Z. TroxellWhitman, «Understanding the Reasons, Contexts and Costs of
+Camouflaging for Autistic Adults», Journal of Autism and Developmental
+Disorders, 49, 2019, pp. 1899–1911, https://doi.org/10.1007/s10803–018–03878x.
+[6] Erving Goffman, La presentación de la persona en la vida cotidiana
 (1959). Goffman propone que toda interacción social es una performance en
 la que los actores gestionan la impresión que producen sobre los otros. Su
 marco dramatúrgico —escenario, bastidores, actuación— sigue siendo uno
@@ -825,15 +826,11 @@ diferencia entre la propuesta de Goffman y la de este libro reside en la
 pregunta por el actor: Goffman describe la gestión de la impresión como
 constitutiva de la vida social sin interrogar si hay un sujeto genuino detrás
 de la gestión.
-[4] Byung-Chul Han, La sociedad del cansancio (2010). Han describe la
+[7] Byung-Chul Han, La sociedad del cansancio (2010). Han describe la
 transición de la sociedad disciplinaria —que opera desde la prohibición y el
 castigo— a la sociedad del rendimiento —que opera desde la exigencia y el
 agotamiento voluntario—. El sujeto contemporáneo no es reprimido desde
 afuera: se autoexplota porque ha interiorizado los criterios de productividad
-como propios. Su limitación es no distinguir entre el sujeto que ha
-interiorizado la exigencia de manera voluntaria y el que lo ha hecho por
-sustitución del ego.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -843,18 +840,21 @@ A.C.
 
 MÁSCARAS
 
-[5] El concepto de institución que aquí se usa se acerca al de Douglass C.
+como propios. Su limitación es no distinguir entre el sujeto que ha
+interiorizado la exigencia de manera voluntaria y el que lo ha hecho por
+sustitución del ego.
+[8] El concepto de institución que aquí se usa se acerca al de Douglass C.
 North en Instituciones, cambio institucional y desempeño económico
 (1990): las instituciones como las reglas del juego en una sociedad, formales e
 informales, que estructuran los incentivos del intercambio humano. Las
 instituciones informales —normas no escritas, convenciones sociales— son
 frecuentemente más poderosas que las formales precisamente porque no
 requieren un aparato explícito de coerción para reproducirse.
-[6] La teoría de la autodeterminación causal y la fórmula que aquí se
+[9] La teoría de la autodeterminación causal y la fórmula que aquí se
 introduce están desarrolladas en extenso en El telar de las Moiras: ontología
 de la autodeterminación causal, primer volumen de la colección
 Reivindicación ontológica del ego.
-[7] Aldous Huxley, Un mundo feliz (1932). El personaje de John el Salvaje,
+[10] Aldous Huxley, Un mundo feliz (1932). El personaje de John el Salvaje,
 criado fuera del sistema de condicionamiento, funciona en la novela como
 el punto de contraste que hace visible la maquinaria que los demás no
 pueden ver porque están adentro de ella. La tragedia de John no es que sea
@@ -911,7 +911,7 @@ A.C.
 MÁSCARAS
 
 Lo que este capítulo propone es un nombre para ese espacio intermedio. Un
-nombre que no sea clínico — porque no describe una patología— y que no
+nombre que no sea clínico —porque no describe una patología— y que no
 sea tan abstracto que resulte inhabitable. Un nombre que el lector pueda
 usar para mirarse.
 Ese nombre es disforia de la identidad.
@@ -922,7 +922,7 @@ difuso, la sensación de estar fuera de lugar en la propia piel. No es dolor
 agudo. No es crisis. Es la tonalidad persistente de una existencia que no
 termina de coincidir con algo que no puede nombrarse con exactitud, pero
 cuya ausencia se nota.
-El término tiene uso clínico en varios contextos — disforia de género,
+El término tiene uso clínico en varios contextos —disforia de género,
 disforia premenstrual, disforia post-coital— y en todos esos usos conserva
 algo de su sentido etimológico original: no la enfermedad, sino la
 incomodidad que produce una discordancia entre lo que el sujeto
@@ -1000,7 +1000,7 @@ sujeto —el I, el observador activo desde el cual esa historia es contemplada y
 evaluada. La suma fáctica corresponde exactamente al Me actuando sin el I:
 la historia del sujeto reproduciéndose a sí misma sin que haya nadie que la
 contemple y decida qué hacer con ella. El objeto sustituyendo al sujeto. La
-inercia ocupando el lugar de la voluntad. [1] Esta distinción no es cosmética.
+inercia ocupando el lugar de la voluntad. [11] Esta distinción no es cosmética.
 Tiene consecuencias directas sobre la responsabilidad, sobre la posibilidad de
 cambio y sobre lo que este libro llama rendición. Pero antes de llegar ahí, es
 necesario examinar las dos formas en que la suma fáctica produce disforia —
@@ -1225,7 +1225,7 @@ entrada. No el destino, no la solución, pero sí el umbral.
 VIII. El Mundo Feliz: el caso extremo y su advertencia
 Ninguna exploración de la disforia sin duelo puede ignorar el caso límite
 que Aldous Huxley construyó en 1932 con una precisión que todavía
-incomoda: el Mundo Feliz. [2] En la sociedad que Huxley imagina, el
+incomoda: el Mundo Feliz. [12] En la sociedad que Huxley imagina, el
 problema de la disforia de la identidad ha sido resuelto definitivamente. No
 porque la máscara haya sido eliminada —todo lo contrario: la máscara se ha
 vuelto constitutiva del sujeto desde el momento de su producción,
@@ -1289,7 +1289,7 @@ ajustan el entorno a las preferencias del usuario hasta el punto en que el
 usuario ya no necesita confrontar nada que no haya elegido previamente —
 todo eso es una forma contemporánea y descentralizada del soma. No
 requiere Estado totalitario. Se reproduce solo, a través de los propios sujetos
-que produce. [3] El Mundo Feliz no está en el futuro. Está en la versión de la
+que produce. [13] El Mundo Feliz no está en el futuro. Está en la versión de la
 vida cotidiana donde ya no hay duelo porque ya nadie se pregunta de qué
 debería dolerse.
 
@@ -1331,20 +1331,20 @@ ejerce a través del consentimiento del dominado, que ha interiorizado los
 valores del dominante hasta el punto de defenderlos como propios. Bourdieu
 añadió el concepto de habitus: el conjunto de disposiciones incorporadas tan
 tempranamente y tan completamente que operan como segunda naturaleza,
-invisibles como estructuras precisamente porque se sienten como esencia. [4]
-Lo que la teoría de la disforia de la identidad añade a esas descripciones no es
-una refutación sino una precisión: el mecanismo no es principalmente
+invisibles como estructuras precisamente porque se sienten como esencia.
+[14] Lo que la teoría de la disforia de la identidad añade a esas descripciones
+no es una refutación sino una precisión: el mecanismo no es principalmente
 ideológico sino ontológico. No es que el dominado haya adoptado las ideas
 del dominante —aunque eso también ocurra. Es que el sesgo de la
 dominación ha sustituido la voluntad en la fórmula de su
 autodeterminación. No es una creencia equivocada que se puede corregir
 con información: es una estructura de operación del ego que requiere algo
-más profundo que la corrección cognitiva. [5] Eso no significa que el cambio
-sea imposible. Significa que el camino del cambio pasa por la rendición —
-que se examinará en el Capítulo VI— y no por la convicción. Y que la
-rendición, tanto en el nivel individual como en el colectivo, comienza
-siempre por el duelo: por la recuperación de la capacidad de sentir la
-incomodidad que la disociación había anestesiado.
+más profundo que la corrección cognitiva. [15] Eso no significa que el
+cambio sea imposible. Significa que el camino del cambio pasa por la
+rendición —que se examinará en el Capítulo VI— y no por la convicción. Y
+que la rendición, tanto en el nivel individual como en el colectivo,
+comienza siempre por el duelo: por la recuperación de la capacidad de sentir
+la incomodidad que la disociación había anestesiado.
 
 X. Lo que la disforia no es: tres confusiones que el libro
 necesita deshacer
@@ -1418,27 +1418,27 @@ imperfección es la que la constituye, qué la distingue de la suma fáctica que
 la violenta, cómo puede ser simultáneamente tuya y equivocada, caprichosa
 y digna— es la tarea del capítulo siguiente.
 Notas
-[1] William James, Principios de psicología (1890), Capítulo X: «La
+[11] William James, Principios de psicología (1890), Capítulo X: «La
 conciencia del yo». La distinción de James entre el I (yo como sujeto activo,
 el conocedor) y el Me (yo como objeto, lo conocido) sigue siendo una de las
 más fértiles de la psicología filosófica. El Me incluye el yo material, el yo
 social y el yo espiritual; el I es la corriente de conciencia que los atraviesa y
 los evalúa. La suma fáctica que aquí se describe corresponde al Me actuando
 en ausencia del I.
-[2] Aldous Huxley, Un mundo feliz (1932). La novela es frecuentemente leída
-como una distopía tecnológica o política. Lo que aquí se propone es una
-lectura ontológica: el Mundo Feliz es la condición en que la disociación del
-ego ha sido completada de manera tan perfecta que ya no deja residuo de
+[12] Aldous Huxley, Un mundo feliz (1932). La novela es frecuentemente
+leída como una distopía tecnológica o política. Lo que aquí se propone es
+una lectura ontológica: el Mundo Feliz es la condición en que la disociación
+del ego ha sido completada de manera tan perfecta que ya no deja residuo de
 resistencia. El condicionamiento de Bokanovsky no es una metáfora del
 totalitarismo: es la imagen extrema de lo que ocurre cuando la suma fáctica
 es instalada antes de que la voluntad tenga oportunidad de operar.
-[3] La relación entre las plataformas digitales y los mecanismos de refuerzo
+[13] La relación entre las plataformas digitales y los mecanismos de refuerzo
 conductual ha sido documentada extensamente. Tristan Harris, ex
 diseñador de Google, popularizó el concepto de persuasive technology.
 Shoshana Zuboff, en La era del capitalismo de vigilancia (2019), analiza
 cómo la acumulación de datos comportamentales permite predecir y
 modificar la conducta humana a escala masiva.
-[4] Antonio Gramsci, Cuadernos de la cárcel (1929-1935). La hegemonía
+[14] Antonio Gramsci, Cuadernos de la cárcel (1929–1935). La hegemonía
 designa el proceso por el cual los valores de la clase dominante son
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -1454,7 +1454,7 @@ adoptados por las clases dominadas como si fueran propios. Pierre Bourdieu,
 El sentido práctico (1980): el habitus son las disposiciones duraderas
 incorporadas tan tempranamente que operan como segunda naturaleza,
 invisibles como estructuras precisamente porque se sienten como esencia.
-[5] Paulo Freire, Pedagogía del oprimido (1968), anticipó esta tensión al
+[15] Paulo Freire, Pedagogía del oprimido (1968), anticipó esta tensión al
 argumentar que la educación liberadora no consiste en depositar
 información en el educando sino en problematizar la realidad desde
 adentro. Lo que aquí se añade es la dimensión ontológica: no solo hay que
@@ -1601,7 +1601,7 @@ cultura que celebra la resiliencia como virtud suprema: recuperarse rápido
 del duelo no es necesariamente una señal de fortaleza. Puede ser una señal de
 que el duelo no fue procesado sino suprimido. El sujeto que rebota de su
 incomodidad con admirable velocidad puede estar ejerciendo una eficiencia
-real — puede ser alguien que ha aprendido a soltar sin disociarse— o puede
+real —puede ser alguien que ha aprendido a soltar sin disociarse— o puede
 estar ejerciendo la habilidad de enterrar la señal antes de que pueda decir lo
 que tiene que decir. La velocidad del rebote no distingue entre los dos casos.
 Lo que los distingue es lo que queda después: el ego que actuó en la
@@ -1649,7 +1649,7 @@ conatus como tendencia fundamental de todo existente a mantenerse en la
 existencia, a resistir lo que lo anula. El duelo de la disforia de la identidad es
 el conatus del ego genuino: la presión que ejerce hacia su propia persistencia
 cuando algo intenta sustituirlo. No es una señal de que el sujeto está roto. Es
-la señal de que el sujeto está vivo. [1]
+la señal de que el sujeto está vivo. [16]
 
 V. La catarsis terapéutica: anestesia donde hacía falta cirugía
 Existe una respuesta institucionalizada al duelo que merece todo el análisis
@@ -1680,7 +1680,7 @@ Esa catarsis aristotélica no es lo que este libro critica. Al contrario: la
 clarificación que produce una buena tragedia —la capacidad de ver desde
 afuera lo que desde adentro era opaco— es precisamente una de las formas
 en que el duelo podría ser leído en lugar de suprimido. El arte que hace ver es
-diferente del procedimiento que hace sentir mejor. [2] Lo que este libro
+diferente del procedimiento que hace sentir mejor. [17] Lo que este libro
 critica es la catarsis terapéutica contemporánea: la que no clarifica, sino que
 descarga. La que no produce comprensión sobre el origen del malestar sino
 alivio de su intensidad. La que no interroga la estructura que genera el
@@ -1705,7 +1705,7 @@ la cirugía no tiene: se puede repetir indefinidamente. Mientras la cirugía
 tiene un final, la anestesia puede administrarse cada semana durante
 décadas.
 Esto no es un argumento contra la terapia. Es un argumento contra una
-versión específica de la terapia — y también del coaching, del desarrollo
+versión específica de la terapia —y también del coaching, del desarrollo
 personal, del wellness— que ha hecho del alivio del síntoma su producto
 principal. Hay intervenciones terapéuticas que no buscan el alivio sino la
 transformación: que interrogan la estructura que produce el malestar en
@@ -1777,7 +1777,7 @@ el drama introduce —la posibilidad de ver desde afuera, a través de
 personajes que no son uno mismo, una estructura que es sin embargo
 profundamente propia— produce un tipo de conocimiento que la vivencia
 directa no permite. La tragedia es un espejo que muestra el ángulo que el ojo
-no puede ver por sí solo. [3] Eso es exactamente lo que el duelo genuino
+no puede ver por sí solo. [18] Eso es exactamente lo que el duelo genuino
 podría producir si se le dejara operar en lugar de administrarlo: no el alivio
 de la emoción sino la clarificación de lo que la emoción está diciendo. No el
 final del duelo sino el entendimiento de su objeto. No la evacuación de la
@@ -1834,7 +1834,7 @@ Simone Weil escribió que la atención es la forma más rara y más pura de la
 generosidad. Aplicada al duelo, esa formulación adquiere un sentido preciso:
 prestar atención al propio duelo no es abandonarse al malestar ni cultivar el
 sufrimiento; es tratarlo con la seriedad que merece. Es darle el tiempo de
-decir lo que tiene que decir antes de intentar callarlo. [4] El sujeto que no
+decir lo que tiene que decir antes de intentar callarlo. [19] El sujeto que no
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1901,7 +1901,7 @@ duelo por la identidad-idem: la pérdida de lo que se supone que uno debería
 ser de manera estable y permanente. El duelo productivo que aquí se
 defiende apunta a la identidad-ipse: la incomodidad de no haber actuado
 desde sí mismo, la señal de que el compromiso consigo mismo fue
-interrumpido. [5]
+interrumpido. [20]
 
 X. El duelo como umbral: lo que ocurre cuando se lo escucha
 Si el duelo es la señal, si la catarsis aristotélica es la forma de escucharla, si la
@@ -1950,13 +1950,13 @@ resiste: qué es la identidad, por qué es sesgo, qué la distingue de la másca
 por qué esa imperfección —ese carácter caprichoso y equivocable de lo que
 reconocemos como propio— no la hace menos digna de ser sostenida.
 Notas
-[1] Baruch Spinoza, Ética (1677), Parte III, Proposición VI: «Cada cosa se
+[16] Baruch Spinoza, Ética (1677), Parte III, Proposición VI: «Cada cosa se
 esfuerza, cuanto está en ella, por perseverar en su ser.» El conatus spinoziano
 no tiene connotación moral: es una descripción ontológica de la tendencia
 fundamental de todo existente. En el contexto de este libro, el duelo de la
 disforia de la identidad es la manifestación específica del conatus del ego
 genuino: su esfuerzo por persistir frente a lo que intenta sustituirlo.
-[2] Aristóteles, Poética (siglo IV a.C.), 1449b. La definición de la tragedia
+[17] Aristóteles, Poética (siglo IV a.C.), 1449b. La definición de la tragedia
 incluye la referencia a la katharsis de las emociones de miedo y compasión.
 La interpretación de katharsis ha sido objeto de un debate académico
 extenso: si designa purificación, purgación o clarificación. La lectura que
@@ -1974,7 +1974,7 @@ aquí se adopta sigue la interpretación de Martha Nussbaum en La fragilidad
 del bien (1986), que enfatiza la dimensión cognitiva de la catarsis: no la
 evacuación de la emoción sino su educación, la comprensión más clara de su
 naturaleza y su objeto.
-[3] La relación entre el arte y el autoconocimiento como clarificación —no
+[18] La relación entre el arte y el autoconocimiento como clarificación —no
 como expresión ni como comunicación— tiene una genealogía que va de
 Aristóteles a Schopenhauer a Wittgenstein. Para Schopenhauer, el arte es la
 forma en que el sujeto puede contemplar las Ideas platónicas —las formas
@@ -1983,14 +1983,15 @@ Wittgenstein, la ética y la estética son lo mismo: ambas muestran lo que no
 puede ser dicho. En todos esos casos, el arte produce conocimiento que no es
 proposicional: no dice algo que el sujeto luego puede repetir, sino que hace
 ver algo que el sujeto luego no puede dejar de saber.
-[4] Simone Weil, La gravedad y la gracia (1947), compilado póstumamente
+[19] Simone Weil, La gravedad y la gracia (1947), compilado póstumamente
 por Gustave Thibon. La reflexión de Weil sobre la atención está desarrollada
 también en Espera de Dios (1950): la atención como forma de amor, como
 capacidad de vaciarse de sí mismo para recibir al otro —o a la propia
 experiencia— tal como es, sin proyectar sobre ella lo que queremos que sea.
-[5] Paul Ricoeur, Sí mismo como otro (1990). La distinción entre identidadidem e identidad-ipse es uno de los ejes del argumento de Ricoeur sobre la
-identidad narrativa: el sujeto no es idéntico a sí mismo en el sentido de
-permanecer igual —eso sería la idem, la identidad de la cosa— sino en el
+[20] Paul Ricoeur, Sí mismo como otro (1990). La distinción entre
+identidad-idem e identidad-ipse es uno de los ejes del argumento de Ricoeur
+sobre la identidad narrativa: el sujeto no es idéntico a sí mismo en el sentido
+de permanecer igual —eso sería la idem, la identidad de la cosa— sino en el
 sentido de mantenerse fiel a sus compromisos en el tiempo, incluso cuando
 cambia —eso es la ipse, la identidad del sujeto que promete y responde. El
 duelo obsesivo es frecuentemente el duelo por la idem; el duelo productivo
@@ -2104,7 +2105,7 @@ su imperfección.
 La identidad que fuera perfecta no sería identidad: sería un ideal. Y los
 ideales, como se verá en el capítulo sobre el duelo que antecede a este, son el
 objeto del duelo más peligroso: el duelo por lo que nunca fue pero que el
-sujeto cree que debería haber sido. La identidad imperfecta — la que incluye
+sujeto cree que debería haber sido. La identidad imperfecta —la que incluye
 contradicciones, la que tiene historia sucia, la que no puede justificarse
 completamente desde principios racionales— es la única que puede ser
 genuinamente del sujeto, porque es la única que emergió del proceso real de
@@ -2144,7 +2145,7 @@ las unifique. El yo como haz de percepciones, no como sustancia. Lo que el
 argumento de este libro añade a esa disolución no es una nueva sustancia
 para reemplazar la que Hume eliminó: añade la voluntad como operador
 que trabaja sobre ese haz, dándole una dirección que no tiene por sí solo. El
-sesgo es el haz. La voluntad es lo que lo convierte en identidad.[1]
+sesgo es el haz. La voluntad es lo que lo convierte en identidad.[21]
 
 IV. El sesgo que es tuyo y el sesgo que actúa como si lo fuera
 La distinción más importante de este capítulo —la que separa la identidad
@@ -2231,7 +2232,7 @@ horizonte que el sujeto ha habitado —que conoce como horizonte, que
 puede examinar, aunque no pueda abandonar— y el horizonte implantado
 que el sujeto experimenta como realidad, no como perspectiva. El primero
 permite la fusión de horizontes que Gadamer propone; el segundo la
-impide, porque no hay un horizonte reconocido desde el cual fusionar. [2]
+impide, porque no hay un horizonte reconocido desde el cual fusionar. [22]
 
 V. Por qué la identidad es más resistente al cambio que el ego
 El capítulo I de esta colección estableció que el ego no es una entidad fija
@@ -2250,7 +2251,7 @@ MÁSCARAS
 puede cambiar, puede ser trabajada por la voluntad. Pero cambia de manera
 diferente y a una velocidad diferente. Y entender por qué es parte del
 argumento que este capítulo necesita completar.
-El ego cambia con cada colapso. Cada acto genuino — cada acto que pasó
+El ego cambia con cada colapso. Cada acto genuino —cada acto que pasó
 por la primera fórmula, que fue operado por la voluntad sobre el sesgo—
 determina al ego que lo produjo. El sujeto que actuó no es exactamente el
 mismo que antes de actuar: el acto lo ha añadido a la integral de lo que es.
@@ -2260,7 +2261,7 @@ modifican más. El ego que opera genuinamente no tiene inercia propia: es lo
 que sus actos han hecho de él, actualizado en cada colapso.
 La identidad como sesgo tiene una inercia que el ego no tiene. Y esa inercia
 se explica por la acumulación de colapsos que la sostienen.
-Cada vez que el sujeto actuó desde un sesgo particular — cada vez que ese
+Cada vez que el sujeto actuó desde un sesgo particular —cada vez que ese
 sesgo pasó por la voluntad y produjo un acto— ese acto depositó algo en la
 identidad. No solo determinó al ego en ese momento: reforzó el sesgo desde
 el que operó. La identidad es la estratificación de todos esos colapsos: la
@@ -2352,7 +2353,7 @@ suficiente para que las nuevas respuestas se vuelvan a su vez automáticas. Lo
 que aquí se propone añade a esa descripción una dimensión que James no
 desarrolló: el cambio de hábito que no pasa por la voluntad no cambia la
 identidad, porque la voluntad es el operador que convierte el nuevo sesgo en
-propio. Sin ella, simplemente se instala un nuevo sesgo implantado. [3]
+propio. Sin ella, simplemente se instala un nuevo sesgo implantado. [23]
 
 VII. Identidad e historia: la dignidad de lo que no se puede
 deshacer
@@ -2388,13 +2389,13 @@ propiedad del sesgo: está en el plano ético, que es un plano diferente y que e
 libro aborda en el Capítulo IX sobre imputación causal.
 Lo que la identidad como sesgo sí permite —y esto es lo que importa para el
 argumento— es la crítica desde adentro. El sujeto que reconoce su sesgo
-como sesgo — que sabe que no es la verdad del mundo sino su
-predisposición particular hacia el mundo— tiene la posibilidad de
-examinarlo. No de eliminarlo, que no es posible, pero sí de interrogarlo. De
-preguntarse si el sesgo que sostiene es el que quiere sostener. De usar la
-voluntad no solo para sostenerlo sino para modificarlo. Esa posibilidad de la
-crítica interna es lo que distingue al sujeto que ha reconocido su identidad
-como sesgo del sujeto que cree que su sesgo es la realidad.
+como sesgo —que sabe que no es la verdad del mundo sino su predisposición
+particular hacia el mundo— tiene la posibilidad de examinarlo. No de
+eliminarlo, que no es posible, pero sí de interrogarlo. De preguntarse si el
+sesgo que sostiene es el que quiere sostener. De usar la voluntad no solo para
+sostenerlo sino para modificarlo. Esa posibilidad de la crítica interna es lo
+que distingue al sujeto que ha reconocido su identidad como sesgo del sujeto
+que cree que su sesgo es la realidad.
 La historia sucia que forma parte del sesgo no necesita ser reivindicada ni
 celebrada. Necesita ser reconocida.
 Porque la historia que no se reconoce no puede ser operada por la voluntad:
@@ -2463,7 +2464,7 @@ es la condición mínima de que el diálogo sea posible: que los dos
 interlocutores reconozcan que tienen perspectivas, no verdades, y que las
 perspectivas del otro tienen la misma dignidad ontológica que las propias.
 Sin esa condición mínima no hay diálogo: hay dos monólogos que se hablan
-encima. [4]
+encima. [24]
 
 IX. Sesgo e identidad: la pregunta que el capítulo deja abierta
 Este capítulo ha propuesto que la identidad es sesgo. Ha distinguido el sesgo
@@ -2517,7 +2518,7 @@ identidad sin suficiente ego que la sostenga desde adentro. Y esa diferencia
 —entre tener sesgo y poder operarlo con la voluntad— es exactamente la
 diferencia que el capítulo siguiente va a examinar.
 Notas
-[1] David Hume, Tratado de la naturaleza humana (1739-1740), Libro I,
+[21] David Hume, Tratado de la naturaleza humana (1739–1740), Libro I,
 Parte IV, Sección VI: «De la identidad personal». La disolución humeana
 del yo sustancial —la célebre imagen del «haz de percepciones»— sigue
 siendo uno de los argumentos más poderosos contra la ilusión de una
@@ -2525,7 +2526,7 @@ identidad permanente y unificada. Lo que aquí se añade no es una refutación
 de Hume sino una extensión: si el yo es un haz de percepciones sin sustancia
 que lo unifique, la voluntad es el principio de unificación provisional que no
 requiere sustancia. El yo no es una cosa; es una dirección.
-[2] Hans-Georg Gadamer, Verdad y método (1960), Parte II. La noción
+[22] Hans-Georg Gadamer, Verdad y método (1960), Parte II. La noción
 gadameriana de horizonte como condición de toda comprensión —el
 sujeto siempre comprende desde un horizonte que no puede abandonar
 completamente pero que puede ampliar a través de la fusión con horizontes
@@ -2544,16 +2545,16 @@ experiencia cotidiana justifica. Lo que aquí se añade es la distinción entre 
 horizonte que el sujeto conoce como horizonte —que puede presentar a la
 voluntad— y el sesgo implantado que el sujeto no ve como perspectiva sino
 como realidad.
-[3] William James, Principios de psicología (1890), Capítulo IV: «El hábito».
-La descripción de James del hábito como «gran volante de la sociedad» y su
-análisis del mecanismo por el cual los hábitos se forman y se cambian
-anticipa lo que la neurociencia cognitiva contemporánea ha confirmado
-sobre la plasticidad cerebral y sus límites. Lo que James no articuló con igual
-claridad es la diferencia entre el cambio de hábito que pasa por la voluntad
-—y que por tanto puede convertirse en sesgo propio— y el cambio de hábito
-que ocurre por condicionamiento externo —que instala un nuevo sesgo
-implantado.
-[4] Jürgen Habermas, Teoría de la acción comunicativa (1981) y Conciencia
+[23] William James, Principios de psicología (1890), Capítulo IV: «El
+hábito». La descripción de James del hábito como «gran volante de la
+sociedad» y su análisis del mecanismo por el cual los hábitos se forman y se
+cambian anticipa lo que la neurociencia cognitiva contemporánea ha
+confirmado sobre la plasticidad cerebral y sus límites. Lo que James no
+articuló con igual claridad es la diferencia entre el cambio de hábito que
+pasa por la voluntad —y que por tanto puede convertirse en sesgo propio— y
+el cambio de hábito que ocurre por condicionamiento externo —que
+instala un nuevo sesgo implantado.
+[24] Jürgen Habermas, Teoría de la acción comunicativa (1981) y Conciencia
 moral y acción comunicativa (1983). La ética discursiva de Habermas
 propone que la validez de las normas morales se establece en el diálogo
 práctico bajo condiciones ideales de habla: sin coerción, con simetría entre
@@ -2613,7 +2614,7 @@ MÁSCARAS
 
 prefirió ser alguien a ser glorioso, tampoco supo ser nadie del todo. Y en esa
 incapacidad hay algo que le habla al sujeto contemporáneo con más fuerza
-que la elección heroica de Ítaca. [1]
+que la elección heroica de Ítaca. [25]
 
 II. La cueva de Polifemo: el escenario del experimento
 La situación es conocida, pero merece ser reconstruida con la atención que
@@ -2635,10 +2636,10 @@ ofreciendo— y cae dormido. Odiseo y sus hombres clavan la estaca en las
 brasas, la hunden en el ojo del cíclope. Polifemo despierta gritando. Sus
 vecinos acuden y preguntan: ¿quién te hace daño? La respuesta de Polifemo
 —Nadie me hace daño— los dispersa sin que intervengan. Sin imputado,
-sin nombre, no hay crimen perseguible. La trampa lingüística es perfecta. [2]
-Lo que ocurre después es lo que el prólogo de este libro ya señaló y que ahora
-hay que examinar en toda su profundidad: Odiseo escapa. Está en el barco.
-El peligro ha pasado. Y entonces no puede contenerse.
+sin nombre, no hay crimen perseguible. La trampa lingüística es perfecta.
+[26] Lo que ocurre después es lo que el prólogo de este libro ya señaló y que
+ahora hay que examinar en toda su profundidad: Odiseo escapa. Está en el
+barco. El peligro ha pasado. Y entonces no puede contenerse.
 Grita su nombre.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -2697,7 +2698,7 @@ encubierta, como si Odiseo dejara su nombre escondido en la palabra que lo
 borraba. Esa lectura es más poética que filosófica, pero ilumina algo real:
 incluso en el anonimato, el ego no desaparece. Se camufla. Se comprime.
 Pero sigue ahí, operando desde adentro, esperando el momento de
-expandirse. [3]
+expandirse. [27]
 
 IV. El peso del anonimato: por qué el ego resistía
 Si el Nadie fue un acto del ego, ¿por qué no pudo sostenerse?
@@ -2753,7 +2754,7 @@ ilumina es el límite de esa dependencia: el sujeto que solo puede existir
 cuando es reconocido no ha completado el proceso de formación del ego
 genuino. Ha llegado a un ego que funciona, que actúa bien, que incluso
 puede ser sofisticado y astuto —pero que sigue necesitando al otro para saber
-que está ahí. [4]
+que está ahí. [28]
 
 V. El grito desde el barco: confundir el ego con la egolatría
 El barco está alejándose de la orilla. Los hombres reman. Polifemo, ciego y
@@ -2859,7 +2860,7 @@ sostiene el anonimato táctico pero que lo siente como una carga. El
 contraste con la facilidad con que dijo Nadie en la cueva de Polifemo —
 donde el anonimato era urgencia, no elección sostenida— revela que
 Odiseo aprendió a usar el anonimato como táctica, pero no a habitarlo
-como posición. [5]
+como posición. [29]
 
 VII. El «nadie» como tránsito, no como destino
 Lo que el episodio de Polifemo ilumina para el argumento de este libro no
@@ -3031,7 +3032,7 @@ importe —que sí importa— sino porque ha desarrollado suficiente
 consistencia interior para existir también sin ella.
 Ese camino es el del capítulo siguiente.
 Notas
-[1] La lectura de Odiseo como el que elige la vida propia sobre la gloria está
+[25] La lectura de Odiseo como el que elige la vida propia sobre la gloria está
 desarrollada en El telar de las Moiras, capítulo final. Allí se examina el
 episodio de Calipso —la ninfa que ofrece inmortalidad a cambio de
 quedarse con ella— y el rechazo de Odiseo como la elección de la
@@ -3040,14 +3041,14 @@ construye sobre esa lectura, pero desplaza el foco hacia el episodio de
 Polifemo, que ilumina una dimensión diferente: no el momento en que
 Odiseo elige bien, sino el momento en que Odiseo casi elige bien y no puede
 del todo.
-[2] Homero, Odisea (siglo VIII a.C. aprox.), canto IX, vv. 355-414. El juego
+[26] Homero, Odisea (siglo VIII a.C. aprox.), canto IX, vv. 355–414. El juego
 lingüístico entre Oudeis (nadie) y Odysseus (Odiseo) ha sido analizado por
 numerosos comentaristas. Gregorio Nagy, en The Best of the Achaeans
 (1979), señala que el nombre Odiseo está etimológicamente conectado con
 el verbo odyssomai, que significa tanto sufrir como infligir sufrimiento. La
 elección táctica de Nadie es también, en ese sentido, la suspensión temporal
 de una identidad que se define por y a través del conflicto.
-[3] La interpretación del Oudeis/Odysseus como firma encubierta tiene una
+[27] La interpretación del Oudeis/Odysseus como firma encubierta tiene una
 larga historia en los comentarios homéricos. Más relevante para el
 argumento de este libro es la lectura de Pietro Pucci en Odysseus Polutropos
 (1987): Odiseo es el personaje que más conscientemente manipula su propio
@@ -3066,7 +3067,7 @@ MÁSCARAS
 instrumento revela algo sobre la relación de Odiseo con su propia identidad:
 la conoce, la usa, pero no siempre puede separarla de su necesidad de ser
 reconocido.
-[4] Axel Honneth, La lucha por el reconocimiento (1992). La teoría del
+[28] Axel Honneth, La lucha por el reconocimiento (1992). La teoría del
 reconocimiento de Honneth propone que el desarrollo de la identidad
 requiere tres formas de reconocimiento: el amor (en las relaciones íntimas),
 el derecho (en las relaciones jurídicas) y la solidaridad (en las relaciones de
@@ -3075,7 +3076,7 @@ dependencia: el sujeto cuya identidad depende completamente del
 reconocimiento en cualquiera de esas tres formas no ha completado la
 formación del ego genuino. Puede actuar sin reconocimiento en situaciones
 de emergencia, pero no puede habitar ese estado de manera sostenida.
-[5] Homero, Odisea, canto XIX, vv. 386-394 (el reconocimiento de Euriclea
+[29] Homero, Odisea, canto XIX, vv. 386–394 (el reconocimiento de Euriclea
 por la cicatriz); canto XXI (la prueba del arco y el comienzo de la
 revelación). El análisis de los episodios de reconocimiento en la Odisea
 como estructura narrativa central está desarrollado en Erich Auerbach,
@@ -3177,7 +3178,7 @@ A.C.
 MÁSCARAS
 
 produce paz puede coexistir con la continuidad de la estructura que genera el
-malestar aceptado. El alivio es real. El origen del malestar permanece. [1]
+malestar aceptado. El alivio es real. El origen del malestar permanece. [30]
 
 III. Qué es la rendición: definición técnica
 La rendición, en el sentido que este libro le da, es el acto de dejar de sostener
@@ -3267,7 +3268,7 @@ asunción propia de ella: el Dasein auténtico no huye de su situación, sino
 que la toma como punto de partida para sus propias posibilidades. La
 rendición que aquí se propone opera en esa misma estructura: no borra la
 facticidad, sino que cambia la relación del sujeto con ella, de la servidumbre
-a la asunción. [2]
+a la asunción. [31]
 
 V. El tiempo propio: lo que la disforia le robó al sujeto
 Hay una dimensión de la disforia de la identidad que ninguno de los
@@ -3321,9 +3322,9 @@ alienación, en Marx, es exactamente esa separación: el producto que debería
 ser expresión del productor se vuelve independiente de él y lo domina. Lo
 que aquí se describe como el tiempo de la máscara tiene una estructura
 análoga: el tiempo que el sujeto invirtió en sostener la suma fáctica se separa
-de él como el capital del trabajador — existe como historia, como logros,
-como narrativa — pero ya no le pertenece en el sentido en que pertenece al
-ego que lo eligió. [3]
+de él como el capital del trabajador —existe como historia, como logros,
+como narrativa— pero ya no le pertenece en el sentido en que pertenece al
+ego que lo eligió. [32]
 
 VI. La rendición como acto de voluntad: la paradoja central
 Hay una paradoja en el corazón de la rendición que el libro debe sostener sin
@@ -3367,9 +3368,9 @@ producido desde el residuo de ego que el duelo reveló que todavía estaba ahí.
 Un acto pequeño, frágil, sin garantías. Pero genuino. El primero genuino
 después de mucho tiempo operando desde la segunda fórmula.
 La rendición no requiere que el ego esté completo. Requiere que haya
-suficiente ego como para que el cese del esfuerzo sea posible. Y el duelo —
-por más difuso, por más sin objeto que sea — es la evidencia de que ese
-suficiente existe.
+suficiente ego como para que el cese del esfuerzo sea posible. Y el duelo —por
+más difuso, por más sin objeto que sea— es la evidencia de que ese suficiente
+existe.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3394,8 +3395,8 @@ La primera mediación vuelve a ser posible. No la mediación que producía la
 imagen que debía sostenerse: la mediación que el sujeto elabora a partir de lo
 que el sesgo le ofrece y de lo que la voluntad decide hacer con ello. El acto
 que sigue vuelve a ser un colapso genuino.
-Y ese colapso genuino determina al ego que lo produce
-— no lo determina hacia la imagen, sino hacia sí mismo.
+Y ese colapso genuino determina al ego que lo produce: no lo determina
+hacia la imagen, sino hacia sí mismo.
 Ese reencadenamiento de la primera fórmula no es inmediato ni lineal ni
 permanente. No es que la rendición produce un estado estable de
 autodeterminación que se mantiene sin esfuerzo de ahí en adelante. La
@@ -3406,8 +3407,8 @@ vuelve a estar disponible — pero tiene que ser ejercida, colapso a colapso,
 para que la identidad empiece a moverse en la dirección del ego que la opera
 en lugar de en la dirección de la imagen que la ocupaba.
 Ese ejercicio es el trabajo de lo que sigue. No este capítulo ni este libro puede
-hacerlo por el lector. Lo que el libro puede hacer — y lo que este capítulo
-intenta — es describir con suficiente precisión el umbral para que el lector
+hacerlo por el lector. Lo que el libro puede hacer —y lo que este capítulo
+intenta— es describir con suficiente precisión el umbral para que el lector
 que llega a él sepa que es el umbral y no otro paso más en el mismo camino.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3440,7 +3441,7 @@ esfuerzo de mantener la coherencia de la imagen — alcanza una tensión
 que ya no puede sostenerse.
 Ese punto no tiene fecha. No puede programarse. No puede producirse
 voluntariamente con la misma voluntad que la rendición va a restituir. Lo
-que sí puede hacerse — y que este libro intenta hacer — es crear las
+que sí puede hacerse —y que este libro intenta hacer— es crear las
 condiciones para que el punto llegue antes y sea reconocido cuando llegue.
 Crear las condiciones significa, en términos prácticos, tres cosas que los
 capítulos anteriores ya establecieron: no suprimir el duelo con la catarsis sin
@@ -3467,7 +3468,7 @@ tal.
 IX. Lo que siente la rendición: el primer colapso genuino
 Este libro ha evitado deliberadamente el lenguaje de la experiencia subjetiva
 en la mayoría de sus capítulos. No porque esa experiencia no importe —
-importa radicalmente — sino porque el lenguaje de la experiencia subjetiva
+importa radicalmente— sino porque el lenguaje de la experiencia subjetiva
 tiende a producir identificación antes que comprensión, y la identificación
 prematura hace que el lector crea haber llegado a donde el libro propone
 antes de haber recorrido el camino que lleva ahí.
@@ -3504,11 +3505,11 @@ MÁSCARAS
 Kierkegaard describió la angustia —Angest— como el vértigo de la
 libertad: la sensación que produce en el sujeto la conciencia de que puede
 elegir, de que no hay una determinación externa que resuelva la elección por
-él. Ese vértigo no es el sufrimiento del sujeto que sufre
-— es la condición de posibilidad de la libertad genuina. Lo que aquí se
-describe como el vértigo de la rendición tiene esa misma estructura: la
-desorientación no indica que el sujeto está peor. Indica que ha recuperado la
-condición que hace posible que sus actos sean genuinamente suyos. [4]
+él. Ese vértigo no es el sufrimiento del sujeto que sufre: es la condición de
+posibilidad de la libertad genuina. Lo que aquí se describe como el vértigo
+de la rendición tiene esa misma estructura: la desorientación no indica que
+el sujeto está peor. Indica que ha recuperado la condición que hace posible
+que sus actos sean genuinamente suyos. [33]
 El alivio llega después. No como sensación constante — el ego genuino
 tiene sus propias fricciones, sus propios dolores, sus propios límites. Sino
 como la diferencia cualitativa entre el agotamiento de sostenerse siendo
@@ -3545,9 +3546,9 @@ Esa fricción es real y puede ser costosa. El mundo no se reorganiza alrededor
 de la rendición del sujeto.
 La rendición tampoco elimina el sesgo implantado. Lo desactiva como
 organizador central de la fórmula. Pero el sedimento que dejó sigue ahí, en
-capas más profundas de la identidad, y bajo ciertas condiciones — presión
+capas más profundas de la identidad, y bajo ciertas condiciones —presión
 extrema, contextos que activan los patrones tempranos, el agotamiento que
-produce la vigilancia sostenida — puede volver a operar. No con la misma
+produce la vigilancia sostenida— puede volver a operar. No con la misma
 fuerza, no con la misma facilidad. Pero con suficiente fuerza como para que
 el sujeto que creyó haber llegado al otro lado se encuentre de pronto en la
 segunda fórmula otra vez, sin haber visto cuándo entró en ella.
@@ -3566,8 +3567,8 @@ propios acumulados para sostenerse sin necesitar confirmación externa.
 La vanidad soberana es el estado del ego que ha desarrollado suficiente
 solidez interior para no necesitar la audiencia de Polifemo, para no gritar su
 nombre desde el barco, para ser reconocido sin necesitar que nadie lo
-reconozca. No es arrogancia — que es el ego que se compara con otros y se
-encuentra superior. No es indiferencia — que es el ego que ha dejado de
+reconozca. No es arrogancia —que es el ego que se compara con otros y se
+encuentra superior. No es indiferencia— que es el ego que ha dejado de
 registrar lo que los otros dicen. Es algo más dif ícil y más específico: el ego
 que puede encontrarse con el otro sin poner en el encuentro la necesidad de
 ser confirmado.
@@ -3589,11 +3590,11 @@ enfrentarla.
 El capítulo siguiente examina ese estado con la densidad que merece. Qué
 significa que el ego sea soberano sin ser autárquico. Por qué la vanidad
 soberana no es el ego que no necesita nada sino el ego que puede necesitar
-sin que la necesidad lo gobierne. Y por qué ese ego — frágil, revisable,
-todavía imperfecto — es el único desde el que el encuentro genuino con el
+sin que la necesidad lo gobierne. Y por qué ese ego —frágil, revisable,
+todavía imperfecto— es el único desde el que el encuentro genuino con el
 otro es posible.
 Notas
-[1] Steven C. Hayes, Kirk D. Strosahl y Kelly G. Wilson, Acceptance and
+[30] Steven C. Hayes, Kirk D. Strosahl y Kelly G. Wilson, Acceptance and
 Commitment Therapy: An Experiential Approach to Behavior Change
 (1999). La distinción que aquí se establece entre aceptación como operación
 cognitiva y rendición como transformación de la fórmula de operación no
@@ -3603,17 +3604,17 @@ señalar un límite filosófico: la aceptación puede reducir el sufrimiento que
 produce la lucha contra la experiencia interna sin modificar la estructura
 que genera esa experiencia. El alivio es genuino; el origen del malestar puede
 permanecer intacto.
-[2] Martin Heidegger, Ser y tiempo (1927), §§ 29-38 (la facticidad y el
-encontrarse) y §§ 54-60 (la autenticidad y la resolución). La distinción
+[31] Martin Heidegger, Ser y tiempo (1927), §§ 29–38 (la facticidad y el
+encontrarse) y §§ 54–60 (la autenticidad y la resolución). La distinción
 heideggeriana entre el Dasein que huye de su facticidad refugiándose en el
-das Man — la impersonalidad del «se» que decide por todos sin que nadie
-decida — y el Dasein que asume su propia situación con resolución es
+das Man —la impersonalidad del «se» que decide por todos sin que nadie
+decida— y el Dasein que asume su propia situación con resolución es
 estructuralmente paralela a la distinción de este libro entre el ego disociado
 y el ego que se rinde. La diferencia de vocabulario es significativa: Heidegger
 habla de resolución (Entschlossenheit), que tiene connotaciones de apertura
 y decisión; este libro habla de rendición, que tiene connotaciones de cese de
 esfuerzo. Las dos operaciones son complementarias, no idénticas.
-[3] Karl Marx, El capital (1867), Libro I, Capítulo I: «La mercancía». El
+[32] Karl Marx, El capital (1867), Libro I, Capítulo I: «La mercancía». El
 análisis marxiano del tiempo de trabajo cristalizado en el valor de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3626,16 +3627,16 @@ A.C.
 MÁSCARAS
 
 mercancía no es directamente una teoría del tiempo personal, pero su
-estructura — el trabajo que se separa del trabajador y actúa como si tuviera
-vida propia — ilumina algo que la experiencia de la disforia de identidad
+estructura —el trabajo que se separa del trabajador y actúa como si tuviera
+vida propia— ilumina algo que la experiencia de la disforia de identidad
 confirma desde adentro: hay una forma de tiempo vivido que ya no
 pertenece al sujeto que lo vivió. Ese tiempo no desaparece con la rendición,
 pero cambia su relación con el ego que lo produjo: de determinación que
 empuja desde atrás a historia que puede ser asumida desde adelante.
-[4] Søren Kierkegaard, El concepto de la angustia (1844). La angustia como
-«vértigo de la libertad» — la sensación que produce en el sujeto la
+[33] Søren Kierkegaard, El concepto de la angustia (1844). La angustia como
+«vértigo de la libertad» —la sensación que produce en el sujeto la
 conciencia de que puede elegir, de que ninguna determinación externa
-resuelve la elección por él — es para Kierkegaard una condición existencial,
+resuelve la elección por él— es para Kierkegaard una condición existencial,
 no una patología. Es el precio de la libertad genuina: quien no siente
 angustia ante la elección no ha comprendido que la elección es realmente
 suya. Lo que aquí se describe como el vértigo de la rendición es una versión
@@ -3737,7 +3738,7 @@ distinción con precisión en sus Meditaciones: el objetivo no es no sentir la
 pérdida sino no ser gobernado por ella. El sabio estoico llora a su hijo
 muerto; lo que no hace es dejar que ese llanto deshaga su capacidad de actuar
 desde el logos. Esa distinción es estructuralmente paralela a la que aquí se
-establece entre suficiencia e indiferencia. [1]
+establece entre suficiencia e indiferencia. [34]
 
 III. La distinción con el ego anulado: por qué el soberano
 puede ser perturbado
@@ -3828,8 +3829,8 @@ La vanidad soberana descansa en ese reconocimiento. El sujeto
 soberanamente suficiente no reconoce al otro como igual porque le parezca
 tan capaz como él, ni porque comparta sus valores, ni porque haya pasado
 por los mismos procesos de formación o de rendición. Lo reconoce como
-igual en el hecho de ser. Y ese reconocimiento — anterior a cualquier juicio
-sobre los adjetivos — es lo que hace posible el encuentro genuino.
+igual en el hecho de ser. Y ese reconocimiento —anterior a cualquier juicio
+sobre los adjetivos— es lo que hace posible el encuentro genuino.
 Esta igualdad ontológica tiene un antecedente en la distinción kantiana
 entre dignidad y precio. Kant propone que las personas tienen dignidad —
 un valor incondicional que no admite equivalente— mientras que las cosas
@@ -3839,7 +3840,7 @@ condición de todo ser racional como fin en sí mismo. Lo que aquí se
 propone es una versión ontológicamente más básica de esa intuición: la
 igualdad no descansa en la racionalidad —que puede ser mayor o menor,
 más o menos desarrollada— sino en el hecho mismo de ser sujeto, que
-admite grados en su expresión, pero no en su fundamento. [2] El sujeto que
+admite grados en su expresión, pero no en su fundamento. [35] El sujeto que
 opera desde la vanidad soberana —que tiene suficiencia interior para no
 necesitar que el otro lo confirme— puede reconocer esa igualdad ontológica
 sin que el reconocimiento le cueste nada. No necesita rebajar al otro para
@@ -3923,10 +3924,10 @@ sujeto: alguien con quien el encuentro produce algo que ninguno de los dos
 podría producir solo, algo que emerge del espacio entre los dos y que no le
 pertenece a ninguno de manera exclusiva. La relación Yo-Tú es, para Buber,
 el modo de existir en el que el ser humano está más completamente presente
-a lo que es. [3] Lo que la vanidad soberana permite —y que la disforia de
+a lo que es. [36] Lo que la vanidad soberana permite —y que la disforia de
 identidad impide— es estar en la relación Yo-Tú. El ego disociado no puede
 estarlo porque el encuentro genuino requeriría que el otro lo viera, y ser
-visto — verdaderamente visto, no en la imagen sino en el sesgo con su
+visto —verdaderamente visto, no en la imagen sino en el sesgo con su
 historia sucia— es exactamente lo que el ego disociado no puede tolerar. El
 ego disociado presenta al otro la imagen, no al sujeto. Y cuando el otro
 responde a la imagen, el ego disociado recibe una confirmación que
@@ -3968,8 +3969,8 @@ El ego disociado no puede estar solo del todo. Puede estar f ísicamente solo
 —en una habitación, en un trayecto, en el silencio de la madrugada— pero
 no puede estar ontológicamente solo: necesita al otro en la cabeza, en la
 anticipación de lo que el otro va a pensar, en la planificación de la próxima
-confirmación externa. La soledad real — el estado en que no hay ningún
-otro presente ni real ni imaginado — es para el ego disociado una forma de
+confirmación externa. La soledad real —el estado en que no hay ningún
+otro presente ni real ni imaginado— es para el ego disociado una forma de
 privación. Lo priva de la única fuente de certeza sobre su existencia que
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3992,7 +3993,7 @@ confirmarlo. El sesgo sigue siendo el sesgo, la voluntad sigue pudiendo
 operar sobre él, la primera fórmula sigue abierta, aunque no haya nadie
 observando.
 Montaigne, que escribió los Ensayos desde lo que él llamaba la trastienda de
-sí mismo — la habitación interior que reservó del todo nuestra y del todo
+sí mismo —la habitación interior que reservó del todo nuestra y del todo
 libre —, describió esa capacidad con una precisión que ninguna
 formulación teórica ha superado: el sujeto que puede estar consigo mismo
 no necesita al mundo para existir, aunque el mundo lo enriquezca y lo
@@ -4005,7 +4006,7 @@ el mundo de manera más genuina que el que no la tiene, porque no necesita
 usar el mundo para encontrarse. La trastienda montaignana es la imagen
 más precisa que la tradición ensayística ofrece de lo que aquí se llama
 vanidad soberana: no el ego que se retira del mundo, sino el ego que tiene a
-dónde volver cuando el mundo lo solicita demasiado. [4] La soledad como
+dónde volver cuando el mundo lo solicita demasiado. [37] La soledad como
 prueba funciona en dos sentidos. Primero: ¿puede el sujeto estar solo sin que
 la soledad produzca una urgencia de llenarla con ruido, con actividad, con
 la confirmación externa que la soledad no puede proporcionar? Si la
@@ -4088,7 +4089,7 @@ El ego disociado responde a la impugnación de maneras que el sistema de
 este libro puede predecir con cierta exactitud: activa los mecanismos de
 defensa de la imagen. Reinterpreta la crítica como envidia, o como
 incomprensión, o como proyección del crítico. Busca confirmación lateral
-— alguien que valide la posición impugnada. Intensifica el comportamiento
+—alguien que valide la posición impugnada. Intensifica el comportamiento
 que fue criticado, como si la intensificación pudiera resolver la crítica. O
 colapsa completamente —si la impugnación toca el fundamento de la
 imagen— en una crisis de identidad desproporcionada para el tamaño del
@@ -4125,21 +4126,21 @@ posiciones al examen sin que el examen sea una amenaza existencial.
 X. Lo que la vanidad soberana hace posible que el ego
 disociado no puede hacer
 Este capítulo ha definido la vanidad soberana por lo que es. Vale la pena
-enunciarlo ahora por lo que hace posible
-— porque el argumento del libro no es solo descriptivo. Es también, con
-toda la modestia que el proyecto mayéutico exige, orientador.
+enunciarlo ahora por lo que hace posible, porque el argumento del libro no
+es solo descriptivo. Es también, con toda la modestia que el proyecto
+mayéutico exige, orientador.
 La vanidad soberana hace posible el acto sin audiencia. El sujeto
-soberanamente suficiente puede producir un acto — una obra, una decisión,
-un gesto — sin que la ausencia de testigos lo vacíe de significado. Puede
+soberanamente suficiente puede producir un acto —una obra, una decisión,
+un gesto— sin que la ausencia de testigos lo vacíe de significado. Puede
 actuar en el silencio de la cueva de Polifemo sin necesitar el grito desde el
 barco para saber que el acto fue suyo.
 La vanidad soberana hace posible el desacuerdo sin ruptura. El sujeto
 soberanamente suficiente puede decirle al otro que no comparte su posición
-— con la claridad que el desacuerdo merece, sin la agresividad que produce
-el miedo ni la blandura que produce la necesidad de ser aprobado — y
-sostener ese desacuerdo sin que la relación colapse. Porque el desacuerdo
-entre dos sujetos que se reconocen mutuamente como iguales en el ser no
-amenaza el fundamento de ninguno de los dos.
+—con la claridad que el desacuerdo merece, sin la agresividad que produce el
+miedo ni la blandura que produce la necesidad de ser aprobado— y sostener
+ese desacuerdo sin que la relación colapse. Porque el desacuerdo entre dos
+sujetos que se reconocen mutuamente como iguales en el ser no amenaza el
+fundamento de ninguno de los dos.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4193,7 +4194,7 @@ MÁSCARAS
 El encuentro entre dos sujetos que no necesitan que el otro sea diferente de
 lo que es para que el encuentro tenga sentido. Que no llevan al encuentro la
 agenda de ser confirmados ni la urgencia de confirmar. Que pueden estar en
-el mismo espacio — f ísico, conversacional, relacional — sin que ese espacio
+el mismo espacio —f ísico, conversacional, relacional— sin que ese espacio
 sea un escenario donde cada uno gestiona su imagen ante el otro.
 Ese encuentro requiere, de al menos uno de los dos sujetos y preferiblemente
 de ambos, algún grado de vanidad soberana. No la versión completa — que
@@ -4208,16 +4209,16 @@ describieron. El encuentro sin negociación no es la excepción heroica al
 orden del mundo: es lo que el orden del mundo hace dif ícil y lo que la
 vanidad soberana hace posible.
 Notas
-[1] Marco Aurelio, Meditaciones (siglo II d.C.), especialmente los libros IV, V
-y IX. La distinción estoica entre apatheia —la ecuanimidad del sabio que no
-es gobernado por las pasiones, aunque puede sentirlas— y la anestesia —la
-incapacidad de sentir— es uno de los malentendidos más persistentes sobre
-el estoicismo. Los estoicos no propusieron la frialdad emocional:
+[34] Marco Aurelio, Meditaciones (siglo II d.C.), especialmente los libros IV,
+V y IX. La distinción estoica entre apatheia —la ecuanimidad del sabio que
+no es gobernado por las pasiones, aunque puede sentirlas— y la anestesia —
+la incapacidad de sentir— es uno de los malentendidos más persistentes
+sobre el estoicismo. Los estoicos no propusieron la frialdad emocional:
 propusieron la subordinación de las pasiones al logos, que es algo
 radicalmente diferente. Marco Aurelio llora pérdidas, siente gratitud,
 experimenta disgustos; lo que trabaja constantemente en sus Meditaciones es
 que ninguna de esas experiencias gobierne sus juicios ni sus acciones.
-[2] Immanuel Kant, Fundamentación de la metaf ísica de las costumbres
+[35] Immanuel Kant, Fundamentación de la metaf ísica de las costumbres
 (1785), segunda sección: la fórmula de la humanidad como fin en sí mismo.
 La distinción kantiana entre dignidad y precio establece que los seres
 racionales tienen un valor que no admite equivalente porque son fines en sí
@@ -4236,7 +4237,7 @@ igualdad ontológica es anterior incluso a la racionalidad kantiana: no es la
 igualdad de los seres racionales sino la igualdad de los sujetos que tienen la
 estructura de tener sesgo, historia y la posibilidad de la voluntad,
 independientemente del grado en que esa posibilidad se haya actualizado.
-[3] Martin Buber, Yo y Tú (1923). La distinción buberiana entre la relación
+[36] Martin Buber, Yo y Tú (1923). La distinción buberiana entre la relación
 Yo-Ello —en que el otro es objeto de experiencia y uso— y la relación YoTú —en que el otro es encontrado como sujeto en una presencia genuina—
 ha sido enormemente influyente en la filosof ía del diálogo, la teología y la
 psicología relacional. Lo que aquí se añade es la condición ontológica de la
@@ -4244,16 +4245,16 @@ relación Yo-Tú: no puede haber encuentro genuino cuando al menos uno de
 los dos participantes no está presente como sujeto sino como imagen. La
 vanidad soberana es la condición del Yo en la relación Yo-Tú; sin ella, la
 relación es Imagen-Tú, que es ya una forma de Yo-Ello.
-[4] Michel de Montaigne, Ensayos (1580-1588), I, 39: «De la soledad».
-Montaigne es quizás el pensador occidental que más consistentemente
-habitó la posición que aquí se llama vanidad soberana, aunque nunca usó ese
-término. Su proyecto de los Ensayos —examinarse a sí mismo con la misma
-curiosidad imparcial con que examinaría cualquier otro fenómeno — es el
-ejercicio sostenido de una relación con el propio interior que no requiere ni
-busca audiencia: «Cada hombre lleva la forma entera de la condición
-humana.» Ese proyecto, tan ajeno a la autopromoción como a la
-autoflagelación, es la demostración práctica de que la suficiencia interior es
-posible y produce algo.
+[37] Michel de Montaigne, Ensayos (1580–1588), III, 2: «Del
+arrepentimiento». Montaigne es quizás el pensador occidental que más
+consistentemente habitó la posición que aquí se llama vanidad soberana,
+aunque nunca usó ese término. Su proyecto de los Ensayos —examinarse a sí
+mismo con la misma curiosidad imparcial con que examinaría cualquier
+otro fenómeno — es el ejercicio sostenido de una relación con el propio
+interior que no requiere ni busca audiencia: «Cada hombre lleva la forma
+entera de la condición humana.» Ese proyecto, tan ajeno a la
+autopromoción como a la autoflagelación, es la demostración práctica de
+que la suficiencia interior es posible y produce algo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4311,7 +4312,8 @@ que él llamó equipos, y cuando las actuaciones fallan se producen momentos
 de vergüenza o confusión que el grupo social tiene mecanismos para reparar.
 Lo que Goffman no preguntó —y que este libro propone como la pregunta
 filosóficamente más urgente— es si hay alguien detrás de la actuación. Si el
-actor existe independientemente del papel, o si el papel es todo lo que hay. [1]
+actor existe independientemente del papel, o si el papel es todo lo que hay.
+[38]
 
 II. Por qué la máscara siempre busca audiencia
 La máscara no puede existir sola. Esa es su condición estructural más básica y
@@ -4332,8 +4334,6 @@ las audiencias disponibles. Cada encuentro es una oportunidad de que la
 máscara sea confirmada. Cada silencio es una amenaza de que la máscara
 pierda su público. Cada desacuerdo es un riesgo de que la imagen no sea
 reconocida como válida.
-Esto produce una estructura de encuentro que tiene consecuencias que el
-sujeto en disforia raramente puede ver desde adentro: el otro no es
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4344,8 +4344,10 @@ A.C.
 
 MÁSCARAS
 
+Esto produce una estructura de encuentro que tiene consecuencias que el
+sujeto en disforia raramente puede ver desde adentro: el otro no es
 encontrado como sujeto sino convocado como audiencia. No se llega al otro
-preguntando quién es ese otro — se llega al otro llevando la pregunta de si
+preguntando quién es ese otro —se llega al otro llevando la pregunta de si
 ese otro confirmará quién soy yo. La curiosidad genuina por el otro —que es
 uno de los indicadores más limpios de que el ego está operando desde la
 primera fórmula— queda subordinada a la urgencia de ser visto.
@@ -4358,8 +4360,8 @@ deshonesto ni que deliberadamente use al otro como instrumento. Es la
 descripción de una estructura que opera en su mayor parte por debajo del
 umbral de la decisión consciente. El sujeto en disforia no elige usar al otro
 como audiencia: es la suma fáctica la que produce esa orientación, antes de
-que la voluntad pueda intervenir. Lo que el sujeto puede hacer — y esto es lo
-que la rendición y la vanidad soberana hacen posible — es empezar a notar
+que la voluntad pueda intervenir. Lo que el sujeto puede hacer —y esto es lo
+que la rendición y la vanidad soberana hacen posible— es empezar a notar
 esa orientación en el momento en que opera, y tener suficiente presencia
 propia como para no seguirla automáticamente.
 
@@ -4374,8 +4376,6 @@ cumple: no transmitir información sobre quién es el sujeto, sino conseguir
 que el otro reconozca la imagen que el sujeto necesita que sea reconocida.
 El mecanismo tiene tres movimientos que ocurren en tiempo real durante
 el encuentro.
-El primero es la presentación: el sujeto ofrece al otro una versión de sí
-mismo calibrada para el contexto. No la misma versión en todos los
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4386,6 +4386,8 @@ A.C.
 
 MÁSCARAS
 
+El primero es la presentación: el sujeto ofrece al otro una versión de sí
+mismo calibrada para el contexto. No la misma versión en todos los
 contextos — la negociación es sensible al interlocutor, al tipo de relación, a
 lo que el sujeto sabe o infiere que el otro valora. Esa sensibilidad puede
 parecerse, desde afuera, a la flexibilidad de alguien que sabe adaptar su
@@ -4405,18 +4407,18 @@ El tercero es el ajuste: si el monitoreo indica que la imagen no está siendo
 confirmada, el sujeto ajusta.
 Cambia de énfasis, introduce nueva información, modera la posición o la
 intensifica según lo que la señal del otro sugiera. Ese ajuste puede ser muy
-sutil — una pausa antes de responder, una reformulación, un cambio en el
-tono
-— y por eso es tan dif ícil de detectar desde adentro. No se siente como
+sutil —una pausa antes de responder, una reformulación, un cambio en el
+tono— y por eso es tan dif ícil de detectar desde adentro. No se siente como
 gestión de la imagen: se siente como atención al otro.
 Erving Goffman, La presentación de la persona en la vida cotidiana (1959),
 Capítulos I y VI. El análisis goffmaniano de la gestión de impresiones
 identifica precisamente estos tres movimientos: la performance inicial, el
 monitoreo de la audiencia y los mecanismos de corrección cuando la
 performance falla. Lo que el análisis de este libro añade es la distinción
-entre la gestión de impresiones como código social — la modulación del
-ego genuino en el contexto relacional — y la gestión de impresiones como
-sustitución — la máscara que reemplaza al ego en lugar de representarlo. [2]
+entre la gestión de impresiones como código social —la modulación del ego
+genuino en el contexto relacional— y la gestión de impresiones como
+sustitución — la máscara que reemplaza al ego en lugar de representarlo.
+[39]
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4437,9 +4439,9 @@ con la diferencia sin que la diferencia lo amenace.
 El ego disociado tiene una relación con la diferencia que reproduce la lógica
 de la imagen: lo que confirma la imagen es bien recibido, lo que la cuestiona
 es amenazante. El otro que piensa como yo, que valora lo que yo valoro, que
-confirma mi sesgo como válido — ese otro es un buen encuentro. El otro
+confirma mi sesgo como válido —ese otro es un buen encuentro. El otro
 que difiere, que ve el mundo desde un punto que no coincide con el mío, que
-porta un sesgo que pone en cuestión el mío — ese otro produce una
+porta un sesgo que pone en cuestión el mío— ese otro produce una
 incomodidad que el ego disociado tiende a resolver de una de dos maneras: o
 convirtiendo al otro en alguien que no entiende, que está equivocado, que
 tiene algún déficit que explica su diferencia; o cediendo sin examen ante la
@@ -4454,8 +4456,8 @@ La vanidad soberana puede convivir con la diferencia porque sabe, desde
 adentro, que su propio sesgo es igualmente imperfecto. El capítulo IV
 estableció que la identidad es sesgo caprichoso, con historia sucia, revisable y
 potencialmente equivocado. El sujeto que ha internalizado esa descripción
-de su propio sesgo — que no la acepta como concepto, sino que la habita
-como condición — no puede absolutizar su perspectiva frente a la del otro.
+de su propio sesgo —que no la acepta como concepto, sino que la habita
+como condición— no puede absolutizar su perspectiva frente a la del otro.
 No porque sea más generoso que el ego disociado, sino porque sabe que la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -4480,7 +4482,7 @@ encuentro requiere
 Hasta este punto el capítulo ha construido el argumento de que el encuentro
 sin negociación es posible cuando el sujeto opera desde la vanidad soberana y
 reconoce al otro como igual en el hecho de ser. Pero hay una objeción que
-ese argumento puede producir — y que el libro sería deshonesto en ignorar
+ese argumento puede producir —y que el libro sería deshonesto en ignorar
 — que requiere toda la atención que merece.
 Si todos son iguales en el hecho de ser sujetos, si el sesgo de todos es
 igualmente imperfecto, si la diferencia no amenaza porque ningún sesgo
@@ -4491,8 +4493,8 @@ que opera desde la suma fáctica, entre la rendición y la disociación? ¿No di
 el libro, en última instancia, que todo vale por igual?
 No. Y la razón por la que no lo dice es la distinción que este capítulo coloca
 en su centro: la distinción entre el plano ontológico y el plano ético.
-La igualdad ontológica — la que este libro defiende desde el capítulo VII
-como fundamento de la vanidad soberana y del encuentro genuino — opera
+La igualdad ontológica —la que este libro defiende desde el capítulo VII
+como fundamento de la vanidad soberana y del encuentro genuino— opera
 en el plano del ser. Todos los sujetos tienen la misma estructura ontológica
 fundamental: tienen sesgo, tienen historia, tienen la posibilidad de que la
 voluntad intervenga o no en la cadena que produce sus actos. En ese plano,
@@ -4511,8 +4513,8 @@ MÁSCARAS
 El plano ético es diferente. Y esta diferencia es capital.
 En el plano ético, los actos no son equivalentes. El acto que daña y el acto
 que cuida no tienen el mismo peso moral. El sujeto que opera desde la
-primera fórmula — que opera la voluntad sobre el sesgo — y el sujeto que
-opera desde la segunda — que deja que la suma fáctica actúe sin operador —
+primera fórmula —que opera la voluntad sobre el sesgo— y el sujeto que
+opera desde la segunda —que deja que la suma fáctica actúe sin operador—
 no producen los mismos resultados en el mundo. La rendición y la
 disociación no son intercambiables. La máscara que sustituye al ego y el
 código social que lo modula no son la misma cosa.
@@ -4534,7 +4536,7 @@ bien porque ha delegado esa pregunta al sistema. El juicio que Arendt
 defiende no requiere negar la humanidad del otro: requiere exactamente lo
 contrario. Requiere reconocer al otro como sujeto suficientemente como
 para hacerse responsable de los efectos que los propios actos producen sobre
-él. [3]
+él. [40]
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4552,26 +4554,26 @@ vale la pena deshacer tres confusiones que puede producir y que desviarían al
 lector hacia territorios que no son los suyos.
 La primera confusión es con la transparencia total. El encuentro sin
 negociación no es el encuentro en que el sujeto dice todo lo que piensa,
-siente y quiere sin ningún filtro. Esa versión — que ciertos discursos sobre la
+siente y quiere sin ningún filtro. Esa versión —que ciertos discursos sobre la
 autenticidad promueven con una confianza que la experiencia relacional no
-justifica — no es el encuentro genuino sino su caricatura. El código social
-que el capítulo I distinguió de la máscara — la modulación del ego genuino
-para el contexto — sigue siendo necesario y deseable en el encuentro sin
+justifica— no es el encuentro genuino sino su caricatura. El código social
+que el capítulo I distinguió de la máscara —la modulación del ego genuino
+para el contexto— sigue siendo necesario y deseable en el encuentro sin
 negociación. El sujeto soberanamente suficiente no dice todo en todo
 momento: elige qué decir, cuándo y cómo, desde su sesgo genuino operado
 por la voluntad. Lo que no hace es calibrar esa elección en función de la
 imagen que necesita que el otro confirme.
 La segunda confusión es con el acuerdo. El encuentro sin negociación no es
 el encuentro en que los dos sujetos llegan a un consenso ni en que la
-diferencia entre ellos se resuelve en alguna síntesis. Puede ocurrir — y de
+diferencia entre ellos se resuelve en alguna síntesis. Puede ocurrir —y de
 hecho es más probable que ocurra en el encuentro genuino que en la
-negociación de imágenes — que los dos sujetos salgan del encuentro más en
+negociación de imágenes— que los dos sujetos salgan del encuentro más en
 desacuerdo que cuando entraron. Eso no significa que el encuentro haya
 fallado: significa que el encuentro fue suficientemente real como para que la
 diferencia entre los dos sesgos pudiera mostrarse sin que ninguno de los dos
 necesitara aplanarla para preservar la imagen de la relación.
-La tercera confusión — la más sutil y la más frecuente — es con la
-intimidad forzada. El encuentro sin negociación no requiere ni produce
+La tercera confusión —la más sutil y la más frecuente— es con la intimidad
+forzada. El encuentro sin negociación no requiere ni produce
 necesariamente proximidad afectiva intensa. Puede ocurrir en
 conversaciones breves, en intercambios funcionales, en relaciones que no
 tienen la densidad de los vínculos más próximos. Lo que lo distingue no es el
@@ -4599,18 +4601,18 @@ La condición del encuentro genuino es la presencia sin programa.
 El encuentro como negociación siempre lleva un programa: la imagen que
 necesita ser confirmada, la información que necesita ser transmitida, el
 resultado que el sujeto busca producir en el otro. El programa puede ser
-consciente — el sujeto sabe que va al encuentro a conseguir algo específico
-— o puede operar por debajo de la conciencia como la orientación de fondo
+consciente —el sujeto sabe que va al encuentro a conseguir algo específico—
+o puede operar por debajo de la conciencia como la orientación de fondo
 que la suma fáctica establece antes de que la voluntad tenga oportunidad de
 evaluar si esa orientación es la que corresponde.
 La presencia sin programa no significa llegar al encuentro sin ninguna
 intención. Significa llegar con la disposición de que lo que ocurra en el
 encuentro puede ser diferente de lo que se anticipó, y con suficiente apertura
 como para que eso sea posible. El sujeto que llega con presencia genuina
-puede tener propósitos — incluso propósitos claros — pero esos propósitos
-no determinan de antemano todo lo que puede producir el encuentro.
-Dejan espacio para que el otro aparezca como lo que es, y no solo como el
-elemento del escenario que el sujeto había previsto.
+puede tener propósitos —incluso propósitos claros— pero esos propósitos no
+determinan de antemano todo lo que puede producir el encuentro. Dejan
+espacio para que el otro aparezca como lo que es, y no solo como el elemento
+del escenario que el sujeto había previsto.
 Esa apertura tiene un costo que conviene nombrar: la presencia sin
 programa requiere tolerar la incertidumbre de lo que el otro puede
 introducir en el encuentro. El sujeto que llega con programa sabe más o
@@ -4630,16 +4632,15 @@ anticipó, puede revelar perspectivas que no esperaba, puede producir en él
 mismo reacciones que no tenía preparadas.
 La fenomenología del encuentro ha sido desarrollada con distintos grados
 de profundidad en la tradición filosófica. Levinas propone que el encuentro
-con el otro — el rostro del otro como lo que excede cualquier
-representación que pueda hacerse de él — es la experiencia ética
-fundamental: el momento en que el sujeto es interpelado por alguien que no
-puede ser reducido a ninguna categoría y que por eso mismo exige una
-respuesta que ninguna norma puede predeterminar. El encuentro sin
-negociación que aquí se propone conversa con esa intuición levinasiana: la
-presencia sin programa es la condición para que el otro pueda aparecer como
-rostro
-— como lo que supera el programa — en lugar de como personaje del guion
-que el sujeto llevaba preparado. [4]
+con el otro —el rostro del otro como lo que excede cualquier representación
+que pueda hacerse de él— es la experiencia ética fundamental: el momento
+en que el sujeto es interpelado por alguien que no puede ser reducido a
+ninguna categoría y que por eso mismo exige una respuesta que ninguna
+norma puede predeterminar. El encuentro sin negociación que aquí se
+propone conversa con esa intuición levinasiana: la presencia sin programa es
+la condición para que el otro pueda aparecer como rostro —como lo que
+supera el programa— en lugar de como personaje del guion que el sujeto
+llevaba preparado. [41]
 
 VIII. Lo que el encuentro genuino produce que la
 negociación no puede
@@ -4657,6 +4658,8 @@ El ego genuino, por imperfecto que sea, no puede verse completamente
 desde adentro. El sesgo no se conoce a sí mismo en el vacío: se conoce en la
 fricción con otros sesgos, en los momentos en que la predisposición propia
 encuentra una resistencia o una resonancia que no podría haberse producido
+sin el otro. El encuentro genuino con el otro —el que no está organizado
+por la urgencia de gestionar la imagen— es uno de los instrumentos más
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4667,20 +4670,17 @@ A.C.
 
 MÁSCARAS
 
-sin el otro. El encuentro genuino con el otro — el que no está organizado
-por la urgencia de gestionar la imagen — es uno de los instrumentos más
 potentes para el conocimiento del propio sesgo. Porque en ese encuentro el
 otro responde a lo que realmente está ahí, no a lo que la imagen presentó
 para que respondiera.
-Esa retroalimentación — la que el otro da al ego genuino cuando ambos
-están presentes — tiene una calidad diferente a la retroalimentación que la
+Esa retroalimentación —la que el otro da al ego genuino cuando ambos
+están presentes— tiene una calidad diferente a la retroalimentación que la
 negociación produce. La negociación produce retroalimentación sobre la
 imagen. Dice si la imagen funciona, si es convincente, si produce el efecto
 buscado. El encuentro genuino produce retroalimentación sobre el sujeto.
-Dice
-— no siempre con claridad, no siempre de manera que el sujeto pueda usar
-de inmediato — algo sobre cómo opera el sesgo genuino en la relación con
-alguien que también tiene sesgo genuino.
+Dice —no siempre con claridad, no siempre de manera que el sujeto pueda
+usar de inmediato— algo sobre cómo opera el sesgo genuino en la relación
+con alguien que también tiene sesgo genuino.
 El encuentro genuino es uno de los únicos espejos que no devuelve la
 imagen. Devuelve algo más dif ícil y más valioso: el reflejo del sesgo vivo en
 contacto con otro sesgo vivo.
@@ -4694,10 +4694,13 @@ cuando el otro lleva máscara?
 La respuesta honesta es: parcialmente. Y entender la naturaleza de esa
 parcialidad es importante para no convertir la vanidad soberana en una
 nueva fuente de juicio sobre los otros.
-El sujeto que llega al encuentro con presencia genuina — sin programa,
+El sujeto que llega al encuentro con presencia genuina —sin programa,
 desde su sesgo operado por la voluntad, reconociendo al otro como igual en
-el hecho de ser — no puede forzar al otro a corresponder ese modo de
+el hecho de ser— no puede forzar al otro a corresponder ese modo de
 presencia. El otro puede seguir gestionando su imagen, puede seguir
+operando desde la suma fáctica, puede usar al sujeto soberanamente presente
+como audiencia de la misma manera que usaría a cualquier otro. El
+soberano no puede impedirlo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4708,25 +4711,22 @@ A.C.
 
 MÁSCARAS
 
-operando desde la suma fáctica, puede usar al sujeto soberanamente presente
-como audiencia de la misma manera que usaría a cualquier otro. El
-soberano no puede impedirlo.
 Lo que el soberano sí puede hacer es mantenerse presente sin contagiarse de
 la negociación. Puede reconocer que el otro está gestionando una imagen
-— sin juzgarlo por eso, porque la gestión de la imagen es la respuesta
-adaptativa a condiciones que el soberano también conoce desde adentro —
-y puede seguir ofreciendo su propia presencia genuina sin convertirla en un
+—sin juzgarlo por eso, porque la gestión de la imagen es la respuesta
+adaptativa a condiciones que el soberano también conoce desde adentro— y
+puede seguir ofreciendo su propia presencia genuina sin convertirla en un
 espejo del programa del otro.
 En algunos casos, esa presencia genuina del soberano produce algo en el
 encuentro asimétrico que no era predecible: puede crear las condiciones para
-que el otro, en algún momento del intercambio, baje la guardia. No porque
-el soberano lo haya manipulado para que lo haga
-— eso sería una nueva forma de programa. Sino porque la presencia genuina
-de alguien que no necesita que el otro sea diferente de lo que es puede
-producir en el ego disociado del otro algo parecido a la reducción de la
-urgencia defensiva. Cuando el otro no siente que su imagen está siendo
-evaluada, la imagen puede relajarse. Y en ese relajamiento puede aparecer,
-brevemente, algo del ego genuino que la imagen normalmente ocupa.
+que el otro, en algún momento del intercambio, baje la guardia, no porque
+el soberano lo haya manipulado para que lo haga —eso sería una nueva
+forma de programa—, sino porque la presencia genuina de alguien que no
+necesita que el otro sea diferente de lo que es puede producir en el ego
+disociado del otro algo parecido a la reducción de la urgencia defensiva.
+Cuando el otro no siente que su imagen está siendo evaluada, la imagen
+puede relajarse. Y en ese relajamiento puede aparecer, brevemente, algo del
+ego genuino que la imagen normalmente ocupa.
 Eso no siempre ocurre. Y cuando ocurre, no siempre produce un encuentro.
 Pero es la única condición bajo la cual puede ocurrir. La presencia genuina
 de uno de los dos no garantiza el encuentro genuino entre los dos. Solo lo
@@ -4739,6 +4739,10 @@ con la honestidad que le debe al lector que ha llegado hasta aquí.
 El precio es la pérdida del control sobre el resultado.
 El encuentro como negociación tiene una ventaja que la presencia genuina
 no tiene: predictibilidad. El sujeto que gestiona su imagen sabe, con mayor o
+menor precisión, lo que va a obtener del encuentro. Sabe cómo va a ser
+percibido, sabe qué tiene que decir para conseguir el reconocimiento que
+busca, sabe cómo ajustar la presentación si el resultado no va en la dirección
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4748,9 +4752,6 @@ A.C.
 
 MÁSCARAS
 
-menor precisión, lo que va a obtener del encuentro. Sabe cómo va a ser
-percibido, sabe qué tiene que decir para conseguir el reconocimiento que
-busca, sabe cómo ajustar la presentación si el resultado no va en la dirección
 deseada. Esa predictibilidad tiene valor, especialmente en contextos donde
 los costos de un encuentro que salga mal son altos.
 La presencia genuina renuncia a esa predictibilidad. El sujeto que llega al
@@ -4774,12 +4775,15 @@ a algún grado de vanidad soberana puede distinguir, aunque sea con
 dificultad y con dolor, entre las dos cosas.
 
 XI. Puente: del encuentro a la imputación
-El encuentro sin negociación — posible desde la vanidad soberana,
+El encuentro sin negociación —posible desde la vanidad soberana,
 organizado por la presencia sin programa, fundado en la igualdad
 ontológica y sostenido por la distinción entre el plano del ser y el plano de
 los actos —abre la pregunta que el capítulo siguiente necesita responder.
 Si el sujeto que opera desde la primera fórmula se autodetermina
-causalmente — si sus actos son genuinamente suyos porque pasaron por la
+causalmente —si sus actos son genuinamente suyos porque pasaron por la
+voluntad —, ¿qué ocurre con la responsabilidad? ¿Cómo se distribuye el peso
+de lo que se produce cuando el sujeto actúa? ¿Y cómo se lee esa distribución
+en el sujeto que lleva años operando desde la segunda fórmula, cuyos actos
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4790,38 +4794,37 @@ A.C.
 
 MÁSCARAS
 
-voluntad —, ¿qué ocurre con la responsabilidad? ¿Cómo se distribuye el peso
-de lo que se produce cuando el sujeto actúa? ¿Y cómo se lee esa distribución
-en el sujeto que lleva años operando desde la segunda fórmula, cuyos actos
 no pasaron por la voluntad pero que sin embargo dejaron efectos en el
 mundo?
 Esas preguntas pertenecen al plano ético que este capítulo anunció, pero no
 desarrolló. Las respuestas no son simples ni tranquilizadoras, y el libro no va
 a simplificarlas. Lo que el Capítulo IX sobre imputación causal va a
-examinar es el mecanismo por el cual el sujeto puede hacerse cargo — o no
-hacerse cargo — de lo que sus actos produjeron, independientemente de si
+examinar es el mecanismo por el cual el sujeto puede hacerse cargo —o no
+hacerse cargo— de lo que sus actos produjeron, independientemente de si
 esos actos pasaron por la voluntad o no. Porque la responsabilidad, en el
 sistema de este libro, no es la prerrogativa del sujeto que siempre operó desde
 la primera fórmula. Es también la pregunta que el sujeto que está saliendo de
 la segunda fórmula tiene que poder hacerse sobre su propio pasado.
 Notas
-[1] Erving Goffman, La presentación de la persona en la vida cotidiana
-(1959). La metáfora teatral de Goffman — la vida social como actuación
-ante audiencias — sigue siendo el análisis más completo de la dimensión
+[38] Erving Goffman, La presentación de la persona en la vida cotidiana
+(1959). La metáfora teatral de Goffman —la vida social como actuación ante
+audiencias— sigue siendo el análisis más completo de la dimensión
 dramatúrgica de la interacción cotidiana. Su limitación filosófica es
 conocida: Goffman describe la actuación con tanta precisión que la
 pregunta por si hay alguien detrás de ella queda sistemáticamente fuera de su
 análisis. Él mismo lo reconoció en trabajos posteriores, especialmente en
-Estigma (1963), donde la tensión entre la identidad virtual — la que el
-contexto social impone — y la identidad real — la que el sujeto tiene —
+Estigma (1963), donde la tensión entre la identidad virtual —la que el
+contexto social impone— y la identidad real —la que el sujeto tiene—
 empieza a aparecer. Pero Goffman nunca desarrolló esa tensión en términos
 ontológicos.
-[2] Goffman, La presentación de la persona en la vida cotidiana, Capítulo
+[39] Goffman, La presentación de la persona en la vida cotidiana, Capítulo
 VI: «Las regiones y el comportamiento regional». La distinción
-goffmaniana entre la región frontal — donde la actuación ocurre ante la
-audiencia — y la región trasera — donde los actores se relajan y se preparan
+goffmaniana entre la región frontal —donde la actuación ocurre ante la
+audiencia— y la región trasera —donde los actores se relajan y se preparan
 — ilumina algo sobre la estructura de la máscara que este libro ha analizado
 desde otro ángulo: la región trasera de Goffman no es el ego genuino; es el
+espacio donde la actuación se descansa y se ensaya. El ego genuino, si existe,
+estaría más acá de esa distinción.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4832,27 +4835,25 @@ A.C.
 
 MÁSCARAS
 
-espacio donde la actuación se descansa y se ensaya. El ego genuino, si existe,
-estaría más acá de esa distinción.
-[3] Hannah Arendt, Eichmann en Jerusalén (1963) y La vida del espíritu
-(1978, póstumo). La tesis arendtiana sobre la banalidad del mal — que el
-mal no requiere monstruos sino la suspensión del juicio — está desarrollada
-en el análisis de la banalidad del mal. Lo que aquí se añade es su aplicación al
+[40] Hannah Arendt, Eichmann en Jerusalén (1963) y La vida del espíritu
+(1978, póstumo). La tesis arendtiana sobre la banalidad del mal —que el mal
+no requiere monstruos sino la suspensión del juicio— está desarrollada en el
+análisis de la banalidad del mal. Lo que aquí se añade es su aplicación al
 plano relacional: el encuentro que no distingue entre igualdad ontológica y
 equivalencia ética puede producir, en su versión más benigna, el relativismo
 que tolera cualquier cosa en nombre de la aceptación del otro; en su versión
 más grave, la indiferencia ante el daño que tiene la misma estructura que la
 banalidad del mal.
-[4] Emmanuel Levinas, Totalidad e infinito (1961), Sección III: «El rostro y
+[41] Emmanuel Levinas, Totalidad e infinito (1961), Sección III: «El rostro y
 la exterioridad». La ética levinasiana descansa en la experiencia del rostro
 del otro como lo que desborda cualquier representación: el otro no puede ser
 reducido a ninguna categoría sin violencia ontológica. La responsabilidad
-por el otro — que Levinas propone como la estructura ética fundamental —
+por el otro —que Levinas propone como la estructura ética fundamental—
 no es la consecuencia de un cálculo sino la respuesta inmediata a la
 interpelación del rostro. Lo que el análisis de este libro añade a Levinas es la
 condición de posibilidad del encuentro: el sujeto que no está presente como
-sujeto — que lleva máscara en lugar de ego — no puede ser interpelado por
-el rostro del otro, porque el rostro interpela al ego, no a la imagen.
+sujeto —que lleva máscara en lugar de ego— no puede ser interpelado por el
+rostro del otro, porque el rostro interpela al ego, no a la imagen.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4959,7 +4960,7 @@ necesario que el resultado sea imputable objetivamente a su conducta según
 estándares de riesgo socialmente relevante. La imputación causal que aquí se
 propone opera en ese espíritu, pero desde un fundamento filosófico
 diferente: no parte de criterios normativos de riesgo sino de la proposición
-ontológica de que el ego es el nodo necesario de sus actos. [1]
+ontológica de que el ego es el nodo necesario de sus actos. [42]
 
 III. El método: el caso del fraude bancario
 La mejor manera de mostrar cómo opera la imputación causal en la práctica
@@ -5049,9 +5050,9 @@ en valor. Cuando el fraude bancario le quita a una familia los ahorros de
 veinte años, no le quita una cifra en una pantalla: le quita veinte años de
 tiempo de vida invertido en producir esa cifra. La pérdida económica es una
 pérdida de tiempo de vida en sentido literal.
-Si el daño puede medirse en tiempo de vida — si el dinero perdido es tiempo
-de vida cristalizado en ese dinero — entonces la pena proporcional al daño
-se formula de manera diferente a como el sistema punitivo habitual la
+Si el daño puede medirse en tiempo de vida —si el dinero perdido es tiempo
+de vida cristalizado en ese dinero— entonces la pena proporcional al daño se
+formula de manera diferente a como el sistema punitivo habitual la
 formula. No se trata de devolver una cantidad equivalente de dinero, que
 con frecuencia el responsable no tiene o puede evadir. Se trata de que el
 responsable ceda tiempo de su propia vida en proporción al tiempo de vida
@@ -5073,20 +5074,20 @@ transformar al sujeto en alguien diferente, no es disuasión en el sentido de
 producir miedo suficiente para que otros no repitan el acto. Es la
 substracción de tiempo de vida del ego que causó el daño, proporcional al
 tiempo de vida substraído al ego que lo sufrió.
-El dinero es tiempo de vida cristalizado. La pena es tiempo de vida devuelto.
-No al que lo perdió
-— que es imposible — sino retirado del que lo substrajo. La proporción no
-restaura el daño. Lo reconoce como real y lo hace costar al que lo produjo en
-los mismos términos en que costó al que lo padeció.
-Marx, El capital (1867), Libro I, Capítulo I. La noción de trabajo
-socialmente necesario como sustancia del valor
-— el valor de una mercancía determinado por el tiempo de trabajo humano
-que su producción requiere — es la base del análisis marxiano del capital. Lo
-que aquí se añade no es una extensión del análisis económico de Marx sino
-una aplicación de su intuición fundamental a la filosof ía de la pena: si el
-valor económico es tiempo de vida cristalizado, entonces la pérdida
-económica es pérdida de tiempo de vida, y la pena proporcional al daño
-económico debería medirse en los mismos términos. [2]
+El dinero es tiempo de vida cristalizado. La pena es tiempo de vida devuelto,
+no al que lo perdió —que es imposible—, sino retirado del que lo substrajo.
+La proporción no restaura el daño. Lo reconoce como real y lo hace costar al
+que lo produjo en los mismos términos en que costó al que lo padeció.
+Marx, El capital (1867), Libro I, capítulo I, «La mercancía», y capítulo V,
+«Proceso de trabajo y proceso de valorización». La noción de trabajo
+socialmente necesario como sustancia del valor —el valor de una mercancía
+determinado por el tiempo de trabajo humano que su producción requiere
+— es la base del análisis marxiano del capital. Lo que aquí se añade no es una
+extensión del análisis económico de Marx sino una aplicación de su
+intuición fundamental a la filosof ía de la pena: si el valor económico es
+tiempo de vida cristalizado, entonces la pérdida económica es pérdida de
+tiempo de vida, y la pena proporcional al daño económico debería medirse
+en los mismos términos. [43]
 
 V. La proporcionalidad: cómo se mide el daño causal
 La proporcionalidad entre el daño y la pena es el punto donde la imputación
@@ -5099,7 +5100,8 @@ que los perdieron. La capa inmediatamente siguiente: el tiempo de vida de
 esas familias consumido en recuperarse de la pérdida — en rehacer lo que el
 fraude deshizo, en trabajar más años de los que hubieran necesitado, en
 aplazar proyectos que la pérdida hizo imposibles. La capa de las
-
+consecuencias difusas: el deterioro en la salud de algunos de esos sujetos, los
+vínculos que se dañaron bajo la presión financiera, los hijos que no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5109,21 +5111,18 @@ A.C.
 
 MÁSCARAS
 
-consecuencias difusas: el deterioro en la salud de algunos de esos sujetos, los
-vínculos que se dañaron bajo la presión financiera, los hijos que no
 recibieron la educación que hubieran recibido. Cada capa es real. Y la cadena
 se puede extender indefinidamente.
 La imputación causal, honesta sobre sus propios límites, no puede seguir la
 cadena hasta el infinito. No porque el daño deje de ser real al alejarse del
 nodo causal, sino porque la cadena deja de ser reconstruible con la precisión
-que la imputación requiere. El daño directo — el tiempo de vida
-cristalizado en los ahorros perdidos—es cuantificable. El daño de la
-recuperación puede estimarse con razonable aproximación. Las
-consecuencias difusas —el deterioro de la salud, los vínculos dañados, los
-proyectos aplazados— son reales y documentables en muchos casos, pero su
-atribución causal al acto específico del ejecutivo bancario se vuelve
-progresivamente más incierta a medida que aumenta la distancia de la
-cadena.
+que la imputación requiere. El daño directo —el tiempo de vida cristalizado
+en los ahorros perdidos—es cuantificable. El daño de la recuperación puede
+estimarse con razonable aproximación. Las consecuencias difusas —el
+deterioro de la salud, los vínculos dañados, los proyectos aplazados— son
+reales y documentables en muchos casos, pero su atribución causal al acto
+específico del ejecutivo bancario se vuelve progresivamente más incierta a
+medida que aumenta la distancia de la cadena.
 La regla que la imputación causal se da a sí misma es la siguiente: la
 responsabilidad del ego alcanza hasta donde la cadena causal es
 reconstruible con suficiente precisión como para que la atribución no sea
@@ -5141,6 +5140,8 @@ voluntad?
 Hasta aquí la imputación causal ha operado sobre actos que, aunque el sujeto
 no tuviera intención de dañar, fueron producidos por un ego que operaba
 con algún grado de voluntad —el ejecutivo eligió aprobar los créditos,
+aunque su motivación fuera el bono y no el daño. Pero el sistema de este
+libro ha distinguido a lo largo de sus páginas entre dos fórmulas de
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5151,8 +5152,6 @@ A.C.
 
 MÁSCARAS
 
-aunque su motivación fuera el bono y no el daño. Pero el sistema de este
-libro ha distinguido a lo largo de sus páginas entre dos fórmulas de
 operación del ego, y esa distinción produce una pregunta que la imputación
 causal no puede ignorar.
 ¿Qué ocurre con la responsabilidad del ego que opera desde la segunda
@@ -5183,6 +5182,8 @@ La doctrina jurídica ha desarrollado la figura de la actio libera in causa para
 casos en que el sujeto se coloca voluntariamente en el estado desde el cual
 produce el daño sin dolo —el ejemplo canónico es quien se embriaga
 sabiendo que en ese estado tiende a la violencia. La responsabilidad se
+imputa al acto de colocarse en ese estado, no al acto producido desde él. Lo
+que aquí se propone es una extensión filosófica de esa lógica: el ego que opera
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5193,14 +5194,12 @@ A.C.
 
 MÁSCARAS
 
-imputa al acto de colocarse en ese estado, no al acto producido desde él. Lo
-que aquí se propone es una extensión filosófica de esa lógica: el ego que opera
 desde la segunda fórmula durante años ha ido construyendo las condiciones
 de su propia disociación a través de la acumulación de colapsos no operados
 por la voluntad. La responsabilidad por los actos producidos desde esa
 disociación incluye, aunque sea dif ícil de cuantificar, la responsabilidad por
 no haber ejercido la voluntad en los momentos en que haberla ejercido
-hubiera sido posible. [3]
+hubiera sido posible. [44]
 
 VII. El límite honesto del sistema: donde la cadena deja de ser
 reconstruible
@@ -5211,18 +5210,21 @@ promete más de lo que puede cumplir, y los sistemas que prometen
 demasiado producen injusticia en el momento de la aplicación.
 La imputación causal tiene un límite que su propia lógica establece: solo
 opera donde la cadena causal es reconstruible con suficiente precisión. Más
-allá de ese punto — cuando la distancia entre el acto y el daño es
+allá de ese punto —cuando la distancia entre el acto y el daño es
 suficientemente grande, cuando los factores intervinientes son
 suficientemente numerosos, cuando la contribución del ego individual al
-resultado final es suficientemente incierta — la imputación causal
-individual deja de ser el instrumento adecuado.
+resultado final es suficientemente incierta— la imputación causal individual
+deja de ser el instrumento adecuado.
 Ese límite no significa que los daños que caen más allá de él sean irreales o
 que no merezcan atención. Significa que no pueden ser atribuidos a ningún
 ego individual con la precisión que la imputación requiere. Y atribuirlos de
-todas formas — forzar la imputación individual donde la cadena causal no
-la sostiene — produce una injusticia diferente pero equivalente a la de no
+todas formas —forzar la imputación individual donde la cadena causal no
+la sostiene— produce una injusticia diferente pero equivalente a la de no
 imputar donde sí correspondería: condena a sujetos que no son los nodos
 causales necesarios del daño que se les imputa.
+Hay una tentación permanente en los sistemas de responsabilidad de
+resolver la dificultad de los daños difusos buscando un culpable individual
+que los cargue.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5233,9 +5235,6 @@ A.C.
 
 MÁSCARAS
 
-Hay una tentación permanente en los sistemas de responsabilidad de
-resolver la dificultad de los daños difusos buscando un culpable individual
-que los cargue.
 Esa tentación es políticamente comprensible —el daño difuso produce
 angustia colectiva que el sistema político necesita canalizar— pero
 filosóficamente deshonesta. El responsable individual que la imputación
@@ -5265,6 +5264,9 @@ proyecto. Es el patrón que emerge de millones de actos que, tomados
 individualmente, no son imputables a ningún ego como nodo necesario del
 daño colectivo, pero que tomados en conjunto producen efectos de escala
 que ningún daño individual alcanza.
+El sesgo colectivo no es la conspiración — que requiere coordinación
+consciente entre sujetos que comparten un objetivo. Es la convergencia no
+coordinada de sesgos formados en las mismas condiciones históricas,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5275,32 +5277,29 @@ A.C.
 
 MÁSCARAS
 
-El sesgo colectivo no es la conspiración — que requiere coordinación
-consciente entre sujetos que comparten un objetivo. Es la convergencia no
-coordinada de sesgos formados en las mismas condiciones históricas,
 culturales e institucionales, que producen actos similares en contextos
 similares sin que ningún sujeto haya acordado con otro producirlos. El sesgo
 colectivo que excluye a ciertas poblaciones del crédito bancario no requiere
 que ningún ejecutivo haya decidido explícitamente discriminar: requiere
 solo que los criterios de evaluación del riesgo estén calibrados con sesgos que
 esa exclusión reproduce sistemáticamente.
-Pierre Bourdieu describió el habitus — el sistema de disposiciones duraderas
-que los sujetos adquieren en el proceso de socialización — como el
+Pierre Bourdieu describió el habitus —el sistema de disposiciones duraderas
+que los sujetos adquieren en el proceso de socialización— como el
 mecanismo que reproduce las estructuras sociales sin que ningún sujeto las
 reproduzca conscientemente. El habitus produce prácticas que son
 objetivamente sistemáticas sin ser el producto de ninguna intención
 sistematizante. Lo que aquí se llama sesgo colectivo conversa con esa
 noción: es el habitus leído desde el sistema de este libro, donde el sesgo es la
 disposición individual y su convergencia con otros sesgos similares produce
-el efecto colectivo que ningún sesgo individual podría producir solo. [4] El
+el efecto colectivo que ningún sesgo individual podría producir solo. [45] El
 sesgo colectivo no puede ser imputado a ningún ego individual porque
 ningún ego individual es el nodo necesario de su efecto. Puede ser
 modificado, pero no a través de la sanción individual sino a través de la
 transformación de las condiciones que lo producen: las instituciones, las
 normas informales, los marcos de evaluación que forman los sesgos de
 manera convergente. Esa transformación es una tarea política y no jurídica,
-colectiva y no individual. Y ese desplazamiento — de la imputación
-individual a la transformación colectiva — es uno de los límites más
+colectiva y no individual. Y ese desplazamiento —de la imputación
+individual a la transformación colectiva— es uno de los límites más
 importantes que la honestidad filosófica impone al sistema.
 
 IX. Autodeterminación causal y sistema punitivo: la
@@ -5309,6 +5308,7 @@ Si la imputación causal reemplaza al dolo como criterio central de la
 responsabilidad, y si la pena se formula como substracción de tiempo de vida
 proporcional al tiempo de vida substraído, ¿qué sistema punitivo produce eso
 en la práctica?
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5326,7 +5326,7 @@ proporcional al daño causalmente atribuible al ego, medido en los términos
 en que el daño realmente se experimentó por quien lo sufrió. Si el daño fue
 pérdida económica, la proporcionalidad se mide en tiempo de vida
 cristalizado en esa pérdida. Si el daño fue tiempo de vida directamente —
-años de salud dañada, años de libertad injustamente restringida — la
+años de salud dañada, años de libertad injustamente restringida— la
 proporcionalidad se mide en los mismos términos. El sistema que establece
 penas en abstracto, sin referencia al daño concreto medido en los términos
 en que quien lo sufrió lo experimentó, no es proporcional en el sentido que
@@ -5364,7 +5364,7 @@ lector que ha llegado hasta aquí siguiendo el argumento del libro completo:
 ¿qué ocurre con los daños que el ego produjo antes de la rendición?
 El sujeto que lleva años en disforia de identidad, operando desde la segunda
 fórmula, ha producido actos durante ese período. Algunos de esos actos
-habrán causado daño a otros. No porque el sujeto lo quisiera — la suma
+habrán causado daño a otros. No porque el sujeto lo quisiera —la suma
 fáctica no tiene intenciones— sino porque el ego que no ejerce la voluntad
 no interrumpe las cadenas que producen daño con la misma frecuencia que
 el ego que sí la ejerce. El sujeto que se rinde, que recupera la primera
@@ -5379,7 +5379,7 @@ su ego, aunque su ego no los haya producido desde la voluntad.
 La imputación causal no ofrece a ese sujeto la absolución que la narrativa
 contemporánea del crecimiento personal tiende a ofrecer. No le dice que
 haberse rendido cancela la deuda. Le dice que la deuda sigue siendo suya —
-aunque la haya producido desde la segunda fórmula — y que hacerse cargo
+aunque la haya producido desde la segunda fórmula— y que hacerse cargo
 de ella es parte del trabajo que sigue a la rendición. No todo ese hacerse
 cargo toma la forma de la reparación material. Algunos daños no son
 reparables materialmente. Pero todos requieren, al menos, el
@@ -5443,8 +5443,8 @@ MÁSCARAS
 mascarada? Esas preguntas pertenecen al capítulo siguiente — y son las que
 cierran el arco que el prólogo abrió.
 Notas
-[1] Claus Roxin, Derecho penal: parte general (1994), Tomo I, § 11. La teoría
-de la imputación objetiva de Roxin desplaza el criterio central de la
+[42] Claus Roxin, Derecho penal: parte general (1994), Tomo I, § 11. La
+teoría de la imputación objetiva de Roxin desplaza el criterio central de la
 responsabilidad penal del dolo hacia la creación de un riesgo no permitido
 que se realiza en el resultado típico. Günther Jakobs, en Derecho penal:
 fundamentos y teoría de la imputación (1991), desarrolla una versión más
@@ -5455,9 +5455,9 @@ también la atribución objetiva del resultado a la conducta del sujeto. La
 imputación causal que este libro propone opera en esa misma dirección, pero
 desde un fundamento filosófico diferente: la proposición ontológica de que
 el ego es el nodo necesario de sus actos.
-[2] Karl Marx, El capital (1867), Libro I, Capítulo I: «La mercancía», y
-Capítulo VI: «El proceso de trabajo y el proceso de valorización». La teoría
-del valor-trabajo de Marx —según la cual el valor de las mercancías está
+[43] Karl Marx, El capital (1867), Libro I, capítulo I: «La mercancía», y
+capítulo V: «Proceso de trabajo y proceso de valorización». La teoría del
+valor-trabajo de Marx —según la cual el valor de las mercancías está
 determinado por el tiempo de trabajo socialmente necesario para
 producirlas— implica que el capital acumulado es tiempo de vida humano
 cristalizado en la forma mercancía. La extensión de esa intuición a la
@@ -5467,12 +5467,12 @@ punitiva. La resonancia, sin embargo, es filosóficamente productiva: si el
 daño económico es pérdida de tiempo de vida cristalizado, la
 proporcionalidad entre daño y pena se vuelve calculable en los mismos
 términos.
-[3] La actio libera in causa es una figura jurídica desarrollada principalmente
-en el contexto del derecho penal alemán, con antecedentes en Hegel y
-Feuerbach. Su formulación moderna está en Franz von Liszt y fue
-desarrollada posteriormente por Mezger y Jescheck. El principio establece
-que la responsabilidad penal puede fundarse en el acto libre que causalmente
-precede al estado de incapacidad desde el cual se produce el daño. La
+[44] La actio libera in causa es una figura jurídica desarrollada
+principalmente en el contexto del derecho penal alemán, con antecedentes
+en Hegel y Feuerbach. Su formulación moderna está en Franz von Liszt y
+fue desarrollada posteriormente por Mezger y Jescheck. El principio
+establece que la responsabilidad penal puede fundarse en el acto libre que
+causalmente precede al estado de incapacidad desde el cual se produce el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5483,16 +5483,16 @@ A.C.
 
 MÁSCARAS
 
-extensión filosófica que este libro propone —aplicar la lógica de la actio
-libera in causa a la disociación del ego— no tiene precedente directo en la
-literatura jurídica, pero la estructura es paralela: el ego que operó desde la
-segunda fórmula durante años ha ido construyendo las condiciones de su
+daño. La extensión filosófica que este libro propone —aplicar la lógica de la
+actio libera in causa a la disociación del ego— no tiene precedente directo
+en la literatura jurídica, pero la estructura es paralela: el ego que operó desde
+la segunda fórmula durante años ha ido construyendo las condiciones de su
 propia disociación mediante la acumulación de colapsos no operados por la
 voluntad, y esa construcción acumulada constituye el antecedente libre de
 los actos producidos desde la disociación.
-[4] Pierre Bourdieu, El sentido práctico (1980), Capítulos 3 y 4. El habitus
-bourdieano — el sistema de disposiciones duraderas que estructura las
-prácticas sin ser producto de una intención calculadora — es el mecanismo
+[45] Pierre Bourdieu, El sentido práctico (1980), Capítulos 3 y 4. El habitus
+bourdieano —el sistema de disposiciones duraderas que estructura las
+prácticas sin ser producto de una intención calculadora— es el mecanismo
 central de la reproducción social en el análisis de Bourdieu. Su diferencia con
 la noción de sesgo colectivo que aquí se propone es de nivel: el habitus es una
 categoría sociológica que describe la mediación entre las estructuras sociales
@@ -5563,7 +5563,7 @@ formación dejaron huellas en las reglas que las instituciones siguen
 reproduciendo, aunque los sujetos que las fundaron ya no estén. El sesgo de
 la institución es el sedimento de los sesgos que la formaron, cristalizado en
 reglas que operan como si fueran neutrales porque ya nadie recuerda que
-fueron elegidas. [1] Cuando ese sesgo institucional opera sin que ningún
+fueron elegidas. [46] Cuando ese sesgo institucional opera sin que ningún
 actor colectivo lo examine y opere con voluntad genuina sobre él, la
 institución está en la segunda fórmula. Su suma fáctica —el conjunto de
 reglas, prácticas y expectativas que se reproducen automáticamente—actúa
@@ -5589,11 +5589,10 @@ MÁSCARAS
 —la voluntad colectiva que podría evaluar el sesgo y decidir si sostenerlo o
 no— no está operando.
 La institución en disforia produce daño sin imputado claro. No porque el
-daño sea invisible
-—es perfectamente visible para quien lo padece. Sino porque la cadena
-causal que lo produce es tan distribuida entre tantos nodos que ninguna
-imputación individual alcanza a explicarlo todo. La máscara institucional
-fue diseñada para que eso sea así.
+daño sea invisible —es perfectamente visible para quien lo padece—, sino
+porque la cadena causal que lo produce está tan distribuida entre tantos
+nodos que ninguna imputación individual alcanza a explicarlo todo. La
+máscara institucional fue diseñada para que eso sea así.
 
 III. La máscara institucional: el diseño que hace invisible al
 diseñador
@@ -5679,7 +5678,7 @@ cuestionar una política: es cuestionar la identidad que el arreglo formó. Y es
 identidad, aunque haya sido formada bajo condiciones de presión, es
 genuinamente suya en el sentido que el Capítulo IV estableció: la voluntad
 la ha operado, aunque sea una vez, y por eso tiene el peso de lo propio.
-Freire describió este fenómeno en el Pedagogo del oprimido como la
+Freire describió este fenómeno en Pedagogía del oprimido como la
 internalización del opresor: el oprimido que ha asimilado tan
 completamente los valores y la imagen del opresor que ya no puede
 distinguir su propia voz de la voz que lo oprime. La liberación, para Freire,
@@ -5690,16 +5689,15 @@ como única referencia. Lo que el sistema de este libro añade a esa intuición
 es el mecanismo: la concientización es posible porque el sesgo genuino —
 aunque desplazado, aunque parcialmente cubierto por el sesgo implantado
 del opresor— no desaparece completamente. El duelo que resiste, aunque
-difuso, es la señal de que sigue ahí. [2] Llamar a eso disforia de identidad
+difuso, es la señal de que sigue ahí. [47] Llamar a eso disforia de identidad
 colectiva no es extender de manera imprecisa un concepto del nivel
 individual al nivel social. Es señalar que el mismo mecanismo que produce
-disforia en el sujeto individual
-— la suma fáctica operando sin voluntad, el sesgo implantado actuando
-como si fuera propio, el ego genuino resistiendo desde el duelo, aunque sin
-llegar a la superficie — opera a escala colectiva cuando las condiciones que
-forman los sesgos de un grupo son suficientemente convergentes y
-suficientemente alejadas de lo que el sesgo genuino de ese grupo hubiera
-producido por sí solo.
+disforia en el sujeto individual —la suma fáctica operando sin voluntad, el
+sesgo implantado actuando como si fuera propio, el ego genuino resistiendo
+desde el duelo, aunque sin llegar a la superficie— opera a escala colectiva
+cuando las condiciones que forman los sesgos de un grupo son
+suficientemente convergentes y suficientemente alejadas de lo que el sesgo
+genuino de ese grupo hubiera producido por sí solo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5854,7 +5852,7 @@ que aquí se añade a ese análisis es la distinción entre ese agotamiento como
 síntoma de la disforia colectiva —la señal de que el ego colectivo genuino
 no ha desaparecido— y el agotamiento como condición administrada que
 el sistema de gestión del bienestar corporativo convierte en problema de
-salud individual. [3]
+salud individual. [48]
 
 VIII. ¿Puede rendirse una institución? La posibilidad de la
 rendición colectiva
@@ -5938,7 +5936,7 @@ simple y lo más dif ícil: operar la voluntad sobre el sesgo en cada acto en qu
 esa operación sea posible. No seguir automáticamente la suma fáctica
 hegemónica en los momentos en que la voluntad puede interrumpirla. No
 gestionar la imagen colectiva en los encuentros en que la presencia genuina
-es posible. No suprimir el duelo — propio ni ajeno — cuando produce la
+es posible. No suprimir el duelo —propio ni ajeno— cuando produce la
 señal que merece ser leída.
 La ética de la responsabilidad que Weber distinguió de la ética de la
 convicción opera aquí con una precisión que no siempre se le reconoce: el
@@ -5958,9 +5956,9 @@ sobre él con la misma inevitabilidad que la responsabilidad de actuar. El
 resultado no depende de ningún sujeto solo; la responsabilidad de intentarlo
 sí. Lo que el sistema de este libro añade a Weber es el fundamento
 ontológico de esa responsabilidad: el ego es el nodo causal necesario, y esa
-necesidad no desaparece porque el sistema sea grande. [4] El sujeto que opera
-desde la primera fórmula en un mundo donde la segunda fórmula domina
-no produce el cambio solo. Produce una diferencia en su nodo. Y esa
+necesidad no desaparece porque el sistema sea grande. [49] El sujeto que
+opera desde la primera fórmula en un mundo donde la segunda fórmula
+domina no produce el cambio solo. Produce una diferencia en su nodo. Y esa
 diferencia, sumada a las diferencias de otros nodos que también operan
 desde la primera fórmula, va depositando sedimento en la dirección del
 sesgo genuino de la sociedad que todos ellos componen. Lentamente. Sin
@@ -6006,7 +6004,7 @@ mascarada sin convertir ese habitar en una nueva forma de disforia?
 Ser alguien sin que nadie lo sepa. Eso es lo que el epílogo propone como
 posible.
 Notas
-[1] Douglass C. North, Instituciones, cambio institucional y desempeño
+[46] Douglass C. North, Instituciones, cambio institucional y desempeño
 económico (1990). La distinción de North entre instituciones formales —
 leyes, contratos, regulaciones— e instituciones informales —normas de
 conducta, convenciones, códigos de comportamiento auto-impuestos— es
@@ -6016,7 +6014,7 @@ desarrolla: las instituciones informales no son solo convenciones
 coordinadoras que reducen costos de transacción; son los mecanismos a
 través de los cuales el sesgo de quienes las establecieron se convierte en sesgo
 implantado de quienes las habitan sin haberlas elegido.
-[2] Paulo Freire, Pedagogía del oprimido (1968), Capítulos I y II. La noción
+[47] Paulo Freire, Pedagogía del oprimido (1968), Capítulos I y II. La noción
 de Freire sobre la internalización del opresor —el proceso por el cual el
 oprimido adopta la imagen del opresor como ideal al que aspirar— es una
 de las descripciones más precisas de la disforia de identidad colectiva en la
@@ -6038,7 +6036,7 @@ A.C.
 
 MÁSCARAS
 
-[3] Byung-Chul Han, La sociedad del cansancio (2010). El diagnóstico de
+[48] Byung-Chul Han, La sociedad del cansancio (2010). El diagnóstico de
 Han sobre la sociedad de rendimiento —en que la violencia ya no es la del
 poder que reprime sino la del poder que incita al sujeto a rendir más de sí
 mismo—captura con precisión el mecanismo de gestión del duelo colectivo
@@ -6047,7 +6045,7 @@ entre el agotamiento como señal —el duelo del ego colectivo que resiste la
 suma fáctica del rendimiento ilimitado— y el agotamiento como
 condición administrada, que el sistema de gestión del bienestar corporativo
 convierte en problema de salud individual y desactiva como señal política.
-[4] Max Weber, «La política como vocación» (1919), en El político y el
+[49] Max Weber, «La política como vocación» (1919), en El político y el
 científico. La distinción weberiana entre la ética de la convicción —que
 actúa según principios independientemente de las consecuencias— y la ética
 de la responsabilidad —que actúa asumiendo las consecuencias previsibles de
