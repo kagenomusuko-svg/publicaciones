@@ -399,13 +399,13 @@ compensar los rasgos propios de su neurodivergencia para ajustarse a las
 expectativas del entorno neurotípico. Aprender a sonreír cuando el
 protocolo lo demanda, aunque la emoción no esté presente. Sostener el
 contacto visual, aunque resulte abrumador. Reprimir los movimientos del
-cuerpo —las llamadas stimming, conductas de autoestimulación—que el
+cuerpo —las llamadas stimming, conductas de autoestimulación— que el
 entorno percibe como inusuales. Memorizar guiones de conversación,
 calibrar el tono de voz, simular el interés que no se siente, esconder el que sí
 se siente. [4] La escala CAT-Q, desarrollada en 2019, midió este fenómeno
 con tres componentes principales: asimilación —adoptar comportamientos
 de los neurotípicos observados—, compensación —desarrollar estrategias
-para encubrir dificultades— y camuflaje —ajustar la presentación de uno
+para encubrir dificultades— y camuflaje: ajustar la presentación de uno
 mismo al contexto social. Los estudios han relacionado el camuflaje con
 costos para el bienestar y con síntomas de ansiedad y depresión. El desgaste
 puede acumularse con el tiempo: no es solo cognitivo, sino también
@@ -414,10 +414,10 @@ descripción clínica es precisa, valiosa y necesaria. Y, sin embargo, hay un
 punto en el que se detiene donde debería continuar: asume que el
 enmascaramiento es una respuesta excepcional a una condición particular.
 Lo que este capítulo propone es que esa suposición es inexacta. No porque el
-enmascaramiento neurodivergente no tenga sus especificidades—las tiene, y
-son relevantes—, sino porque la operación que describe no es una excepción
-al modo en que los seres humanos habitamos el mundo. Es su descripción
-más precisa.
+enmascaramiento neurodivergente no tenga sus especificidades —las tiene,
+y son relevantes—, sino porque la operación que describe no es una
+excepción al modo en que los seres humanos habitamos el mundo. Es su
+descripción más precisa.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -805,17 +805,19 @@ MÁSCARAS
 
 [4] Laura Hull, K.V. Petrides y William Mandy, «The Female Autism
 Phenotype and Camouflaging: a Narrative Review», Review Journal of
-Autism and Developmental Disorders, 7, 2020, pp. 306–317. La escala CATQ fue desarrollada por Laura Hull et al. en 2019 y publicada en el Journal of
-Autism and Developmental Disorders. Los tres factores del cuestionario —
-compensación, masking y asimilación— no son exclusivos del autismo. Un
-estudio posterior comparó adultos con autismo, TDAH y un grupo de
-comparación: W. J. van der Putten et al., «Is Camouflaging Unique for
-Autism? A Comparison of Camouflaging Between Adults with Autism and
-ADHD», Autism Research, 17(4), 2024, pp. 812–823, https://doi.org/10.1002/
-aur.3099. En esa muestra, los adultos con TDAH obtuvieron puntuaciones
-totales de camuflaje y de asimilación superiores al grupo de comparación,
-aunque inferiores a las de los adultos autistas en la puntuación total y en
-compensación y asimilación.
+Autism and Developmental Disorders, 7, 2020, pp. 306–317. La escala CATQ fue desarrollada por Laura Hull et al.: véase Laura Hull et al.,
+«Development and Validation of the Camouflaging Autistic Traits
+Questionnaire (CAT-Q)», Journal of Autism and Developmental
+Disorders, 49, 2019, pp. 819–833, https://doi.org/10.1007/s10803-018-3792-6.
+Los tres factores del cuestionario —compensación, masking y asimilación
+— no son exclusivos del autismo. Un estudio posterior comparó adultos con
+autismo, TDAH y un grupo de comparación: W. J. van der Putten et al., «Is
+Camouflaging Unique for Autism? A Comparison of Camouflaging
+Between Adults with Autism and ADHD», Autism Research, 17(4), 2024,
+pp. 812–823, https://doi.org/10.1002/aur.3099. En esa muestra, los adultos con
+TDAH obtuvieron puntuaciones totales de camuflaje y de asimilación
+superiores al grupo de comparación, aunque inferiores a las de los adultos
+autistas en la puntuación total y en compensación y asimilación.
 [5] S. A. Cassidy et al., «Is Camouflaging Autistic Traits Associated with
 Suicidal Thoughts and Behaviours? Expanding the Interpersonal
 Psychological Theory of Suicide in an Undergraduate Student Sample»,
@@ -833,8 +835,6 @@ marco dramatúrgico —escenario, bastidores, actuación— sigue siendo uno
 de los más influyentes en la sociología de la interacción cotidiana. La
 diferencia entre la propuesta de Goffman y la de este libro reside en la
 pregunta por el actor: Goffman describe la gestión de la impresión como
-constitutiva de la vida social sin interrogar si hay un sujeto genuino detrás
-de la gestión.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -845,6 +845,8 @@ A.C.
 
 MÁSCARAS
 
+constitutiva de la vida social sin interrogar si hay un sujeto genuino detrás
+de la gestión.
 [7] Byung-Chul Han, La sociedad del cansancio (2010). Han describe la
 transición de la sociedad disciplinaria —que opera desde la prohibición y el
 castigo— a la sociedad del rendimiento —que opera desde la exigencia y el
@@ -1013,10 +1015,10 @@ contemple y decida qué hacer con ella. El objeto sustituyendo al sujeto. La
 inercia ocupando el lugar de la voluntad. [11] Esta distinción no es cosmética.
 Tiene consecuencias directas sobre la responsabilidad, sobre la posibilidad de
 cambio y sobre lo que este libro llama rendición. Pero antes de llegar ahí, es
-necesario examinar las dos formas en que la suma fáctica produce disforia—
-porque no produce siempre la misma disforia, y la diferencia entre las dos
-formas es la diferencia entre una existencia que duele y una existencia que ya
-no puede doler.
+necesario examinar las dos formas en que la suma fáctica produce disforia:
+no produce siempre la misma disforia, y la diferencia entre las dos formas es
+la diferencia entre una existencia que duele y una existencia que ya no puede
+doler.
 
 IV. Las dos fórmulas: la diferencia que lo cambia todo
 El capítulo anterior introdujo las dos fórmulas en su versión más simple.
@@ -1029,8 +1031,8 @@ El sesgo está. No puede no estar —es el punto de partida de todo sujeto que
 ha vivido, que ha aprendido, que tiene historia. Pero sobre el sesgo opera la
 voluntad: el momento en que el sujeto interviene, interroga, sostiene o
 modifica lo que el sesgo le ofrece como respuesta automática. Esa
-intervención no necesita ser consciente en el sentido analítico del término
-—no requiere una deliberación explícita antes de cada acto. Pero sí requiere
+intervención no necesita ser consciente en el sentido analítico del término:
+no requiere una deliberación explícita antes de cada acto. Pero sí requiere
 que haya un operador: alguien que procese el sesgo antes de que produzca el
 acto. Alguien para quien el sesgo sea materia y no mandato.
 
@@ -1092,8 +1094,8 @@ pertenecen. Siente, en los momentos de silencio, algo que podría llamarse
 extrañamiento de sí mismo: la sensación de que hay una voz más auténtica
 en algún lugar al que ha perdido el acceso pero que todavía emite señales.
 Esas señales son el duelo. Y el duelo —como se desarrollará con más
-extensión en el capítulo siguiente—no es el problema. Es la evidencia de que
-el ego real no ha sido completamente sustituido. Es la señal de que la
+extensión en el capítulo siguiente— no es el problema. Es la evidencia de
+que el ego real no ha sido completamente sustituido. Es la señal de que la
 máscara todavía le pesa a alguien. Que hay alguien debajo.
 Esta forma de disforia se manifiesta de maneras reconocibles. La risa de
 compromiso que deja un residuo amargo. La rabia que no puede expresarse y
@@ -1136,7 +1138,7 @@ Es la disforia sin duelo.
 Cuando el proceso de sustitución del ego por la suma fáctica ha sido
 suficientemente profundo y suficientemente prolongado —cuando la
 segunda fórmula ha operado durante tanto tiempo que el sujeto ya no puede
-recordar haber operado desde la primera—algo ocurre que podría
+recordar haber operado desde la primera— algo ocurre que podría
 describirse como una inversión de la sensación. La disforia no desaparece,
 pero pierde su tonalidad de resistencia. Ya no duele. Ya no produce fricción
 reconocible. El sujeto ya no siente la brecha entre lo que hace y lo que haría
@@ -1351,7 +1353,7 @@ autodeterminación. No es una creencia equivocada que se puede corregir
 con información: es una estructura de operación del ego que requiere algo
 más profundo que la corrección cognitiva. [15] Eso no significa que el
 cambio sea imposible. Significa que el camino del cambio pasa por la
-rendición—que se examinará en el Capítulo VI—y no por la convicción. Y
+rendición —que se examinará en el Capítulo VI— y no por la convicción. Y
 que la rendición, tanto en el nivel individual como en el colectivo,
 comienza siempre por el duelo: por la recuperación de la capacidad de sentir
 la incomodidad que la disociación había anestesiado.
@@ -1443,13 +1445,14 @@ resistencia. El condicionamiento de Bokanovsky no es una metáfora del
 totalitarismo: es la imagen extrema de lo que ocurre cuando la suma fáctica
 es instalada antes de que la voluntad tenga oportunidad de operar.
 [13] La relación entre las plataformas digitales y los mecanismos de refuerzo
-conductual ha sido documentada extensamente. Tristan Harris, ex
-diseñador de Google, popularizó el concepto de persuasive technology.
-Shoshana Zuboff, en La era del capitalismo de vigilancia (2019), analiza
-cómo la acumulación de datos comportamentales permite predecir y
-modificar la conducta humana a escala masiva.
-[14] Antonio Gramsci, Cuadernos de la cárcel (1929–1935). La hegemonía
-designa el proceso por el cual los valores de la clase dominante son
+conductual ha sido documentada extensamente. Tristan Harris, exdiseñador
+de Google, ha difundido públicamente el concepto de persuasive
+technology; véase su testimonio ante el Senado de Estados Unidos,
+«Optimizing for Engagement: Understanding the Use of Persuasive
+Technology on Internet Platforms» (25 de junio de 2019). Shoshana Zuboff
+analiza cómo la acumulación de datos comportamentales permite predecir y
+modificar la conducta humana a escala masiva en «Big Other: Surveillance
+Capitalism and the Prospects of an Information Civilization», Journal of
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1460,6 +1463,10 @@ A.C.
 
 MÁSCARAS
 
+Information Technology, 30(1), 2015, pp. 75–89, https://doi.org/10.1057/JIT.
+2015.5, y en La era del capitalismo de vigilancia (2019).
+[14] Antonio Gramsci, Cuadernos de la cárcel (1929–1935). La hegemonía
+designa el proceso por el cual los valores de la clase dominante son
 adoptados por las clases dominadas como si fueran propios. Pierre Bourdieu,
 El sentido práctico (1980): el habitus son las disposiciones duraderas
 incorporadas tan tempranamente que operan como segunda naturaleza,
@@ -1664,7 +1671,7 @@ la señal de que el sujeto está vivo. [16]
 V. La catarsis terapéutica: anestesia donde hacía falta cirugía
 Existe una respuesta institucionalizada al duelo que merece todo el análisis
 crítico que este libro puede darle, porque es la respuesta más frecuente, la
-más refinada y —desde la perspectiva del sistema que aquí se propone—la
+más refinada y —desde la perspectiva del sistema que aquí se propone— la
 más problemática: la catarsis terapéutica.
 El término catarsis viene de Aristóteles. En la Poética, al describir el efecto
 que la tragedia produce sobre el espectador, Aristóteles propone que el
@@ -1988,11 +1995,13 @@ naturaleza y su objeto.
 como expresión ni como comunicación— tiene una genealogía que va de
 Aristóteles a Schopenhauer a Wittgenstein. Para Schopenhauer, el arte es la
 forma en que el sujeto puede contemplar las Ideas platónicas —las formas
-universales de la experiencia— sin el velo de la voluntad individual. Para
-Wittgenstein, la ética y la estética son lo mismo: ambas muestran lo que no
-puede ser dicho. En todos esos casos, el arte produce conocimiento que no es
-proposicional: no dice algo que el sujeto luego puede repetir, sino que hace
-ver algo que el sujeto luego no puede dejar de saber.
+universales de la experiencia— sin el velo de la voluntad individual (The
+World as Will and Representation, vol. I, § 34). Para Wittgenstein, la ética y
+la estética son lo mismo: ambas muestran lo que no puede ser dicho
+(Tractatus Logico-Philosophicus, 6.421). En todos esos casos, el arte produce
+conocimiento que no es proposicional: no dice algo que el sujeto luego
+puede repetir, sino que hace ver algo que el sujeto luego no puede dejar de
+saber.
 [19] Simone Weil, La gravedad y la gracia (1947), compilado póstumamente
 por Gustave Thibon. La reflexión de Weil sobre la atención está desarrollada
 también en Espera de Dios (1950): la atención como forma de amor, como
@@ -2025,7 +2034,7 @@ La filosof ía contemporánea la ha tratado como horizonte —el marco desde
 el cual el sujeto interpreta el mundo, en el sentido que Gadamer le da al
 término, heredado de manera irreflexiva por buena parte del pensamiento
 sobre la identidad cultural y personal. La psicología la ha tratado como
-narrativa—el relato coherente que el sujeto construye sobre sí mismo para
+narrativa: el relato coherente que el sujeto construye sobre sí mismo para
 darse continuidad a través del tiempo, en la tradición de Ricoeur y de
 McAdams. La sociología la ha tratado como posición —el lugar que el
 sujeto ocupa en la trama de las relaciones de poder, en el sentido de Bourdieu
@@ -2183,8 +2192,8 @@ La respuesta es la voluntad. No la voluntad entendida como libre albedrío
 en el sentido metaf ísico —como si el sujeto pudiera situarse fuera de todas
 sus determinaciones y elegir desde la nada. La voluntad en el sentido más
 preciso y más modesto que este sistema le da: el momento en que el sujeto
-interviene sobre el sesgo que heredó—lo sostiene, lo examina, lo modifica,
-lo cuestiona, incluso lo rechaza—antes de que produzca su efecto en el
+interviene sobre el sesgo que heredó —lo sostiene, lo examina, lo modifica,
+lo cuestiona, incluso lo rechaza— antes de que produzca su efecto en el
 mundo. Ese momento de intervención, aunque sea breve, aunque no sea
 completamente consciente, aunque no cambie el sesgo de manera radical, es
 lo que convierte el sesgo heredado en sesgo propio.
@@ -2518,7 +2527,7 @@ cuando colapsa, produce algo diferente: no el duelo del que pierde algo
 propio, sino el vacío del que pierde el único guion que conocía. La diferencia
 entre las dos experiencias no es siempre nítida, pero es real. Y aprender a leer
 esa diferencia —aprender a distinguir el duelo que dice tuyo del vacío que
-dice solo conocido—es parte del trabajo que los capítulos siguientes van a
+dice solo conocido— es parte del trabajo que los capítulos siguientes van a
 proponer.
 Ese trabajo empieza con Odiseo, que sabía muy bien qué sesgo era el suyo —
 quién era, de dónde venía, cuál era su nombre— y sin embargo no supo qué
@@ -3158,7 +3167,7 @@ valor práctico. No es nada.
 Pero tampoco es suficiente. Y la razón es precisa: la aceptación opera en el
 nivel de la cognición sin tocar necesariamente el nivel de la operación. El
 sujeto puede aceptar que lleva una máscara —puede nombrarlo, puede
-articularlo, puede incluso sentirlo con cierta emoción—sin que eso cambie
+articularlo, puede incluso sentirlo con cierta emoción— sin que eso cambie
 en nada la fórmula desde la que actúa. La máscara permanece. La suma
 fáctica sigue operando sin la voluntad. El sesgo implantado sigue
 produciendo actos que el sujeto ya no disputa conscientemente pero que
@@ -3207,8 +3216,8 @@ ese sistema: le quita el esfuerzo que lo sostiene. Y cuando ese esfuerzo cesa, l
 estructura que sostenía colapsa por su propio peso.
 El segundo elemento es el objeto: la mediación del ego disociado. No se
 rinde el sesgo —que es la identidad, que tiene historia acumulada y que no
-desaparece con ningún acto de voluntad. No se rinde el ego—que es el
-sujeto, que persiste, aunque la rendición lo sacuda. Lo que se rinde es la
+desaparece con ningún acto de voluntad—. No se rinde el ego —que es el
+sujeto, que persiste, aunque la rendición lo sacuda—. Lo que se rinde es la
 mediación específica que el ego disociado producía para mantenerse: el
 guion, el personaje, el conjunto de respuestas automáticas que la suma
 fáctica había instalado en el lugar donde debería haber estado la voluntad.
@@ -3352,7 +3361,7 @@ A.C.
 MÁSCARAS
 
 ¿Cómo puede el sujeto que lleva años operando desde la segunda fórmula —
-sin la voluntad en la cadena—producir el acto de voluntad que restituye la
+sin la voluntad en la cadena— producir el acto de voluntad que restituye la
 primera?
 ¿No es eso precisamente lo que no puede hacer? ¿No es pedirle al ego
 disociado que use el instrumento que la disociación le quitó?
@@ -3606,14 +3615,17 @@ otro es posible.
 Notas
 [30] Steven C. Hayes, Kirk D. Strosahl y Kelly G. Wilson, Acceptance and
 Commitment Therapy: An Experiential Approach to Behavior Change
-(1999). La distinción que aquí se establece entre aceptación como operación
-cognitiva y rendición como transformación de la fórmula de operación no
-pretende invalidar los hallazgos clínicos de las terapias basadas en la
-aceptación, que han mostrado efectividad en múltiples contextos. Pretende
-señalar un límite filosófico: la aceptación puede reducir el sufrimiento que
-produce la lucha contra la experiencia interna sin modificar la estructura
-que genera esa experiencia. El alivio es genuino; el origen del malestar puede
-permanecer intacto.
+(1999); Andrew T. Gloster et al., «The empirical status of acceptance and
+commitment therapy: A review of meta-analyses», Journal of Contextual
+Behavioral Science, 18, 2020, pp. 181–192, https://doi.org/10.1016/j.jcbs.
+2020.09.009. La distinción que aquí se establece entre aceptación como
+operación cognitiva y rendición como transformación de la fórmula de
+operación no pretende invalidar los hallazgos clínicos de las terapias basadas
+en la aceptación, que han mostrado efectividad en múltiples contextos.
+Pretende señalar un límite filosófico: la aceptación puede reducir el
+sufrimiento que produce la lucha contra la experiencia interna sin modificar
+la estructura que genera esa experiencia. El alivio es genuino; el origen del
+malestar puede permanecer intacto.
 [31] Martin Heidegger, Ser y tiempo (1927), §§ 29–38 (la facticidad y el
 encontrarse) y §§ 54–60 (la autenticidad y la resolución). La distinción
 heideggeriana entre el Dasein que huye de su facticidad refugiándose en el
@@ -3624,8 +3636,6 @@ y el ego que se rinde. La diferencia de vocabulario es significativa: Heidegger
 habla de resolución (Entschlossenheit), que tiene connotaciones de apertura
 y decisión; este libro habla de rendición, que tiene connotaciones de cese de
 esfuerzo. Las dos operaciones son complementarias, no idénticas.
-[32] Karl Marx, El capital (1867), Libro I, Capítulo I: «La mercancía». El
-análisis marxiano del tiempo de trabajo cristalizado en el valor de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3636,6 +3646,8 @@ A.C.
 
 MÁSCARAS
 
+[32] Karl Marx, El capital (1867), Libro I, Capítulo I: «La mercancía». El
+análisis marxiano del tiempo de trabajo cristalizado en el valor de la
 mercancía no es directamente una teoría del tiempo personal, pero su
 estructura —el trabajo que se separa del trabajador y actúa como si tuviera
 vida propia— ilumina algo que la experiencia de la disforia de identidad
@@ -3848,11 +3860,11 @@ tienen precio —un valor condicional que puede ser intercambiado. La
 dignidad no depende de las cualidades del individuo ni de su utilidad: es la
 condición de todo ser racional como fin en sí mismo. Lo que aquí se
 propone es una versión ontológicamente más básica de esa intuición: la
-igualdad no descansa en la racionalidad—que puede ser mayor o menor,
-más o menos desarrollada—sino en el hecho mismo de ser sujeto, que
+igualdad no descansa en la racionalidad —que puede ser mayor o menor,
+más o menos desarrollada— sino en el hecho mismo de ser sujeto, que
 admite grados en su expresión, pero no en su fundamento. [35] El sujeto que
-opera desde la vanidad soberana—que tiene suficiencia interior para no
-necesitar que el otro lo confirme—puede reconocer esa igualdad ontológica
+opera desde la vanidad soberana —que tiene suficiencia interior para no
+necesitar que el otro lo confirme— puede reconocer esa igualdad ontológica
 sin que el reconocimiento le cueste nada. No necesita rebajar al otro para
 sostenerse, porque su sostenimiento no depende de la comparación. Y no
 necesita elevar al otro para sentirse generoso, porque su generosidad no es el
@@ -3889,7 +3901,7 @@ necesita. Necesita vínculos, necesita reconocimiento, necesita el encuentro
 con perspectivas que no son las suyas para que su sesgo pueda ser evaluado y
 su voluntad tenga algo sobre qué operar. Necesita, en el sentido más básico,
 a los otros: no como espejos que confirmen su imagen —eso sería la
-egolatría que el libro ha criticado desde sus primeras páginas—sino como
+egolatría que el libro ha criticado desde sus primeras páginas— sino como
 sujetos genuinos con quienes encontrarse.
 La diferencia entre la vanidad soberana y el ego disociado no está en si el
 sujeto necesita a los otros. Ambos necesitan. La diferencia está en qué tipo de
@@ -3960,12 +3972,12 @@ relaciones. Sino porque esa gestión no está al servicio de la supervivencia de
 ego: está al servicio de la comunicación. La imagen que el soberanamente
 suficiente presenta al otro es instrumental, no constitutiva. Si el otro no la
 acepta, el ego genuino sigue ahí. Si el otro la impugna, el ego genuino puede
-examinarlo. Si el otro lo ve a pesar de la imagen—o a través de ella—el
+examinarlo. Si el otro lo ve a pesar de la imagen —o a través de ella— el
 encuentro puede ocurrir.
 El sujeto que no usa al otro como espejo puede ver al otro. No puede ver su
 reflejo en él —que es lo que el ego disociado ve cuando mira al otro. Puede
-ver al otro. Y esa diferencia—entre ver el propio reflejo y ver a quien está
-enfrente—es la diferencia entre el encuentro como operación de
+ver al otro. Y esa diferencia —entre ver el propio reflejo y ver a quien está
+enfrente— es la diferencia entre el encuentro como operación de
 mantenimiento de la imagen y el encuentro como contacto genuino entre
 dos sujetos que tienen sesgo propio y que no necesitan del otro para que ese
 sesgo sea válido.
@@ -4101,8 +4113,8 @@ defensa de la imagen. Reinterpreta la crítica como envidia, o como
 incomprensión, o como proyección del crítico. Busca confirmación lateral
 —alguien que valide la posición impugnada. Intensifica el comportamiento
 que fue criticado, como si la intensificación pudiera resolver la crítica. O
-colapsa completamente—si la impugnación toca el fundamento de la
-imagen—en una crisis de identidad desproporcionada para el tamaño del
+colapsa completamente —si la impugnación toca el fundamento de la
+imagen— en una crisis de identidad desproporcionada para el tamaño del
 cuestionamiento.
 La vanidad soberana hace algo diferente. Examina.
 El sujeto soberanamente suficiente que es impugnado puede preguntarse —
@@ -4358,9 +4370,9 @@ Esto produce una estructura de encuentro que tiene consecuencias que el
 sujeto en disforia raramente puede ver desde adentro: el otro no es
 encontrado como sujeto sino convocado como audiencia. No se llega al otro
 preguntando quién es ese otro —se llega al otro llevando la pregunta de si
-ese otro confirmará quién soy yo. La curiosidad genuina por el otro—que es
+ese otro confirmará quién soy yo. La curiosidad genuina por el otro —que es
 uno de los indicadores más limpios de que el ego está operando desde la
-primera fórmula—queda subordinada a la urgencia de ser visto.
+primera fórmula— queda subordinada a la urgencia de ser visto.
 La máscara llega al encuentro antes que el sujeto. Ocupa el espacio, establece
 las condiciones, y solo después deja entrar al sujeto —si es que lo deja entrar.
 El otro que se encuentra con una máscara no se ha encontrado con nadie
@@ -4537,15 +4549,20 @@ resistencia, que una relación produce más sustracción que encuentro. Nada
 de eso requiere negar la igualdad ontológica del otro: requiere solo
 distinguir entre lo que el otro es como sujeto y lo que el otro hace como
 actor.
-Esta distinción tiene un antecedente directo en el argumento que el análisis
-de Arendt y la banalidad del mal: la perversidad excepcional no es necesaria
-para producir daño. Lo que produce daño a gran escala es la renuncia a la
-facultad del juicio —el sujeto que deja de preguntarse si lo que hace está bien
-porque ha delegado esa pregunta al sistema. El juicio que Arendt defiende
-no requiere negar la humanidad del otro: requiere exactamente lo
-contrario. Requiere reconocer al otro como sujeto suficientemente como
-para hacerse responsable de los efectos que los propios actos producen sobre
-él. [40]
+Esta distinción tiene un antecedente directo en el análisis de Arendt sobre la
+banalidad del mal: la perversidad excepcional no es necesaria para producir
+daño. Lo que produce daño a gran escala es la renuncia a la facultad del
+juicio —el sujeto que deja de preguntarse si lo que hace está bien porque ha
+delegado esa pregunta al sistema. El juicio que Arendt defiende no requiere
+negar la humanidad del otro: requiere exactamente lo contrario. Requiere
+reconocer al otro como sujeto suficientemente como para hacerse
+responsable de los efectos que los propios actos producen sobre él. [40]
+
+VI. Lo que el encuentro sin negociación no es: tres
+confusiones
+Antes de describir el encuentro sin negociación en sus propios términos,
+vale la pena deshacer tres confusiones que puede producir y que desviarían al
+lector hacia territorios que no son los suyos.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4556,11 +4573,6 @@ A.C.
 
 MÁSCARAS
 
-VI. Lo que el encuentro sin negociación no es: tres
-confusiones
-Antes de describir el encuentro sin negociación en sus propios términos,
-vale la pena deshacer tres confusiones que puede producir y que desviarían al
-lector hacia territorios que no son los suyos.
 La primera confusión es con la transparencia total. El encuentro sin
 negociación no es el encuentro en que el sujeto dice todo lo que piensa,
 siente y quiere sin ningún filtro. Esa versión —que ciertos discursos sobre la
@@ -4587,6 +4599,13 @@ necesariamente proximidad afectiva intensa. Puede ocurrir en
 conversaciones breves, en intercambios funcionales, en relaciones que no
 tienen la densidad de los vínculos más próximos. Lo que lo distingue no es el
 grado de intimidad sino la calidad de la presencia: el sujeto está
+genuinamente ahí, el otro es reconocido como sujeto, y el intercambio que
+ocurre entre los dos no está organizado por la urgencia de ninguno de
+gestionar la imagen del otro ante sí mismo.
+
+VII. La condición del encuentro: presencia sin programa
+Si el encuentro sin negociación no es la transparencia total, ni el acuerdo, ni
+la intimidad forzada —¿qué es?
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4597,13 +4616,6 @@ A.C.
 
 MÁSCARAS
 
-genuinamente ahí, el otro es reconocido como sujeto, y el intercambio que
-ocurre entre los dos no está organizado por la urgencia de ninguno de
-gestionar la imagen del otro ante sí mismo.
-
-VII. La condición del encuentro: presencia sin programa
-Si el encuentro sin negociación no es la transparencia total, ni el acuerdo, ni
-la intimidad forzada —¿qué es?
 ¿Qué lo hace reconocible como algo diferente de la negociación de
 imágenes que describe la sección anterior?
 La condición del encuentro genuino es la presencia sin programa.
@@ -4627,6 +4639,15 @@ programa requiere tolerar la incertidumbre de lo que el otro puede
 introducir en el encuentro. El sujeto que llega con programa sabe más o
 menos lo que va a ocurrir porque tiene el guion. El sujeto que llega con
 presencia genuina no lo sabe. El encuentro puede ir en direcciones que no
+anticipó, puede revelar perspectivas que no esperaba, puede producir en él
+mismo reacciones que no tenía preparadas.
+La fenomenología del encuentro ha sido desarrollada con distintos grados
+de profundidad en la tradición filosófica. Levinas propone que el encuentro
+con el otro —el rostro del otro como lo que excede cualquier representación
+que pueda hacerse de él— es la experiencia ética fundamental: el momento
+en que el sujeto es interpelado por alguien que no puede ser reducido a
+ninguna categoría y que por eso mismo exige una respuesta que ninguna
+norma puede predeterminar. El encuentro sin negociación que aquí se
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4637,15 +4658,6 @@ A.C.
 
 MÁSCARAS
 
-anticipó, puede revelar perspectivas que no esperaba, puede producir en él
-mismo reacciones que no tenía preparadas.
-La fenomenología del encuentro ha sido desarrollada con distintos grados
-de profundidad en la tradición filosófica. Levinas propone que el encuentro
-con el otro —el rostro del otro como lo que excede cualquier representación
-que pueda hacerse de él— es la experiencia ética fundamental: el momento
-en que el sujeto es interpelado por alguien que no puede ser reducido a
-ninguna categoría y que por eso mismo exige una respuesta que ninguna
-norma puede predeterminar. El encuentro sin negociación que aquí se
 propone conversa con esa intuición levinasiana: la presencia sin programa es
 la condición para que el otro pueda aparecer como rostro —como lo que
 supera el programa— en lugar de como personaje del guion que el sujeto
@@ -4669,6 +4681,15 @@ fricción con otros sesgos, en los momentos en que la predisposición propia
 encuentra una resistencia o una resonancia que no podría haberse producido
 sin el otro. El encuentro genuino con el otro —el que no está organizado
 por la urgencia de gestionar la imagen— es uno de los instrumentos más
+potentes para el conocimiento del propio sesgo. Porque en ese encuentro el
+otro responde a lo que realmente está ahí, no a lo que la imagen presentó
+para que respondiera.
+Esa retroalimentación —la que el otro da al ego genuino cuando ambos
+están presentes— tiene una calidad diferente a la retroalimentación que la
+negociación produce. La negociación produce retroalimentación sobre la
+imagen. Dice si la imagen funciona, si es convincente, si produce el efecto
+buscado. El encuentro genuino produce retroalimentación sobre el sujeto.
+Dice —no siempre con claridad, no siempre de manera que el sujeto pueda
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4679,15 +4700,6 @@ A.C.
 
 MÁSCARAS
 
-potentes para el conocimiento del propio sesgo. Porque en ese encuentro el
-otro responde a lo que realmente está ahí, no a lo que la imagen presentó
-para que respondiera.
-Esa retroalimentación —la que el otro da al ego genuino cuando ambos
-están presentes— tiene una calidad diferente a la retroalimentación que la
-negociación produce. La negociación produce retroalimentación sobre la
-imagen. Dice si la imagen funciona, si es convincente, si produce el efecto
-buscado. El encuentro genuino produce retroalimentación sobre el sujeto.
-Dice —no siempre con claridad, no siempre de manera que el sujeto pueda
 usar de inmediato— algo sobre cómo opera el sesgo genuino en la relación
 con alguien que también tiene sesgo genuino.
 El encuentro genuino es uno de los únicos espejos que no devuelve la
@@ -4710,6 +4722,15 @@ presencia. El otro puede seguir gestionando su imagen, puede seguir
 operando desde la suma fáctica, puede usar al sujeto soberanamente presente
 como audiencia de la misma manera que usaría a cualquier otro. El
 soberano no puede impedirlo.
+Lo que el soberano sí puede hacer es mantenerse presente sin contagiarse de
+la negociación. Puede reconocer que el otro está gestionando una imagen
+—sin juzgarlo por eso, porque la gestión de la imagen es la respuesta
+adaptativa a condiciones que el soberano también conoce desde adentro— y
+puede seguir ofreciendo su propia presencia genuina sin convertirla en un
+espejo del programa del otro.
+En algunos casos, esa presencia genuina del soberano produce algo en el
+encuentro asimétrico que no era predecible: puede crear las condiciones para
+que el otro, en algún momento del intercambio, baje la guardia, no porque
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4720,15 +4741,6 @@ A.C.
 
 MÁSCARAS
 
-Lo que el soberano sí puede hacer es mantenerse presente sin contagiarse de
-la negociación. Puede reconocer que el otro está gestionando una imagen
-—sin juzgarlo por eso, porque la gestión de la imagen es la respuesta
-adaptativa a condiciones que el soberano también conoce desde adentro— y
-puede seguir ofreciendo su propia presencia genuina sin convertirla en un
-espejo del programa del otro.
-En algunos casos, esa presencia genuina del soberano produce algo en el
-encuentro asimétrico que no era predecible: puede crear las condiciones para
-que el otro, en algún momento del intercambio, baje la guardia, no porque
 el soberano lo haya manipulado para que lo haga —eso sería una nueva
 forma de programa—, sino porque la presencia genuina de alguien que no
 necesita que el otro sea diferente de lo que es puede producir en el ego
@@ -4751,16 +4763,6 @@ no tiene: predictibilidad. El sujeto que gestiona su imagen sabe, con mayor o
 menor precisión, lo que va a obtener del encuentro. Sabe cómo va a ser
 percibido, sabe qué tiene que decir para conseguir el reconocimiento que
 busca, sabe cómo ajustar la presentación si el resultado no va en la dirección
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-108
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-MÁSCARAS
-
 deseada. Esa predictibilidad tiene valor, especialmente en contextos donde
 los costos de un encuentro que salga mal son altos.
 La presencia genuina renuncia a esa predictibilidad. El sujeto que llega al
@@ -4771,6 +4773,16 @@ reconocido la imagen. Puede encontrarse con rechazo, con incomprensión,
 con que el otro prefería la versión negociada. Puede descubrir que ciertos
 vínculos que se sostenían en la negociación de imágenes no tienen suficiente
 bajo ella para seguir sosteniéndose cuando la negociación se retira.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+108
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+MÁSCARAS
+
 Ese costo es real. No es retórico ni filosóficamente abstracto. Es la pérdida
 concreta de algunos vínculos que no sobreviven el encuentro genuino —
 porque esos vínculos existían precisamente en función de la negociación y
@@ -4787,22 +4799,12 @@ XI. Puente: del encuentro a la imputación
 El encuentro sin negociación —posible desde la vanidad soberana,
 organizado por la presencia sin programa, fundado en la igualdad
 ontológica y sostenido por la distinción entre el plano del ser y el plano de
-los actos—abre la pregunta que el capítulo siguiente necesita responder.
+los actos— abre la pregunta que el capítulo siguiente necesita responder.
 Si el sujeto que opera desde la primera fórmula se autodetermina
 causalmente —si sus actos son genuinamente suyos porque pasaron por la
 voluntad—, ¿qué ocurre con la responsabilidad? ¿Cómo se distribuye el peso
 de lo que se produce cuando el sujeto actúa? ¿Y cómo se lee esa distribución
 en el sujeto que lleva años operando desde la segunda fórmula, cuyos actos
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-109
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-MÁSCARAS
-
 no pasaron por la voluntad pero que sin embargo dejaron efectos en el
 mundo?
 Esas preguntas pertenecen al plano ético que este capítulo anunció, pero no
@@ -4814,6 +4816,15 @@ esos actos pasaron por la voluntad o no. Porque la responsabilidad, en el
 sistema de este libro, no es la prerrogativa del sujeto que siempre operó desde
 la primera fórmula. Es también la pregunta que el sujeto que está saliendo de
 la segunda fórmula tiene que poder hacerse sobre su propio pasado.
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+109
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+MÁSCARAS
+
 Notas
 [38] Erving Goffman, La presentación de la persona en la vida cotidiana
 (1959). La metáfora teatral de Goffman —la vida social como actuación ante
@@ -4821,11 +4832,11 @@ audiencias— sigue siendo el análisis más completo de la dimensión
 dramatúrgica de la interacción cotidiana. Su limitación filosófica es
 conocida: Goffman describe la actuación con tanta precisión que la
 pregunta por si hay alguien detrás de ella queda sistemáticamente fuera de su
-análisis. Él mismo lo reconoció en trabajos posteriores, especialmente en
-Estigma (1963), donde la tensión entre la identidad virtual —la que el
-contexto social impone— y la identidad real —la que el sujeto tiene—
-empieza a aparecer. Pero Goffman nunca desarrolló esa tensión en términos
-ontológicos.
+análisis. En Stigma: Notes on the Management of Spoiled Identity (1963, pp.
+2 y 127), Goffman distingue entre identidad virtual —la que el contexto
+social atribuye al individuo— e identidad real —la categoría y los atributos
+que pueden demostrarse que le pertenecen—. La lectura de esa tensión como
+pregunta ontológica es la que propone este libro.
 [39] Goffman, La presentación de la persona en la vida cotidiana, Capítulo
 VI: «Las regiones y el comportamiento regional». La distinción
 goffmaniana entre la región frontal —donde la actuación ocurre ante la
@@ -4834,16 +4845,6 @@ audiencia— y la región trasera —donde los actores se relajan y se preparan
 desde otro ángulo: la región trasera de Goffman no es el ego genuino; es el
 espacio donde la actuación se descansa y se ensaya. El ego genuino, si existe,
 estaría más acá de esa distinción.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-110
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-MÁSCARAS
-
 [40] Hannah Arendt, Eichmann en Jerusalén (1963) y La vida del espíritu
 (1978, póstumo). La tesis arendtiana sobre la banalidad del mal —que el mal
 no requiere monstruos sino la suspensión del juicio— está desarrollada en el
@@ -4857,6 +4858,16 @@ banalidad del mal.
 la exterioridad». La ética levinasiana descansa en la experiencia del rostro
 del otro como lo que desborda cualquier representación: el otro no puede ser
 reducido a ninguna categoría sin violencia ontológica. La responsabilidad
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+110
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+MÁSCARAS
+
 por el otro —que Levinas propone como la estructura ética fundamental—
 no es la consecuencia de un cálculo sino la respuesta inmediata a la
 interpelación del rostro. Lo que el análisis de este libro añade a Levinas es la
@@ -5126,7 +5137,7 @@ La imputación causal, honesta sobre sus propios límites, no puede seguir la
 cadena hasta el infinito. No porque el daño deje de ser real al alejarse del
 nodo causal, sino porque la cadena deja de ser reconstruible con la precisión
 que la imputación requiere. El daño directo —el tiempo de vida cristalizado
-en los ahorros perdidos—es cuantificable. El daño de la recuperación puede
+en los ahorros perdidos— es cuantificable. El daño de la recuperación puede
 estimarse con razonable aproximación. Las consecuencias difusas —el
 deterioro de la salud, los vínculos dañados, los proyectos aplazados— son
 reales y documentables en muchos casos, pero su atribución causal al acto
@@ -5478,10 +5489,10 @@ proporcionalidad entre daño y pena se vuelve calculable en los mismos
 términos.
 [44] La actio libera in causa es una figura jurídica desarrollada
 principalmente en el contexto del derecho penal alemán, con antecedentes
-en Hegel y Feuerbach. Su formulación moderna está en Franz von Liszt y
-fue desarrollada posteriormente por Mezger y Jescheck. El principio
-establece que la responsabilidad penal puede fundarse en el acto libre que
-causalmente precede al estado de incapacidad desde el cual se produce el
+en Hegel y Feuerbach; para su historia doctrinal, véase Ujala Joshi Jubert, La
+doctrina de la «actio libera in causa» en Derecho penal (Barcelona: Bosch,
+1992), pp. 61 ss., y Herminio Ramón Padilla Alba, «Algunas observaciones
+sobre la doctrina de la actio libera in causa en el derecho penal español»,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5492,10 +5503,15 @@ A.C.
 
 MÁSCARAS
 
-daño. La extensión filosófica que este libro propone —aplicar la lógica de la
-actio libera in causa a la disociación del ego— no tiene precedente directo
-en la literatura jurídica, pero la estructura es paralela: el ego que operó desde
-la segunda fórmula durante años ha ido construyendo las condiciones de su
+Revista Electrónica de Ciencia Penal y Criminología, 03-04 (2001), § I. Su
+formulación moderna está en Franz von Liszt y fue desarrollada
+posteriormente por Mezger y Jescheck. El principio establece que la
+responsabilidad penal puede fundarse en el acto libre que causalmente
+precede al estado de incapacidad desde el cual se produce el daño. La
+extensión filosófica que este libro propone —aplicar la lógica de la actio
+libera in causa a la disociación del ego— no tiene precedente directo en la
+literatura jurídica, pero la estructura es paralela: el ego que operó desde la
+segunda fórmula durante años ha ido construyendo las condiciones de su
 propia disociación mediante la acumulación de colapsos no operados por la
 voluntad, y esa construcción acumulada constituye el antecedente libre de
 los actos producidos desde la disociación.
@@ -5575,7 +5591,7 @@ reglas que operan como si fueran neutrales porque ya nadie recuerda que
 fueron elegidas. [46] Cuando ese sesgo institucional opera sin que ningún
 actor colectivo lo examine y opere con voluntad genuina sobre él, la
 institución está en la segunda fórmula. Su suma fáctica —el conjunto de
-reglas, prácticas y expectativas que se reproducen automáticamente—actúa
+reglas, prácticas y expectativas que se reproducen automáticamente— actúa
 sin operador. Produce resultados que ningún individuo específico eligió pero
 que todos contribuyen a sostener porque las reglas dicen que así se hace y
 nadie ha interrumpido la cadena.
@@ -5730,8 +5746,8 @@ para que ese nosotros produzca actos que ningún individuo solo hubiera
 producido. El ego colectivo de una institución es la voluntad institucional
 que puede examinar el sesgo de la institución y decidir si sostenerlo o
 modificarlo. El ego colectivo de una clase social es la capacidad de esa clase
-de actuar desde su propio sesgo genuino—desde los intereses y los valores
-que emergen de su posición y su historia—en lugar de desde el sesgo
+de actuar desde su propio sesgo genuino —desde los intereses y los valores
+que emergen de su posición y su historia— en lugar de desde el sesgo
 implantado por los arreglos hegemónicos.
 Ese ego colectivo puede disociarse con la misma lógica que el ego individual.
 Cuando las condiciones que forman los criterios de evaluación de un
@@ -5945,8 +5961,8 @@ simple y lo más dif ícil: operar la voluntad sobre el sesgo en cada acto en qu
 esa operación sea posible. No seguir automáticamente la suma fáctica
 hegemónica en los momentos en que la voluntad puede interrumpirla. No
 gestionar la imagen colectiva en los encuentros en que la presencia genuina
-es posible. No suprimir el duelo—propio ni ajeno—cuando produce la señal
-que merece ser leída.
+es posible. No suprimir el duelo —propio ni ajeno— cuando produce la
+señal que merece ser leída.
 La ética de la responsabilidad que Weber distinguió de la ética de la
 convicción opera aquí con una precisión que no siempre se le reconoce: el
 sujeto que actúa desde la ética de la responsabilidad no actúa porque el acto
@@ -6048,7 +6064,7 @@ MÁSCARAS
 [48] Byung-Chul Han, La sociedad del cansancio (2010). El diagnóstico de
 Han sobre la sociedad de rendimiento —en que la violencia ya no es la del
 poder que reprime sino la del poder que incita al sujeto a rendir más de sí
-mismo—captura con precisión el mecanismo de gestión del duelo colectivo
+mismo— captura con precisión el mecanismo de gestión del duelo colectivo
 en las sociedades contemporáneas. Lo que aquí se añade es la distinción
 entre el agotamiento como señal —el duelo del ego colectivo que resiste la
 suma fáctica del rendimiento ilimitado— y el agotamiento como
