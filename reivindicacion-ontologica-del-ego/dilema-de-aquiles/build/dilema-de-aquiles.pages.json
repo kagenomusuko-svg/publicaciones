@@ -1,6 +1,6 @@
 {
   "pdf": "dilema-de-aquiles.pdf",
-  "total_pages": 163,
+  "total_pages": 162,
   "contents": [
     {
       "key": "notas-autor",
@@ -76,8 +76,8 @@
       "key": "epilogo",
       "label": "Epílogo · Habitar la tensión",
       "kind": "chapter",
-      "physical_page": 150,
-      "printed_page": "135"
+      "physical_page": 149,
+      "printed_page": "134"
     }
   ]
 }
