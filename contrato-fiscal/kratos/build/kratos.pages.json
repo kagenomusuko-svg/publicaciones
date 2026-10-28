@@ -99,6 +99,13 @@
       "kind": "chapter",
       "physical_page": 137,
       "printed_page": "126"
+    },
+    {
+      "key": "epilogo",
+      "label": "Epílogo · Lo que Kratos entrega a Eris",
+      "kind": "chapter",
+      "physical_page": 147,
+      "printed_page": "136"
     }
   ]
 }
