@@ -1,4 +1,6 @@
 .chapter p.note-19 {
+  break-before: page;
+  page-break-before: always;
   break-inside: avoid;
   page-break-inside: avoid;
 }
