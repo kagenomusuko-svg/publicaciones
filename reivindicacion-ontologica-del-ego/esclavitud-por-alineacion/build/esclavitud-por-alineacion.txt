@@ -55,35 +55,35 @@ Capítulo 3 · Gorgias y la alineación de la nada con el noser
 
 Capítulo 4 · Predicar la ausencia
 
-44
+45
 
 PARTE III · LA RELACIÓN
 
-57
+58
 
 Capítulo 5 · La relación como ego colectivo
 
-58
+59
 
 Capítulo 6 · El contrato de la relación
 
-76
+77
 
 Capítulo 7 · Disolver sin borrar
 
-93
+94
 
 PARTE IV · EL AMOR Y EL DIAGNÓSTICO
 
-106
+107
 
 Capítulo 8 · El amor como estado, acto y criterio
 
-107
+108
 
 Capítulo 9 · El diagnóstico como alineación
 
-120
+121
 
 Epílogo · Desalinear sin fingir neutralidad
 
@@ -1297,7 +1297,7 @@ argumento es el mejor.
 Jürgen Habermas, Conciencia moral y acción comunicativa (1983), ensayo
 «Ética del discurso. Notas sobre un programa de fundamentación».
 Habermas retoma las reglas del discurso práctico formuladas por Robert
-Alexy en su teoría de la argumentación de 1978. La formulación del epígrafe
+Alexy en Theorie der juristischen Argumentation: Die Theorie des
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1308,18 +1308,24 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-es una traducción propia y condensada de la regla de participación atribuida
-a Alexy y retomada por Habermas; no reproduce una traducción española
-determinada. La palabra decisiva de esa regla —«capaz»— es la que
-examina la sección IV de este capítulo.
+rationalen Diskurses als Theorie der juristischen Begründung (Suhrkamp,
+1978). La formulación del epígrafe es una traducción propia y condensada de
+la regla de participación atribuida a Alexy y retomada por Habermas; no
+reproduce una traducción española determinada. La palabra decisiva de esa
+regla —«capaz»— es la que examina la sección IV de este capítulo.
 15
 
 El término situación ideal de habla procede de los trabajos de comienzos
-de los años setenta. En «A Philosophico-Political Profile», entrevista
-publicada en New Left Review I/151 (mayo-junio de 1985), Habermas dijo que
-la expresión sugería una situación demasiado concreta y que había dejado de
-usarla tras el ensayo de 1972. La precisión importa aquí porque la lectura
-empírica del ideal no es la de su autor.
+de los años setenta. En «A Philosophico-Political Profile», New Left
+Review I/151 (mayo-junio de 1985), pp. 75–105, Habermas llamó a ideal speech
+situation un término demasiado concreto para el conjunto de presupuestos
+comunicativos inevitables (https://doi.org/10.64590/7bs). La afirmación de
+que dejó de usar esa expresión después de su ensayo de 1972 aparece en una
+entrevista posterior: Jürgen Habermas, «Deliberative Democracy: An
+Interview», en André Bächtiger, John S. Dryzek, Jane Mansbridge y Mark
+E. Warren (eds.), The Oxford Handbook of Deliberative Democracy (Oxford
+University Press, 2018), pp. 871–882. La precisión importa aquí porque la
+lectura empírica del ideal no es la de su autor.
 16
 
 El principio del discurso (principio D) se formula en Conciencia moral y
@@ -1342,12 +1348,6 @@ Frederick G. Whelan, «Prologue: Democratic Theory and the Boundary
 Problem», en J. R. Pennock y J. W. Chapman (eds.), Liberal Democracy,
 NOMOS XXV (New York University Press, 1983). Whelan mostró que la
 democracia no puede resolver democráticamente quién constituye el pueblo.
-El principio de todos los afectados fue defendido, como salida a ese
-problema, por Robert E. Goodin, «Enfranchising All Affected Interests,
-and Its Alternatives», Philosophy & Public Affairs 35, n.º 1 (2007). La
-objeción del texto principal no es contra Goodin, sino contra la idea de que
-el principio cierre la pregunta: la desplaza hacia quién determina la
-afectación.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1358,6 +1358,12 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+El principio de todos los afectados fue defendido, como salida a ese
+problema, por Robert E. Goodin, «Enfranchising All Affected Interests,
+and Its Alternatives», Philosophy & Public Affairs 35, n.º 1 (2007). La
+objeción del texto principal no es contra Goodin, sino contra la idea de que
+el principio cierre la pregunta: la desplaza hacia quién determina la
+afectación.
 19
 
 La distinción entre participar en un discurso y ser tomado en cuenta, así
@@ -1392,13 +1398,6 @@ Critique of Actually Existing Democracy», Social Text 25/26 (1990). La
 crítica de Fraser se dirige a la reconstrucción habermasiana de la esfera
 pública burguesa y propone la noción de paridad de participación. El texto
 principal la usa en lo que tiene de descripción del mecanismo —las
-desigualdades puestas entre paréntesis siguen operando— y no en su
-propuesta de contrapúblicos subalternos, que este libro no discute.
-23
-
-El Contrato Fiscal: Kratos (Centro Multidisciplinario Meriadock, 2026),
-Prólogo, § III, entrada «Fraude annona», que distingue la negación activa
-del derecho reconocido, la omisión garantizadora y la captura selectiva del
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1409,6 +1408,13 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+desigualdades puestas entre paréntesis siguen operando— y no en su
+propuesta de contrapúblicos subalternos, que este libro no discute.
+23
+
+El Contrato Fiscal: Kratos (Centro Multidisciplinario Meriadock, 2026),
+Prólogo, § III, entrada «Fraude annona», que distingue la negación activa
+del derecho reconocido, la omisión garantizadora y la captura selectiva del
 retorno. El paso del contrato fiscal al discurso es un cambio de escala; se
 declara aquí como analogía estructural, no como identidad.
 24
@@ -2554,12 +2560,13 @@ citada en el texto principal es propia.
 
 La recepción moderna de Sobre el no-ser está dividida entre lecturas que
 subrayan su dimensión paródica y lecturas que lo consideran una tesis
-filosófica seria. Para una síntesis del debate, véase «The Sophists», The
-Stanford Encyclopedia of Philosophy; para una defensa contemporánea de la
-lectura filosófica, Erminia Di Iulio, «What Is Gorgias’ “Not Being”? A Brief
-Journey through the Treatise, the Apology of Palamedes and the
-Encomium of Helen», Revista Archai 31 (2021), https://doi.org/
-10.14195/1984-249X_31_26.
+filosófica seria. Para una síntesis del debate, véase C. C. W. Taylor y MiKyoung Lee, «The Sophists», The Stanford Encyclopedia of Philosophy,
+Spring 2025 Edition, eds. Edward N. Zalta y Uri Nodelman, https://
+plato.stanford.edu/archives/spr2025/entries/sophists/; para una defensa
+contemporánea de la lectura filosófica, Erminia Di Iulio, «What Is Gorgias’
+“Not Being”? A Brief Journey through the Treatise, the Apology of
+Palamedes and the Encomium of Helen», Revista Archai 31 (2021), https://
+doi.org/10.14195/1984-249X_31_26.
 41
 
 El dilema tiene un antecedente en el propio Sofista de Platón, 238c–239a,
@@ -2582,11 +2589,6 @@ Platón, Sofista, 241d (el «parricidio» contra Parménides) y 256d–259b (el
 no-ser como lo otro, τὸ ἕτερον). En 257b, el extranjero de Elea sostiene que,
 cuando decimos «lo que no es», no decimos algo contrario al ser, sino algo
 distinto. La traducción de las citas del texto principal es propia.
-45
-
-La cercanía con el Sofista es deliberada y conviene declararla, porque
-declarar la deuda permite precisar la diferencia que el texto principal
-establece a continuación.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2597,6 +2599,11 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
+45
+
+La cercanía con el Sofista es deliberada y conviene declararla, porque
+declarar la deuda permite precisar la diferencia que el texto principal
+establece a continuación.
 46
 
 El paso de «no estar de modo M» a «no ser en absoluto» requiere un
@@ -2632,6 +2639,16 @@ La pregunta pertenece a una larga tradición —desde la crítica kantiana
 del argumento ontológico, según la cual el ser no es un predicado real
 (Crítica de la razón pura, A598/B626), hasta la discusión contemporánea
 sobre los objetos inexistentes— que este libro no pretende resolver.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+43
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+LA ESCLAVITUD POR ALINEACIÓN
+
 50
 
 Por eso la tesis no se compromete con ninguna forma de realismo sobre
@@ -2641,7 +2658,7 @@ negarse algo sin saber qué se niega.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-43
+44
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2678,7 +2695,7 @@ una negación rigurosa necesita. Lo que el capítulo hace es trasladarlo a
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-44
+45
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2741,7 +2758,7 @@ Clínico-fisiológico, no fenomenológico
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-45
+46
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2797,7 +2814,7 @@ la evidencia disponible.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-46
+47
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2835,7 +2852,7 @@ Esquema VII — La escalera de puentes de una ausencia
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-47
+48
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2924,7 +2941,7 @@ uno.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-48
+49
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -2965,7 +2982,7 @@ acreditado —quién es, dónde y cuándo nació, quiénes son sus padres—, y 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-49
+50
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3006,7 +3023,7 @@ conviene registrar desde ahora. Cuando una negación presente se proyecta
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-50
+51
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3047,7 +3064,7 @@ determinada que no presupusiera ningún término, predicado, dominio ni
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-51
+52
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3142,7 +3159,7 @@ A examinar en la Parte III
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-52
+53
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3182,7 +3199,7 @@ está disponible para el procedimiento de hoy.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-53
+54
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3225,7 +3242,7 @@ análisis queda anclado al nivel de evidencia E0–E8 declarado para el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-54
+55
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3277,7 +3294,7 @@ política funcionó; por tanto, el modelo que la justificaba era verdadero»— 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-55
+56
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3308,7 +3325,7 @@ desacuerdo, sino con el caso que la cumple.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-56
+57
 
 REIVINDICACI Ó N
 
@@ -3354,7 +3371,7 @@ existir, qué deja de existir cuando concluye y qué permanece.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-58
+59
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3396,7 +3413,7 @@ ser un dato que la relación puede considerar o no.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-59
+60
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3411,7 +3428,7 @@ sistema del que forma parte ya dispone de los instrumentos para construirla.
 III. El instrumento
 Para decidir cuándo una pluralidad de elementos constituye una unidad de
 escala superior hace falta un criterio. El capítulo lo formula en cinco
-proposiciones, porque las va a necesitar todas. 1
+proposiciones, porque las va a necesitar todas. 61
 La agregación no es cambio de escala. Que varios elementos comparezcan
 juntos no basta para afirmar que existe una unidad nueva; hace falta una
 relación u operación constitutiva sin la cual la unidad dejaría de poder
@@ -3436,7 +3453,7 @@ elementos, y todo traslado de predicados entre escalas exige un puente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-60
+61
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3467,18 +3484,18 @@ mundo que no contrajo ninguno de los dos por separado. Esos predicados
 tienen como sujeto una unidad que no se encuentra en ninguno de los dos;
 aparecen en la relación. Es exactamente la señal de un cambio de escala: un
 predicado que solo es inteligible respecto de la unidad y que no se conserva
-por simple distribución. 2
+por simple distribución. 62
 La filosofía de la acción colectiva ha examinado esta estructura con
 instrumentos propios. Margaret Gilbert la describió como la formación de
 un sujeto plural mediante un compromiso conjunto; John Searle, como la
 presencia de intenciones en primera persona del plural que no se reducen a
 intenciones individuales; Michael Bratman, como una red de intenciones
-individuales entrelazadas que se refieren unas a otras. 3 Las tres teorías
+individuales entrelazadas que se refieren unas a otras. 63 Las tres teorías
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-61
+62
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3496,10 +3513,10 @@ que el otro hace lo mismo. La segunda es la producción de un mundo común:
 lugares, objetos, rutinas, palabras y decisiones que solo existen como
 «nuestros», y que el zorro de Saint-Exupéry describió cuando dijo que el
 trigo, después de la domesticación, tendría el color del cabello del
-principito. 4 La tercera es la acción conjunta: actos que tienen como autor a
+principito. 64 La tercera es la acción conjunta: actos que tienen como autor a
 la unidad y no a cada miembro. La cuarta es la modificación mutua que El
 telar de las Moiras describió como intercambio de partes del ego: cada
-sujeto incorpora al otro en la estructura desde la que percibe y actúa. 5
+sujeto incorpora al otro en la estructura desde la que percibe y actúa. 65
 Ninguna de estas operaciones es un sentimiento. Todas pueden estar
 acompañadas de sentimientos, y en muchos vínculos lo están con
 intensidad. Pero ninguna de ellas es la emoción de uno de los miembros.
@@ -3516,7 +3533,7 @@ Esquema IX — El test de sustracción aplicado al vínculo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-62
+63
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3589,7 +3606,7 @@ reciprocidad, el mundo común y la acción conjunta. La otra es el vínculo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-63
+64
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3610,7 +3627,7 @@ Queda la segunda pregunta: qué clase de unidad es el vínculo. El sistema del
 que este libro forma parte ya describió la emergencia de una entidad a partir
 de sujetos que se relacionan. Afrodita Areia: Caelus sostuvo que el Estado es
 un ego: que los egos soberanos, al colapsar en alteridad, producen una
-entidad nueva con identidad, voluntad y capacidad de autodeterminarse. 6
+entidad nueva con identidad, voluntad y capacidad de autodeterminarse. 66
 La pregunta es si el vínculo entre dos personas es también un ego. La
 respuesta de este libro es que lo es, y conviene mostrar por qué antes de
 mostrar qué se sigue.
@@ -3618,20 +3635,20 @@ Un ego es aquello que puede verse como causa sin la cual un acto no habría
 ocurrido de esa forma, y que asume ese acto como propio. El criterio no
 exige deliberación, ni conciencia unificada, ni causalidad exclusiva: exige
 que haya un punto de imputación que reconozca su participación en lo que
-ocurrió y lo integre en su historia. 7 Con ese criterio, la pregunta se vuelve
+ocurrió y lo integre en su historia. 67 Con ese criterio, la pregunta se vuelve
 verificable. El vínculo produce actos que no habrían ocurrido sin él: la
 mudanza que ninguno de los dos habría hecho solo, el hijo, la deuda, la
 casa, la promesa hecha a terceros. Acumula una historia propia, que no es la
 biografía de A más la de B. Y contrae compromisos con el mundo que son
 suyos: cuando la pareja firma un contrato de arrendamiento, lo firma la
 pareja, del mismo modo que, cuando una institución firma, firma la
-institución y no la persona cuya mano sostuvo la pluma. 8 Actos de los que es
-condición sine qua non, historia acumulada, compromisos propios: el
+institución y no la persona cuya mano sostuvo la pluma. 68 Actos de los que
+es condición sine qua non, historia acumulada, compromisos propios: el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-64
+65
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3648,7 +3665,7 @@ miembros y no tiene otro modo de actuar. Pedir al vínculo que asuma sus
 actos con independencia de quienes lo componen es pedirle algo que ningún
 colectivo hace. En un colectivo, la segunda mediación no está en otra parte:
 está distribuida entre las segundas mediaciones de sus miembros y opera bajo
-el marco común. 9 En el vínculo, esa distribución tiene una forma propia.
+el marco común. 69 En el vínculo, esa distribución tiene una forma propia.
 No hay órganos separados ni personas investidas por encima de los otros: los
 dos son a la vez quienes deciden y quienes ejecutan, y la representación es
 mancomunada. Ninguno firma solo por el «nosotros». «Lo hicimos» es la
@@ -3661,7 +3678,7 @@ miembros, que asume el marco común como propio y, al hacerlo, cede lo
 identidad, que son constitutivas de su ser; cede libertades de acción. Ya no
 decide solo sobre lo que se ha vuelto común, y recibe a cambio un marco
 relacional nuevo desde el que sigue actuando: ser contado, ser consultado,
-actuar como «nosotros». 10 Las firmas, cuando llegan, son actos de un ego
+actuar como «nosotros». 70 Las firmas, cuando llegan, son actos de un ego
 que ya existía. Por eso el derecho, cuando reconoce un matrimonio o una
 unión de hecho, no la crea: registra un ego colectivo que ya actuaba. A veces
 lo registra tarde, cuando la convivencia ya ha producido lo que el registro
@@ -3674,7 +3691,7 @@ Estado con una precisión que vale aquí sin modificación: un colectivo cuya
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-65
+66
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3682,7 +3699,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 voluntad fuera propia, y no prestada, podría tener intereses que compitieran
 con los de quienes lo componen, y esa es exactamente la concepción
-autoritaria del colectivo. 11 El vínculo no tiene intereses contra sus
+autoritaria del colectivo. 71 El vínculo no tiene intereses contra sus
 miembros porque no tiene otra voluntad que la que ellos le dan. Tampoco
 los funde: los miembros conservan íntegras su voluntad y su identidad. Un
 vínculo en el que una de las dos voluntades hubiera quedado absorbida por
@@ -3692,7 +3709,7 @@ mientras se renueva el reconocimiento que lo constituye. Un Estado puede
 perder el reconocimiento de uno de sus ciudadanos y seguir existiendo,
 porque lo sostienen millones. Un ego de dos no puede: el colapso colectivo
 requiere más de un ego, y si uno de los dos deja de renovar su
-reconocimiento, lo que queda no es un colectivo menor sino un solo ego. 12
+reconocimiento, lo que queda no es un colectivo menor sino un solo ego. 72
 El vínculo deja entonces de estar en curso, sin que nadie tenga que
 autorizarlo. Pero dejar de estar en curso no es estar cerrado. Lo que el ego
 común construyó lo construyeron dos, y ninguno de los dos puede darlo por
@@ -3716,7 +3733,7 @@ cancelarlos. Caelus lo mostró con la imagen más doméstica posible: la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-66
+67
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3724,7 +3741,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 familia como colectivo con su propio contrato, en el que el niño que
 reclama la injusticia del reparto entre hermanos está haciendo, en sentido
-estricto, política. 13 Formar una pareja no exime a nadie de ser hijo, amigo o
+estricto, política. 73 Formar una pareja no exime a nadie de ser hijo, amigo o
 ciudadano, del mismo modo que presidir una organización no exime de las
 obligaciones ciudadanas.
 La superposición tiene dos consecuencias que el resto de la parte necesitará.
@@ -3757,7 +3774,7 @@ retirar. Cada miembro gobierna cómo asume esos actos en su propia
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-67
+68
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3766,7 +3783,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 trayectoria: puede integrarlos, reinterpretarlos, lamentarlos o dejar de
 reconocerse en ellos. Lo que no puede hacer es retirarlos del mundo. Cada
 colapso actualiza una posibilidad y clausura otras, y las posibilidades
-clausuradas forman parte de la trayectoria por contraste. 14 Puede revisar lo
+clausuradas forman parte de la trayectoria por contraste. 74 Puede revisar lo
 que él mismo sintió; no puede declarar que no ocurrió lo que ambos
 hicieron, ni que el otro no puso lo que puso, ni que el mundo común que
 produjeron no existió. «Nunca te amé» puede ser, en el mejor de los casos,
@@ -3784,11 +3801,11 @@ separación. Y excluye, con la misma precisión, lo que no puede imponerse:
 garantizar que el otro deje de sufrir, continuar una relación que ya no puede
 sostenerse, aceptar cualquier exigencia posterior al cierre, renunciar a los
 propios límites para demostrar que el vínculo importó. La fórmula que el
-libro necesita es esta: atribuir sin cargar de menos y sin cargar de más. 15
+libro necesita es esta: atribuir sin cargar de menos y sin cargar de más. 75
 Leída así, la frase más citada del zorro —que uno es responsable para
 siempre de lo que ha domesticado— deja de ser una sentencia absoluta y se
 convierte en una pregunta de atribución, que es lo que este libro intenta
-hacer con todas sus frases fuertes. 16 ¿Qué produjo mi intervención en este
+hacer con todas sus frases fuertes. 76 ¿Qué produjo mi intervención en este
 vínculo que todavía me corresponde reconocer porque deriva de mis propios
 actos? Esa pregunta tiene respuesta en cada caso. Ninguna de sus respuestas
 posibles es «quedarme».
@@ -3796,7 +3813,7 @@ posibles es «quedarme».
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-68
+69
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3825,15 +3842,15 @@ prohibido. Afrodita Areia: Damasén dio nombre a los dos polos de ese
 régimen. Damasén es la voluntad que ya no necesita exigir porque su
 presencia es la forma del campo; Peribea, la voluntad que sigue operando
 con toda su energía desde un eje que ya no es el suyo, y que vive esa pérdida
-como madurez, como consenso, como armonía. 17 «Ya no necesito ver a mis
-amigos» puede ser una decisión propia. Puede ser también la frase de
+como madurez, como consenso, como armonía. 77 «Ya no necesito ver a
+mis amigos» puede ser una decisión propia. Puede ser también la frase de
 alguien a quien el campo ya no le ofrece otra dirección.
 Esquema X — Las dos alineaciones del vínculo
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-69
+70
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3906,7 +3923,7 @@ preguntas de los dos capítulos siguientes.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-70
+71
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3948,7 +3965,7 @@ la vez, y que ninguno excluye a los demás.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-71
+72
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -3967,21 +3984,21 @@ concluir que toda relación humana sea un ego colectivo: muchas son
 agregaciones, y no hay nada de malo en ello.
 
 Notas
-1
+61
 
 El ejemplo de la planta y la luz se usa porque separa con nitidez las tres
 relaciones que el argumento necesita distinguir: el insumo externo, la
 relación del organismo con ese insumo y la organización propia que lo
 media. Ninguna de las tres, por separado, basta para hablar de una escala
 nueva; la tercera es la que lo permite.
-2
+62
 
 La señal no autoriza a reificar la escala superior. Indica solo que el sujeto
 correcto de cierto predicado ya no es cada componente por separado, sino la
 unidad que aparece en su relación; qué más pueda afirmarse de esa unidad es
 una pregunta distinta, que necesita su propio puente. El § VI construye ese
 puente.
-3
+63
 
 Margaret Gilbert, On Social Facts (Routledge, 1989), y «Walking
 Together: A Paradigmatic Social Phenomenon», Midwest Studies in
@@ -3996,7 +4013,7 @@ de las partes. Si esa tesis se aplicara sin más al vínculo afectivo, daría al
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-72
+73
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4005,12 +4022,12 @@ LA ESCLAVITUD POR ALINEACIÓN
 algo parecido a un veto sobre la salida. El capítulo VII deberá examinarla;
 aquí basta con registrar que la existencia de un sujeto plural no implica, por
 sí sola, que el sujeto plural pueda retener a sus miembros.
-4
+64
 
 Antoine de Saint-Exupéry, El principito (1943), cap. XXI. El telar de las
 Moiras, cap. VIII, § VIII, desarrolló la escena del zorro como fenomenología
 del vínculo: lo que el amor hace al mundo es cargarlo de referencias al otro.
-5
+65
 
 El telar de las Moiras: ontología de la autodeterminación causal (Centro
 Multidisciplinario Meriadock, 2026), cap. VIII, § IX, «Relacionarse es
@@ -4018,7 +4035,7 @@ intercambiar partes: la modificación como prueba del amor». El texto
 principal retiene la descripción de la modificación mutua como operación
 constitutiva; no retiene la tesis de que esa modificación sea «prueba del
 amor», que el capítulo VIII de este libro examinará como posible criterio.
-6
+66
 
 Afrodita Areia: Caelus (Centro Multidisciplinario Meriadock, 2026),
 «Notas del autor», § I, y caps. 3 y 5. Afrodita Areia: Nikomachos (Centro
@@ -4026,7 +4043,7 @@ Multidisciplinario Meriadock, 2026), cap. 12, describe el mismo mecanismo
 como la emergencia de «una entidad nueva con su propia identidad, su
 propia primera mediación y su propia capacidad de autodeterminarse», y
 precisa que no se trata de una metáfora.
-7
+67
 
 Afrodita Areia: sobre la pasión (Centro Multidisciplinario Meriadock,
 2026), «Glosario de términos», entradas «Ego primordial» y «Segunda
@@ -4034,7 +4051,7 @@ mediación»: la operación mediante la cual un ser reconoce su participación
 causal sine qua non en un acto y lo integra en su trayectoria. El mismo
 glosario precisa que la responsabilidad no exige deliberación previa ni
 causalidad exclusiva.
-8
+68
 
 Afrodita Areia: Areópago (Centro Multidisciplinario Meriadock, 2026),
 cap. 2, «La incoherencia de la personalidad jurídica», §§ III y V. El capítulo
@@ -4047,13 +4064,13 @@ aplicación de ese criterio al vínculo de dos es de este capítulo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-73
+74
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-9
+69
 
 Afrodita Areia: Damasén (Centro Multidisciplinario Meriadock, 2026),
 cap. 16, §§ II y V: la identidad colectiva como «mascarada distribuida» entre
@@ -4063,7 +4080,7 @@ funcionando a escala colectiva», y cap. 5 identifica sus correlatos en el
 Estado: el legislativo como primera mediación, el ejecutivo como segunda.
 En el vínculo de dos no hay órganos separados; esa es la diferencia de escala
 que el texto principal registra.
-10
+70
 
 Caelus, cap. 3, §§ III–IV, y cap. 6, § III: lo que se cede en el colapso
 colectivo es la libertad —la segunda mediación operando bajo el propio
@@ -4072,13 +4089,13 @@ porque se renueva en cada acto en que el miembro reconoce las reglas
 comunes como suyas. Afrodita Areia: Ágape (Centro Multidisciplinario
 Meriadock, 2026), apéndice sobre Himeno, describe como patología lo
 contrario: dos voluntades que se comprometen a ser una.
-11
+71
 
 Caelus, cap. 5, §§ IV y X: la voluntad del ego colectivo como «capital
 prestado» y no como voluntad orgánica; la atribución de una voluntad
 propia al colectivo, capaz de competir con la de sus miembros, como rasgo
 de las concepciones autoritarias del Estado.
-12
+72
 
 Caelus, cap. 9, § III: «el colapso colectivo requiere más de un ego». El
 epílogo del mismo volumen, § III, enumera las escalas en que opera la
@@ -4086,11 +4103,11 @@ causalidad del ego: «la individual, la relacional, la institucional y la
 colectiva». La consecuencia para el vínculo de dos —que la retirada del
 reconocimiento de uno de sus miembros basta para que el ego común deje
 de estar en curso— es de este capítulo.
-13
+73
 
 Caelus, cap. 9, § VII, «La política como niño reclamando la injusticia del
 hermano».
-14
+74
 
 Caelus, cap. 2, § III: el colapso es irreversible, y esa irreversibilidad es la
 condición de posibilidad de la responsabilidad. Las posibilidades clausuradas
@@ -4100,23 +4117,24 @@ contorno de lo que efectivamente se hizo. El capítulo VI usará este rasgo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-74
+75
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-15
+75
 
 La responsabilidad afectiva, así entendida, no es una obligación
 sentimental ilimitada ni una propiedad sobre los efectos que el vínculo dejó
 en el otro. Su medida es la atribución: lo que cada acto produjo y a quién
 corresponde asumirlo. Por eso puede exigirse sin convertirse en tutela.
-16
+76
 
-Saint-Exupéry, El principito, cap. XXI. La frase del zorro se cita según la
-traducción española habitual; debe fijarse la edición.
-17
+Antoine de Saint-Exupéry, Le Petit Prince (1943), cap. XXI. La frase del
+zorro se traduce aquí del original francés: «On est responsable pour toujours
+de ce qu’on a apprivoisé».
+77
 
 Damasén, caps. 6, 7 y 9–12: el ego que colapsa hacia afuera hasta ser el
 campo; la Pax como paz unilateral; el adominio de Peribea y sus tres
@@ -4129,7 +4147,7 @@ pareja que se vuelve el único marco de sus miembros es de este capítulo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-75
+76
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4157,7 +4175,7 @@ escala. Caelus y El Contrato Fiscal: Kratos llamaron contrato fiscal al proceso
 por el que los egos soberanos ceden su libertad a un colectivo y reciben a
 cambio un marco de derechos: un capital cedido, una contraprestación
 reconocida, un pasivo permanente, un incumplimiento con nombre
-propio. 1 Si el vínculo es un ego colectivo, ese contrato no es para él una
+propio. 78 Si el vínculo es un ego colectivo, ese contrato no es para él una
 analogía que se le aplica desde fuera. Es la descripción de cómo se constituye
 todo ego colectivo, leída a la escala de dos.
 Pero leerla a esa escala exige dos cuidados desde el principio. El primero: el
@@ -4166,7 +4184,7 @@ contrato fiscal no es una contabilidad. No dice que lo vivido deba llevarse en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-76
+77
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4185,7 +4203,7 @@ mediación operando bajo su propio marco— y recibe un marco de derechos
 desde el que sigue actuando. La partida doble describe esa transacción: el
 colectivo recibe un cargo, las libertades cedidas; contrae un abono, los
 derechos que reconoce; y queda con un pasivo, la obligación permanente de
-generar las condiciones para que esos derechos puedan ejercerse. 2
+generar las condiciones para que esos derechos puedan ejercerse. 79
 En el vínculo, la estructura es la misma y su contenido es otro. Cada
 miembro cede libertades de acción: deja de decidir solo sobre lo que se ha
 vuelto común. No cede su voluntad ni su identidad, que no pueden cederse
@@ -4217,7 +4235,7 @@ sobre lo que se volvió común
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-77
+78
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4282,24 +4300,24 @@ que tiene consecuencias inmediatas. Caelus distinguió entre derechos
 otorgados y derechos reconocidos: el derecho otorgado es una concesión de
 quien tenía la potestad antes de darla, y puede retirarse a voluntad; el
 derecho reconocido es la formalización de una deuda, y quien lo limita
-carga con la prueba de que la limitación es coherente con el contrato. 3 En el
+carga con la prueba de que la limitación es coherente con el contrato. 80 En
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-78
+79
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-vínculo, el marco que cada uno recibe es reconocido, no otorgado. Por eso
+el vínculo, el marco que cada uno recibe es reconocido, no otorgado. Por eso
 hay frases que delatan una asimetría aunque se digan con afecto. «Te dejo
 ver a tus amigos», «te doy permiso» tratan el marco del otro como una
 concesión de quien habla, como si ese fuera el titular del vínculo y el otro su
 beneficiario. Es la forma doméstica de lo que Caelus describió en el Estado:
 el colectivo que deja de administrar el marco y empieza a comportarse como
-si él fuera el soberano. 4
+si él fuera el soberano. 81
 De la misma estructura se sigue un derecho que el lenguaje corriente de las
 relaciones suele presentar al revés. Caelus reconoce al ciudadano, como
 inversionista del colectivo, el derecho a que su inversión sea auditable: a
@@ -4329,7 +4347,7 @@ capítulo V describió.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-79
+80
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4341,10 +4359,10 @@ renueva en cada acto en que el ego asume las reglas del colectivo como
 propias, y distinguió esa renovación de la mera obediencia calculada: dos
 conductores frenan ante el mismo semáforo, uno porque ve al policía y otro
 porque reconoce la regla como parte del marco desde el que actúa, y aunque
-sus actos visibles sean idénticos, solo el segundo renueva el contrato. 5
+sus actos visibles sean idénticos, solo el segundo renueva el contrato. 82
 El vínculo tiene la misma estructura, y El telar la había descrito con otras
 palabras al distinguir el amor como estado del amor como acto: el amoracto es la elección, renovada como orientación de fondo, de sostener el
-vínculo y de reconocer al otro como sujeto. 6 La renovación del vínculo no
+vínculo y de reconocer al otro como sujeto. 83 La renovación del vínculo no
 es la permanencia f ísica de dos personas en la misma casa. Es la serie de actos
 en que cada una asume el mundo común como el espacio desde el que actúa.
 Dos personas pueden seguir juntas por miedo, por cálculo, por inercia o por
@@ -4352,7 +4370,7 @@ la dificultad material de separarse, y en ese caso el ego común persiste en su
 forma visible mientras su renovación se ha detenido.
 Kratos tiene un nombre para lo que ocurre cuando la renovación se detiene
 y la forma persiste: disforia de identidad, el estado del ego que opera desde
-un marco que ya no es el suyo. 7 La disforia en el vínculo no es una falta
+un marco que ya no es el suyo. 84 La disforia en el vínculo no es una falta
 moral de quien la padece; es un dato estructural, y tiene una consecuencia
 que el capítulo VII necesitará. Exigir a alguien que permanezca en un
 vínculo cuya renovación ya no ocurre no protege el vínculo: protege su
@@ -4362,13 +4380,13 @@ renovar el contrato en nombre de otro.
 
 IV. Fricción y fraude
 No toda insatisfacción dentro de un vínculo es un incumplimiento. Caelus
-distinguió la fricción constitutiva de la patológica. 8 La constitutiva nace de
+distinguió la fricción constitutiva de la patológica. 85 La constitutiva nace de
 que cada miembro sigue siendo un ego vivo, que quiere más de lo que el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-80
+81
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4385,7 +4403,7 @@ desearía.
 Esa distinción importa porque es la que impide que el vocabulario de este
 capítulo se vuelva un arma. Querer más del vínculo no es acusar al otro de
 defraudarlo. El fraude tiene una estructura, y Kratos la describió en tres
-formas que tienen correlato preciso en el vínculo. 9
+formas que tienen correlato preciso en el vínculo. 86
 La negación activa es la que la segunda parte del libro estudió en su forma
 lógica: la negación retroactiva de lo que el otro puso. «Nunca hubo nada»,
 «nunca te pedí nada», «todo lo que hiciste lo hiciste porque quisiste».
@@ -4411,7 +4429,7 @@ en todos esos casos, lo que el marco común produjo termina del lado de
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-81
+82
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4424,9 +4442,9 @@ quedó con lo que hizo posible.
 V. Reparar lo que no tiene precio
 Kratos llamó ajuste debitor a la modificación de los términos de un contrato
 cuando las condiciones originales ya no pueden cumplirse, de modo que la
-relación continúa bajo términos distintos en lugar de terminar. 10 Caelus
+relación continúa bajo términos distintos en lugar de terminar. 87 Caelus
 usó el mismo nombre para la reparación del incumplimiento: reconocer la
-deuda, medir el daño y generar las condiciones para saldarlo. 11 No son dos
+deuda, medir el daño y generar las condiciones para saldarlo. 88 No son dos
 sentidos que haya que elegir. Son dos momentos de la misma operación, y el
 vínculo muestra por qué.
 Casi nada de lo que se pone en un vínculo puede convertirse en dinero. El
@@ -4434,7 +4452,7 @@ tiempo dedicado no vuelve. La confianza perdida no tiene precio. El sueño
 que alguien entregó para que el proyecto común fuera posible no se
 devuelve. Caelus lo dijo del daño a escala colectiva con una precisión que
 aquí vale entera: el tiempo de vida afectado no puede recuperarse, y no se
-salda con dinero lo que se cobró con libertades. 12 Si reparar significara
+salda con dinero lo que se cobró con libertades. 89 Si reparar significara
 restituir, lo puesto en un vínculo sería irreparable. Pero reparar no significa
 restituir. Significa reconocer lo que se debe y cambiar las condiciones desde
 las que se sigue. Y cambiar las condiciones es, exactamente, renegociar los
@@ -4453,14 +4471,14 @@ hacer es volverse verificable: aceptar términos nuevos que hagan
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-82
+83
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
 
 comprobable su conducta, lo que Caelus llamó el derecho del acreedor a que
-la inversión sea auditable. 13 Pero volver a confiar es un acto de quien fue
+la inversión sea auditable. 90 Pero volver a confiar es un acto de quien fue
 dañado, de su propia segunda mediación. El que repara ofrece condiciones;
 no puede exigir que se acepten. Si pudiera, la reparación se volvería un nuevo
 título de retención.
@@ -4504,7 +4522,7 @@ hacerlo solo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-83
+84
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4568,7 +4586,7 @@ La tercera fila merece insistencia, porque es el punto en que el contrato, mal
 leído, se convierte en lo contrario de lo que describe. En el contrato fiscal,
 Kratos formaliza la desobediencia civil como declaración de default: un acto
 que no rompe el contrato, sino que constata que el depositario ya lo
-rompió. 14 Si esa estructura se trasladara al vínculo, toda salida tendría que
+rompió. 91 Si esa estructura se trasladara al vínculo, toda salida tendría que
 justificarse por un incumplimiento previo del otro, y quien se va sin poder
 demostrarlo quedaría como deudor. El vínculo no termina así. Deja de estar
 en curso cuando uno de los dos deja de renovar el reconocimiento que lo
@@ -4580,12 +4598,12 @@ decirse con exactitud. Hacia adelante, quien deja de renovar deja de ceder:
 vuelve a actuar sin ese marco específico. Hacia atrás, lo que ya se ejerció bajo
 el marco no se recupera, porque son actos que ocurrieron. Kratos dice que el
 capital cedido al Estado puede retirarse; Caelus, que el ciudadano puede
-retirar su reconocimiento pero no recuperar el capital cedido. 15 Las dos
+retirar su reconocimiento pero no recuperar el capital cedido. 92 Las dos
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-84
+85
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4613,7 +4631,7 @@ un inventario, y se continúa.
 El inventario tiene cinco preguntas.
 Qué sucedió realmente. No la narrativa que el vínculo construyó sobre sí
 mismo mientras estaba en curso —Damasén mostró que todo vínculo que
-se sostiene produce una historia que lo legitima—, 16 ni la que el
+se sostiene produce una historia que lo legitima—, 93 ni la que el
 resentimiento o el alivio construyen después de su fin. Los actos: lo que se
 decidió, lo que se hizo, lo que se prometió, lo que se cumplió y lo que no.
 Esta pregunta exige el cuarto puente del capítulo IV: evidencia sobre lo que
@@ -4625,7 +4643,7 @@ desaparezca del inventario, ni el propio ni el del otro.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-85
+86
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4634,7 +4652,7 @@ LA ESCLAVITUD POR ALINEACIÓN
 Qué causaste tú. Aquello de lo que uno fue condición sin la cual no habría
 ocurrido de esa forma: los daños, las expectativas producidas, las promesas
 no cerradas, la forma misma de la salida. Es la pregunta de la imputación
-causal que Areópago construyó para otro territorio, 17 y es la de la
+causal que Areópago construyó para otro territorio, 94 y es la de la
 responsabilidad afectiva del capítulo V: atribuir sin cargar de menos y sin
 cargar de más. Lo que el inventario muestra como causado por uno es lo
 único que uno tiene que reparar.
@@ -4686,7 +4704,7 @@ más
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-86
+87
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4727,7 +4745,7 @@ inventario es la segunda mediación de la salida: el acto por el que cada uno
 asume como propio lo que le corresponde de lo que el ego común hizo, y lo
 integra en la trayectoria que sigue. Es lo que Caelus llamó duelo, a escala
 colectiva: la asunción de la pérdida como parte de la integral, de manera que
-pueda orientar lo que viene con mayor precisión. 18 No consuela. Tampoco
+pueda orientar lo que viene con mayor precisión. 95 No consuela. Tampoco
 condena. Deja a cada uno con lo que realmente le pertenece, que es la única
 base desde la que se puede seguir.
 Por eso el cierre de una relación no es un acto unilateral, aunque la salida lo
@@ -4745,7 +4763,7 @@ operaciones son necesarias, y ninguna sustituye a la otra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-87
+88
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4757,7 +4775,7 @@ fuera, el otro tuvo que hacer su inventario: tomar lo que sucedió, separar lo
 suyo, asumir lo que le correspondía y continuar. Ese inventario cerró, para
 él, el marco que existía. Lo que puede ocurrir después, si ambos lo quieren,
 no es la reanudación del ego anterior, sino la constitución de otro, con
-términos nuevos y con dos sujetos que ya no son los que eran. 19 Esperar que
+términos nuevos y con dos sujetos que ya no son los que eran. 96 Esperar que
 el otro conserve abierto lo que quien se fue dejó abierto es pedirle que no
 haga su auditoría, es decir, que suspenda su propia segunda mediación a la
 espera de una decisión ajena.
@@ -4786,7 +4804,7 @@ clausura: toda salida es leída como fraude, y toda objeción del que se va
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-88
+89
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4828,7 +4846,7 @@ regresa no regresa a lo que dejó. Y puede concluir que una relación se audita
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-89
+90
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -4846,7 +4864,7 @@ puede concluir todavía cómo se ejecuta una salida que reconozca la historia
 sin quedar atrapada en ella: esa es la tarea del capítulo VII.
 
 Notas
-1
+78
 
 El Contrato Fiscal: Kratos (Centro Multidisciplinario Meriadock, 2026),
 Prólogo, «Conceptos dados», § III, que define los conceptos operativos
@@ -4855,80 +4873,25 @@ colectivo, capital del Estado, partida doble ontológica, fraude annona,
 eutaxia utópica, disforia de identidad y la distinción entre soberano y
 ciudadano. Afrodita Areia: Caelus (Centro Multidisciplinario Meriadock,
 2026), caps. 3 y 5–9.
-2
+79
 
 Caelus, cap. 7, §§ IV y VIII: la partida doble ontológica —cargo, abono y
 pasivo— y el balance del Estado. El epígrafe de este capítulo es literal de esa
 sección.
-3
+80
 
 Caelus, cap. 8, §§ II–III: las tres consecuencias de otorgar y las tres de
 reconocer, entre ellas la inversión de la carga de la prueba.
-4
+81
 
 Caelus, cap. 10, § IV, «La asimetría: el Estado que busca ser soberano». El
 capítulo V de este libro, § IX, describió la forma que esa asimetría adopta en
 el vínculo con las figuras de Damasén y Peribea.
-5
+82
 
 Kratos, cap. 1, «La renovación permanente», §§ I y II. Caelus, cap. 3, § IV,
 describe el mismo mecanismo: el contrato «se renueva en cada acto de
 reconocimiento».
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-90
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-LA ESCLAVITUD POR ALINEACIÓN
-
-6
-
-El telar de las Moiras: ontología de la autodeterminación causal (Centro
-Multidisciplinario Meriadock, 2026), cap. VIII, § XII, «El amor como acto,
-no como estado». El capítulo VIII de este libro examinará si la distinción
-entre amor-estado y amor-acto, útil como descripción, puede convertirse en
-criterio; aquí se usa solo en su función descriptiva.
-7
-
-Kratos, Prólogo, § III, entrada «Disforia de identidad», y cap. 6, «La
-disforia de identidad colectiva».
-8
-
-Caelus, cap. 10, §§ II–III y VII: la fricción constitutiva, que nace de la
-eutaxia utópica de egos vivos, y el criterio de la asimetría verificable para
-distinguirla de la patológica.
-9
-
-Kratos, cap. 5, «El fraude annona en sus tres formas»: la negación activa
-del derecho reconocido, la omisión garantizadora y la captura selectiva del
-retorno. Caelus, cap. 11, § VI, ofrece otra tipología —omisión, captura,
-ficción y desvío— construida para el Estado; el texto principal sigue la de
-Kratos porque sus tres formas tienen correlato directo en un ego de dos.
-10
-
-Kratos, cap. 4, «El ajuste debitor», §§ I y II: el ajuste no cancela la deuda;
-ajusta sus términos, y solo es tal si se mueve en la dirección de la eutaxia
-utópica de las partes.
-11
-
-Caelus, cap. 13, §§ I–IV: el ajuste debitor como justicia restaurativa y no
-punitiva, que reconoce la deuda, cuantifica el daño y genera las condiciones
-para saldarlo.
-12
-
-Caelus, cap. 13, §§ IV, V y VII: el tiempo de vida como unidad de medida
-del daño; la imposibilidad de saldar con dinero lo que se cobró con
-libertades; y el límite del ajuste, que no borra el daño porque el tiempo de
-vida afectado no puede recuperarse.
-13
-
-Caelus, cap. 7, § VII: el tercer derecho del ciudadano como inversionista,
-que la inversión sea auditable. El § II de este capítulo lo aplicó al derecho a la
-claridad sobre el marco común; su forma en la confianza —que puede
-ofrecerse a verificación pero no exigirse— es de este capítulo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4939,38 +4902,93 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-14
+83
+
+El telar de las Moiras: ontología de la autodeterminación causal (Centro
+Multidisciplinario Meriadock, 2026), cap. VIII, § XII, «El amor como acto,
+no como estado». El capítulo VIII de este libro examinará si la distinción
+entre amor-estado y amor-acto, útil como descripción, puede convertirse en
+criterio; aquí se usa solo en su función descriptiva.
+84
+
+Kratos, Prólogo, § III, entrada «Disforia de identidad», y cap. 6, «La
+disforia de identidad colectiva».
+85
+
+Caelus, cap. 10, §§ II–III y VII: la fricción constitutiva, que nace de la
+eutaxia utópica de egos vivos, y el criterio de la asimetría verificable para
+distinguirla de la patológica.
+86
+
+Kratos, cap. 5, «El fraude annona en sus tres formas»: la negación activa
+del derecho reconocido, la omisión garantizadora y la captura selectiva del
+retorno. Caelus, cap. 11, § VI, ofrece otra tipología —omisión, captura,
+ficción y desvío— construida para el Estado; el texto principal sigue la de
+Kratos porque sus tres formas tienen correlato directo en un ego de dos.
+87
+
+Kratos, cap. 4, «El ajuste debitor», §§ I y II: el ajuste no cancela la deuda;
+ajusta sus términos, y solo es tal si se mueve en la dirección de la eutaxia
+utópica de las partes.
+88
+
+Caelus, cap. 13, §§ I–IV: el ajuste debitor como justicia restaurativa y no
+punitiva, que reconoce la deuda, cuantifica el daño y genera las condiciones
+para saldarlo.
+89
+
+Caelus, cap. 13, §§ IV, V y VII: el tiempo de vida como unidad de medida
+del daño; la imposibilidad de saldar con dinero lo que se cobró con
+libertades; y el límite del ajuste, que no borra el daño porque el tiempo de
+vida afectado no puede recuperarse.
+90
+
+Caelus, cap. 7, § VII: el tercer derecho del ciudadano como inversionista,
+que la inversión sea auditable. El § II de este capítulo lo aplicó al derecho a la
+claridad sobre el marco común; su forma en la confianza —que puede
+ofrecerse a verificación pero no exigirse— es de este capítulo.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+92
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+LA ESCLAVITUD POR ALINEACIÓN
+
+91
 
 Kratos, cap. 12, «La desobediencia civil como declaración de default», § I:
 la declaración de default «no rompe el contrato sino que constata que el
 depositario ya lo rompió». Esa estructura —una salida justificada por el
 incumplimiento previo de la otra parte— pertenece al Estado, y es la que el
 texto principal declara intransferible al vínculo.
-15
+92
 
 Kratos, Prólogo, § III, entrada «Capital del Estado»: «Porque es un
 depósito —y no una propiedad orgánica— puede retirarse». Caelus, cap. 7,
 nota 83: el ciudadano «puede retirar el reconocimiento, pero no puede
 recuperar el capital cedido». La distinción temporal que concilia ambas
 formulaciones es de este capítulo.
-16
+93
 
 Afrodita Areia: Damasén (Centro Multidisciplinario Meriadock, 2026),
 cap. 15, § II: la tercera razón de la persistencia del vínculo colapsado es la
 narrativa que el vínculo construye de sí mismo y que lo legitima.
-17
+94
 
 Afrodita Areia: Areópago (Centro Multidisciplinario Meriadock, 2026),
 cap. 4, «El nodo necesario como criterio»: es responsable el nodo sin el cual
 el daño no se habría producido de esa forma específica, con independencia
 de si quiso producirlo.
-18
+95
 
 Caelus, cap. 10, § VI: la vanidad soberana, la rendición y el duelo como
 procesos del retorno a escala colectiva; el duelo como «la asunción de la
 pérdida como parte de la integral del colectivo, de manera que pueda
 orientar el contrato futuro con mayor precisión».
-19
+96
 
 Damasén, cap. 15, § V: «el vínculo que existe después del retorno, si el
 retorno ocurre, no es el mismo vínculo que existía antes». El volumen lo
@@ -4981,7 +4999,7 @@ transformó a quien se quedó.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-92
+93
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5019,7 +5037,7 @@ quedó. Ese acto no es de uno solo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-93
+94
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5040,7 +5058,7 @@ la filosof ía de la acción colectiva. El capítulo V registró que Margaret
 Gilbert describe la formación de un sujeto plural mediante un compromiso
 conjunto, y que, en su teoría, un compromiso conjunto no puede en general
 rescindirse unilateralmente: requiere el concurso de las partes, salvo que estas
-hayan entendido otra cosa desde el principio. 1 Si un vínculo es un
+hayan entendido otra cosa desde el principio. 97 Si un vínculo es un
 compromiso conjunto en ese sentido, entonces quien se va sin el acuerdo del
 otro estaría, por lo menos, violando algo. Y de ahí a afirmar que el otro tiene
 un veto sobre la salida hay un paso que muchos están dispuestos a dar.
@@ -5052,7 +5070,7 @@ afecta como unidad. Por eso la salida es un acto atribuible, con
 consecuencias, y no un simple cambio de preferencias. La responsabilidad
 afectiva, tal como la definió el capítulo V, alcanza precisamente aquí: la
 decisión de separarse, y también la forma en que se ejecuta, es un acto
-atribuible. 2
+atribuible. 98
 Lo que la objeción no puede sostener es el paso del compromiso al veto. Aun
 dentro de la teoría de Gilbert, lo que un compromiso conjunto otorga a
 cada parte es una posición para exigir a la otra que actúe conforme a él y para
@@ -5061,7 +5079,7 @@ reprocharle si no lo hace. Esa posición es real, y en el vocabulario de este
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-94
+95
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5084,7 +5102,7 @@ Un veto sobre la salida no conservaría el vínculo, porque el que se queda no
 puede sostener solo un ego de dos: conservaría su forma mientras su
 renovación ya no ocurre. Sería, en sentido estricto, la producción deliberada
 de la disforia que Kratos describió a escala colectiva: un sujeto obligado a
-operar desde un marco que ya no es el suyo. 3
+operar desde un marco que ya no es el suyo. 99
 Que la salida no requiera el consentimiento del otro no la convierte, sin
 embargo, en un cierre. Quien se va puede dejar de renovar; no puede declarar
 cerrado, por sí solo, lo que se construyó entre dos, del mismo modo que un
@@ -5097,14 +5115,14 @@ El derecho ha llegado, por sus propios caminos, a una conclusión
 equivalente. En México, la legislación de la Ciudad de México admitió en
 2008 el divorcio sin expresión de causa, y la Suprema Corte sostuvo después
 que exigir la acreditación de causales para disolver el matrimonio vulnera el
-derecho al libre desarrollo de la personalidad. 4 El derecho no dice que el
+derecho al libre desarrollo de la personalidad. 100 El derecho no dice que el
 matrimonio no haya existido ni que sus consecuencias desaparezcan: sigue
 ocupándose de lo que el matrimonio contrajo, de los alimentos, de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-95
+96
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5118,7 +5136,7 @@ si el sujeto sostiene su límite y el otro continúa traspasándolo, la
 información que eso produce no es sobre la maldad del otro, sino sobre la
 viabilidad de la relación, y hacerse responsable de la decisión de cuándo una
 relación ha dejado de ser habitable es uno de los ejercicios más dif íciles de la
-autodeterminación. 5 El capítulo añade solo una precisión: esa decisión no
+autodeterminación. 101 El capítulo añade solo una precisión: esa decisión no
 necesita que el otro haya traspasado nada. Basta que la renovación haya
 dejado de ocurrir.
 
@@ -5146,7 +5164,7 @@ reclamarse; ni siquiera el reconocimiento de que algo se perdió.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-96
+97
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5168,7 +5186,7 @@ experiencia presente en sus términos, de modo que no se ha salido, solo ha
 cambiado de forma la dependencia. La tercera es la reintegración: reconocer
 lo que el vínculo produjo, asumirlo como parte de la propia trayectoria y
 construir desde ahí una posición que no niegue el pasado ni quede atrapada
-en él. El telar la llamó volver a habitarse. 6
+en él. El telar la llamó volver a habitarse. 102
 El capítulo conserva la distinción y la traduce al vocabulario de la tercera
 parte, porque la traducción revela algo que la descripción original no
 mostraba: las dos maneras fallidas son las dos alineaciones del capítulo V,
@@ -5213,7 +5231,7 @@ presente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-97
+98
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5272,7 +5290,7 @@ afirmación puede ser recibida no como información sobre el vínculo, sino
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-98
+99
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5288,8 +5306,8 @@ egoísta», «no sabe comprometerse», «traiciona lo que construimos». Su
 decisión se convierte en evidencia de un defecto moral que la invalida.
 Quien se quedó tampoco necesita refutarla: la ha clasificado.
 Hay una regla que aquí se vuelve decisiva: el mismo criterio debe aplicarse
-cuando cambia el objeto evaluado. 7 Si la experiencia presente de quien se va
-tiene autoridad sobre su presente, la experiencia de quien se queda tiene
+cuando cambia el objeto evaluado. 103 Si la experiencia presente de quien se
+va tiene autoridad sobre su presente, la experiencia de quien se queda tiene
 autoridad sobre el suyo, incluido su duelo. Y si la historia común no puede
 ser negada por quien se va, tampoco puede ser usada por quien se queda
 como título de retención. El criterio que protege a uno es el mismo que
@@ -5305,7 +5323,7 @@ alternativa —la soledad, la incertidumbre, la represalia— parece más
 amenazante que el daño conocido. Y advirtió que quien hiere y no es
 confrontado se vuelve soberano en sentido hobbesiano: la ausencia de límite
 le otorga un poder que nadie le cedió conscientemente, pero que nadie le
-negó. 8 Un argumento que dijera a quien vive en un vínculo así que debe
+negó. 104 Un argumento que dijera a quien vive en un vínculo así que debe
 reconocer la historia común, comunicar su salida, explicar su decisión y
 resolver todo lo compartido antes de irse sería, en la práctica, un argumento
 para que no se vaya. Sería una deuda de permanencia disfrazada de
@@ -5313,7 +5331,7 @@ responsabilidad.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-99
+100
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5344,18 +5362,18 @@ preservar el vínculo; busca liberar al sujeto del poder que el daño ejerce sob
 él. No borra el acto, que pertenece a la historia irreversible de lo que fue; no
 niega el daño; no elimina el límite. Decide que el daño no seguirá
 organizando la propia posición. Y no implica reconciliación: es un acto
-interno, no un contrato bilateral. 9
+interno, no un contrato bilateral. 105
 La estructura es la de este capítulo aplicada a otro objeto. Perdonar sin
 volver es no prolongar el vínculo en curso. Perdonar sin borrar es no negar
 el vínculo histórico. El telar encontró en Arendt la idea de que el perdón
-interrumpe la cadena automática de consecuencias de un acto pasado. 10
+interrumpe la cadena automática de consecuencias de un acto pasado. 106
 Conviene precisar que interrumpir las consecuencias no es deshacer el acto:
 el acto queda en la historia y el perdón cambia el lugar que ocupa. La
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-100
+101
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5367,9 +5385,9 @@ Lo mismo puede decirse del vínculo histórico después de una salida bien
 ejecutada. No manda: no obliga a nadie a permanecer, a sentir ni a volver.
 Pero tampoco desaparece: forma parte de lo que cada uno es, y su memoria
 es información. El telar advirtió que borrar esa memoria no sería salud, sino
-amputación. 11 Este libro añade que borrarla tampoco sería libertad, porque
-la libertad que se obtiene negando lo que se vivió depende de que nadie
-recuerde lo contrario.
+amputación. 107 Este libro añade que borrarla tampoco sería libertad,
+porque la libertad que se obtiene negando lo que se vivió depende de que
+nadie recuerde lo contrario.
 
 VIII. Una salida que disuelve sin borrar
 El capítulo puede ahora reunir sus resultados en una descripción de lo que
@@ -5418,7 +5436,7 @@ como verdad sobre lo común
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-101
+102
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5469,7 +5487,7 @@ aceptara, quien sale de un vínculo sin dolor quedaría expuesto a la negación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-102
+103
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5512,89 +5530,87 @@ pregunta de la cuarta parte.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-103
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-LA ESCLAVITUD POR ALINEACIÓN
-
-Notas
-1
-
-Margaret Gilbert, «Walking Together: A Paradigmatic Social
-Phenomenon», Midwest Studies in Philosophy 15 (1990), y A Theory of
-Political Obligation (Oxford University Press, 2006). La tesis de que un
-compromiso conjunto no puede, en general, rescindirse unilateralmente, y
-la de que otorga a las partes una posición para exigir conformidad y
-reprochar su falta, se presentan en el texto principal según su formulación
-general; deben verificarse en el texto antes de la edición definitiva.
-2
-
-Capítulo V, § VIII. La forma de ejecución pertenece al acto y no a sus
-circunstancias: dos separaciones con la misma decisión de fondo pueden
-diferir enteramente en lo que se debe por ellas, según se haya comunicado,
-ocultado o diferido. El capítulo VI, § V, la describió como la última
-renegociación del contrato.
-3
-
-El Contrato Fiscal: Kratos (Centro Multidisciplinario Meriadock, 2026),
-Prólogo, § III, entrada «Disforia de identidad»: el estado del ego que opera
-desde un marco que no es el suyo. Capítulo VI de este libro, § III.
-4
-
-La reforma al Código Civil para el Distrito Federal que introdujo el
-divorcio sin expresión de causa se publicó en 2008. La Primera Sala de la
-Suprema Corte de Justicia de la Nación sostuvo, en jurisprudencia de 2015,
-que el régimen que exige acreditar causales para disolver el matrimonio
-vulnera el derecho al libre desarrollo de la personalidad. La fecha exacta de
-la reforma, el número de la tesis jurisprudencial y su redacción deben
-verificarse antes de la edición definitiva.
-5
-
-El telar de las Moiras: ontología de la autodeterminación causal (Centro
-Multidisciplinario Meriadock, 2026), cap. VI, § VII, «El respeto no
-comienza cuando el otro cambia». Véase también el § III del mismo
-capítulo: lo que el sujeto controla no es lo que el otro hace, sino lo que
-permite, lo que tolera, lo que nombra y lo que no va a sostener.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
 104
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-6
+Notas
+97
+
+Margaret Gilbert, «Walking Together: A Paradigmatic Social
+Phenomenon», Midwest Studies in Philosophy 15 (1990), y A Theory of
+Political Obligation (Oxford University Press, 2006). En su teoría, un
+compromiso conjunto no puede, en general, rescindirse unilateralmente sin
+el concurso de las partes, salvo que estas hayan entendido otra cosa; también
+confiere a cada parte posición para exigir conformidad y reprochar su falta.
+98
+
+Capítulo V, § VIII. La forma de ejecución pertenece al acto y no a sus
+circunstancias: dos separaciones con la misma decisión de fondo pueden
+diferir enteramente en lo que se debe por ellas, según se haya comunicado,
+ocultado o diferido. El capítulo VI, § V, la describió como la última
+renegociación del contrato.
+99
+
+El Contrato Fiscal: Kratos (Centro Multidisciplinario Meriadock, 2026),
+Prólogo, § III, entrada «Disforia de identidad»: el estado del ego que opera
+desde un marco que no es el suyo. Capítulo VI de este libro, § III.
+100
+
+La reforma al Código Civil para el Distrito Federal que introdujo el
+divorcio sin expresión de causa se publicó en la Gaceta Oficial del Distrito
+Federal el 3 de octubre de 2008. Véase Suprema Corte de Justicia de la
+Nación, Primera Sala, jurisprudencia 1a./J. 28/2015 (10a.), registro digital
+2009591, sobre la inconstitucionalidad de exigir la acreditación de causales
+para disolver el matrimonio.
+101
+
+El telar de las Moiras: ontología de la autodeterminación causal (Centro
+Multidisciplinario Meriadock, 2026), cap. VI, § VII, «El respeto no
+comienza cuando el otro cambia». Véase también el § III del mismo
+capítulo: lo que el sujeto controla no es lo que el otro hace, sino lo que
+permite, lo que tolera, lo que nombra y lo que no va a sostener.
+102
 
 El telar de las Moiras, cap. VIII, § XI, «Separarse: volver a habitarse». El
 epígrafe de este capítulo es literal de esa sección.
-7
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+105
+
+REIVINDICACIÓN ONTOLÓGICA DEL EGO
+
+LA ESCLAVITUD POR ALINEACIÓN
+
+103
 
 Es una regla de simetría de predicación: un criterio que cambia cuando
 cambia el evaluado ha dejado de ser un criterio y se ha vuelto una posición.
 Los capítulos anteriores la aplicaron entre un marco y quien es evaluado por
 él; aquí se aplica entre dos personas que se evalúan mutuamente.
-8
+104
 
 El telar de las Moiras, cap. VII, § II, «Traducción existencial: someterse
 para no ser devorado».
-9
+105
 
 El telar de las Moiras, cap. VII, §§ III, IV y V. Las fórmulas «se puede
 perdonar sin volver», «el perdón libera al yo; no garantiza nada al otro ni
 exige nada sobre el vínculo» y «ya no manda; avisa» proceden del § V. El
 glosario del mismo libro describe el resentimiento como el estado que
 mantiene al agresor como soberano de la historia del sujeto.
-10
+106
 
 Hannah Arendt, La condición humana (1958), cap. V, § 33, citada en El
 telar de las Moiras, cap. VII, § III. La precisión del texto principal —que
 interrumpir las consecuencias de un acto no equivale a deshacerlo— es
 compatible con el § IV del capítulo de El telar, que afirma que el perdón
 auténtico no borra el acto.
-11
+107
 
 El telar de las Moiras, cap. VII, § V. El telar apoya esa tesis en Paul
 Ricoeur, La memoria, la historia, el olvido (2000), y en su noción de un
@@ -5603,7 +5619,7 @@ trabajo de duelo que elabora sin borrar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-105
+106
 
 REIVINDICACI Ó N
 
@@ -5647,7 +5663,7 @@ confundiría la jurisdicción de una frase con su verdad. Lo que el capítulo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-107
+108
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5661,8 +5677,8 @@ II. Tres usos de una frase sobre el amor
 Una misma oración puede cumplir funciones distintas según quién la
 pronuncia, a quién y para qué. La descripción no es superior a la
 prescripción, ni la prescripción a la descripción; lo único que se exige es
-nombrar cada operación correctamente. 1 Para el caso del amor, el capítulo
-distingue tres usos.
+nombrar cada operación correctamente. 108 Para el caso del amor, el
+capítulo distingue tres usos.
 El uso descriptivo dice lo que el amor suele hacer o lo que ocurre a menudo
 cuando se ama: que la separación duele, que el vínculo modifica a quienes lo
 viven, que la idealización inicial cede ante el otro real. Su sujeto es el
@@ -5688,7 +5704,7 @@ tránsito al tercer uso o si lo facilita.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-108
+109
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5704,7 +5720,7 @@ sujeto. El telar sostuvo, siguiendo a Fromm, que el amor entendido como
 estado tiene una fragilidad estructural —parece terminar cuando la
 intensidad emocional disminuye—, mientras que el amor entendido como
 acto puede sobrevivir a esos cambios porque depende de que la elección se
-renueve. 2
+renueve. 109
 La distinción es, ante todo, descriptiva, y como descripción tiene un mérito
 que la tercera parte de este libro puede ahora reconocer con precisión.
 Coincide casi exactamente con el resultado del test de sustracción del
@@ -5727,7 +5743,7 @@ hacerlo en dos direcciones.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-109
+110
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5755,11 +5771,11 @@ Hay que decir, en justicia, que El telar contiene la frase que impide este uso.
 Al final de su penúltima sección escribe que el sí definitivo al otro se renueva
 o no se renueva en cada encuentro real, y que «la disposición a renovarlo —
 o la conciencia honesta de que ya no puede renovarse— es exactamente la
-autodeterminación causal aplicada al amor». 3 La conciencia de que el sí ya
-no puede renovarse no aparece ahí como fracaso, sino como una de las dos
-formas legítimas de la misma autodeterminación. La auditoría no necesita
-corregir El telar en este punto; le basta con señalar que esa frase debe leerse
-como cláusula de jurisdicción de todas las demás.
+autodeterminación causal aplicada al amor». 110 La conciencia de que el sí
+ya no puede renovarse no aparece ahí como fracaso, sino como una de las
+dos formas legítimas de la misma autodeterminación. La auditoría no
+necesita corregir El telar en este punto; le basta con señalar que esa frase
+debe leerse como cláusula de jurisdicción de todas las demás.
 
 V. El operador de la genuinidad
 Si la distinción entre estado y acto resiste la auditoría, ¿dónde se produce
@@ -5768,7 +5784,7 @@ entonces el tránsito al criterio? El examen del capítulo VIII de El telar
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-110
+111
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5790,14 +5806,14 @@ separación no le dolió; alguien amó y no fue modificado del modo descrito
 eso no era amor genuino. La filosof ía de la argumentación conoce esta
 maniobra desde que Antony Flew la ilustró con el ejemplo de quien sostiene
 que ningún escocés echa azúcar a sus gachas y, al saber de uno que lo hace,
-responde que ningún verdadero escocés lo haría. 4 La afirmación se vuelve
+responde que ningún verdadero escocés lo haría. 111 La afirmación se vuelve
 invulnerable a los contraejemplos, pero lo hace al precio de dejar de decir
 algo sobre el mundo: ahora solo dice algo sobre cómo se usará el adjetivo.
 En el vocabulario del capítulo IV, una afirmación así ha perdido su
 condición de derrota. Ningún caso puede refutarla, porque todo caso que la
 contradiga queda redefinido como caso de otra cosa. Y una negación sin
 condición de derrota —«eso no fue amor»— es, en el plano de la
-proposición, lo que la clausura es en el plano de las instituciones. 5 El
+proposición, lo que la clausura es en el plano de las instituciones. 112 El
 operador de la genuinidad es el mecanismo exacto por el cual una
 descripción del amor se convierte en criterio.
 
@@ -5808,7 +5824,7 @@ ficha completa del capítulo IV.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-111
+112
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5833,7 +5849,7 @@ admite ninguno.
 Y sin embargo esos casos existen, y no son raros. El primero es el del duelo
 que ocurre antes de la separación. La psiquiatría describió hace ochenta años
 el duelo anticipado: el proceso por el cual quien prevé una pérdida empieza a
-elaborarla antes de que ocurra. 6 Quien vio morir lentamente un vínculo
+elaborarla antes de que ocurra. 113 Quien vio morir lentamente un vínculo
 durante meses o años puede llegar al momento de la separación habiendo
 hecho ya buena parte de su duelo. El dolor existió; ocurrió antes. Medido en
 el momento de la separación, su ausencia no prueba que no hubo entrega:
@@ -5851,7 +5867,7 @@ la pérdida de golpe. Si el dolor en el momento de la separación es el criterio
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-112
+113
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5885,7 +5901,7 @@ descriptivo que se conserva y una formulación que, en algún punto, facilita
 el tránsito al criterio.
 El telar sostiene, con Žižek, que el amor que no implica riesgo —el que se
 administra para no exponer demasiado— no es amor, sino un acuerdo de
-conveniencia mutua que se llama amor porque es más tranquilizador. 7
+conveniencia mutua que se llama amor porque es más tranquilizador. 114
 Como descripción de lo que el amor exige a menudo, la tesis es iluminadora.
 Como criterio, divide los vínculos en amorosos y convenientes según un
 grado de exposición que nadie fuera del vínculo puede medir, y que quizá
@@ -5893,7 +5909,7 @@ grado de exposición que nadie fuera del vínculo puede medir, y que quizá
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-113
+114
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5904,11 +5920,11 @@ enseñado a exponerse poco, y cuyos vínculos son, dentro de esa medida,
 entregas completas. El criterio de la exposición las declararía incapaces de
 amar.
 El telar sostiene que la ausencia de dolor no es salvación, sino la ausencia del
-vínculo mismo, al comentar la escena del zorro. 8 La frase tiene el mismo
+vínculo mismo, al comentar la escena del zorro. 115 La frase tiene el mismo
 problema que la del epígrafe y admite la misma reformulación.
 El telar sostiene que toda relación genuina implica una modificación del
 ego, y que el sujeto que ha amado no puede pretender sin falsedad que ese
-amor no lo modificó. 9 La segunda parte de la tesis es una de las piezas que
+amor no lo modificó. 116 La segunda parte de la tesis es una de las piezas que
 este libro usó para fundar la imposibilidad de borrar el vínculo histórico, y
 se conserva sin reservas. La primera parte usa el operador de la genuinidad: la
 modificación pasa de ser lo que ocurre a menudo a ser la prueba de que hubo
@@ -5916,7 +5932,7 @@ relación. Como el dolor, la modificación puede no ser visible, puede haber
 ocurrido en dimensiones que el propio sujeto no registra y puede tener una
 cronología distinta de la que el criterio supone.
 El telar cierra con la fórmula de que amar es aceptar la herida como precio
-de existir con otro. 10 Leída como recomendación en primera persona —
+de existir con otro. 117 Leída como recomendación en primera persona —
 quien quiera amar debe estar dispuesto a ser herido—, es una orientación
 honesta. Leída como criterio, convierte la herida en el comprobante del
 amor, y sitúa a quien no fue herido en la posición de quien no pagó, y por
@@ -5934,7 +5950,7 @@ vínculos que uno acepta—, pero advierte que introduce el merecimiento en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-114
+115
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -5942,20 +5958,20 @@ LA ESCLAVITUD POR ALINEACIÓN
 
 el amor, cuando el merecimiento es una categoría de la justicia, y concluye:
 no recibimos el amor que merecemos; recibimos el amor que el otro puede
-dar. 11 Es una auditoría de predicado ejemplar: identifica un concepto
+dar. 118 Es una auditoría de predicado ejemplar: identifica un concepto
 trasladado de una jurisdicción a otra y lo devuelve a la suya.
 El segundo es su lectura de Fromm. El telar advierte que la tesis según la cual
 hay que amarse a uno mismo antes de poder amar a otro produce una
 paradoja: declara incapaces de recibir amor precisamente a quienes más lo
 necesitan, hasta que hayan trabajado lo suficiente en sí mismos. Y propone
 una relación dialéctica: el amor propio y el amor al otro se construyen
-mutuamente en el encuentro. 12 Es, en el vocabulario de este libro, la
+mutuamente en el encuentro. 119 Es, en el vocabulario de este libro, la
 detección de una clausura —un criterio de capacidad que excluye a quien no
 lo satisface y le impide satisfacerlo— y su corrección.
 El tercero es su límite explícito al amor incondicional: amar lo imperfecto
 del otro no significa soportarlo todo, y se puede amar a alguien sin aceptar
-que dañe. 13 Es la cláusula que impide que la tesis del sí definitivo se convierta
-en obligación de permanecer junto a quien hiere.
+que dañe. 120 Es la cláusula que impide que la tesis del sí definitivo se
+convierta en obligación de permanecer junto a quien hiere.
 Estos tres pasajes muestran que el problema del capítulo no es su método,
 sino su aplicación desigual. El telar audita los criterios ajenos y deja sin
 auditar algunos de los propios. Este capítulo no hace otra cosa que extender a
@@ -5969,7 +5985,7 @@ Esquema XVI — Resultado de la auditoría de El telar, cap. VIII
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-115
+116
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6095,7 +6111,7 @@ Se pone en tensión
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-116
+117
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6160,7 +6176,7 @@ practicaba la desalineación sobre criterios ajenos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-117
+118
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6178,24 +6194,24 @@ la pregunta del capítulo IX, que el § IX de este capítulo dejó anunciada al
 matizar la noción de «ego sano».
 
 Notas
-1
+108
 
 Si se ha decidido una convención, se registra como convención; si se ha
 observado una regularidad, como observación; si se propone una norma,
 como norma; si se afirma una ontología, se presenta el puente que la
 sostiene. El defecto nunca está en el registro elegido, sino en el cambio de
 registro que no se declara.
-2
+109
 
 El telar de las Moiras: ontología de la autodeterminación causal (Centro
 Multidisciplinario Meriadock, 2026), cap. VIII, § XII, «El amor como acto,
 no como estado». El telar atribuye la distinción a Erich Fromm, El arte de
 amar (1956).
-3
+110
 
 El telar de las Moiras, cap. VIII, § XIII, «Amar lo imperfecto: el sí
 definitivo». La cita es literal.
-4
+111
 
 Antony Flew, Thinking About Thinking (1975), donde aparece el ejemplo
 del «verdadero escocés». La maniobra consiste en proteger una
@@ -6206,57 +6222,57 @@ evitar consecuencias: su extensión cambia según lo que haya que proteger.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-118
+119
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-5
+112
 
 Capítulo IV de este libro, § VII, «La negación que puede perder». Una
 negación que no puede perder se convierte con facilidad en una cláusula
 metafísica de cierre.
-6
+113
 
-Erich Lindemann, «Symptomatology and Management of Acute Grief»,
-American Journal of Psychiatry 101 (1944), donde se describe el duelo que se
-anticipa a una pérdida previsible. El texto principal usa el fenómeno solo
-como contraejemplo de la frase auditada; no adopta ninguna teoría clínica
-del duelo, y el capítulo IX examinará los límites del uso de categorías
-clínicas en este libro.
-7
+Erich Lindemann, «Symptomatology and Management of Acute
+Grief», American Journal of Psychiatry 101 (1944), donde se describe el
+duelo que se anticipa a una pérdida previsible. El texto principal usa el
+fenómeno solo como contraejemplo de la frase auditada; no adopta ninguna
+teoría clínica del duelo, y el capítulo IX examinará los límites del uso de
+categorías clínicas en este libro.
+114
 
 El telar de las Moiras, cap. VIII, § II, «Žižek: el amor como acto
 peligroso».
-8
+115
 
 El telar de las Moiras, cap. VIII, § VIII, «La domesticación: el zorro y el
 principito».
-9
+116
 
 El telar de las Moiras, cap. VIII, § IX, «Relacionarse es intercambiar
 partes: la modificación como prueba del amor».
-10
+117
 
 El telar de las Moiras, cap. VIII, § XIV, «Síntesis: amor y
 autodeterminación causal».
-11
+118
 
 El telar de las Moiras, cap. VIII, § V, «No recibimos el amor que
 merecemos».
-12
+119
 
 El telar de las Moiras, cap. VIII, § VI, «Amarse a sí mismo: soportarse sin
 inflarse».
-13
+120
 
 El telar de las Moiras, cap. VIII, § XIII.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-119
+120
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6294,7 +6310,7 @@ automática.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-120
+121
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6305,10 +6321,10 @@ que se cierra El enfermo imaginario, un aspirante a médico es examinado
 por un tribunal de doctores, que le pregunta por qué el opio hace dormir. El
 aspirante responde en latín macarrónico que el opio hace dormir porque
 tiene una virtud dormitiva, cuya naturaleza es adormecer los sentidos, y el
-tribunal lo aplaude. 1 La respuesta no es falsa. Es vacía: devuelve como
+tribunal lo aplaude. 121 La respuesta no es falsa. Es vacía: devuelve como
 explicación el mismo fenómeno que se le pidió explicar, ahora con nombre
 técnico. Molière, que había hecho del médico un personaje recurrente de su
-teatro, tenía buenas razones para reírse. 2 El capítulo examina cuándo el
+teatro, tenía buenas razones para reírse. 122 El capítulo examina cuándo el
 diagnóstico de una persona se parece a la virtud dormitiva y cuándo no.
 
 II. Cuatro usos de una categoría
@@ -6373,7 +6389,7 @@ evitativo»
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-121
+122
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6402,7 +6418,7 @@ Los dos primeros usos pueden ser perfectamente legítimos. El descriptivo
 nombra una regularidad y puede ser derrotado por casos. El clínico tiene
 una jurisdicción propia, unos criterios y un fin; una disciplina puede
 construir categorías excelentes e intervenir con eficacia sin haber resuelto
-qué es ontológicamente aquello sobre lo que trabaja. 3 Ninguno de los dos
+qué es ontológicamente aquello sobre lo que trabaja. 123 Ninguno de los dos
 afirma que la categoría agote a la persona.
 El tercer uso es el que exige más cuidado, porque no es ilegítimo en sí
 mismo: algunas explicaciones causales que invocan disposiciones son
@@ -6410,7 +6426,7 @@ correctas. Pero tiene una carga probatoria que casi nunca se satisface fuera de
 la clínica, y el § III mostrará cuál es. El cuarto uso no tiene jurisdicción en
 ningún dominio. El capítulo IV ya lo había excluido: ninguna negación
 localizada, y ninguna predicación localizada, autoriza a decir que un sujeto
-queda agotado por el predicado aplicado a su acto. 4
+queda agotado por el predicado aplicado a su acto. 124
 
 III. La virtud dormitiva
 El uso causal de una categoría tiene una forma característica que conviene
@@ -6421,23 +6437,23 @@ evitativo? Porque evita la intimidad.» La categoría se define por un
 conjunto de conductas y después se invoca para explicar esas mismas
 conductas. Es la estructura que la introducción llamó tautología euclidiana:
 una conclusión que se recupera desde las definiciones que ya la contenían y
-se presenta como si hubiera sido descubierta. 5 Y es, a la vez, su variante más
-específica, la sustantivación desde consecuencias, que observa lo que un
+se presenta como si hubiera sido descubierta. 125 Y es, a la vez, su variante
+más específica, la sustantivación desde consecuencias, que observa lo que un
 fenómeno produce y convierte después esas consecuencias en la definición de
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-122
+123
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-su sustancia. 6 La virtud dormitiva es ambas cosas. La taxonomía clínica
+su sustancia. 126 La virtud dormitiva es ambas cosas. La taxonomía clínica
 puede incurrir en la misma estructura cuando olvida que sus distinciones
 fueron introducidas por decisión metodológica y las trata como si hubieran
-sido encontradas en el paciente. 7
+sido encontradas en el paciente. 127
 Esto no significa que toda explicación disposicional sea circular. Lo es
 cuando la única evidencia de la disposición es la conducta que se pretende
 explicar. Deja de serlo cuando hay evidencia independiente: una historia que
@@ -6451,7 +6467,7 @@ el uso popular borra. La teoría del apego nació como descripción del vínculo
 entre los niños y sus cuidadores, y su extensión a las relaciones adultas se
 desarrolló en la investigación como un conjunto de tendencias que se miden
 en dimensiones continuas —grados de ansiedad, grados de evitación—, no
-como tipos de persona. 8 El uso cotidiano convierte esas dimensiones en
+como tipos de persona. 128 El uso cotidiano convierte esas dimensiones en
 esencias: alguien es ansioso, alguien es evitativo. El tránsito de la dimensión
 al tipo, y del tipo a la explicación de un acto concreto, no lo autoriza la
 investigación que se invoca.
@@ -6469,7 +6485,7 @@ los dos se acerca cuando el otro se aleja, y el otro se aleja cuando el primero
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-123
+124
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6482,15 +6498,15 @@ Cuando ese patrón se explica con una categoría individual —«él es
 evitativo», «ella es ansiosa»—, un predicado de la escala del vínculo se
 traslada a la escala del sujeto sin puente. De un predicado válido en una
 escala no se sigue el mismo predicado en otra, y cada tránsito requiere su
-propio puente. 9 Hay, además, una forma oportunista de ese tránsito: usar la
-unidad cuando conviene atribuir capacidad y la multiplicidad cuando
-conviene disolver responsabilidad. 10 En el vínculo, la forma oportunista es
+propio puente. 129 Hay, además, una forma oportunista de ese tránsito: usar
+la unidad cuando conviene atribuir capacidad y la multiplicidad cuando
+conviene disolver responsabilidad. 130 En el vínculo, la forma oportunista es
 atribuir el patrón al otro y conservar para uno mismo la posición de quien
 solo reaccionaba.
 Hay aquí una afinidad con el argumento que el Areópago desarrolló en el
 terreno de la imputación penal. Allí se mostró que el criterio del dolo, al
 buscar la intención del ejecutor, deja fuera de la imputación la causalidad
-que opera en el diseño del marco. 11 La categoría psicológica, usada
+que opera en el diseño del marco. 131 La categoría psicológica, usada
 causalmente, hace lo mismo en el vínculo: busca la disposición interna de
 uno de sus miembros y deja fuera el examen causal del vínculo concreto —
 qué hizo cada uno, en qué condiciones, con qué respuesta del otro, dentro de
@@ -6510,7 +6526,7 @@ manifestación más de aquello que se diagnosticó. La forma es la misma que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-124
+125
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6525,7 +6541,7 @@ Karl Popper usó precisamente algunas teorías psicológicas de su tiempo
 como ejemplos de sistemas que podían interpretar cualquier conducta como
 confirmación, y vio en esa capacidad no una fortaleza sino una debilidad:
 una teoría que no puede ser refutada por ningún caso no dice nada
-determinado sobre el mundo. 12 Este libro no necesita suscribir el juicio de
+determinado sobre el mundo. 132 Este libro no necesita suscribir el juicio de
 Popper sobre esas teorías ni sobre la clínica en general. Dentro de una
 relación terapéutica, con el consentimiento de quien consulta, con criterios
 explícitos y con un profesional que responde por su uso, conceptos como la
@@ -6553,7 +6569,7 @@ un socio que pide ver los libros de la sociedad que fundó. La categoría
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-125
+126
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6595,7 +6611,7 @@ también la parte del vínculo histórico que pertenece a quien la pronuncia.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-126
+127
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6605,7 +6621,7 @@ Ian Hacking describió un fenómeno que hace este uso todavía más delicado.
 Las clasificaciones de personas, a diferencia de las de las cosas, son conocidas
 por los clasificados, que reaccionan a ellas y pueden modificar su conducta,
 su autocomprensión y la interpretación de su propio pasado en función de la
-categoría que se les aplicó. 13 Quien recibe una etiqueta puede empezar a leer
+categoría que se les aplicó. 133 Quien recibe una etiqueta puede empezar a leer
 su vida a través de ella; quien la aplica puede encontrar, en la reacción del
 etiquetado, la confirmación de que la etiqueta era correcta. La categoría, en
 esos casos, contribuye a producir la evidencia que después la sostiene.
@@ -6618,7 +6634,7 @@ El capítulo II recogió la noción de injusticia hermenéutica: la que padece
 quien no dispone, en los recursos interpretativos compartidos, de los
 conceptos necesarios para dar sentido a su propia experiencia. Y la relacionó
 con el tercer rasgo de la similitud coseno: lo que no tiene dimensión en el
-espacio de referencia no puede siquiera medirse como desviación. 14 Las
+espacio de referencia no puede siquiera medirse como desviación. 134 Las
 categorías psicológicas han cumplido, en las últimas décadas, una función
 hermenéutica de primer orden. Quien durante años creyó que exageraba,
 que recordaba mal, que la culpa era suya, puede encontrar en un concepto la
@@ -6636,7 +6652,7 @@ Propone que cada uso declare cuál de los cuatro es.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-127
+128
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6647,9 +6663,9 @@ La simetría que el libro se impuso desde la introducción obliga a aplicar este
 examen también a las categorías de su propio sistema, y a su propio uso de
 categorías clínicas.
 El capítulo VIII dejó anunciada una noción de El telar que este capítulo
-debía examinar: «el ego sano no mendiga afecto». 15 El glosario de El telar
+debía examinar: «el ego sano no mendiga afecto». 135 El glosario de El telar
 contiene otras de la misma familia: el ego auténtico, el falso ego, la
-egolatría, el resentimiento. 16 Son categorías del sistema, no de la clínica,
+egolatría, el resentimiento. 136 Son categorías del sistema, no de la clínica,
 pero tienen la misma estructura que las categorías psicológicas y pueden
 usarse de los mismos cuatro modos. En primera persona y como descripción
 —«cuando le pido al otro que repare lo que yo no sostengo, algo en mí no
@@ -6659,9 +6675,9 @@ mendigas»—, producen exactamente la clausura descrita en el § V.
 El sistema, sin embargo, contiene en su propia ontología el antídoto contra
 el uso totalizador. En ella el ego es una función, no una sustancia: la regla
 que organiza cómo un sujeto produce y asume sus actos, y no una cosa que el
-sujeto tenga o sea. 17 Una función no se agota en ninguno de sus valores, y un
-patrón de valores no agota la función que los produce. Decir que alguien es
-evitativo, o que tiene un ego enfermo, es tratar una función como si fuera
+sujeto tenga o sea. 137 Una función no se agota en ninguno de sus valores, y
+un patrón de valores no agota la función que los produce. Decir que alguien
+es evitativo, o que tiene un ego enfermo, es tratar una función como si fuera
 una sustancia fija. El sistema de la doble mediación es, en este sentido,
 constitutivamente antiesencialista, y las categorías que se formulan en su
 vocabulario están obligadas a respetarlo. El glosario de El telar lo confirma
@@ -6677,7 +6693,7 @@ abierta. Y no se aplicó a ninguna persona concreta. El uso pasa la auditoría.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-128
+129
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6741,7 +6757,7 @@ y la frase «no tiene nada» se reemplaza por «es ansiedad» o «es estrés», 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-129
+130
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6782,7 +6798,7 @@ cuatro usos —descriptivo, clínico, causal y totalizador—, que los dos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-130
+131
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -6812,69 +6828,18 @@ puede concluir que la ficha del Esquema XVIII resuelva los casos concretos:
 ordena las preguntas; no las contesta.
 
 Notas
-1
+121
 
 Molière, El enfermo imaginario (1673), tercer intermedio, ceremonia
 burlesca de graduación. La respuesta del aspirante, en latín macarrónico, es
 Quia est in eo virtus dormitiva, cujus est natura sensus assoupire. La
-traducción del epígrafe es de trabajo y debe ajustarse a una edición española.
-2
+traducción del epígrafe es propia.
+122
 
 El médico a palos (1666) y El amor médico (1665) tratan la misma figura
 desde otros ángulos. Lo que interesa aquí no es la sátira de una profesión,
 sino el procedimiento: dejar que una pretensión de saber se represente a sí
 misma hasta que su vacío quede a la vista.
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-131
-
-REIVINDICACIÓN ONTOLÓGICA DEL EGO
-
-LA ESCLAVITUD POR ALINEACIÓN
-
-3
-
-La distinción entre utilidad operativa y alcance ontológico es la que
-permite defender la clínica sin concederle más de lo que reclama. Un
-diagnóstico puede orientar con acierto un tratamiento y no decir nada sobre
-qué es, en última instancia, aquello que trata.
-4
-
-Capítulo IV, § IV: la escalera de puentes. El uso totalizador de una
-categoría salta del primer peldaño —un predicado aplicado a un acto— al
-último —una sentencia sobre lo que alguien es— sin cruzar ninguno de los
-intermedios.
-5
-
-Introducción, § III.
-
-6
-
-Introducción, § VI. La sustantivación desde consecuencias es más dif ícil de
-detectar que la tautología simple, porque las consecuencias observadas son
-reales; lo ilegítimo es el paso que las convierte en esencia.
-7
-
-El caso del dolor sin causa encontrada, examinado en el capítulo III y
-retomado en el § IX de este capítulo, es el ejemplo más claro: la distinción
-entre dolor orgánico y dolor funcional fue introducida para organizar la
-atención, y se vuelve tautológica cuando se usa para decidir qué dolor es real.
-8
-
-John Bowlby, El apego (primer volumen de Apego y pérdida, 1969); Mary
-Ainsworth y colaboradores, Patterns of Attachment (1978); Cindy Hazan y
-Phillip Shaver, «Romantic Love Conceptualized as an Attachment
-Process», Journal of Personality and Social Psychology 52 (1987); Kelly A.
-Brennan, Catherine L. Clark y Phillip R. Shaver, «Self-report measurement
-of adult attachment: An integrative overview», en J. A. Simpson y W. S.
-Rholes (eds.), Attachment Theory and Close Relationships (Guilford Press,
-1998). El último trabajo consolidó la medición del apego adulto en dos
-dimensiones continuas —ansiedad y evitación—. El texto principal no
-adopta ni discute la teoría; registra solo la diferencia entre su formulación
-dimensional y su uso popular tipológico. Las referencias deben verificarse
-antes de la edición definitiva.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6885,52 +6850,51 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-9
+123
+
+La distinción entre utilidad operativa y alcance ontológico es la que
+permite defender la clínica sin concederle más de lo que reclama. Un
+diagnóstico puede orientar con acierto un tratamiento y no decir nada sobre
+qué es, en última instancia, aquello que trata.
+124
+
+Capítulo IV, § IV: la escalera de puentes. El uso totalizador de una
+categoría salta del primer peldaño —un predicado aplicado a un acto— al
+último —una sentencia sobre lo que alguien es— sin cruzar ninguno de los
+intermedios.
+125
+
+Introducción, § III.
+
+126
+
+Introducción, § VI. La sustantivación desde consecuencias es más dif ícil
+de detectar que la tautología simple, porque las consecuencias observadas
+son reales; lo ilegítimo es el paso que las convierte en esencia.
+127
+
+El caso del dolor sin causa encontrada, examinado en el capítulo III y
+retomado en el § IX de este capítulo, es el ejemplo más claro: la distinción
+entre dolor orgánico y dolor funcional fue introducida para organizar la
+atención, y se vuelve tautológica cuando se usa para decidir qué dolor es real.
+128
+
+John Bowlby, Attachment and Loss, vol. I: Attachment (1969); Mary
+Ainsworth et al., Patterns of Attachment (Lawrence Erlbaum, 1978); Cindy
+Hazan y Phillip Shaver, «Romantic Love Conceptualized as an Attachment
+Process», Journal of Personality and Social Psychology 52, n.º 3 (1987), pp. 511–
+524; Kelly A. Brennan, Catherine L. Clark y Phillip R. Shaver, «Self-report
+measurement of adult attachment: An integrative overview», en J. A.
+Simpson y W. S. Rholes (eds.), Attachment Theory and Close Relationships
+(Guilford Press, 1998), pp. 46–76. Este último trabajo organiza la medición
+del apego adulto en dos dimensiones continuas —ansiedad y evitación—. El
+texto principal registra la diferencia entre esa formulación dimensional y su
+uso popular tipológico.
+129
 
 Capítulo V, §§ III y IV. El vínculo tiene predicados propios precisamente
 porque no se distribuyen; por la misma razón, no pueden redistribuirse a
 uno de sus miembros como si fueran suyos.
-10
-
-La forma oportunista es reconocible porque cambia de escala según la
-conveniencia y no según el fenómeno. Es un caso particular de la regla de
-simetría del capítulo VII, § V.
-11
-
-Afrodita Areia: Areópago (Centro Multidisciplinario Meriadock, 2026),
-cap. 1, «Qué hace el dolo», §§ IV y V. El traslado de la estructura del
-argumento —el criterio de la disposición interna oculta la causalidad del
-marco— del derecho penal al vínculo interpersonal es un cambio de
-dominio que el capítulo declara.
-12
-
-Karl Popper, Conjeturas y refutaciones (1963), cap. 1, «La ciencia:
-conjeturas y refutaciones», donde examina, entre otros, el psicoanálisis de
-Freud y la psicología individual de Adler como teorías capaces de interpretar
-cualquier conducta como confirmación. El texto principal no adopta el
-juicio de Popper sobre esas teorías; retiene su observación lógica sobre la
-infalsabilidad.
-13
-
-Ian Hacking, «Making Up People» (1986) y «The looping effects of
-human kinds» (1995), citados en la introducción de este libro, nota 10.
-14
-
-Capítulo II de este libro, § V, a partir de Miranda Fricker, Epistemic
-Injustice: Power and the Ethics of Knowing (2007).
-15
-
-El telar de las Moiras: ontología de la autodeterminación causal (Centro
-Multidisciplinario Meriadock, 2026), cap. VIII, § VII, «El ego sano no
-mendiga afecto».
-16
-
-El telar de las Moiras, «Glosario de conceptos clave», entradas «Ego
-(auténtico)», «Egolatría / Falso ego», «Resentimiento» y «Dignidad».
-17
-
-El Contrato Fiscal: Kratos, Prólogo, § III, entrada «Ego», y Arquitectura
-ontológica de sistemas artificiales, cap. 2.2. Tratar al ego como función evita
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6941,8 +6905,50 @@ A.C.
 
 LA ESCLAVITUD POR ALINEACIÓN
 
-convertirlo en entidad, sustancia o pequeño operador escondido dentro del
-sujeto; es también lo que impide que una categoría lo agote.
+130
+
+La forma oportunista es reconocible porque cambia de escala según la
+conveniencia y no según el fenómeno. Es un caso particular de la regla de
+simetría del capítulo VII, § V.
+131
+
+Afrodita Areia: Areópago (Centro Multidisciplinario Meriadock, 2026),
+cap. 1, «Qué hace el dolo», §§ IV y V. El traslado de la estructura del
+argumento —el criterio de la disposición interna oculta la causalidad del
+marco— del derecho penal al vínculo interpersonal es un cambio de
+dominio que el capítulo declara.
+132
+
+Karl Popper, Conjeturas y refutaciones (1963), cap. 1, «La ciencia:
+conjeturas y refutaciones», donde examina, entre otros, el psicoanálisis de
+Freud y la psicología individual de Adler como teorías capaces de interpretar
+cualquier conducta como confirmación. El texto principal no adopta el
+juicio de Popper sobre esas teorías; retiene su observación lógica sobre la
+infalsabilidad.
+133
+
+Ian Hacking, «Making Up People» (1986) y «The looping effects of
+human kinds» (1995), citados en la introducción de este libro, nota 10.
+134
+
+Capítulo II de este libro, § V, a partir de Miranda Fricker, Epistemic
+Injustice: Power and the Ethics of Knowing (2007).
+135
+
+El telar de las Moiras: ontología de la autodeterminación causal (Centro
+Multidisciplinario Meriadock, 2026), cap. VIII, § VII, «El ego sano no
+mendiga afecto».
+136
+
+El telar de las Moiras, «Glosario de conceptos clave», entradas «Ego
+(auténtico)», «Egolatría / Falso ego», «Resentimiento» y «Dignidad».
+137
+
+El Contrato Fiscal: Kratos, Prólogo, § III, entrada «Ego», y
+Arquitectura ontológica de sistemas artificiales, cap. 2.2. Tratar al ego como
+función evita convertirlo en entidad, sustancia o pequeño operador
+escondido dentro del sujeto; es también lo que impide que una categoría lo
+agote.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7070,9 +7076,9 @@ descripción no elige sus objetos: alcanza a todo lo que tenga su forma, este
 libro incluido. Eximirse no sería una prerrogativa del autor, sino un caso de
 la asimetría que el capítulo VII encontró entre las dos partes de un vínculo:
 un criterio que cambia cuando cambia el evaluado ha dejado de ser un
-criterio y se ha vuelto una posición. 1 No hace falta, entonces, que el libro se
-dicte una regla. Basta con leerlo con su propio instrumento y registrar lo que
-se encuentra.
+criterio y se ha vuelto una posición. 138 No hace falta, entonces, que el libro
+se dicte una regla. Basta con leerlo con su propio instrumento y registrar lo
+que se encuentra.
 Hay una posición, declarada desde la introducción: la de quien queda
 afectado por un criterio y pide verlo. El libro no habla desde ninguna parte,
 y lo dice.
@@ -7236,7 +7242,7 @@ segundo es presentarla como una mirada desde ninguna parte: como si
 quien audita los criterios ajenos no tuviera criterios propios.
 El problema nunca estuvo en tener una posición, sino en borrarla después de
 haber construido desde ella; la neutralidad metodológica no es la ausencia
-de un punto de observación. 2 El libro tiene una posición, y es doble. Es,
+de un punto de observación. 139 El libro tiene una posición, y es doble. Es,
 primero, la de quien queda afectado por un criterio. Y es, segundo, la de un
 sistema filosófico determinado —el de la doble mediación, la
 autodeterminación causal y la imputación causal— desde el cual el autor ha
@@ -7339,7 +7345,7 @@ A.C.
 LA ESCLAVITUD POR ALINEACIÓN
 
 autodeterminación, y la condición que la distingue de la sujeción es la
-auditabilidad de la evaluación. 3 Si eso vale también para un sistema
+auditabilidad de la evaluación. 140 Si eso vale también para un sistema
 artificial, la pregunta por su alineación no sería solo con qué valores
 coincide, sino de quién es el vector de referencia y quién puede auditar la
 evaluación. El libro no examina esa pregunta; sus tres preguntas iniciales —
@@ -7379,22 +7385,22 @@ A.C.
 LA ESCLAVITUD POR ALINEACIÓN
 
 Notas
-1
+138
 
 Capítulo VII, § V. Allí la regla se aplicó entre dos personas que se evalúan
 mutuamente; aquí se aplica entre un libro y los marcos que examina. La
 regla es la misma porque no depende de quién la aplique.
-2
+139
 
 Es la forma general de la segunda condición (Introducción, § III): el
 borrado no consiste en tener un punto de vista, sino en presentar lo que se
 construyó desde él como si no viniera de ninguna parte.
-3
+140
 
-Arquitectura ontológica de sistemas artificiales (Centro Multidisciplinario
-Meriadock, 2026), cap. 2.2, donde se establece que la transparencia de la
-lógica de integración es lo que hace auditable a I(t). Véase la introducción de
-este libro, § II y nota 2.
+Arquitectura ontológica de sistemas artificiales (Centro
+Multidisciplinario Meriadock, 2026), cap. 2.2, donde se establece que la
+transparencia de la lógica de integración es lo que hace auditable a I(t).
+Véase la introducción de este libro, § II y nota 2.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
