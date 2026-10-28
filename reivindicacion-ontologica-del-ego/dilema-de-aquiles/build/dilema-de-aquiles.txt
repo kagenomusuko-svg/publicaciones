@@ -314,7 +314,7 @@ XI
 AQUILES
 
 II.
-El concepto que organiza el argumento —el dilema de Aquiles—no es una
+El concepto que organiza el argumento —el dilema de Aquiles— no es una
 categoría clásica de la filosof ía. Es una formulación que emerge de una
 teoría mayor: la de la autodeterminación causal, desarrollada en el libro del
 que este volumen es hijo. La idea central de esa teoría es que el sujeto existe
@@ -1214,7 +1214,7 @@ su propia perspectiva en el mapa de las perspectivas posibles. Los estudios
 sobre desarrollo temprano han mostrado con consistencia que el
 reconocimiento —la respuesta del entorno a las expresiones del niño, la
 confirmación de que lo que el niño experimenta tiene una realidad que los
-otros también perciben—es una condición del desarrollo psicológico sano,
+otros también perciben— es una condición del desarrollo psicológico sano,
 no un lujo ni una debilidad. [1] El problema no empieza en el
 reconocimiento. Empieza en el momento en que el reconocimiento deja de
 ser una confirmación de lo que uno es y se convierte en una condición de lo
@@ -1227,7 +1227,7 @@ cambiado no es la textura de la experiencia sino su función en la economía
 del ego.
 El reconocimiento que confirma al ego lo fortalece. El reconocimiento que
 constituye al ego lo captura.
-La diferencia entre los dos modos —confirmar y constituir—puede
+La diferencia entre los dos modos —confirmar y constituir— puede
 articularse con una pregunta simple, aunque dif ícil de responder con
 honestidad: ¿puede el sujeto existir con la misma solidez en ausencia del
 reconocimiento? Si la respuesta es sí —si el sujeto puede actuar desde sí
@@ -1305,7 +1305,7 @@ la servidumbre a una imagen. El sujeto no es consistente porque actúa desde
 sí mismo; es consistente porque tiene que serlo para que la imagen se
 sostenga.
 El cuarto paso —que no siempre ocurre pero que cuando ocurre completa la
-trampa—es la expansión de la imagen a la totalidad del sujeto. Lo que
+trampa— es la expansión de la imagen a la totalidad del sujeto. Lo que
 comenzó como la especialización en una dimensión termina reclamando
 todo el espacio. La imagen de «el que nunca falla» no solo organiza la
 conducta en el ámbito donde nació —el trabajo, el deporte, la familia—;
@@ -1337,7 +1337,7 @@ precisión es que la excelencia, cuando se convierte en identidad, deja de ser
 una descripción de lo que el sujeto puede hacer y se convierte en una
 exigencia de lo que el sujeto tiene que ser.
 Este mecanismo —la transformación de la excelencia en identidad
-obligatoria—es uno de los patrones más estudiados en la psicología del
+obligatoria— es uno de los patrones más estudiados en la psicología del
 rendimiento, aunque con frecuencia se lo examina desde el ángulo
 equivocado: como un problema de perfeccionismo o de miedo al fracaso, en
 lugar de como lo que es en su raíz, que es un problema de disociación del
@@ -1347,7 +1347,7 @@ de excelencia que él ya no controla. [2] Carol Dweck, en su investigación
 sobre las teorías implícitas de la inteligencia, documentó con precisión una
 de las formas más concretas en que este mecanismo opera: los sujetos que
 tienen una mentalidad fija —que creen que sus capacidades son atributos
-estables que se tienen o no se tienen—no pueden tolerar el error porque el
+estables que se tienen o no se tienen— no pueden tolerar el error porque el
 error no es para ellos una información sobre lo que hicieron sino una
 revelación sobre lo que son. El fracaso no dice «esto no funcionó»; dice «tú
 no eres lo que creías ser». Y la amenaza que esa revelación produce no es
@@ -1439,7 +1439,7 @@ rasgos que no son en sí mismos negativos. Lo que los convierte en trampa es
 la función que cumplen: no apertura al otro sino sustitución del propio eje
 por la perspectiva ajena.
 Un estudio de neuroimagen observó que obtener una buena reputación —
-una forma de aprobación social—activa áreas relacionadas con la
+una forma de aprobación social— activa áreas relacionadas con la
 recompensa, con solapamiento respecto de las activadas por recompensas
 monetarias.[4] Esta observación no debe tomarse como una reducción del
 problema a un mecanismo neurológico —el problema del ego disociado no
@@ -1503,15 +1503,15 @@ A.C.
 
 AQUILES
 
-aplicaciones de contenido, sistemas de reputación online—no son
+aplicaciones de contenido, sistemas de reputación online— no son
 simplemente herramientas de comunicación; son infraestructuras para la
 producción, circulación y evaluación de imágenes del yo. Y su peculiaridad
 respecto a las formas anteriores de producción de imagen es que hacen
 explícita, numérica y permanente la evaluación que antes era implícita,
 cualitativa y efímera.
 Cuando la aprobación o el rechazo de la imagen llega en forma de número
-—de seguidores, de «me gusta», de vistas, de comentarios—algo cambia en
-la relación del sujeto con esa evaluación. El número es objetivable de una
+—de seguidores, de «me gusta», de vistas, de comentarios— algo cambia
+en la relación del sujeto con esa evaluación. El número es objetivable de una
 manera que la aprobación social anterior no lo era. Puede compararse, puede
 crecer o decrecer, puede monitorearse en tiempo real. Y esa objetivación
 produce una forma de retroalimentación que tiene exactamente la
@@ -1525,7 +1525,7 @@ adolescencia exhiben patrones de ansiedad y de dependencia de la
 aprobación que difieren estadísticamente de los de generaciones anteriores.
 [6] La causalidad en esos estudios es dif ícil de establecer con certeza, y el
 debate metodológico sobre la magnitud real de esos efectos es legítimo y
-sigue abierto. Pero la dirección del efecto —en la medida en que existe—es
+sigue abierto. Pero la dirección del efecto —en la medida en que existe— es
 consistente con lo que el análisis filosófico del dilema de Aquiles predice: los
 entornos que convierten la imagen en objeto de evaluación cuantitativa y
 continua producen más sujetos cuyo ego se ha organizado en torno a esa
@@ -1608,7 +1608,7 @@ ella. La imagen interpone una distancia entre el sujeto y cualquier forma de
 contacto genuino: para que el otro pueda llegar realmente al sujeto, tendría
 que atravesar la imagen, y la imagen está ahí precisamente para que eso no
 ocurra.
-El cuarto costo —el más dif ícil de articular y quizás el más profundo—es la
+El cuarto costo —el más dif ícil de articular y quizás el más profundo— es la
 pérdida del acceso a la propia experiencia. El sujeto que vive para la imagen
 no habita su experiencia; la produce. Hay una diferencia entre vivir algo y
 construir una versión de ese algo que sea coherente con la imagen que debe
@@ -1818,10 +1818,8 @@ Rogers y Gabrielle N. Martin, «Increases in Depressive Symptoms, SuicideRelated
 and Links to Increased New Media Screen Time», Clinical Psychological
 Science, 6(1) (2018), 3–17, https://doi.org/10.1177/2167702617723376. El estudio
 analiza encuestas y estadísticas poblacionales; sus asociaciones no establecen
-por sí solas causalidad. Tampoco mide directamente la dependencia de la
-aprobación: la conexión que traza el cuerpo entre esos resultados y esa
-dependencia es una inferencia del argumento del libro. El debate sobre la
-magnitud y la interpretación de esos efectos sigue abierto.
+por sí solas causalidad. El debate sobre la magnitud y la interpretación de
+esos efectos sigue abierto.
 7 Guy Debord, La sociedad del espectáculo (1967). Debord formuló su crítica
 desde el marxismo situacionista, y su análisis tiene una dimensión política
 que aquí no se desarrolla. Lo que interesa al argumento del libro es la
@@ -1836,6 +1834,8 @@ falso ha sido enormemente influyente en la psicología clínica, aunque
 también ha sido criticada por implicar una esencia fija del yo que podría
 entrar en conflicto con concepciones más dinámicas e intersubjetivas de la
 identidad. Lo que aquí se toma de Winnicott no es la ontología del self
+verdadero sino la descripción funcional del mecanismo defensivo: la
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1845,7 +1845,6 @@ A.C.
 
 AQUILES
 
-verdadero sino la descripción funcional del mecanismo defensivo: la
 organización del yo en torno a una representación que sirve a la adaptación
 al entorno en lugar de a la expresión genuina.
 
@@ -2553,11 +2552,11 @@ cuando la imagen ha tomado el lugar del eje, cuando el yo que actúa y el yo
 que representa han divergido lo suficiente como para que ya no puedan
 reconocerse el uno al otro.
 Ese fenómeno —la divergencia interna entre el yo que actúa y el yo que
-representa—es lo que este libro llama disociación del ego. El término
+representa— es lo que este libro llama disociación del ego. El término
 requiere inmediatamente una precisión, porque «disociación» tiene un uso
 técnico en psiquiatría y psicología clínica que designa fenómenos específicos
-—la disociación disociativa, las personalidades múltiples, los estados
-disociativos producidos por trauma— que no son exactamente lo que aquí se
+—los trastornos disociativos, los fenómenos de personalidad múltiple y los
+estados de disociación relacionados con el trauma— que no son
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2567,9 +2566,9 @@ A.C.
 
 AQUILES
 
-describe. El uso que este libro hace del término es filosófico, no clínico,
-aunque los dos usos comparten una estructura común que conviene
-examinar antes de separar lo que los distingue.
+exactamente lo que aquí se describe. El uso que este libro hace del término es
+filosófico, no clínico, aunque los dos usos comparten una estructura común
+que conviene examinar antes de separar lo que los distingue.
 En la psicopatología clínica, la disociación describe una ruptura en la
 integración normal de la conciencia, la memoria, la identidad o la
 percepción del entorno. Es un mecanismo que la mente produce para
@@ -2618,7 +2617,7 @@ yo que representa se vuelve el organizador del yo que actúa en lugar de ser su
 expresión.
 El yo que actúa es el yo en contacto directo con la experiencia: el que
 percibe, el que decide desde su perspectiva genuina, el que tiene acceso a sus
-propios estados internos —deseos, miedos, necesidades, límites—con
+propios estados internos —deseos, miedos, necesidades, límites— con
 suficiente claridad como para que esos estados puedan orientar la conducta.
 No es un yo transparente ni omnisciente; tiene sus propias opacidades y sus
 propias limitaciones. Pero su referencia fundamental es la experiencia
@@ -2653,7 +2652,7 @@ A.C.
 
 AQUILES
 
-escenario—para producir una imagen coherente ante sus audiencias.[2] Lo
+escenario— para producir una imagen coherente ante sus audiencias.[2] Lo
 que el análisis de la disociación del ego añade a esa descripción es una
 distinción que Goffman no desarrolló con suficiente detalle: hay sujetos para
 los que la gestión de la fachada es un aspecto de su vida social sin que se
@@ -2787,7 +2786,7 @@ que el sujeto cree que es. Preguntarse si la imagen es genuina es, desde
 adentro, preguntarse si uno existe. Esa pregunta produce una angustia que el
 sujeto tiene todos los incentivos para evitar, y que los mecanismos de
 supresión y reinterpretación descritos en el apartado anterior están
-precisamente diseñados —aunque no conscientemente—para mantener a
+precisamente diseñados —aunque no conscientemente— para mantener a
 distancia.
 La cuarta razón es cultural: la imagen que el sujeto sostiene con frecuencia
 corresponde a valores que su entorno valora y que la cultura más amplia
@@ -2920,7 +2919,7 @@ cuando todos los canales conscientes han sido cerrados. El cuerpo es el
 puede permitirse saber.
 Bessel van der Kolk, en su investigación sobre el trauma y el cuerpo, formuló
 esto con una frase que ha ganado amplia circulación: el cuerpo lleva la
-cuenta. [6], Aunque su contexto es el del trauma clínico en sentido estricto,
+cuenta. [6] Aunque su contexto es el del trauma clínico en sentido estricto,
 la formulación ilumina algo que se aplica más ampliamente a la disociación
 del ego en el sentido que aquí se describe: el yo genuino que no puede
 expresarse conscientemente no desaparece; se acumula en el cuerpo. Y esa
@@ -2951,7 +2950,7 @@ A.C.
 AQUILES
 
 VII. Grados de disociación: el espectro y sus formas
-La disociación del ego no es un estado binario —presente o ausente—sino
+La disociación del ego no es un estado binario —presente o ausente— sino
 un espectro con múltiples grados y formas. El análisis hasta aquí se ha
 concentrado en los casos de mayor intensidad, en los que la imagen ha
 tomado el lugar del eje de manera casi completa. Pero conviene examinar el
@@ -3049,7 +3048,7 @@ sí mismo, pero no puede ofrecerle la presencia que el encuentro genuino
 requiere.
 El segundo efecto en los vínculos es la dificultad de recibir. El sujeto
 disociado puede dar —puede dar mucho, puede dar con una generosidad que
-frecuentemente sobrepasa lo que la situación requiere—pero tiene grandes
+frecuentemente sobrepasa lo que la situación requiere— pero tiene grandes
 dificultades para recibir. Recibir —cuidado, atención, afecto, apoyo—
 requiere exponer la necesidad, reconocer la propia vulnerabilidad, permitir
 que el otro ocupe una posición de mayor poder momentáneo en la relación.
@@ -3062,7 +3061,7 @@ disociado, que necesita confirmación permanente de la imagen que lo
 organiza, tiende a construir relaciones con personas que le ofrecen esa
 confirmación —que reflejan la imagen en lugar de cuestionarla, que validan
 lo que el sujeto necesita que sea validado, que no introducen perspectivas que
-la imagen no puede integrar— . Esos vínculos tienen la comodidad de la
+la imagen no puede integrar—. Esos vínculos tienen la comodidad de la
 confirmación, pero carecen de la fricción que los vínculos genuinos
 producen y que es parte de lo que los hace transformadores. El sujeto
 disociado no elige conscientemente vínculos especulares; los construye
@@ -3136,7 +3135,7 @@ precisión sobre lo que se toca cuando se toca fondo: no el fracaso personal,
 no la derrota moral, sino el yo genuino que la imagen había desplazado y
 que el fondo de la disociación, paradójicamente, vuelve a hacer accesible.
 El capítulo siguiente examina ese momento —el colapso de la imagen, el
-día en que Aquiles falló—en toda su complejidad. Lo que este capítulo ha
+día en que Aquiles falló— en toda su complejidad. Lo que este capítulo ha
 establecido es la condición desde la que ese examen puede hacerse con rigor:
 la disociación del ego es un proceso real, con mecanismos identificables, con
 una dinámica que tiende hacia un umbral, y con una estructura que hace
@@ -3176,7 +3175,7 @@ cuando la fachada deja de ser un aspecto de la vida social y se convierte en el
 modo de existir.
 3 La relación entre la supresión emocional y los síntomas f ísicos ha sido
 documentada en la investigación sobre la alexitimia —la dificultad de
-identificar y describir los propios estados emocionales—y en la
+identificar y describir los propios estados emocionales— y en la
 investigación sobre el estrés crónico. James Pennebaker mostró en una serie
 de estudios que la inhibición activa de pensamientos y emociones tiene
 costos fisiológicos medibles, y que la expresión de esos estados —en
@@ -3218,12 +3217,12 @@ consenso único.
 7 Martin Buber, Yo y Tú (1923). La distinción buberiana entre la actitud YoTú y la actitud Yo-Ello es una de las aportaciones más influyentes de la
 filosofía del diálogo del siglo XX. Buber argumentó que la actitud Yo-Tú —
 en la que el otro es encontrado en su alteridad genuina, no reducido a objeto
-útil o amenazante—es la condición de posibilidad de la existencia auténtica.
-Lo que aquí se añade es que esa actitud requiere un yo que sea genuinamente
-yo: un sujeto que tenga un eje propio desde el cual pueda encontrarse con
-otro. El yo disociado, que se ha vuelto objeto para sí mismo al identificarse
-con su imagen, no puede producir la actitud Yo-Tú porque no tiene el yo
-desde el cual esa actitud emerge.
+útil o amenazante— es la condición de posibilidad de la existencia
+auténtica. Lo que aquí se añade es que esa actitud requiere un yo que sea
+genuinamente yo: un sujeto que tenga un eje propio desde el cual pueda
+encontrarse con otro. El yo disociado, que se ha vuelto objeto para sí mismo
+al identificarse con su imagen, no puede producir la actitud Yo-Tú porque
+no tiene el yo desde el cual esa actitud emerge.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3255,13 +3254,13 @@ permanente con la realidad que promete representar. La imagen es una
 abstracción; la realidad es concreta, cambiante, irrespetuosa de las categorías
 que le imponemos. Y tarde o temprano, la realidad produce algo que la
 imagen no anticipó y para lo que no tiene respuesta.
-Ese momento —en el que la realidad supera la capacidad de la imagen—es
+Ese momento —en el que la realidad supera la capacidad de la imagen— es
 lo que este capítulo llama la caída. No necesariamente una derrota pública
 ni un fracaso espectacular, aunque puede tomar esas formas. La caída puede
 ser silenciosa, visible solo para el sujeto y para quienes lo conocen de cerca.
 Puede ser gradual —una erosión lenta de la imagen que finalmente llega a
-un punto de no sostenimiento—o súbita —un acontecimiento que atraviesa
-todas las defensas en un instante—. Lo que la define no es su forma exterior
+un punto de no sostenimiento— o súbita —un acontecimiento que
+atraviesa todas las defensas en un instante—. Lo que la define no es su forma
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -3271,8 +3270,8 @@ A.C.
 
 AQUILES
 
-sino su función interna: es el momento en que la imagen ya no puede
-cumplir la función que ha estado cumpliendo, y en que el sujeto queda
+exterior sino su función interna: es el momento en que la imagen ya no
+puede cumplir la función que ha estado cumpliendo, y en que el sujeto queda
 expuesto a sí mismo de una manera que la disociación le había impedido
 hasta entonces.
 La caída es inevitable no por pesimismo filosófico sino por una razón
@@ -3355,7 +3354,7 @@ AQUILES
 III. Por qué el caído es recordado por su falla: la crueldad de la
 memoria ajena
 Una de las observaciones más perturbadoras sobre el dilema de Aquiles —y
-sobre su versión contemporánea—es la que el título de este capítulo sugiere:
+sobre su versión contemporánea— es la que el título de este capítulo sugiere:
 el sujeto que vivió para la gloria, para la imagen que los otros construyeron
 sobre él, descubre en la caída que esa misma lógica que lo elevó opera con
 igual eficacia en la dirección opuesta. Los otros que construyeron la imagen
@@ -3613,7 +3612,7 @@ la condición fallida, a ocupar el espacio de la experiencia genuina sin la
 protección de la imagen. La vergüenza bloquea ese proceso. La culpa,
 elaborada correctamente, lo puede facilitar.
 El trabajo sobre la vergüenza en el contexto del colapso de la imagen no
-consiste en eliminarla —que sería imposible—sino en distinguirla de la
+consiste en eliminarla —que sería imposible— sino en distinguirla de la
 culpa y en aplicar a cada una el tratamiento que le corresponde. A la culpa:
 reconocimiento del acto, responsabilidad de las consecuencias, reparación
 en la medida en que sea posible. A la vergüenza: la comprensión de que lo
@@ -3661,7 +3660,7 @@ imagen.
 Esta función diagnóstica del colapso tiene un antecedente en la tradición
 filosófica que vale la pena señalar: la noción estoica de la dicotomía del
 control —la distinción entre lo que está en nuestro poder y lo que no lo está
-—adquiere una urgencia completamente nueva cuando se examina desde el
+— adquiere una urgencia completamente nueva cuando se examina desde el
 ángulo de la imagen disociada. El sujeto que ha organizado su imagen en
 torno a algo que no está completamente en su poder —la aprobación ajena,
 el éxito continuo, la perfección de sus actos, la ausencia de error— no ha
@@ -3758,7 +3757,7 @@ requiere que sean sostenidas juntas: que la caída es dolorosa y que es también
 una oportunidad. Que lo que destruye no es al sujeto sino a la imagen. Que
 lo que queda no es nada sino algo que la imagen impedía ver.
 Lo que resta es formular con precisión qué hace del colapso un umbral —un
-punto de paso—y no simplemente un final. El umbral no es una metáfora
+punto de paso— y no simplemente un final. El umbral no es una metáfora
 de esperanza; es una descripción estructural de lo que el colapso produce. Un
 umbral es un lugar que no es ni el interior ni el exterior, ni el antes ni el
 después, sino el espacio de tránsito entre los dos. El colapso de la imagen es
@@ -4171,7 +4170,7 @@ dependa de la imagen que el miedo exigía sostener.
 Esa fuente alternativa tiene un nombre en el vocabulario de este libro: el ego
 genuino como eje de autodeterminación causal. El sujeto que puede actuar
 desde su propio punto de referencia —que no necesita la confirmación de la
-imagen ajena para saber quién es y desde dónde actúa—no está libre del
+imagen ajena para saber quién es y desde dónde actúa— no está libre del
 miedo, pero no está gobernado por él. El miedo puede ser información: una
 señal de que algo en el entorno requiere atención. Pero deja de ser el
 soberano que dicta la conducta. Y esa diferencia —entre el miedo como
@@ -4425,7 +4424,7 @@ Pero produce algo que el miedo no produce: un sujeto que actúa desde sí
 mismo.
 El perdón es el momento en que esa dinámica alcanza su expresión más
 radical. No el perdón que el miedo dicta —perdonar para no quedarse solo,
-para no perder el vínculo, para no incomodar—sino el que la soberanía del
+para no perder el vínculo, para no incomodar— sino el que la soberanía del
 ego produce: la decisión de que el daño no va a seguir siendo el organizador
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4437,7 +4436,7 @@ A.C.
 AQUILES
 
 de la propia posición en el mundo. No porque el daño no haya sido real —lo
-fue—ni porque el otro no tenga responsabilidad —la tiene—, sino porque
+fue— ni porque el otro no tenga responsabilidad —la tiene—, sino porque
 el ego que se queda atado al daño le ha cedido al agresor algo que ningún
 agresor merece: el gobierno de su historia.
 No perdono para que el otro cambie. Perdono para que el daño no me
@@ -4706,7 +4705,7 @@ primer indicio de que algo en el nivel del ego no está funcionando como
 debería.
 Con frecuencia también llega a través de los vínculos: el momento en que
 alguien que conoce al sujeto bien —o a veces un extraño que no tiene las
-razones para no decirlo—nombra algo que el sujeto no se había permitido
+razones para no decirlo— nombra algo que el sujeto no se había permitido
 nombrar.
 «Nunca sé cómo te sientes de verdad.» «Haces todo perfectamente, pero
 pareces ausente.» «¿Cuándo fue la última vez que hiciste algo porque
@@ -4842,12 +4841,12 @@ práctica de la tolerancia a la discrepancia consiste en permanecer en esa
 tensión el tiempo suficiente para que la perspectiva propia pueda articularse
 con suficiente claridad como para orientar la acción.
 La tercera disposición —quizás la más concreta y la más inmediatamente
-practicable—es lo que podría llamarse la habitación de la experiencia
+practicable— es lo que podría llamarse la habitación de la experiencia
 directa: el ejercicio deliberado de prestar atención a lo que se experimenta
 desde adentro en el momento en que se experimenta, sin la mediación
 inmediata del filtro de la imagen. Qué siento ahora. Qué quiero en esta
 situación. Qué me parece a mí —no qué debería parecerme, no qué le
-parecería a alguien como yo—esta conversación, esta decisión, este
+parecería a alguien como yo— esta conversación, esta decisión, este
 momento. Esas preguntas, que pueden parecer triviales, son
 extraordinariamente dif íciles para el sujeto que ha estado mediando toda su
 experiencia a través del filtro de la imagen durante años. Y son exactamente
@@ -4889,7 +4888,7 @@ sino desde dónde se relaciona. El primero se relaciona para sostener la
 imagen; el segundo se relaciona porque la relación genuina es, en sí misma,
 una de las experiencias más ricas disponibles para el ego genuino.
 La paradoja que el argumento debe sostener —y que la experiencia clínica y
-filosófica confirma con consistencia—es la siguiente: el sujeto que ha
+filosófica confirma con consistencia— es la siguiente: el sujeto que ha
 recuperado el acceso a su ego genuino no se vuelve más distante con los
 otros; se vuelve más capaz de encontrarse genuinamente con ellos. La
 relación Yo-Tú que Buber describió —el encuentro genuino entre dos
@@ -4914,8 +4913,8 @@ El retorno al yo transforma la calidad de los vínculos de una manera que
 puede resultar desconcertante para el entorno del sujeto en retorno. Algunos
 vínculos que se sostenían en la imagen —que existían porque la imagen del
 sujeto cumplía una función para el otro, o porque el otro cumplía una
-función de confirmación de la imagen del sujeto—se vuelven insostenibles o
-se vacían de contenido cuando la imagen deja de estar. Eso puede producir
+función de confirmación de la imagen del sujeto— se vuelven insostenibles
+o se vacían de contenido cuando la imagen deja de estar. Eso puede producir
 pérdidas relacionales reales que el sujeto en retorno debe estar dispuesto a
 atravesar. Pero otros vínculos —los que siempre tuvieron más profundidad
 de la que la imagen permitía expresar— se vuelven más ricos, más directos,
@@ -5080,7 +5079,7 @@ A.C.
 AQUILES
 
 La generosidad que nace del ego genuino —que el sujeto elige porque,
-evaluado desde su propio eje, valora el bienestar de los otros—es
+evaluado desde su propio eje, valora el bienestar de los otros— es
 estructuralmente diferente de la generosidad que nace de la imagen —que el
 sujeto ejerce porque la imagen de persona generosa es parte de su
 representación—. La primera puede sostenerse en el tiempo y puede tener
@@ -5125,16 +5124,16 @@ AQUILES
 tenido si el ego no hubiera sido capturado por la imagen del kleos. Una vida
 menos visible, quizás, pero genuinamente suya.
 Lo que Aquiles no tiene —y lo que el sujeto en retorno al yo está
-construyendo trabajosamente—es acceso a su propio deseo desde adentro.
+construyendo trabajosamente— es acceso a su propio deseo desde adentro.
 No el deseo que la imagen le dicta —la gloria, el ser recordado, el kleos
-imperecedero—sino el deseo que emerge de su perspectiva genuina cuando
+imperecedero— sino el deseo que emerge de su perspectiva genuina cuando
 esa perspectiva tiene espacio para articularse. En el canto IX, Aquiles puede
 decir las palabras de Ftía, pero no puede sentirlas como suyas, porque su ego
 ya no tiene el acceso a sí mismo que sentirlas genuinamente requeriría.
 El retorno al yo es, en el vocabulario del mito, el camino a Ftía que Aquiles
 no tomó. No porque Ftía sea necesariamente mejor que Troya en términos
 de lo que el mundo valora —puede ser menos brillante, menos reconocida,
-menos confirmada por la mirada de los otros— . Sino porque Ftía es el lugar
+menos confirmada por la mirada de los otros—. Sino porque Ftía es el lugar
 donde el sujeto puede existir como sujeto y no como imagen. Donde puede
 equivocarse sin que el error lo destruya. Donde puede cambiar sin que el
 cambio lo anule. Donde puede ser visto en su versión ordinaria sin que esa
@@ -5193,10 +5192,10 @@ autor, no una equivalencia ni una conclusión empírica de Deci y Ryan.
 centrada en el cliente que Rogers desarrolló descansa en una intuición
 filosófica que es la misma que organiza este capítulo: el sujeto tiene en sí
 mismo los recursos para el desarrollo y la salud, y lo que la terapia —o
-cualquier relación de acompañamiento genuino—puede proporcionar son
-las condiciones en que esos recursos pueden actualizarse. Las tres
-condiciones que Rogers identificó como necesarias y suficientes para el
-cambio terapéutico —autenticidad del terapeuta, consideración positiva
+cualquier relación de acompañamiento genuino— puede proporcionar son
+las condiciones en que esos recursos pueden actualizarse. Rogers formuló seis
+condiciones necesarias y suficientes para el cambio terapéutico; tres
+describen la actitud del terapeuta: congruencia, consideración positiva
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5206,9 +5205,9 @@ A.C.
 
 AQUILES
 
-incondicional y comprensión empática—son exactamente las condiciones
-que el sujeto en retorno al yo necesita en sus vínculos para poder avanzar en
-el proceso.
+incondicional y comprensión empática. La aplicación de esas actitudes a los
+vínculos del sujeto en retorno al yo es la extensión conceptual que propone
+este libro.
 5 Erich Fromm, El arte de amar (1956). La distinción entre el amor como
 tener y el amor como ser es uno de los ejes del pensamiento de Fromm,
 desarrollado con mayor extensión en Tener o ser (1976). Lo que Fromm
@@ -5220,7 +5219,7 @@ la propia existencia.
 6 Paul Ricoeur, Sí mismo como otro (1990), especialmente el estudio quinto:
 «Identidad personal e identidad narrativa». La distinción ricoeuriana entre
 la identidad como idem —la mismidad, la identidad numérica del objeto
-que permanece igual a través del tiempo—y la identidad como ipse —la
+que permanece igual a través del tiempo— y la identidad como ipse —la
 ipseidad, la identidad del sujeto que se mantiene fiel a sí mismo a través del
 tiempo sin necesitar ser siempre igual— es fundamental para comprender
 cómo el yo puede cambiar y desarrollarse sin perder la continuidad que hace
@@ -5296,9 +5295,9 @@ mayor economía describe lo que cambia cuando el sujeto retorna al yo.
 La performance es el modo de habitar la existencia en el que el sujeto está,
 en todo momento, produciendo una versión de sí mismo para una
 audiencia. Esa audiencia puede ser externa —personas concretas cuya
-aprobación o validación el sujeto necesita—o puede ser interna —la imagen
-internalizada que el sujeto ha convertido en su propio observador—. Lo que
-define la performance no es la presencia de una audiencia real sino la
+aprobación o validación el sujeto necesita— o puede ser interna —la
+imagen internalizada que el sujeto ha convertido en su propio observador—.
+Lo que define la performance no es la presencia de una audiencia real sino la
 estructura de la relación del sujeto con su propia experiencia: en la
 performance, la experiencia es siempre evaluada antes de ser habitada,
 siempre filtrada por la pregunta de cómo se verá desde afuera antes de ser
@@ -5404,7 +5403,7 @@ AQUILES
 genuino tiende a atraer y a elegir vínculos con personas que pueden hacer lo
 mismo. No porque sea intolerante con quienes están disociados —la
 compasión que el análisis del dilema de Aquiles permite es genuina y no
-condescendiente—sino porque el encuentro genuino entre dos perspectivas
+condescendiente— sino porque el encuentro genuino entre dos perspectivas
 produce una calidad de experiencia que el sujeto que ha tenido acceso a ella
 ya no puede conformarse con su ausencia. Una vez que se ha habitado la
 presencia genuina en un vínculo, el vínculo especular —el que solo ofrece
@@ -5419,7 +5418,7 @@ filosóficamente importante porque toca directamente el problema de la
 libertad que el libro ha mantenido como hilo conductor desde el principio.
 El sujeto disociado toma decisiones desde un eje que no es el suyo: evalúa las
 opciones disponibles a través del filtro de la imagen —¿cuál de estas opciones
-confirma mejor la representación que debo sostener? — y elige de acuerdo
+confirma mejor la representación que debo sostener?— y elige de acuerdo
 con esa evaluación. Esas decisiones pueden ser externamente correctas,
 incluso admirables. Pueden ser coherentes con los valores que la imagen
 profesa. Pero no son libres en el sentido que importa: no parten del propio
@@ -5447,7 +5446,7 @@ AQUILES
 actualizarse con la experiencia: el sujeto puede cambiar de posición cuando
 la evidencia y la reflexión lo justifican, sin que ese cambio amenace el
 fundamento de quién es.
-Esa combinación —coherencia con flexibilidad—es la que Aristóteles tenía
+Esa combinación —coherencia con flexibilidad— es la que Aristóteles tenía
 en mente cuando describió la virtud como un hábito que no es ni
 deficiencia ni exceso, sino la disposición estable del carácter que permite
 responder adecuadamente a cada situación desde la perspectiva propia.[2] Lo
@@ -5535,7 +5534,7 @@ representación de que es alguien que da.
 La paradoja se completa cuando se examina la dimensión temporal: el sujeto
 que da desde la imagen se agota y termina o en el resentimiento silencioso
 —dando cada vez más y recibiendo cada vez menos gratitud, porque el otro
-percibe que el don no es genuino—o en el colapso visible —dejando de dar
+percibe que el don no es genuino— o en el colapso visible —dejando de dar
 de repente, con una brusquedad que desconcierta a los que recibían—. El
 sujeto que da desde el ego genuino puede dar de manera sostenida, porque da
 desde una fuente que se renueva: la perspectiva propia, que no se agota en el
@@ -5618,7 +5617,7 @@ AQUILES
 no es solo una condición de bienestar individual; es también una condición
 ética: la condición sin la cual la responsabilidad genuina —no la
 responsabilidad de la imagen sino la responsabilidad del sujeto que se sabe
-autor de sus actos—no puede ejercerse.
+autor de sus actos— no puede ejercerse.
 El sujeto disociado no puede ser genuinamente responsable de sus actos en el
 sentido pleno del término, porque sus actos no parten genuinamente de él.
 Los actos que parten de la imagen tienen como autor real a la imagen, no al
@@ -5627,11 +5626,11 @@ rendición de cuentas —cuando algo sale mal, cuando alguien es dañado,
 cuando una decisión produce resultados que no eran los deseados—, el sujeto
 disociado tiende a responder desde la imagen: o defendiéndola —el error no
 fue un error, o fue responsabilidad de otro, o estaba justificado por
-circunstancias excepcionales—o hundiéndose ante ella —el error confirma
+circunstancias excepcionales— o hundiéndose ante ella —el error confirma
 que la imagen era falsa, que la persona entera es un fracaso, que la vergüenza
 es proporcional al colapso de la representación—. Ninguna de esas respuestas
 es responsabilidad genuina.
-La responsabilidad genuina —la que emerge del ego genuino—tiene una
+La responsabilidad genuina —la que emerge del ego genuino— tiene una
 estructura diferente: puede reconocer el acto como propio, evaluar sus
 consecuencias desde la perspectiva de los afectados, hacerse cargo de la
 reparación en la medida en que sea posible, y aprender de lo que ocurrió sin
@@ -5645,7 +5644,7 @@ le corresponde al propio ego sin expansión ni contracción defensiva. El
 sujeto disociado tiende a uno de dos extremos: o expande el espacio que
 ocupa más allá de lo que le corresponde —porque la imagen requiere más
 visibilidad, más confirmación, más lugar que el que la situación asigna
-naturalmente—o contrae el espacio que ocupa por debajo de lo que le
+naturalmente— o contrae el espacio que ocupa por debajo de lo que le
 corresponde —porque la imagen de modestia, de no-incomodar, de no-serdemasiado exige una presencia mínima que en realidad es una forma de
 ausencia—. El ego genuino puede ocupar el espacio que genuinamente le
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -5786,7 +5785,7 @@ A.C.
 AQUILES
 
 X. Una ética para el sujeto que retornó: principios, no reglas
-El último apartado de este capítulo —y del libro—puede formularse como
+El último apartado de este capítulo —y del libro— puede formularse como
 una síntesis ética de todo lo que el argumento ha construido. No en el
 sentido de un código de conducta ni de un conjunto de reglas que el sujeto
 que retornó al yo debe seguir —las reglas son la forma que la imagen toma
@@ -5850,7 +5849,7 @@ se es. Esa gloria no la cantan los poetas. La vive el sujeto. Y eso, finalmente,
 es suficiente.
 El dilema de Aquiles fue la elección de una vida para la imagen a costa de la
 vida desde el yo. Aquiles eligió el kleos —la fama que los otros sostendrían
-—sobre Ftía —la vida que él mismo podría haber habitado—. Esa elección
+— sobre Ftía —la vida que él mismo podría haber habitado—. Esa elección
 no fue libre en el sentido que importa: fue el resultado de una formación que
 nunca le mostró que existía otra opción, que organizó su ego en torno a la
 gloria antes de que pudiera tener perspectiva suficiente para evaluar qué
@@ -5874,7 +5873,7 @@ perspectiva del que ha estado en la trampa y la ha reconocido, y que desde ese
 reconocimiento puede orientar la acción hacia algo que es genuinamente
 suyo.
 Esa posibilidad —modesta en su formulación, radical en sus consecuencias
-—es lo que este libro ha intentado articular a lo largo de sus páginas. No la
+— es lo que este libro ha intentado articular a lo largo de sus páginas. No la
 promesa de una vida sin imagen ni la celebración de la soledad
 autosuficiente. La descripción precisa de un mecanismo que produce
 sufrimiento innecesario y de las condiciones bajo las que ese mecanismo
@@ -5895,11 +5894,11 @@ necesitan un contexto de conexión genuina suficientemente sólido para que
 puedan procesarse sin dañar el vínculo. Esa proporción es exactamente el
 tipo de ambiente que el ego genuino puede construir y el ego disociado no
 puede.
-2 Aristóteles, Ética a Nicómaco (siglo IV a.C.), libro II, cap. 1-7. La
+2 Aristóteles, Ética a Nicómaco (siglo IV a.C.), libro II, cap. 1–7. La
 descripción aristotélica de la virtud como habitus —una disposición estable
 del carácter que se adquiere por la práctica y que permite responder
-adecuadamente a cada situación desde el propio juicio—es incompatible con
-la egolatría en cualquiera de sus formas. La virtud aristotélica exige la
+adecuadamente a cada situación desde el propio juicio— es incompatible
+con la egolatría en cualquiera de sus formas. La virtud aristotélica exige la
 phronesis —la prudencia, el juicio práctico— que a su vez exige un sujeto
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -5922,9 +5921,9 @@ forma de conocimiento pre-reflexivo que orienta la acción antes de que el
 pensamiento consciente la evalúe ilumina directamente la dimensión
 corporal de la disociación del ego: el cuerpo sabe cosas que la imagen
 suprime.
-4 Martin Heidegger, Ser y tiempo (1927), §§ 25-27 y §§ 54-60. La distinción
+4 Martin Heidegger, Ser y tiempo (1927), §§ 25–27 y §§ 54–60. La distinción
 heideggeriana entre la existencia auténtica e inauténtica —Eigentlichkeit e
-Uneigentlichkeit—ha sido frecuentemente malinterpretada como una
+Uneigentlichkeit— ha sido frecuentemente malinterpretada como una
 distinción moral entre lo bueno y lo malo. Heidegger no estaba haciendo
 un juicio de valor sino una descripción ontológica: la existencia inauténtica
 es la que el Dasein vive cuando está gobernado por el «Se» —das Man, el
@@ -5988,7 +5987,7 @@ A.C.
 AQUILES
 
 Lo que sí cambia —y en eso consiste todo el trabajo que el libro ha
-intentado articular—es la relación del sujeto con esa tensión. La diferencia
+intentado articular— es la relación del sujeto con esa tensión. La diferencia
 entre el sujeto aquileano y el sujeto que ha retornado al yo no es que el
 segundo ya no siente la atracción de la imagen. Es que el segundo puede
 sentirla sin ser gobernado por ella. Puede reconocerla como lo que es —la
@@ -6003,7 +6002,7 @@ de que desaparezca para poder seguir viviendo.
 
 II. La tensión como condición: Heráclito y el arco
 El fragmento de Heráclito que encabeza este epílogo —en su forma
-parafraseada, porque el texto original es más lacónico y más oscuro—dice
+parafraseada, porque el texto original es más lacónico y más oscuro— dice
 algo sobre la tensión que ninguna otra imagen filosófica ha formulado con
 igual economía: el arco quiere estar quieto, pero el oficio del arco es vibrar.
 La naturaleza del arco es la tensión entre los dos extremos que lo curvan; sin
@@ -6086,7 +6085,7 @@ La imperfección del sujeto que ha retornado al yo no es un defecto del
 proceso sino su condición natural. Un eje genuino que nunca cede no es un
 eje más sólido; es un eje rígido, que es otra forma de la egolatría. La solidez
 del eje genuino no proviene de su impermeabilidad a la presión —que sería
-rigidez—sino de su capacidad de recuperación después de ceder: de doblarse
+rigidez— sino de su capacidad de recuperación después de ceder: de doblarse
 sin romperse, de perder momentáneamente el centro y encontrar el camino
 de regreso a él. Esa elasticidad —que en la psicología contemporánea se
 llama resiliencia y que en el vocabulario de este libro podría llamarse la
@@ -6162,7 +6161,7 @@ propio eje, una fuente. Una fuente de creatividad, de profundidad en los
 vínculos, de una forma de acción que tiene la calidad específica de lo que
 emerge de la tensión productiva en lugar de la resolución prematura.
 La creatividad es el dominio en que esto es más evidente. El trabajo
-genuinamente creativo —en cualquier campo, no solo en las artes—emerge
+genuinamente creativo —en cualquier campo, no solo en las artes— emerge
 de la tensión entre lo que el sujeto puede hacer y lo que no puede hacer
 todavía, entre lo que ya sabe y lo que todavía no sabe, entre la perspectiva
 propia y las perspectivas que la cuestionan y la enriquecen. Esa tensión es
@@ -6185,7 +6184,7 @@ la mirada ajena— es la condición de posibilidad de cualquier obra que dure
 más que la imagen que la produjo.
 En los vínculos, la tensión habitada produce la posibilidad del encuentro
 genuino que la ausencia de tensión —el vínculo especular, el que solo
-confirma—no puede producir. Dos perspectivas genuinas en contacto
+confirma— no puede producir. Dos perspectivas genuinas en contacto
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6247,14 +6246,14 @@ la trampa en que está porque el observador ya la puede ver.
 La persona que vive en la trampa de la imagen prestada no necesita que le
 señalen la trampa antes de que esté lista para verla. Lo que necesita —y lo
 que el sujeto que ha atravesado su propio proceso puede ofrecer con una
-autenticidad que ningún otro puede igualar—es la presencia que no requiere
-la imagen. El acompañamiento que no está condicionado a que el otro sea
-lo que su imagen prometía. El vínculo que puede sostener la incomodidad
-del colapso ajeno sin necesitar que el otro restaure rápidamente lo que cayó.
-Eso es lo que el sujeto que ha retornado al yo puede dar a quien está todavía
-en la trampa: no el mapa del camino de salida —que cada uno debe
-encontrar desde su propio eje—, sino la compañía que hace más habitable el
-umbral cuando llega.
+autenticidad que ningún otro puede igualar— es la presencia que no
+requiere la imagen. El acompañamiento que no está condicionado a que el
+otro sea lo que su imagen prometía. El vínculo que puede sostener la
+incomodidad del colapso ajeno sin necesitar que el otro restaure
+rápidamente lo que cayó. Eso es lo que el sujeto que ha retornado al yo puede
+dar a quien está todavía en la trampa: no el mapa del camino de salida —que
+cada uno debe encontrar desde su propio eje—, sino la compañía que hace
+más habitable el umbral cuando llega.
 Hay también una consecuencia de comprender el dilema de Aquiles en los
 otros que toca la responsabilidad de los entornos que lo producen. Los
 entornos —las familias, las instituciones, las culturas— que construyen
@@ -6291,7 +6290,7 @@ que no puede doblar se rompe. Y Aquiles, en ese sentido, no murió de la
 flecha de Paris: murió de la rigidez de la imagen que lo organizaba.
 El sujeto que ha atravesado su propio dilema —que ha reconocido la imagen
 que lo gobernaba, que ha atravesado el colapso, que ha comenzado el trabajo
-del retorno al yo—es un arco que ha aprendido a vibrar desde su propio
+del retorno al yo— es un arco que ha aprendido a vibrar desde su propio
 material. No desde el material que los otros eligieron para él, no desde la
 forma que el entorno quiso darle, sino desde la tensión que su propio eje
 puede sostener. Ese arco no es más cómodo que el de Aquiles: la tensión que
@@ -6303,7 +6302,7 @@ La metáfora se completa cuando se añade al arquero. Porque el arco solo
 vibra de la manera correcta cuando el arquero lo tensa desde el eje adecuado,
 desde la postura que le corresponde a ese arco específico con esa cuerda
 específica. El arquero que intenta usar el arco de otro —que adopta la
-postura que otro arquero desarrolló para su propio arco—no obtendrá el
+postura que otro arquero desarrolló para su propio arco— no obtendrá el
 resultado que ese arco puede dar: obtendrá algo forzado, inestable, que
 requiere más energía de la que debería para producir menos de lo que podría.
 El arquero que aprende la postura que le corresponde a su propio arco —que
@@ -6326,14 +6325,14 @@ AQUILES
 
 VIII. Una última imagen: el mar después de la tormenta
 Los textos que se preocupan por la salud del ego —ya sean filosóficos,
-psicológicos o de cualquier otra tradición—tienden a terminar en imágenes
-de calma. La serenidad del sabio estoico que ya no es perturbado por nada.
-La ecuanimidad del practicante budista que ha trascendido el apego. La paz
-del sujeto integrado que ya no tiene conflicto interno. Esas imágenes son
-comprensibles y contienen algo verdadero, pero producen una expectativa
-que puede convertirse en otra forma de imagen: la imagen del que ya llegó,
-del que ya no lucha, del que ha encontrado el punto de quietud desde el que
-el mundo ya no puede perturbarlo.
+psicológicos o de cualquier otra tradición— tienden a terminar en
+imágenes de calma. La serenidad del sabio estoico que ya no es perturbado
+por nada. La ecuanimidad del practicante budista que ha trascendido el
+apego. La paz del sujeto integrado que ya no tiene conflicto interno. Esas
+imágenes son comprensibles y contienen algo verdadero, pero producen una
+expectativa que puede convertirse en otra forma de imagen: la imagen del
+que ya llegó, del que ya no lucha, del que ha encontrado el punto de quietud
+desde el que el mundo ya no puede perturbarlo.
 Este libro termina con una imagen diferente. No la calma después de la
 tormenta —que puede significar ausencia de vida tanto como presencia de
 paz— sino el mar después de la tormenta. El mar no está quieto después de
@@ -6457,7 +6456,7 @@ interpretativa que propone este libro.
 3 La distinción entre el tiempo que se vive y el tiempo que se narra ha
 ocupado a la filosof ía desde Agustín —«¿qué es el tiempo? Si nadie me lo
 pregunta, lo sé; si quiero explicárselo al que me lo pregunta, ya no lo
-sé» (Confesiones, libro XI)—hasta Ricoeur, cuya fenomenología del
+sé» (Confesiones, libro XI)— hasta Ricoeur, cuya fenomenología del
 tiempo narrativo argumenta que la identidad del sujeto se constituye en la
 tensión entre el tiempo vivido y el tiempo narrado. Lo que el epílogo añade
 a esa tradición es la observación de que la calidad de esa tensión —si produce
