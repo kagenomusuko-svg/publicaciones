@@ -18,18 +18,14 @@ Primera edición: 2026
 DOI: 10.5281/zenodo.19601758
 © Miguel Hilario Olvera Aguilar, 2026
 © Centro Multidisciplinario Meriadock Formación y Asesoría A.C., 2026
-Todos los derechos reservados. Ninguna parte de esta publicación puede ser reproducida,
-almacenada o transmitida en manera alguna ni por ningún medio, ya sea eléctrico, químico,
-mecánico, óptico, de grabación o de fotocopia, sin permiso previo del editor.
+Salvo los usos permitidos por la licencia indicada a continuación, todos los derechos están
+reservados. Para cualquier uso no contemplado por esa licencia, se requiere permiso previo del
+editor.
 El juego de las máscaras o la disforia de la identidad © 2026 de Miguel Hilario Olvera Aguilar
 está licenciado bajo CC BY-NC-ND 4.0.
 
-«Hoy reíste de algo que no te causó
-
-Epígrafe
-
-gracia. Esa es la primera página de
-este libro.»
+«Hoy reíste de algo que no te causó gracia. Esa es
+la primera página de este libro.»
 
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
@@ -84,6 +80,10 @@ Capítulo X · La mascarada colectiva
 
 128
 
+Epílogo · Ser alguien sin que nadie lo pida
+
+142
+
 Glosario
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -131,8 +131,6 @@ MÁSCARAS
 Prólogo
 El mundo es una mascarada
 I.
-
-I.
 Hoy reíste de algo que no te causó gracia.
 Quizás fue en una reunión, quizás en una cena, quizás frente a alguien a
 quien no quieres decepcionar. El chiste llegó, el silencio amenazó, y tu boca
@@ -154,7 +152,9 @@ tono de voz, sus gestos, sus respuestas, hasta que el entorno deja de percibir l
 diferencia. El que ensaya ser otro con tanta disciplina que a veces él mismo
 pierde el hilo de quién había antes del ensayo. [1] Ese fenómeno es real, es
 costoso y merece toda la atención que está recibiendo.
-
+Pero este libro parte de una hipótesis diferente, más incómoda y más dif ícil
+de refutar: el enmascaramiento no es una condición de los
+neurodivergentes. Es la condición humana.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -164,9 +164,6 @@ VII
 
 MÁSCARAS
 
-Pero este libro parte de una hipótesis diferente, más incómoda y más dif ícil
-de refutar: el enmascaramiento no es una condición de los
-neurodivergentes. Es la condición humana.
 La diferencia no es que unos enmascaren y otros no. La diferencia es que los
 neurodivergentes lo hacen con mayor consciencia del costo, porque el
 esfuerzo que les exige es visible, porque el agotamiento que produce no
@@ -194,6 +191,8 @@ que en ese punto hayas dejado de preguntarte si lo eran.
 A eso se le llama mediación sin voluntad: actuar desde lo que el mundo
 depositó en ti, sin que tú hayas operado sobre ello. Sin que hayas decidido,
 aunque sea una sola vez, si lo sostienes o lo sueltas.
+La máscara no duele cuando la usas por primera vez. Duele cuando llevas
+tanto tiempo usándola que ya no recuerdas cómo es tu cara.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -203,9 +202,6 @@ VIII
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 MÁSCARAS
-
-La máscara no duele cuando la usas por primera vez. Duele cuando llevas
-tanto tiempo usándola que ya no recuerdas cómo es tu cara.
 
 IV.
 Este libro es el tercero de una colección que comenzó con una pregunta que
@@ -235,6 +231,8 @@ Pero antes, Polifemo le pregunta su nombre. Y Odiseo responde: mi nombre
 es Nadie.
 Esa respuesta es un acto de inteligencia táctica, sí. Pero también es algo más:
 es un hombre que decide, por primera vez en la narración, no ser lo que su
+nombre dice. Odiseo es el héroe, el rey de Ítaca, el de los mil ardides. Y en ese
+momento elige ser nadie.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -245,8 +243,6 @@ IX
 
 MÁSCARAS
 
-nombre dice. Odiseo es el héroe, el rey de Ítaca, el de los mil ardides. Y en ese
-momento elige ser nadie.
 Lo que ocurre después es conocido: cuando los otros cíclopes acuden al
 escuchar los gritos de Polifemo y preguntan quién lo lastimó, él responde
 que fue Nadie. Y sin imputado, sin nombre, no hay persecución posible.
@@ -273,6 +269,9 @@ sin cambiar la operación de fondo.
 Lo que este libro busca es más antiguo y menos tranquilizador: nombrarte
 el mecanismo para que lo reconozcas en tu propia experiencia. No para que
 te juzgues. Para que te preguntes.
+La pregunta no es si usas máscaras. Todos las usamos. La pregunta es si sabes
+cuándo estás usándolas. Y si debajo de ellas, cuando las buscas, encuentras
+algo que reconoces como tuyo.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -283,9 +282,6 @@ X
 
 MÁSCARAS
 
-La pregunta no es si usas máscaras. Todos las usamos. La pregunta es si sabes
-cuándo estás usándolas. Y si debajo de ellas, cuando las buscas, encuentras
-algo que reconoces como tuyo.
 Hay personas que al buscar no encuentran nada. No porque no haya nada:
 porque llevan tanto tiempo sin buscar que el camino de vuelta se cerró bajo
 el sedimento. Eso tiene un nombre en este libro: disociación del ego. Y la
@@ -313,6 +309,10 @@ llora en consulta y sale sintiéndose mejor no ha cambiado la estructura que
 produce el llanto. Ha descargado la presión suficiente para que el sistema
 vuelva a operar. Y el sistema —la máscara, la mediación sin voluntad, el ego
 disociado—sigue en pie.
+Este libro propone que la salida no es alivio sino rendición. Y que rendirse
+no es lo que la cultura posmoderna entiende por esa palabra.
+Rendirse no es dejar de intentar. Es dejar de sostener el ideal que genera el
+duelo. Es soltar la mediación del ego disociado y permitir que la voluntad
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -323,10 +323,6 @@ XI
 
 MÁSCARAS
 
-Este libro propone que la salida no es alivio sino rendición. Y que rendirse
-no es lo que la cultura posmoderna entiende por esa palabra.
-Rendirse no es dejar de intentar. Es dejar de sostener el ideal que genera el
-duelo. Es soltar la mediación del ego disociado y permitir que la voluntad
 opere de nuevo sobre el sesgo propio. Es el primer colapso genuino después
 de mucho tiempo de colapsos prestados.
 No es un acto de una vez. Es el inicio de un camino.
@@ -353,6 +349,11 @@ Notas
 neurodivergencia fue sistematizado como objeto de estudio clínico a partir
 de la primera década del siglo XXI. Entre los trabajos más citados se
 encuentran los de Sarah Bargiela, William Mandy y otros investigadores del
+University College London que documentaron el fenómeno especialmente
+en mujeres autistas. La escala CAT-Q (Camouflaging Autistic Traits
+Questionnaire), desarrollada en 2019, es uno de los instrumentos de
+medición más utilizados en la actualidad.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -362,17 +363,13 @@ XII
 
 MÁSCARAS
 
-University College London que documentaron el fenómeno especialmente
-en mujeres autistas. La escala CAT-Q (Camouflaging Autistic Traits
-Questionnaire), desarrollada en 2019, es uno de los instrumentos de
-medición más utilizados en la actualidad.
-[2] Homero, Odisea, canto IX, vv. 355-414. El episodio de Polifemo es uno de
+[2] Homero, Odisea, canto IX, vv. 355–414. El episodio de Polifemo es uno de
 los más analizados de la literatura occidental, aunque casi siempre desde la
 perspectiva de la astucia de Odiseo como virtud heroica. La lectura que este
 libro propone invierte la evaluación: no es la astucia del «nadie» lo que
 revela el carácter de Odiseo, sino su incapacidad de sostenerla.
 [3] El grito de Odiseo al revelar su nombre ante Polifemo aparece en Odisea,
-canto IX, vv. 502-505. El propio texto homérico presenta el gesto como una
+canto IX, vv. 502–505. El propio texto homérico presenta el gesto como una
 compulsión que sus compañeros intentan frenar sin éxito. La interpretación
 que aquí se propone no es nueva en sus trazos generales —varios
 comentaristas han señalado la hybris del gesto— pero difiere en lo esencial:
@@ -6072,6 +6069,7 @@ A.C.
 MÁSCARAS
 
 Epílogo
+
 Ser alguien sin que nadie lo pida
 I. Regreso a Odiseo
 El libro comenzó con una risa que no nació del sujeto. Termina con un
@@ -6094,6 +6092,10 @@ que el mundo lo supiera también. Su identidad era real —era el sesgo más
 genuinamente suyo que el poema registra: la astucia, la tenacidad, el amor
 por Ítaca que resistió diez años de obstáculos. Pero esa identidad había sido
 formada en la presencia de los otros, confirmada por los otros, medida
+siempre en relación con los otros. Odiseo sabía quién era. No sabía serlo en
+silencio.
+Eso es lo que este libro ha llamado, a lo largo de sus páginas, la diferencia
+entre tener sesgo y poder operarlo sin audiencia. Entre la identidad como
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6104,10 +6106,6 @@ A.C.
 
 MÁSCARAS
 
-siempre en relación con los otros. Odiseo sabía quién era. No sabía serlo en
-silencio.
-Eso es lo que este libro ha llamado, a lo largo de sus páginas, la diferencia
-entre tener sesgo y poder operarlo sin audiencia. Entre la identidad como
 historia acumulada y la identidad como posición que puede habitarse
 también cuando nadie mira. Entre el ego que existe porque actúa y el ego
 que actúa porque existe.
@@ -6135,6 +6133,10 @@ Lo que el libro sí hizo —lo que intentó hacer, con toda la imperfección que
 cualquier intento filosófico tiene—fue nombrar. Nombrar el mecanismo de
 la máscara con suficiente precisión como para que el lector que lo reconozca
 en su propia vida pueda verlo como mecanismo y no como realidad.
+Nombrar la disforia como señal y no como patología. Nombrar el duelo
+como evidencia de vida y no como síntoma de debilidad. Nombrar la
+rendición como cese del esfuerzo y no como derrota. Nombrar la vanidad
+soberana como suficiencia y no como arrogancia.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6145,10 +6147,6 @@ A.C.
 
 MÁSCARAS
 
-Nombrar la disforia como señal y no como patología. Nombrar el duelo
-como evidencia de vida y no como síntoma de debilidad. Nombrar la
-rendición como cese del esfuerzo y no como derrota. Nombrar la vanidad
-soberana como suficiencia y no como arrogancia.
 El nombre no es el acto. Pero es la condición para que el acto sea posible. Lo
 que no tiene nombre no puede ser presentado a la voluntad. Y lo que no
 puede ser presentado a la voluntad no puede ser operado. El libro le puso
@@ -6177,6 +6175,10 @@ suficiente. Lo que hay es una tendencia: el ego que opera desde la primera
 fórmula con suficiente consistencia durante suficiente tiempo se va
 volviendo más capaz de operar desde ella, porque cada colapso genuino hace
 más fácil el siguiente. El sesgo genuino operado muchas veces en la misma
+dirección tiene más inercia propia. Requiere menos esfuerzo sostenerse en la
+primera fórmula cuando el sedimento apunta hacia ella.
+Un ego que colapsó tantas veces desde sí mismo que ya no necesita el relato
+para sostenerse. No el relato de lo que logró ni el relato de lo que sufrió ni el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6187,10 +6189,6 @@ A.C.
 
 MÁSCARAS
 
-dirección tiene más inercia propia. Requiere menos esfuerzo sostenerse en la
-primera fórmula cuando el sedimento apunta hacia ella.
-Un ego que colapsó tantas veces desde sí mismo que ya no necesita el relato
-para sostenerse. No el relato de lo que logró ni el relato de lo que sufrió ni el
 relato de quién fue en el camino. Solo el sesgo vivo, la voluntad disponible, y
 el tiempo que viene como material en lugar de como destino.
 Odiseo no llegó a eso. Sus colapsos más genuinos —el rechazo de la
@@ -6217,6 +6215,10 @@ Lo que hay que soltar es el relato.
 No la historia —que es el sesgo con toda su imperfección, con todos sus
 colapsos acumulados, con su historia sucia y su dignidad. La historia no
 puede soltarse y no conviene intentarlo: es el material desde el que el ego
+opera, el punto de partida que la rendición convierte de destino en inicio. La
+historia es tuya y tiene que ser tuya.
+El relato es otra cosa. El relato es la narración de la historia orientada a
+producir un efecto en quien la escucha. Es la historia pasada por el filtro de
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6227,10 +6229,6 @@ A.C.
 
 MÁSCARAS
 
-opera, el punto de partida que la rendición convierte de destino en inicio. La
-historia es tuya y tiene que ser tuya.
-El relato es otra cosa. El relato es la narración de la historia orientada a
-producir un efecto en quien la escucha. Es la historia pasada por el filtro de
 lo que el otro necesita entender para confirmar la imagen. El relato siempre
 tiene audiencia —real o imaginada. La historia puede existir sin ella.
 Soltar el relato no es callar la historia. Es dejar de necesitar que la historia
@@ -6258,6 +6256,9 @@ destinos producen la misma estructura que las máscaras: un horizonte hacia
 el cual el sujeto orienta sus actos no desde lo que es sino desde lo que debería
 llegar a ser. El sujeto que persigue el estado de ser alguien sin que nadie lo
 sepa como si fuera un destino ha convertido la vanidad soberana en una
+nueva imagen que gestionar. Y la gestión de esa imagen produce
+exactamente el opuesto de lo que la imagen promete.
+Lo que este libro propone en su lugar es más modesto y más real: un colapso.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6268,9 +6269,6 @@ A.C.
 
 MÁSCARAS
 
-nueva imagen que gestionar. Y la gestión de esa imagen produce
-exactamente el opuesto de lo que la imagen promete.
-Lo que este libro propone en su lugar es más modesto y más real: un colapso.
 Un colapso que puede protagonizarse. No un colapso que le ocurre al sujeto
 —esos también existen y ya fueron descritos: los que produce la presión
 externa, los que revelan la máscara desde afuera. Sino un colapso que el
@@ -6299,6 +6297,10 @@ El libro no lo da.
 No porque no quiera. Sino porque no puede, y sería deshonesto pretender
 que puede. Todo lo que este libro puede hacer —todo lo que cualquier libro
 puede hacer—es crear las condiciones para que lo que no puede dar ocurra
+por sí solo, en el único lugar donde puede ocurrir: en la vida del sujeto que lo
+lee, fuera de estas páginas, en los actos concretos y ordinarios que nadie va a
+registrar en ningún texto filosófico.
+El argumento terminó. El trabajo no.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6309,10 +6311,6 @@ A.C.
 
 MÁSCARAS
 
-por sí solo, en el único lugar donde puede ocurrir: en la vida del sujeto que lo
-lee, fuera de estas páginas, en los actos concretos y ordinarios que nadie va a
-registrar en ningún texto filosófico.
-El argumento terminó. El trabajo no.
 El trabajo es el que el lector tiene que hacer con lo que el libro le dejó. No el
 trabajo de entenderlo mejor, de releerlo, de aplicar sus categorías con más
 precisión. El trabajo de los colapsos. El trabajo de operar la voluntad sobre el
@@ -6339,6 +6337,11 @@ las partes de ese mecanismo con suficiente precisión como para que el sujeto
 que las reconozca pueda empezar a distinguir cuándo está operando el
 mecanismo y cuándo está, aunque sea brevemente, fuera de él.
 La pregunta sigue siendo tuya. La respuesta, si hay una, también.
+Lo que el libro puede dejar al terminar no es la respuesta sino la posibilidad
+de que la pregunta sea tuya de otra manera. No la pregunta que el
+mecanismo produce —¿soy lo que mi imagen dice que soy? — sino la
+pregunta más dif ícil y más genuina: ¿quién soy cuando el relato no está y el
+ego tiene que sostenerse solo?
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6349,11 +6352,6 @@ A.C.
 
 MÁSCARAS
 
-Lo que el libro puede dejar al terminar no es la respuesta sino la posibilidad
-de que la pregunta sea tuya de otra manera. No la pregunta que el
-mecanismo produce —¿soy lo que mi imagen dice que soy? — sino la
-pregunta más dif ícil y más genuina: ¿quién soy cuando el relato no está y el
-ego tiene que sostenerse solo?
 Odiseo supo la respuesta en la cueva de Polifemo. Por un momento fue nadie
 de una manera que era más él que cualquier nombre.
 Y luego lo olvidó.

@@ -87,6 +87,13 @@
       "printed_page": "128"
     },
     {
+      "key": "epilogo",
+      "label": "Epílogo · Ser alguien sin que nadie lo pida",
+      "kind": "chapter",
+      "physical_page": 155,
+      "printed_page": "142"
+    },
+    {
       "key": "glosario",
       "label": "Glosario",
       "kind": "appendix",
