@@ -3105,7 +3105,7 @@ que el sujeto pueda identificar su causa—. Puede ser un acontecimiento
 externo que la imagen no tenía categorías para manejar —una pérdida, una
 enfermedad, un fracaso que atraviesa todas las defensas—. O puede ser, en
 los casos más afortunados, una apertura: un momento de quietud, un
-vínculo que ofrece suficiente seguridad como para que el sujeto se asoma a la
+vínculo que ofrece suficiente seguridad como para que el sujeto se asome a la
 brecha sin ser destruido por lo que encuentra ahí.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -3127,20 +3127,20 @@ retorno; puede también producir una nueva capa de imagen defensiva que
 tape la brecha con más eficacia que la anterior. Pero es la condición de
 posibilidad del retorno.
 En el vocabulario de la teoría del cambio psicológico, este momento de fallo
-de la imagen se describe a veces como
-«tocar fondo» —una metáfora que captura algo de su estructura: el punto
-en que ya no hay más profundidad adonde ir sin cambiar la dirección—. Lo
-que el análisis filosófico del dilema de Aquiles añade a esa descripción es la
-precisión sobre lo que se toca cuando se toca fondo: no el fracaso personal,
-no la derrota moral, sino el yo genuino que la imagen había desplazado y
-que el fondo de la disociación, paradójicamente, vuelve a hacer accesible.
+de la imagen se describe a veces como «tocar fondo», una metáfora que
+captura algo de su estructura: el punto en que ya no hay más profundidad
+adonde ir sin cambiar la dirección—. Lo que el análisis filosófico del dilema
+de Aquiles añade a esa descripción es la precisión sobre lo que se toca cuando
+se toca fondo: no el fracaso personal, no la derrota moral, sino el yo genuino
+que la imagen había desplazado y que el fondo de la disociación,
+paradójicamente, vuelve a hacer accesible.
 El capítulo siguiente examina ese momento —el colapso de la imagen, el
 día en que Aquiles falló— en toda su complejidad. Lo que este capítulo ha
 establecido es la condición desde la que ese examen puede hacerse con rigor:
 la disociación del ego es un proceso real, con mecanismos identificables, con
 una dinámica que tiende hacia un umbral, y con una estructura que hace
-posible —aunque no inevitable— el retorno al yo que la perdura como
-posibilidad incluso en los niveles más profundos de la disociación.
+posible —aunque no inevitable— el retorno al yo, cuya posibilidad perdura
+incluso en los niveles más profundos de la disociación.
 El fondo de la disociación no es el final del yo. Es el lugar donde el yo que
 fue desplazado lleva más tiempo esperando. El colapso de la imagen no
 destruye al sujeto; revela lo que había debajo de ella.
@@ -4456,8 +4456,8 @@ Así como el hombre hobbesiano entrega su libertad para no ser destruido,
 muchas veces entregamos nuestro ego para no quedarnos solos. El perdón
 que nace del miedo conserva al agresor como soberano; el perdón que nace
 del ego no somete: desactiva. Y la diferencia entre los dos no está en el gesto
-exterior —ambos pueden llamarse
-«perdón»—, sino en desde dónde parte el sujeto que lo ejerce.
+exterior —ambos pueden llamarse «perdón»—, sino en desde dónde parte
+el sujeto que lo ejerce.
 Con esto, el capítulo ha cerrado el arco que comenzó en el miedo y terminó
 en la soberanía del ego. Ha articulado la conexión que el libro necesitaba
 establecer entre la disociación que los capítulos anteriores analizaron y el
@@ -4467,6 +4467,7 @@ decisivos. Porque mientras el daño siga siendo el organizador de la posición
 del sujeto, el ego no puede ser genuinamente propio: sigue siendo, en parte,
 la respuesta a algo que le hicieron. Y un ego que existe solo como respuesta a
 lo que le hicieron no ha recuperado todavía su eje. El perdón que desactiva es
+el que devuelve ese eje al sujeto que lo cedió bajo la presión del miedo y del
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4477,7 +4478,6 @@ A.C.
 
 AQUILES
 
-el que devuelve ese eje al sujeto que lo cedió bajo la presión del miedo y del
 daño. Es, en ese sentido, el acto más hobbesianamente subversivo que el
 sujeto puede realizar: la rebelión interior contra el soberano que el miedo
 instaló.
