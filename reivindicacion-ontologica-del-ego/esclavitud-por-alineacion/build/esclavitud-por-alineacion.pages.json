@@ -99,6 +99,13 @@
       "kind": "chapter",
       "physical_page": 140,
       "printed_page": "120"
+    },
+    {
+      "key": "epilogo",
+      "label": "Epílogo · Desalinear sin fingir neutralidad",
+      "kind": "chapter",
+      "physical_page": 155,
+      "printed_page": "135"
     }
   ]
 }
