@@ -1439,9 +1439,10 @@ son parcialmente correctas: la dependencia de la aprobación se alimenta de
 rasgos que no son en sí mismos negativos. Lo que los convierte en trampa es
 la función que cumplen: no apertura al otro sino sustitución del propio eje
 por la perspectiva ajena.
-La neurociencia del placer ha documentado que la aprobación social activa
-los mismos circuitos de recompensa que otras formas de gratificación
-inmediata. [4] Esta observación no debe tomarse como una reducción del
+Un estudio de neuroimagen observó que obtener una buena reputación —
+una forma de aprobación social— activa áreas relacionadas con la
+recompensa, con solapamiento respecto de las activadas por recompensas
+monetarias.[4] Esta observación no debe tomarse como una reducción del
 problema a un mecanismo neurológico —el problema del ego disociado no
 es principalmente un problema de circuitos cerebrales—, pero ilumina algo
 importante sobre la dificultad de la dependencia de la aprobación: tiene la
@@ -1450,8 +1451,7 @@ torno a la aprobación externa no experimenta la ausencia de esa aprobación
 simplemente como una decepción; la experimenta como una privación que
 afecta su capacidad de funcionar. Y como toda adicción, produce tolerancia:
 la cantidad de aprobación que se necesitaba ayer ya no es suficiente hoy, lo
-que obliga al sujeto a escalar sus gestos de búsqueda de aprobación en una
-espiral que no tiene un punto de saturación natural.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1461,6 +1461,8 @@ A.C.
 
 AQUILES
 
+que obliga al sujeto a escalar sus gestos de búsqueda de aprobación en una
+espiral que no tiene un punto de saturación natural.
 Bowlby y la teoría del apego ofrecen otro ángulo sobre el mismo fenómeno:
 los patrones de relación con el reconocimiento que el adulto exhibe son con
 frecuencia el resultado de los patrones de respuesta que el entorno temprano
@@ -1492,9 +1494,7 @@ La transformación más relevante es la que puede llamarse la economía de la
 visibilidad: el conjunto de estructuras tecnológicas, económicas y culturales
 que han convertido la producción de imagen en una actividad ordinaria,
 continua y cuantificada. Las plataformas digitales —redes sociales,
-aplicaciones de contenido, sistemas de reputación online—no son
-simplemente herramientas de comunicación; son infraestructuras para la
-producción, circulación y evaluación de imágenes del yo. Y su peculiaridad
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1504,6 +1504,9 @@ A.C.
 
 AQUILES
 
+aplicaciones de contenido, sistemas de reputación online—no son
+simplemente herramientas de comunicación; son infraestructuras para la
+producción, circulación y evaluación de imágenes del yo. Y su peculiaridad
 respecto a las formas anteriores de producción de imagen es que hacen
 explícita, numérica y permanente la evaluación que antes era implícita,
 cualitativa y efímera.
@@ -1534,9 +1537,6 @@ de ellas y existe en personas que apenas las usan. Lo que las plataformas
 hacen es amplificar una tendencia que ya estaba presente y facilitar el
 desplazamiento en sujetos que, en otro entorno, quizás habrían podido
 mantener un eje más estable. Son el catalizador, no la causa.
-Guy Debord, en su análisis de la sociedad del espectáculo, formuló una
-crítica que anticipó con notable precisión algunas de las dinámicas que la
-economía de la visibilidad digital haría más visibles décadas después: la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1547,6 +1547,9 @@ A.C.
 
 AQUILES
 
+Guy Debord, en su análisis de la sociedad del espectáculo, formuló una
+crítica que anticipó con notable precisión algunas de las dinámicas que la
+economía de la visibilidad digital haría más visibles décadas después: la
 transformación de toda experiencia en representación, la reducción del ser
 al parecer, la sustitución de la vida vivida por la imagen de la vida que se
 produce para ser consumida por otros.[7] Lo que Debord no podía anticipar
@@ -1577,9 +1580,6 @@ porque cualquiera de esas actualizaciones cuestionaría la imagen sobre la que
 reposa su certeza de existir.
 El segundo costo es el agotamiento. Sostener una imagen requiere energía
 permanente. El sujeto que actúa desde su ego genuino no gasta energía en
-sostener una representación de sí mismo: simplemente actúa, y la coherencia
-entre sus actos y su eje es natural, no esforzada. El sujeto que actúa para
-sostener una imagen, en cambio, tiene que monitorear continuamente la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1590,6 +1590,9 @@ A.C.
 
 AQUILES
 
+sostener una representación de sí mismo: simplemente actúa, y la coherencia
+entre sus actos y su eje es natural, no esforzada. El sujeto que actúa para
+sostener una imagen, en cambio, tiene que monitorear continuamente la
 coherencia entre su conducta y la representación que debe proteger. Cada
 situación nueva requiere una evaluación: ¿es esto lo que alguien como yo
 debería hacer? ¿Confirma o amenaza la imagen? Ese monitoreo continuo es
