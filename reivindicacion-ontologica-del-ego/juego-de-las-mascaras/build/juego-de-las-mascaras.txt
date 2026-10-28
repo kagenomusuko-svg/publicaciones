@@ -1838,11 +1838,11 @@ El duelo de la disforia de la identidad no tiene una duración natural que
 deba respetarse en el sentido de las etapas que la psicología clínica describe
 —la negación, la ira, la negociación, la depresión, la aceptación—. El
 modelo de cinco etapas de Kübler-Ross surgió de entrevistas con pacientes
-terminales. En su libro, la autora también aborda las respuestas de sus
-familias; posteriormente, el esquema se extendió al duelo en general, una
-extrapolación que no siempre le hace justicia. El duelo de la disforia no sigue
-ese arco porque su objeto no es una pérdida con fecha, sino una distancia
-acumulada sin inicio preciso.
+terminales. En On Death and Dying (1969), la autora también aborda las
+respuestas de sus familias; posteriormente, el esquema se extendió al duelo
+en general, una extrapolación que no siempre le hace justicia. El duelo de la
+disforia no sigue ese arco porque su objeto no es una pérdida con fecha, sino
+una distancia acumulada sin inicio preciso.
 Lo que el duelo de la disforia requiere del tiempo es más específico: requiere
 que haya suficiente tiempo sin ruido como para que la señal pueda ser
 escuchada. Eso es todo. No requiere años ni etapas ni procesos. Requiere
@@ -1957,8 +1957,8 @@ más dramático de lo que es. No es una iluminación ni un momento de
 ruptura catártica. Es, frecuentemente, algo más modesto: el momento en
 que el sujeto deja de huir de la incomodidad con la misma velocidad con que
 antes lo hacía. El momento en que el duelo dura un poco más antes de ser
-gestionado. El momento en que la pregunta ¿de qué me estoy doliendo?
-se formula, aunque sea en voz baja, aunque sea solo por un instante, antes de
+gestionado. El momento en que la pregunta ¿de qué me estoy doliendo? se
+formula, aunque sea en voz baja, aunque sea solo por un instante, antes de
 que el ruido vuelva.
 Ese instante es suficiente. No para resolver nada. Pero sí para saber que hay
 algo que resolver. Y eso —saber que hay algo, reconocer que la señal existe y
@@ -1978,6 +1978,7 @@ disforia de la identidad es la manifestación específica del conatus del ego
 genuino: su esfuerzo por persistir frente a lo que intenta sustituirlo.
 [17] Aristóteles, Poética (siglo IV a.C.), 1449b. La definición de la tragedia
 incluye la referencia a la katharsis de las emociones de miedo y compasión.
+La interpretación de katharsis ha sido objeto de un debate académico
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1988,7 +1989,6 @@ A.C.
 
 MÁSCARAS
 
-La interpretación de katharsis ha sido objeto de un debate académico
 extenso: si designa purificación, purgación o clarificación. La lectura que
 aquí se adopta sigue la interpretación de Martha Nussbaum en La fragilidad
 del bien (1986), que enfatiza la dimensión cognitiva de la catarsis: no la
@@ -4848,8 +4848,8 @@ goffmaniana entre la región frontal —donde la actuación ocurre ante la
 audiencia— y la región trasera —donde los actores se relajan y se preparan
 — ilumina algo sobre la estructura de la máscara que este libro ha analizado
 desde otro ángulo: la región trasera de Goffman no es el ego genuino; es el
-espacio donde la actuación se descansa y se ensaya. El ego genuino, si existe,
-estaría más acá de esa distinción.
+espacio donde los actores descansan de la actuación y se preparan para ella. El
+ego genuino, si existe, estaría más acá de esa distinción.
 [40] Hannah Arendt, Eichmann en Jerusalén (1963) y La vida del espíritu
 (1978, póstumo). La tesis arendtiana sobre la banalidad del mal —que el mal
 no requiere monstruos sino la suspensión del juicio— está desarrollada en el
@@ -6037,8 +6037,8 @@ Notas
 [46] Douglass C. North, Instituciones, cambio institucional y desempeño
 económico (1990). La distinción de North entre instituciones formales —
 leyes, contratos, regulaciones— e instituciones informales —normas de
-conducta, convenciones, códigos de comportamiento auto-impuestos— es
-el punto de partida del análisis institucional de este capítulo. Lo que aquí se
+conducta, convenciones, códigos de comportamiento autoimpuestos— es el
+punto de partida del análisis institucional de este capítulo. Lo que aquí se
 añade a North es la dimensión ontológica que su marco económico no
 desarrolla: las instituciones informales no son solo convenciones
 coordinadoras que reducen costos de transacción; son los mecanismos a
@@ -6158,11 +6158,11 @@ que usa este libro como manual de instrucciones lo ha malentendido de la
 misma manera que el sujeto que usó la terapia como anestesia malentendió
 la señal del duelo.
 Lo que el libro sí hizo —lo que intentó hacer, con toda la imperfección que
-cualquier intento filosófico tiene—fue nombrar. Nombrar el mecanismo de
-la máscara con suficiente precisión como para que el lector que lo reconozca
-en su propia vida pueda verlo como mecanismo y no como realidad.
-Nombrar la disforia como señal y no como patología. Nombrar el duelo
-como evidencia de vida y no como síntoma de debilidad. Nombrar la
+cualquier intento filosófico tiene— fue nombrar. Nombrar el mecanismo
+de la máscara con suficiente precisión como para que el lector que lo
+reconozca en su propia vida pueda verlo como mecanismo y no como
+realidad. Nombrar la disforia como señal y no como patología. Nombrar el
+duelo como evidencia de vida y no como síntoma de debilidad. Nombrar la
 rendición como cese del esfuerzo y no como derrota. Nombrar la vanidad
 soberana como suficiencia y no como arrogancia.
 
@@ -6303,8 +6303,8 @@ externa, los que revelan la máscara desde afuera. Sino un colapso que el
 sujeto produce desde adentro: el cese del esfuerzo que sostenía la mediación
 del ego disociado, el primer acto de voluntad que opera sobre el sesgo en
 lugar de dejar que la suma fáctica lo haga, el momento en que el sujeto
-decide—aunque la decisión sea frágil, aunque no sepa bien qué está
-decidiendo, aunque nadie lo esté mirando—ser lo que es en lugar de lo que
+decide —aunque la decisión sea frágil, aunque no sepa bien qué está
+decidiendo, aunque nadie lo esté mirando— ser lo que es en lugar de lo que
 el relato dice que es.
 Ese colapso puede ocurrir en cualquier acto. No requiere grandiosidad. No
 requiere que el entorno lo reconozca ni que produzca resultados visibles.
@@ -6324,7 +6324,7 @@ VI. El libro no lo da
 El libro no lo da.
 No porque no quiera. Sino porque no puede, y sería deshonesto pretender
 que puede. Todo lo que este libro puede hacer —todo lo que cualquier libro
-puede hacer—es crear las condiciones para que lo que no puede dar ocurra
+puede hacer— es crear las condiciones para que lo que no puede dar ocurra
 por sí solo, en el único lugar donde puede ocurrir: en la vida del sujeto que lo
 lee, fuera de estas páginas, en los actos concretos y ordinarios que nadie va a
 registrar en ningún texto filosófico.
