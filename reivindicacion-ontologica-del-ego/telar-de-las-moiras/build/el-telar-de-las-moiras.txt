@@ -1854,9 +1854,9 @@ sino si ese acceso le permite desplegar su autodeterminación de manera
 genuina.
 Sen y Nussbaum, desde el enfoque de las capacidades, se aproximaron a esta
 dimensión con mayor precisión que la mayoría de las teorías políticas
-liberales.
-[4] Su argumento central —que el desarrollo humano debe medirse no por
-los recursos disponibles sino por las capacidades que el sujeto puede
+liberales. [4]
+Su argumento central —que el desarrollo humano debe medirse no por los
+recursos disponibles sino por las capacidades que el sujeto puede
 efectivamente ejercer— es estructuralmente compatible con lo que aquí se
 propone. La diferencia es que el enfoque de capacidades tiende a formularse
 en términos del bienestar del sujeto, mientras que el contrato fiscal lo
@@ -6808,14 +6808,14 @@ VIDA: 204–270 CAPÍTULOS: Cap. X
 Rawls, John
 VIDA: 1921–2002 CAPÍTULOS: Cap. IV
 
+Reid, Thomas
+VIDA: 1710–1796 CAPÍTULOS: Cap. II
+
 Ricoeur, Paul
 VIDA: 1913–2005 CAPÍTULOS: Caps. I, VII, VIII, X
 
 Rousseau, Jean-Jacques
 VIDA: 1712–1778 CAPÍTULOS: Caps. IV, VIII
-
-Saint-Exupéry, A. de
-VIDA: 1900–1944 CAPÍTULOS: Cap. VIII
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6825,6 +6825,9 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Saint-Exupéry, A. de
+VIDA: 1900–1944 CAPÍTULOS: Cap. VIII
 
 Sartre, Jean-Paul
 VIDA: 1905–1980 CAPÍTULOS: Caps. III, IX
@@ -6853,9 +6856,6 @@ VIDA: 1896–1971 CAPÍTULOS: Cap. VIII
 Wittgenstein, Ludwig
 VIDA: 1889–1951 CAPÍTULOS: Caps. V, X
 
-Zehr, Howard
-VIDA: 1944– CAPÍTULOS: Cap. VII
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6864,6 +6864,9 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Zehr, Howard
+VIDA: 1944– CAPÍTULOS: Cap. VII
 
 Žižek, Slavoj
 VIDA: 1949– CAPÍTULOS: Cap. VIII
@@ -6989,6 +6992,11 @@ TELAR DE LAS MOIRAS
 Spinoza, Baruch
 DESCRIPCIÓN: Filósofo neerlandés. El conatus y la perseverancia en el
 propio ser se convocan en Caps. I y VIII.
+VIDA: 1710–1796
+
+Reid, Thomas
+DESCRIPCIÓN: Filósofo escocés. Su objeción a la teoría lockeana de la
+identidad personal se menciona en Cap. II.
 VIDA: 1712–1778
 
 Rousseau, Jean-Jacques
@@ -7006,14 +7014,7 @@ VIDA: 1770–1831
 Hegel, G.W.F.
 DESCRIPCIÓN: Filósofo alemán. La dialéctica del reconocimiento (amo y
 esclavo) es convocada en Cap. VIII sobre el amor y la intersubjetividad.
-
-Siglo XIX
 VIDA: 1783–1842
-
-Stendhal
-DESCRIPCIÓN: Escritor francés. Del amor y su descripción de la
-cristalización se citan en Cap. VIII.
-VIDA: 1813–1855
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7023,6 +7024,13 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Stendhal
+DESCRIPCIÓN: Escritor francés. Del amor y su descripción de la
+cristalización se citan en Cap. VIII.
+
+Siglo XIX
+VIDA: 1813–1855
 
 Kierkegaard, Søren
 DESCRIPCIÓN: Filósofo danés. El concepto de la angustia es el eje
@@ -7044,14 +7052,6 @@ Simmel, Georg
 DESCRIPCIÓN: Sociólogo alemán. Su teoría del conflicto como forma de
 socialización estructura el argumento del Cap. V.
 
-Siglos XIX–XX — primera mitad
-VIDA: 1859–1938
-
-Husserl, Edmund
-DESCRIPCIÓN: Fundador de la fenomenología. Las Meditaciones
-cartesianas (intersubjetividad) aparecen en Cap. X.
-VIDA: 1889–1951
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7060,6 +7060,14 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Siglos XIX–XX — primera mitad
+VIDA: 1859–1938
+
+Husserl, Edmund
+DESCRIPCIÓN: Fundador de la fenomenología. Las Meditaciones
+cartesianas (intersubjetividad) aparecen en Cap. X.
+VIDA: 1889–1951
 
 Wittgenstein, Ludwig
 DESCRIPCIÓN: Filósofo austríaco. El Tractatus (límites del lenguaje)
@@ -7082,11 +7090,6 @@ DESCRIPCIÓN: Escritor francés. El principito (la domesticación del zorro)
 es el eje simbólico del apartado sobre el vínculo en Cap. VIII.
 VIDA: 1900–1980
 
-Fromm, Erich
-DESCRIPCIÓN: Psicoanalista alemán. El miedo a la libertad estructura el
-argumento sobre la evasión de la angustia en Cap. IX.
-VIDA: 1900–2002
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7095,6 +7098,11 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Fromm, Erich
+DESCRIPCIÓN: Psicoanalista alemán. El miedo a la libertad estructura el
+argumento sobre la evasión de la angustia en Cap. IX.
+VIDA: 1900–2002
 
 Gadamer, Hans-Georg
 DESCRIPCIÓN: Filósofo alemán. La fusión de horizontes (Cap. V) y la
@@ -7119,11 +7127,6 @@ VIDA: 1906–1995
 Levinas, Emmanuel
 DESCRIPCIÓN: Filósofo lituano-francés. La irreductibilidad del rostro del
 otro articula Caps. III y V.
-VIDA: 1908–1961
-
-Merleau-Ponty, Maurice
-DESCRIPCIÓN: Filósofo francés. La existencia encarnada como anterior a
-la reflexión aparece en Cap. II.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7134,6 +7137,11 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+VIDA: 1908–1961
+
+Merleau-Ponty, Maurice
+DESCRIPCIÓN: Filósofo francés. La existencia encarnada como anterior a
+la reflexión aparece en Cap. II.
 VIDA: 1908–1986
 
 De Beauvoir, Simone
@@ -7156,12 +7164,6 @@ DESCRIPCIÓN: Escritor y filósofo francés. El mito de Sísifo (el suicidio
 filosófico) es convocado en Cap. IX.
 VIDA: 1913–2005
 
-Ricoeur, Paul
-DESCRIPCIÓN: Filósofo francés. El sí mismo y la alteridad (Cap. I), la
-memoria y el olvido (Cap. VII), el amor (Cap. VIII) y la identidad narrativa
-(Cap. X) son sus contribuciones principales.
-VIDA: 1914–2010
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7170,6 +7172,12 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Ricoeur, Paul
+DESCRIPCIÓN: Filósofo francés. El sí mismo y la alteridad (Cap. I), la
+memoria y el olvido (Cap. VII), el amor (Cap. VIII) y la identidad narrativa
+(Cap. X) son sus contribuciones principales.
+VIDA: 1914–2010
 
 Knox, Bernard
 DESCRIPCIÓN: Clasicista. The Heroic Temper ofrece la lectura de Odiseo
@@ -7193,11 +7201,6 @@ DESCRIPCIÓN: Filósofo francés. Su lectura existencial del eterno retorno
 nietzscheano aparece en Cap. III.
 VIDA: 1926–1984
 
-Foucault, Michel
-DESCRIPCIÓN: Filósofo francés. El análisis del poder y la normalización
-estructuran el argumento de Cap. VII.
-VIDA: 1929–2009
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7206,6 +7209,11 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Foucault, Michel
+DESCRIPCIÓN: Filósofo francés. El análisis del poder y la normalización
+estructuran el argumento de Cap. VII.
+VIDA: 1929–2009
 
 Dahrendorf, Ralf
 DESCRIPCIÓN: Sociólogo alemán-británico. Su teoría del conflicto social
@@ -7230,11 +7238,6 @@ VIDA: 1933–
 Sen, Amartya
 DESCRIPCIÓN: Economista y filósofo indio. El enfoque de las capacidades
 es convocado en Cap. IV.
-VIDA: 1934–2023
-
-Dussel, Enrique
-DESCRIPCIÓN: Filósofo argentino-mexicano. La ética de la liberación y el
-no-anular al otro estructuran Cap. V.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7245,6 +7248,11 @@ A.C.
 
 TELAR DE LAS MOIRAS
 
+VIDA: 1934–2023
+
+Dussel, Enrique
+DESCRIPCIÓN: Filósofo argentino-mexicano. La ética de la liberación y el
+no-anular al otro estructuran Cap. V.
 VIDA: 1937–
 
 Badiou, Alain
@@ -7267,11 +7275,6 @@ DESCRIPCIÓN: Filósofa estadounidense. El enfoque de las capacidades
 complementa a Sen en Cap. IV.
 VIDA: 1949–
 
-Honneth, Axel
-DESCRIPCIÓN: Filósofo alemán. La lucha por el reconocimiento como
-motor del conflicto social aparece en Cap. VI.
-VIDA: 1949–
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7280,6 +7283,11 @@ A.C.
 REIVINDICACIÓN ONTOLÓGICA DEL EGO
 
 TELAR DE LAS MOIRAS
+
+Honneth, Axel
+DESCRIPCIÓN: Filósofo alemán. La lucha por el reconocimiento como
+motor del conflicto social aparece en Cap. VI.
+VIDA: 1949–
 
 Žižek, Slavoj
 DESCRIPCIÓN: Filósofo esloveno. Su filosof ía del amor como acto
