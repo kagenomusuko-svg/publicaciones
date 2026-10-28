@@ -309,6 +309,14 @@ def parse_body_files(root: Path, stems: list[str], config: dict) -> list[Piece]:
             if not raw.strip():
                 continue
 
+        epilogue = first_heading(raw, 1, "Epílogo")
+        if epilogue:
+            heading, full = epilogue
+            title = heading_title(raw, full)
+            label = f"{heading} · {title}" if title else heading
+            pieces.append(Piece("chapter", "epilogo", label, raw=raw))
+            continue
+
         chapter = first_heading(raw, 1, "Capítulo")
         if chapter:
             heading, full = chapter

@@ -4,4 +4,4 @@
 
 Libro independiente de la colección **Reivindicación ontológica del ego**.
 
-Los textos han sido normalizados a partir de los quince archivos de texto del corpus. La maquetación queda preparada en `maquetacion.json`; la portada, la contraportada y el PDF se añadirán posteriormente.
+Los textos han sido normalizados a partir de los quince archivos de texto del corpus. La portada y la contraportada están disponibles en este directorio; el PDF maquetado se encuentra en `build/dilema-de-aquiles.pdf`.
