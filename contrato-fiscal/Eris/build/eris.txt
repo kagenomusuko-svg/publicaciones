@@ -104,6 +104,10 @@ Capítulo 17 · El anarcocapitalismo
 
 188
 
+Epílogo · Lo que la auditoría revela
+
+199
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8538,6 +8542,7 @@ A.C.
 ERIS
 
 Epílogo
+
 Lo que la auditoría revela
 Lo que tienen en común los sistemas que fallaron de la misma manera. Lo
 que tienen en común los que fallaron de maneras distintas. La pregunta que
@@ -8558,6 +8563,8 @@ bella». Ese es el problema que los diecisiete capítulos de este libro han
 examinado: el problema de quién tiene autoridad para decidir cuál sistema
 político es el más bello —el más correcto, el más justo, el que más fielmente
 cumple el contrato fiscal— y de qué produce esa autoridad. Hobbes dijo que
+la autoridad vienía del miedo al estado de naturaleza. Locke dijo que venía
+de los derechos naturales. Rousseau dijo que venía de la voluntad general.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8568,8 +8575,6 @@ A.C.
 
 ERIS
 
-la autoridad vienía del miedo al estado de naturaleza. Locke dijo que venía
-de los derechos naturales. Rousseau dijo que venía de la voluntad general.
 Kant dijo que venía de la razón práctica. Rawls dijo que venía del acuerdo
 hipotético detrás del Velo. Marx dijo que venía del sentido de la historia.
 Bakunin dijo que no venía de ninguna autoridad porque ninguna autoridad
@@ -8600,6 +8605,8 @@ progresivamente durante treinta y cinco años. El anarcocapitalismo los
 instala de manera invertida: no suprime los mecanismos de exigencia del
 soberano, los elimina reduciéndolos a interacciones de mercado que no
 generan obligación pública. La forma varía; la consecuencia es la misma: el
+soberano sin mecanismo de exigencia no es acreedor. Es un soberano que
+paga el cargo sin poder exigir el abono.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8610,8 +8617,6 @@ A.C.
 
 ERIS
 
-soberano sin mecanismo de exigencia no es acreedor. Es un soberano que
-paga el cargo sin poder exigir el abono.
 La segunda constante compartida: todos los sistemas que fallaron de manera
 grave cruzaron la guillotina de Hume en la misma dirección. Tomaron una
 descripción del mundo —el estado de naturaleza de Hobbes, la ley natural
@@ -8643,6 +8648,8 @@ La diferencia entre los sistemas no está en si produjeron o no fraude annona
 —todos los sistemas que este libro examinó produjeron fraude annona de
 manera estructural—. Está en el grado en que ese fraude annona fue visible
 para el soberano, en el grado en que el soberano tuvo mecanismos
+disponibles para declararlo y en el grado en que el sistema entregó abono
+real mientras lo producía.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8653,8 +8660,6 @@ A.C.
 
 ERIS
 
-disponibles para declararlo y en el grado en que el sistema entregó abono
-real mientras lo producía.
 Los sistemas que fallaron de maneras distintas comparten algo diferente:
 produjeron el fraude annona de una manera que dejó visible alguna
 dimensión del problema y operativa alguna dimensión del mecanismo de
@@ -8686,6 +8691,8 @@ sistemas que tiene disponibles.
 
 III.
 Lo que la auditoría produce y lo que no puede producir.
+La auditoría de Eris no produce un sistema correcto. No propone el contrato
+fiscal que reemplazaría a los que auditó. No puede hacerlo porque producirlo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8695,8 +8702,6 @@ A.C.
 
 ERIS
 
-La auditoría de Eris no produce un sistema correcto. No propone el contrato
-fiscal que reemplazaría a los que auditó. No puede hacerlo porque producirlo
 requeriría exactamente lo que los instrumentos de este libro declararon
 imposible: una predicación con jurisdicción exhaustiva sobre el ser del
 soberano, desde una posición predicante que no tuviera ella misma sus
@@ -8728,6 +8733,7 @@ IV.
 La pregunta que Eris deja abierta.
 En el banquete de Tetis y Peleo, Eris lanzó la manzana y abandonó el salón.
 No quedó a ver quién la recogía ni qué decidía quien la recogiera. Su trabajo
+era hacer visible el problema: que había algo en el centro de la mesa que
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8738,7 +8744,6 @@ A.C.
 
 ERIS
 
-era hacer visible el problema: que había algo en el centro de la mesa que
 requeria una decisión que nadie queria tomar abiertamente. La decisión la
 tomaron Afrodita, Hera y Atenea. El resultado fue la Guerra de Troya.
 La auditoría de Eris deja la misma manzana en el centro de la mesa y hace el
@@ -8769,6 +8774,8 @@ cualquiera de ellos entregó.
 
 V.
 La postura que la auditoría habilita.
+En el año 494 antes de la era común, la plebe romana —que pagaba el cargo
+de la República con sus impuestos y su sangre en las legiones y no recibía
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8779,8 +8786,6 @@ A.C.
 
 ERIS
 
-En el año 494 antes de la era común, la plebe romana —que pagaba el cargo
-de la República con sus impuestos y su sangre en las legiones y no recibía
 protección legal comparable a la del patriciado— se retiró, según la
 tradición más difundida que recoge Livio, al Monte Sacro; una tradición
 alternativa la sitúa en el Aventino. No atacaron Roma. No proclamaron un
@@ -8811,6 +8816,9 @@ viviendo. Sabe desde qué posición predica el sistema que le ofrece el abono
 que promete entregar. Sabe cuáles mecanismos de corrección tiene
 disponibles y cuáles han sido debilitados o eliminados. Sabe si la eutaxia
 utópica de su segunda mediación está siendo capturada o está operativa.
+Ese conocimiento no resuelve el problema del contrato fiscal. El problema
+del contrato fiscal no tiene solución en el sentido en que los sistemas de las
+cuatro partes de este libro reclamaban tenerla. Pero ese conocimiento
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8821,9 +8829,6 @@ A.C.
 
 ERIS
 
-Ese conocimiento no resuelve el problema del contrato fiscal. El problema
-del contrato fiscal no tiene solución en el sentido en que los sistemas de las
-cuatro partes de este libro reclamaban tenerla. Pero ese conocimiento
 cambia la postura del soberano frente al contrato que tiene y frente a los
 contratos que le proponen: el soberano que puede ver el fraude annona de su
 contrato desde los instrumentos de la auditoría es un soberano que predica
