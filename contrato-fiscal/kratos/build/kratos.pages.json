@@ -32,7 +32,7 @@
     },
     {
       "key": "cap-4",
-      "label": "Capítulo 4 · El ajuste debitor",
+      "label": "Capítulo 4 · El ajuste *debitor*",
       "kind": "chapter",
       "physical_page": 41,
       "printed_page": "30"
@@ -88,7 +88,7 @@
     },
     {
       "key": "cap-12",
-      "label": "Capítulo 12 · La desobediencia civil como declaración de default",
+      "label": "Capítulo 12 · La desobediencia civil como declaración de *default*",
       "kind": "chapter",
       "physical_page": 128,
       "printed_page": "117"
