@@ -26,143 +26,88 @@ ERIS
 ÍNDICE
 Aviso legal
 
-V
-
-Índice
-
-VI
+III
 
 Prólogo · El manzano
 
-VII
+V
 
 Capítulo 1 · Hobbes · El Leviathan
 
-1
+2
 
 Capítulo 2 · Locke · El Segundo Tratado
 
-12
+13
 
 Capítulo 3 · Rousseau · La voluntad general
 
-23
+24
 
 Capítulo 4 · Kant · El imperativo categórico
 
-36
+37
 
 Capítulo 5 · Rawls · El Velo de Ignorancia
 
-47
+48
 
 Capítulo 6 · La democracia representativa
 
-59
+60
 
 Capítulo 7 · El liberalismo clásico
 
-72
+73
 
 Capítulo 8 · Adam Smith · El capitalismo como promesa
 
-83
+84
 
 Capítulo 9 · El neoliberalismo
 
-95
+96
 
 Capítulo 10 · El libertarismo
 
-106
+107
 
 Capítulo 11 · Marx y Engels · La teoría
 
-118
+119
 
 Capítulo 12 · El socialismo soviético · La práctica
 
-129
+130
 
 Capítulo 13 · El maoísmo y sus variantes
 
-140
+141
 
 Capítulo 14 · El populismo hispanoamericano
 
-151
+152
 
 Capítulo 15 · Bakunin · La crítica más honesta
 
-165
+166
 
 Capítulo 16 · Las grandes revoluciones
 
-177
+178
 
 Capítulo 17 · El anarcocapitalismo
 
-188
+189
 
 Epílogo · Lo que la auditoría revela
 
-199
+200
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
 IV
-
-EL CONTRATO FISCAL
-
-ERIS
-
-Aviso legal
-Primera edición: 2026
-DOI: 10.5281/zenodo.23198619.
-© Miguel Hilario Olvera Aguilar, 2026
-© Centro Multidisciplinario Meriadock Formación y Asesoría A.C., 2026
-Esta obra se distribuye bajo una licencia Creative Commons AtribuciónNoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0).
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-V
-
-EL CONTRATO FISCAL
-
-ERIS
-
-Índice
-• Prólogo · El manzano
-• PARTE I · EL CONTRACTUALISMO
-◦ Capítulo 1 · Hobbes · El Leviathan
-◦ Capítulo 2 · Locke · El Segundo Tratado
-◦ Capítulo 3 · Rousseau · La voluntad general
-◦ Capítulo 4 · Kant · El imperativo categórico
-◦ Capítulo 5 · Rawls · El Velo de Ignorancia
-◦ Capítulo 6 · La democracia representativa
-• PARTE II · EL LIBERALISMO
-◦ Capítulo 7 · El liberalismo clásico
-◦ Capítulo 8 · Adam Smith · El capitalismo como promesa
-◦ Capítulo 9 · El neoliberalismo
-◦ Capítulo 10 · El libertarismo
-• PARTE III · EL MATERIALISMO HISTÓRICO
-◦ Capítulo 11 · Marx y Engels · La teoría
-◦ Capítulo 12 · El socialismo soviético · La práctica
-◦ Capítulo 13 · El maoísmo y sus variantes
-◦ Capítulo 14 · El populismo hispanoamericano
-• PARTE IV · LA ANARQUÍA Y LA REVOLUCIÓN
-◦ Capítulo 15 · Bakunin · La crítica más honesta
-◦ Capítulo 16 · Las grandes revoluciones
-◦ Capítulo 17 · El anarcocapitalismo
-• Epílogo · Lo que la auditoría revela
-• Sobre la colección El Contrato Fiscal
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-VI
 
 EL CONTRATO FISCAL
 
@@ -200,7 +145,7 @@ placer sobre la prudencia ya existía. Todo lo necesario para la guerra estaba
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-VII
+V
 
 EL CONTRATO FISCAL
 
@@ -242,7 +187,7 @@ que viven, se deterioran y son exigidos: las tres formas del fraude annona, los
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-VIII
+VI
 
 EL CONTRATO FISCAL
 
@@ -286,7 +231,7 @@ formas entre sí en ese sistema. La identidad estructural de las tres formas —
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-IX
+VII
 
 EL CONTRATO FISCAL
 
@@ -329,7 +274,7 @@ más efectiva disponible contra cualquier crítica de un sistema: «el soberano
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-X
+VIII
 
 EL CONTRATO FISCAL
 
@@ -371,7 +316,7 @@ a quién puede atribuirse causalmente la responsabilidad de ese diseño.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-XI
+IX
 
 EL CONTRATO FISCAL
 
@@ -414,7 +359,7 @@ fraude annona. Que los nodos necesarios de esos mecanismos pueden ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-XII
+X
 
 EL CONTRATO FISCAL
 
@@ -457,7 +402,7 @@ que alguna sea correcta. Aplica los mismos instrumentos a todas con la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-XIII
+XI
 
 EL CONTRATO FISCAL
 
@@ -498,7 +443,7 @@ Teogonía (225–232); la distinción entre dos Erides, una destructiva y otra q
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-XIV
+XII
 
 EL CONTRATO FISCAL
 
@@ -538,7 +483,7 @@ prescripción de ella.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-XV
+XIII
 
 EL CONTRATO FISCAL
 
