@@ -47,48 +47,48 @@ Capítulo 4 · El ajuste debitor
 
 Capítulo 5 · El fraude annona en sus tres formas
 
-41
+42
 
 Capítulo 6 · La disforia de identidad colectiva
 
-51
+52
 
 Capítulo 7 · Los tres monopolios como captura de la
 segunda mediación
 
-61
+62
 
 Capítulo 8 · La asimetría temporal como diseño del
 campo
 
-71
+72
 
 Capítulo 9 · La defraudación voluntaria
 
-82
+83
 
 Capítulo 10 · El soberano activo como ego que reclama
 su segunda mediación
 
-95
+96
 
 Capítulo 11 · El gradiente de la exigencia
 
-105
+106
 
 Capítulo 12 · La desobediencia civil como declaración de
 default
 
-116
+117
 
 Capítulo 13 · El cambio de idiosincrasia como
 restauración de la segunda mediación colectiva
 
-127
+128
 
 Epílogo · Lo que Kratos entrega a Eris
 
-137
+138
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1945,18 +1945,31 @@ libro aplica: el contrato producido sin la genuina segunda mediación
 colectiva —aunque sea formalmente correcto— no tiene la validez que el
 fraude annona que lo produjo afirma que tiene.
 3 La cláusula de revisión como indicador de legitimidad del ajuste tiene un
-antecedente en la teoría constitucional bajo el nombre de sunset clause: la
-norma que establece su propia extinción automática si no es renovada
-activamente en un plazo determinado. El uso de las sunset clauses en la
-legislación ordinaria es relativamente común; su uso en reformas
-constitucionales es raro precisamente por la razón que este capítulo
-identifica: quienes tienen el poder de producir la reforma tienen también el
-interés en que sea permanente.
+paralelo en la figura de la sunset clause: la norma que expira
+automáticamente si no es renovada dentro del plazo establecido. Su uso
+varía según la jurisdicción y el diseño constitucional. Rosalind Dixon y Tom
+Ginsburg documentan cláusulas de este tipo en constituciones estatales de
+Estados Unidos y en varias constituciones nacionales, incluida la australiana
+(«Deciding Not to Decide: Deferral in Constitutional Design»,
+International Journal of Constitutional Law 9, n.º 3–4 [2011], pp. 636–672,
+https://doi.org/10.1093/icon/mor041). El argumento de este capítulo es que
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
 40
+
+EL CONTRATO FISCAL · VOLUMEN I
+
+KRATOS
+
+quienes controlan una reforma pueden tener incentivos para no someterla a
+revisión o caducidad cuando buscan que sus efectos perduren.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+41
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -1983,7 +1996,7 @@ que lo pondrían en riesgo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-41
+42
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2010,7 +2023,8 @@ El tercero es estadístico: dice sí, hace algo,
 y lo que hace es menos de lo que prometió,
 solo para los que no pueden probarlo.
 Los tres producen el mismo resultado en la partida doble.
-Solo uno de ellos puede ser nombrado en un tribunal.»
+Solo uno de ellos produce un acto directamente impugnable en
+un tribunal.»
 — Miguel Hilario Olvera Aguilar
 
 I.
@@ -2018,11 +2032,10 @@ Tres egos, cada uno con la misma inversión en el sistema. El mismo cargo
 en la partida doble: obediencia normativa, contribución fiscal, legitimidad
 conferida, sujeción de libertades. Tres experiencias distintas del fraude
 annona.
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-42
+43
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2065,7 +2078,7 @@ annona: la progresión desde la más visible a la menos visible no es un
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-43
+44
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2107,7 +2120,7 @@ prohibición explícita y obtiene el reconocimiento formal del derecho
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-44
+45
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2152,7 +2165,7 @@ Estado frecuentemente no produce —o produce de manera que la brecha no
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-45
+46
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2194,7 +2207,7 @@ para costear representación de calidad. En ningún caso hay una norma que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-46
+47
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2236,7 +2249,7 @@ corrección.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-47
+48
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2255,10 +2268,10 @@ que no pudo ejercer el derecho reconocido porque fue negado
 explícitamente, el ego que no pudo ejercerlo porque las condiciones para su
 ejercicio no existían y el ego que lo ejerció con retorno sistemáticamente
 inferior: los tres tienen el mismo estado en la partida doble y los tres
-sufrieron el mismo deterioro en su campo de colisión. El hecho de que solo
-el primero tenga un mecanismo jurídico eficiente para reclamarlo no reduce
-el daño de los otros dos; solo reduce su capacidad de nombrar ese daño como
-lo que es.
+sufrieron el mismo deterioro en su campo de colisión. El hecho de que la
+primera forma cuente con un mecanismo jurídico más directo para
+reclamarlo no reduce el daño de las otras dos; solo hace más dif ícil
+acreditarlo y nombrarlo como lo que es.
 
 2
 
@@ -2282,7 +2295,7 @@ identidad colectiva no es solo la negación del reconocimiento de ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-48
+49
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2325,7 +2338,7 @@ diferencia natural.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-49
+50
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2366,7 +2379,7 @@ las tres formas producen el mismo estado en la partida doble y por qué ese
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-50
+51
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2399,7 +2412,7 @@ la escala correcta.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-51
+52
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2432,7 +2445,7 @@ mediática, sobre la irracionalidad del votante.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-52
+53
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2477,7 +2490,7 @@ el capturador y el contexto, pero que tiene siempre la misma estructura: es
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-53
+54
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2520,7 +2533,7 @@ que el soberano interprete el mundo. Los partidos políticos que canalizan la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-54
+55
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2563,7 +2576,7 @@ concentra en quien lidera la ruptura—. Esa asimetría produce la trampa del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-55
+56
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2605,7 +2618,7 @@ capturado, por encima de lo que el soberano puede ser.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-56
+57
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2648,7 +2661,7 @@ lugar de contra él.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-57
+58
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2693,7 +2706,7 @@ empobrecidas del retorno que debería pedir —no el servicio de salud
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-58
+59
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2736,7 +2749,7 @@ la Parte III de este libro examina. Los mecanismos que operan sobre el ego
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-59
+60
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2782,7 +2795,7 @@ soberano lo perciba hasta que la disforia ya se ha estabilizado (Capítulo 8).
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-60
+61
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2824,7 +2837,7 @@ condiciones es parte de lo que la Parte III examina.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-61
+62
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2858,7 +2871,7 @@ violencia dentro de un territorio. Esa definición fue correcta en 1919 y sigue
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-62
+63
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2901,7 +2914,7 @@ segunda mediación puede seguir operando desde el acreedor— pero el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-63
+64
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2943,7 +2956,7 @@ dispuestos a pagar el costo de romperlos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-64
+65
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -2986,7 +2999,7 @@ A.C.
 
 2
 
-65
+66
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3030,7 +3043,7 @@ insostenible en el tiempo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-66
+67
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3073,7 +3086,7 @@ necesaria. El ego que ha interiorizado el marco narrativo del capturador
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-67
+68
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3116,7 +3129,7 @@ examina cómo se refuerzan una vez consolidados.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-68
+69
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3159,7 +3172,7 @@ instrumentos porque el soberano en disforia los percibe como necesarios o
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-69
+70
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3201,7 +3214,7 @@ análisis que Weber no hizo porque no era su objeto. Weber describía al
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-70
+71
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3231,7 +3244,7 @@ violencia que protege ese proceso.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-71
+72
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3263,7 +3276,7 @@ evaluando en ciclos cortos, no perciba ninguna batalla individual como una
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-72
+73
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3308,7 +3321,7 @@ verificables. El ego soberano individual actúa en el horizonte de su propia
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-73
+74
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3351,7 +3364,7 @@ mediático, como propiedades del sistema electoral. Lo que los unifica es el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-74
+75
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3394,7 +3407,7 @@ produce estructuralmente un campo de información en el que los procesos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-75
+76
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3438,7 +3451,7 @@ capturado o fragmentando su producción hasta el punto en que ningún
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-76
+77
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3482,7 +3495,7 @@ que ese análisis es interpretado.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-77
+78
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3528,7 +3541,7 @@ sin que ningún actor individual dentro del campo tenga el horizonte
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-78
+79
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3570,7 +3583,7 @@ gestionó para que ese análisis no fuera transmitido.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-79
+80
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3610,7 +3623,7 @@ Capítulo 9.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-80
+81
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3640,30 +3653,31 @@ mediante la «gestión de la producción del análisis longitudinal»; la
 aplicación al diseño deliberado del campo capturado forma parte del
 argumento de Kratos.
 3 La conexión entre la asimetría temporal y la disforia de identidad colectiva
-a través de la gestión del acceso al estado anterior tiene un correlato en la
-psicología del trauma colectivo: las comunidades que han sufrido un trauma
-y no tienen acceso a la memoria de su estado previo al trauma no pueden
-reconocer el estado traumatizado como desviación; lo reconocen como el
-estado normal. La diferencia entre el trauma colectivo y la disforia de
-identidad colectiva en el sentido de Kratos es que la primera es el resultado
-de un evento agudo, mientras que la segunda es el resultado de un proceso
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-81
-
-EL CONTRATO FISCAL · VOLUMEN I
-
-KRATOS
-
-gradual deliberadamente diseñado para no producir el evento agudo que
-activaría el reconocimiento.
+a través de la gestión del acceso al estado anterior se plantea como una
+analogía con los estudios sobre trauma colectivo y memoria. Gilad
+Hirschberger analiza cómo las experiencias traumáticas compartidas
+intervienen en la construcción del significado y la identidad colectivos:
+«Collective Trauma and the Social Construction of Meaning», Frontiers in
+Psychology 9 (2018), art. 1441, https://doi.org/10.3389/fpsyg.2018.01441. La
+distinción que propone Kratos es específica de su modelo: la disforia
+colectiva se acumula gradualmente y puede ser diseñada para que el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
 82
+
+EL CONTRATO FISCAL · VOLUMEN I
+
+KRATOS
+
+desplazamiento no se vuelva visible mediante un único acontecimiento
+agudo. La analogía no equipara ambos fenómenos.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+83
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3697,7 +3711,7 @@ había tenido en generaciones, la opción que sella su propia quiebra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-83
+84
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3740,7 +3754,7 @@ utópica.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-84
+85
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3784,7 +3798,7 @@ consecuencias. El soberano calcula correctamente con los datos que tiene.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-85
+86
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3826,7 +3840,7 @@ marco capturado. La firma de la quiebra es, desde ese eje, el acto de la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-86
+87
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3869,7 +3883,7 @@ sistema será mejor, sino porque ya no cree que ningún sistema pueda ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-87
+88
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3912,7 +3926,7 @@ un diagnóstico correcto del pasado sin producir un proyecto del futuro. Y sin
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-88
+89
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3956,7 +3970,7 @@ soberano que conf ía en el sistema. La apertura cognitiva que el primer
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-89
+90
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -3999,7 +4013,7 @@ produciendo actos coherentes que sellan la quiebra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-90
+91
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4041,7 +4055,7 @@ Y la defraudación voluntaria es el resultado de esa cadena cuando todos los
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-91
+92
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4085,7 +4099,7 @@ tiene antecedentes parciales en distintas tradiciones. El primer mecanismo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-92
+93
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4129,7 +4143,7 @@ defraudación voluntaria si hay mecanismos de recuperación del eje
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-93
+94
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4141,7 +4155,7 @@ qué instrumentos.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-94
+95
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4167,7 +4181,7 @@ desde el estado en que el soberano realmente se encuentra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-95
+96
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4201,7 +4215,7 @@ segundo vota porque ese candidato, evaluado desde el criterio de la eutaxia
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-96
+97
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4246,7 +4260,7 @@ reconocimiento de la propia condición de acreedor— es el umbral más bajo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-97
+98
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4291,7 +4305,7 @@ abono, el Estado tiene el pasivo. Esa descripción, cuando es genuinamente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-98
+99
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4334,7 +4348,7 @@ ocurre, opere desde el eje correcto en lugar de desde el eje de la disforia.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-99
+100
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4377,7 +4391,7 @@ espacios en que los egos individuales que han comenzado la transición de la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-100
+101
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4421,7 +4435,7 @@ acreedor que sabe que tiene algo que exigir puede mantener la exigencia en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-101
+102
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4463,7 +4477,7 @@ le asignó. Su corrección fue ontológica: recuperó el eje.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-102
+103
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4503,7 +4517,7 @@ hasta los que requieren el mayor.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-103
+104
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4545,7 +4559,7 @@ colectivo original— produce algo que no estaba en ninguno de los egos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-104
+105
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4559,7 +4573,7 @@ reconocimiento individual.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-105
+106
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4593,7 +4607,7 @@ mediación colectiva del soberano que lo usa.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-106
+107
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4638,7 +4652,7 @@ estado de la segunda mediación colectiva —asunción, estrés normalizado,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-107
+108
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4678,7 +4692,7 @@ escala del sistema.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-108
+109
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4718,7 +4732,7 @@ control constitucional, la formación de coaliciones que articulan la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-109
+110
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4760,7 +4774,7 @@ difícil de capturar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-110
+111
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4798,7 +4812,7 @@ posterior de reparación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-111
+112
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4838,7 +4852,7 @@ condición de la exigencia que corrige el contrato.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-112
+113
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4881,7 +4895,7 @@ incumplimientos que la justificó.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-113
+114
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4926,7 +4940,7 @@ cinco niveles —uso instrumental de canales institucionales, participación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-114
+115
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4968,7 +4982,7 @@ y Selma, en J. Mills Thornton III, Dividing Lines: Municipal Politics and
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-115
+116
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4991,7 +5005,7 @@ teórico puede dar el vocabulario; la experiencia del resultado da el eje.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-116
+117
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5023,7 +5037,7 @@ obediencia a una norma específica y acepta las consecuencias legales de esa
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-117
+118
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5068,7 +5082,7 @@ segunda mediación del ego soberano. Y la formalización política añade tres
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-118
+119
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5111,7 +5125,7 @@ disponibles y apropiados para el tipo de incumplimiento específico hayan
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-119
+120
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5152,7 +5166,7 @@ lo que la declaración de default produce.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-120
+121
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5194,7 +5208,7 @@ reconstruirlo. La declaración de default que no produce la corrección
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-121
+122
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5236,7 +5250,7 @@ corrección del incumplimiento original habría tenido.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-122
+123
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5280,7 +5294,7 @@ ocultación del incumplimiento a su corrección.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-123
+124
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5325,7 +5339,7 @@ con anterioridad suficiente al acto y puede asumir públicamente las
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-124
+125
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5368,7 +5382,7 @@ capturador en la posición del que debe demostrar que cumplió.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-125
+126
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5411,7 +5425,7 @@ capturador más dif ícilmente puede capturar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-126
+127
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5432,7 +5446,7 @@ la posición del acreedor que constata la deuda.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-127
+128
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5463,7 +5477,7 @@ presupuestalmente. El proceso electoral más transparente puede ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-128
+129
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5506,7 +5520,7 @@ la restauración del eje propio de la segunda mediación colectiva. No el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-129
+130
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5549,7 +5563,7 @@ ese fue, porque el ego que tiene en su fue la experiencia de operar desde el eje
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-130
+131
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5593,7 +5607,7 @@ segunda mediación que la disforia suprimió. No el eje mismo —ese ya estaba
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-131
+132
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5635,7 +5649,7 @@ perceptible. El ego que nunca experimentó el cumplimiento no puede
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-132
+133
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5677,7 +5691,7 @@ reforma más difícil de revertir: cada generación que crece dentro del eje del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-133
+134
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5722,7 +5736,7 @@ para reconocerlo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-134
+135
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5766,7 +5780,7 @@ normalización.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-135
+136
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5808,7 +5822,7 @@ Realities of Civil Society», Journal of Democracy 25, n.º 1 (2014), pp. 46–5
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-136
+137
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5850,7 +5864,7 @@ eje del acreedor del contrato fiscal.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-137
+138
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5890,7 +5904,7 @@ opinión.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-138
+139
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5932,7 +5946,7 @@ analizar los sistemas que se sostuvieron durante décadas sin colapso aparente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-139
+140
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5975,7 +5989,7 @@ dejaron residuos de segunda mediación recuperada que hicieron la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-140
+141
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6015,7 +6029,7 @@ al soberano que tendría que corregirlo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-141
+142
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6057,7 +6071,7 @@ fundamentó ontológicamente— y opera con el mismo criterio: la eutaxia
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-142
+143
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6100,7 +6114,7 @@ que el sistema entendió que sin esa segunda mediación no había sistema.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-143
+144
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6125,7 +6139,7 @@ causalmente responsables de ese fallo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-144
+145
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6146,6 +6160,6 @@ contratos que funcionan o que fallan. Eris aplica la imputación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-145
+146
 
 
