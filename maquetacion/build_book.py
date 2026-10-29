@@ -371,6 +371,8 @@ def build_plan(root: Path, config: dict) -> tuple[list[Piece], list[TocEntry]]:
         pieces.append(Piece("front", key, label or stem, raw=raw))
         if key and label:
             toc.append(TocEntry(key, label, "front"))
+            if stem == "02" and config.get("toc_page_key"):
+                toc.append(TocEntry(str(config["toc_page_key"]), "Índice", "index"))
 
     body = parse_body_files(root, body_stems, config)
     pieces.extend(body)
@@ -382,18 +384,22 @@ def toc_page(
     entries: list[TocEntry],
     numbers: dict[str, str] | None = None,
     compact: bool = False,
+    markers: bool = False,
 ) -> str:
     numbers = numbers or {}
     rows = []
     for entry in entries:
+        if entry.kind == "index":
+            continue
         page_no = numbers.get(entry.key, "000")
         rows.append(
             f'<tr class="toc-{entry.kind}"><td class="toc-label">{html.escape(entry.label)}</td>'
             f'<td class="toc-leader"></td><td class="toc-page">{html.escape(page_no)}</td></tr>'
         )
     toc_class = "toc toc-compact" if compact else "toc"
+    index_key = next((entry.key for entry in entries if entry.kind == "index"), "")
     return (
-        f'<section class="{toc_class}"><h1>ÍNDICE</h1><table class="toc-table">'
+        f'<section class="{toc_class}">{marker(index_key, markers)}<h1>ÍNDICE</h1><table class="toc-table">'
         '<colgroup><col class="col-label"><col class="col-leader"><col class="col-page"></colgroup>'
         f'<tbody>{"".join(rows)}</tbody></table></section>'
     )
@@ -441,21 +447,22 @@ def document_html(
     sections = [
         f'<section class="cover-page"><img src="{cover}"></section>',
         title_page(root, config),
-        f'<section class="legal-page">{render_markdown((root / "02.md").read_text(encoding="utf-8"))}</section>',
+        f'<section class="legal-page">{marker(next((entry.key for entry in toc_entries if entry.kind == "front" and entry.label == "Aviso legal"), ""), markers)}{render_markdown((root / "02.md").read_text(encoding="utf-8"))}</section>',
     ]
     pre_toc_stems = config["pre_toc"] if "pre_toc" in config else ["03"]
     for stem in pre_toc_stems:
         raw = (root / f"{stem}.md").read_text(encoding="utf-8")
         sections.append(f'<section class="epigraph-page">{render_markdown(raw)}</section>')
     sections.append(
-        toc_page(toc_entries, toc_numbers, compact=bool(config.get("compact_toc")))
+        toc_page(toc_entries, toc_numbers, compact=bool(config.get("compact_toc")), markers=markers)
     )
+    generated_legal_key = next((entry.key for entry in toc_entries if entry.kind == "front" and entry.label == "Aviso legal"), "")
     part_seen = 0
     for piece in pieces:
         if piece.kind == "part":
             part_seen += 1
             sections.append(part_html(piece, series_header, markers, counted=part_seen > 1))
-        else:
+        elif not (piece.kind == "front" and piece.key == generated_legal_key):
             sections.append(render_piece(piece, markers))
     sections.append(f'<section class="cover-page"><img src="{back}"></section>')
     math_css = (
@@ -509,7 +516,11 @@ def marker_pages(pdf_path: Path, entries: list[TocEntry]) -> dict[str, int]:
     return found
 
 
-def compute_toc_numbers(pages: dict[str, int], entries: list[TocEntry]) -> dict[str, str]:
+def compute_toc_numbers(
+    pages: dict[str, int],
+    entries: list[TocEntry],
+    body_page_offset: int = 0,
+) -> dict[str, str]:
     first_chapter = next((entry.key for entry in entries if entry.kind == "chapter"), None)
     if first_chapter is None:
         raise RuntimeError("El libro no contiene capítulos identificables.")
@@ -518,12 +529,12 @@ def compute_toc_numbers(pages: dict[str, int], entries: list[TocEntry]) -> dict[
     result: dict[str, str] = {}
     for entry in entries:
         physical = pages[entry.key]
-        if entry.kind == "front":
+        if entry.kind in {"front", "index"}:
             result[entry.key] = roman(physical)
         elif entry.key == first_part:
             result[entry.key] = "1"
         else:
-            result[entry.key] = str(physical - body_start + 1)
+            result[entry.key] = str(physical - body_start + 1 + body_page_offset)
     return result
 
 
@@ -541,10 +552,11 @@ def build(root: Path, output: Path, stylesheet: Path) -> None:
     pass1 = output.with_name(output.stem + ".pass1.pdf")
     pass2 = output.with_name(output.stem + ".pass2.pdf")
     render_pdf(root, config, css, pieces, toc_entries, pass1, None, True)
-    numbers1 = compute_toc_numbers(marker_pages(pass1, toc_entries), toc_entries)
+    body_page_offset = int(config.get("toc_body_page_offset", 0))
+    numbers1 = compute_toc_numbers(marker_pages(pass1, toc_entries), toc_entries, body_page_offset)
     render_pdf(root, config, css, pieces, toc_entries, pass2, numbers1, True)
     physical_pages = marker_pages(pass2, toc_entries)
-    numbers2 = compute_toc_numbers(physical_pages, toc_entries)
+    numbers2 = compute_toc_numbers(physical_pages, toc_entries, body_page_offset)
     render_pdf(root, config, css, pieces, toc_entries, output, numbers2, False)
     audit = {
         "pdf": output.name,

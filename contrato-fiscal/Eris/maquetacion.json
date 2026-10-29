@@ -9,15 +9,13 @@
   "collection": "Colección: El Contrato Fiscal",
   "publisher": "Centro Multidisciplinario Meriadock Formación y Asesoría A.C.",
   "pre_toc": [],
-  "frontmatter": ["02", "03", "04"],
+  "frontmatter": ["02", "04"],
+  "toc_page_key": "indice",
+  "toc_body_page_offset": 1,
   "frontmatter_toc": {
     "02": {
       "key": "aviso-legal",
       "label": "Aviso legal"
-    },
-    "03": {
-      "key": "indice",
-      "label": "Índice"
     },
     "04": {
       "key": "prologo",
