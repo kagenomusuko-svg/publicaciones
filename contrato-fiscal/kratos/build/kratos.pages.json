@@ -1,6 +1,6 @@
 {
   "pdf": "kratos.pdf",
-  "total_pages": 157,
+  "total_pages": 158,
   "contents": [
     {
       "key": "prologo",
@@ -13,98 +13,98 @@
       "key": "cap-1",
       "label": "Capítulo 1 · La renovación permanente",
       "kind": "chapter",
-      "physical_page": 12,
+      "physical_page": 13,
       "printed_page": "1"
     },
     {
       "key": "cap-2",
       "label": "Capítulo 2 · La eutaxia utópica como brújula",
       "kind": "chapter",
-      "physical_page": 20,
+      "physical_page": 21,
       "printed_page": "9"
     },
     {
       "key": "cap-3",
       "label": "Capítulo 3 · Los umbrales del contrato",
       "kind": "chapter",
-      "physical_page": 30,
+      "physical_page": 31,
       "printed_page": "19"
     },
     {
       "key": "cap-4",
       "label": "Capítulo 4 · El ajuste *debitor*",
       "kind": "chapter",
-      "physical_page": 41,
+      "physical_page": 42,
       "printed_page": "30"
     },
     {
       "key": "cap-5",
       "label": "Capítulo 5 · El fraude annona en sus tres formas",
       "kind": "chapter",
-      "physical_page": 53,
+      "physical_page": 54,
       "printed_page": "42"
     },
     {
       "key": "cap-6",
       "label": "Capítulo 6 · La disforia de identidad colectiva",
       "kind": "chapter",
-      "physical_page": 63,
+      "physical_page": 64,
       "printed_page": "52"
     },
     {
       "key": "cap-7",
       "label": "Capítulo 7 · Los tres monopolios como captura de la segunda mediación",
       "kind": "chapter",
-      "physical_page": 73,
+      "physical_page": 74,
       "printed_page": "62"
     },
     {
       "key": "cap-8",
       "label": "Capítulo 8 · La asimetría temporal como diseño del campo",
       "kind": "chapter",
-      "physical_page": 83,
+      "physical_page": 84,
       "printed_page": "72"
     },
     {
       "key": "cap-9",
       "label": "Capítulo 9 · La defraudación voluntaria",
       "kind": "chapter",
-      "physical_page": 94,
+      "physical_page": 95,
       "printed_page": "83"
     },
     {
       "key": "cap-10",
       "label": "Capítulo 10 · El soberano activo como ego que reclama su segunda mediación",
       "kind": "chapter",
-      "physical_page": 107,
+      "physical_page": 108,
       "printed_page": "96"
     },
     {
       "key": "cap-11",
       "label": "Capítulo 11 · El gradiente de la exigencia",
       "kind": "chapter",
-      "physical_page": 117,
+      "physical_page": 118,
       "printed_page": "106"
     },
     {
       "key": "cap-12",
       "label": "Capítulo 12 · La desobediencia civil como declaración de *default*",
       "kind": "chapter",
-      "physical_page": 128,
+      "physical_page": 129,
       "printed_page": "117"
     },
     {
       "key": "cap-13",
       "label": "Capítulo 13 · El cambio de idiosincrasia como restauración de la segunda mediación colectiva",
       "kind": "chapter",
-      "physical_page": 139,
+      "physical_page": 140,
       "printed_page": "128"
     },
     {
       "key": "epilogo",
       "label": "Epílogo · Lo que Kratos entrega a Eris",
       "kind": "chapter",
-      "physical_page": 149,
+      "physical_page": 150,
       "printed_page": "138"
     }
   ]
