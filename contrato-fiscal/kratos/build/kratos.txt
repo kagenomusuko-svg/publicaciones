@@ -70,25 +70,25 @@ Capítulo 9 · La defraudación voluntaria
 Capítulo 10 · El soberano activo como ego que reclama
 su segunda mediación
 
-94
+95
 
 Capítulo 11 · El gradiente de la exigencia
 
-104
+105
 
 Capítulo 12 · La desobediencia civil como declaración de
 default
 
-115
+116
 
 Capítulo 13 · El cambio de idiosincrasia como
 restauración de la segunda mediación colectiva
 
-126
+127
 
 Epílogo · Lo que Kratos entrega a Eris
 
-136
+137
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1078,13 +1078,13 @@ supone ninguna naturaleza en ese sentido: supone solo la estructura de la
 segunda mediación, que es la misma en todos los egos con independencia de
 su naturaleza particular.
 6 La eutaxia utópica se desarrolla en Afrodita Areia, Volumen V: Caelus,
-cap. 12, «La eutaxia utópica como criterio de auditoría». La implicación
-para la eutaxia utópica como criterio es directa: el criterio no puede
-funcionar para el soberano que mira solo el ciclo corto porque la dirección
-del vector no es visible en ese ciclo. La institucionalización de la memoria
-que el capítulo anterior nombró como condición política es también, en
-este sentido, la condición ontológica para que el soberano pueda usar la
-brújula.
+cap. 12, «La eutaxia utópica como criterio de auditoría». Aquí, la asimetría
+temporal —el soberano evalúa en ciclos cortos; el poder que captura el
+contrato planifica en ciclos largos— permite precisar una condición de uso:
+la dirección del vector no resulta visible para quien evalúa solo en el ciclo
+corto. La institucionalización de la memoria que el capítulo anterior
+nombró como condición política es también, en este sentido, la condición
+ontológica para que el soberano pueda usar la brújula.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2051,15 +2051,16 @@ requería una escala de observación a la que ningún ego individual tiene
 acceso desde su propio caso.
 Los tres egos fueron defraudados. Los tres tienen el mismo estado en la
 partida doble: cargo completo, abono incompleto o ausente. Solo el primero
-puede llevar su caso a un tribunal. El segundo puede señalar lo que falta, pero
-no puede probar que alguien decidió que faltara. El tercero puede intuir el
-patrón, pero el patrón no es visible desde su propio caso, y probar el patrón
+cuenta con un acto explícito que puede impugnar directamente ante un
+tribunal. El segundo puede señalar lo que falta, pero debe acreditar qué
+debía hacer el Estado y en qué consistió el incumplimiento; además, no
+siempre puede probar que alguien decidió que faltara. El tercero puede intuir
+el patrón, pero el patrón no es visible desde su propio caso, y probarlo
 requiere recursos que el fraude annona se aseguró de que no tuviera.
 Esa asimetría entre la experiencia subjetiva del fraude annona y su
 visibilidad en el sistema jurídico no es accidental. Es funcional. Y es el
 primer resultado que emerge del análisis de las tres formas del fraude
 annona: la progresión desde la más visible a la menos visible no es un
-progreso moral —no hay menos daño—; es un progreso estratégico del
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2070,6 +2071,7 @@ A.C.
 
 KRATOS
 
+progreso moral —no hay menos daño—; es un progreso estratégico del
 poder que quiere mantener el fraude annona sin que el soberano pueda
 nombrarlo como tal.
 
@@ -2102,7 +2104,6 @@ Paradoja. La eliminación de la negación activa no elimina el fraude
 annona: puede ser el momento en que el capturador traslada el fraude a la
 segunda forma, más dif ícil de atacar. El movimiento que elimina la
 prohibición explícita y obtiene el reconocimiento formal del derecho
-celebra una victoria real pero puede no advertir que ha ganado el texto y
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2112,6 +2113,7 @@ A.C.
 
 KRATOS
 
+celebra una victoria real pero puede no advertir que ha ganado el texto y
 perdido las condiciones materiales para el ejercicio. El derecho que fue
 negado activamente puede ser nominalmente reconocido y materialmente
 negado a través de la segunda forma, y esa transición puede tener lugar en el
@@ -2135,9 +2137,10 @@ tiene maestros porque el concurso de oposición no fue convocado. El
 tribunal no resuelve porque la plantilla de jueces no cubre la demanda de
 justicia. En ninguno de esos casos hay un acto del Estado que prohíba el
 ejercicio del derecho: hay la ausencia del acto del Estado que lo habilita. Y la
-ausencia no produce un instrumento que pueda ser llevado ante un tribunal;
-produce un silencio que cada ego atribuye a las circunstancias o a la mala
-suerte.
+ausencia no suele condensarse en un instrumento único que pueda llevarse
+ante un tribunal; para reclamarla hay que establecer el deber positivo y
+acreditar su incumplimiento. Mientras tanto, puede presentarse como un
+silencio que cada ego atribuye a las circunstancias o a la mala suerte.
 Medición. La omisión garantizadora requiere medir lo que no existe: los
 medicamentos que no están, los maestros que no llegaron, los jueces que no
 hay. Eso es cualitativamente más dif ícil que medir lo que existe y excluye. La
@@ -2145,8 +2148,6 @@ medición requiere establecer primero qué debería existir —lo que el
 contrato fiscal exige que el Estado provea— y luego medir la brecha entre
 ese deber y la realidad. Esa doble operación requiere información que el
 Estado frecuentemente no produce —o produce de manera que la brecha no
-sea visible— y criterios de evaluación que no siempre son aceptados por los
-tribunales como generadores de obligaciones exigibles.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2157,6 +2158,8 @@ A.C.
 
 KRATOS
 
+sea visible— y criterios de evaluación que no siempre son aceptados por los
+tribunales como generadores de obligaciones exigibles.
 El problema del agente. La omisión garantizadora tiene un problema de
 agencia que la negación activa no tiene: no produce un acto atribuible a un
 agente identificable. La decisión de no asignar el presupuesto al hospital fue
@@ -2187,8 +2190,6 @@ la comunidad indígena que a la urbana. La escuela que produce resultados
 sistemáticamente más pobres en las zonas rurales que en las metropolitanas.
 El tribunal que resuelve con mayor eficiencia los casos de egos con recursos
 para costear representación de calidad. En ningún caso hay una norma que
-establezca la diferencia; hay un funcionamiento diferencial del sistema que
-la produce.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2199,6 +2200,8 @@ A.C.
 
 KRATOS
 
+establezca la diferencia; hay un funcionamiento diferencial del sistema que
+la produce.
 Medición. La captura selectiva solo es visible a nivel estadístico, a través de la
 comparación sistemática de los resultados que el sistema produce para
 grupos distintos. El ego que la experimenta puede percibir el peor retorno
@@ -2229,10 +2232,7 @@ sí pero entrega menos. Esas diferencias fenomenológicas son las que el
 sistema jurídico y político ha utilizado para crear distintas categorías de
 análisis, distintos umbrales de responsabilidad y distintos mecanismos de
 corrección.
-Desde el punto de vista de la partida doble ontológica, las tres formas son
-estructuralmente idénticas. Las tres producen el mismo estado en el
-contrato fiscal: el ego invirtió el cargo completo y el Estado no entregó el
-abono completo. La estructura de la deuda es la misma en los tres casos. Lo
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2242,6 +2242,10 @@ A.C.
 
 KRATOS
 
+Desde el punto de vista de la partida doble ontológica, las tres formas son
+estructuralmente idénticas. Las tres producen el mismo estado en el
+contrato fiscal: el ego invirtió el cargo completo y el Estado no entregó el
+abono completo. La estructura de la deuda es la misma en los tres casos. Lo
 que varía es la forma en que esa deuda se expresa, y las formas distintas no
 cambian la deuda; cambian la dificultad de nombrarla y cobrarla.
 Esa identidad estructural tiene consecuencias que el análisis jurídico
@@ -2274,9 +2278,6 @@ identidad colectiva. El soberano dividido por el diferencial del retorno no
 puede reconocerse como acreedor colectivo porque una parte de él recibe un
 retorno que parece confirmar que el contrato funciona. La disforia de
 identidad colectiva no es solo la negación del reconocimiento de ser
-acreedor; es el estado en que el soberano no puede formarse como colectivo
-acreedor porque parte de él tiene razones materiales para no reconocer el
-fraude annona que la otra parte sufre.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2287,13 +2288,17 @@ A.C.
 
 KRATOS
 
+acreedor; es el estado en que el soberano no puede formarse como colectivo
+acreedor porque parte de él tiene razones materiales para no reconocer el
+fraude annona que la otra parte sufre.
+
 VI.
 La identidad estructural de las tres formas tiene una implicación directa
 sobre el diseño de los mecanismos de corrección que la Parte III examinará:
-un repertorio de corrección que solo puede atacar la primera forma —
-porque es la única que produce un acto atribuible a un agente identificable
-— no es suficiente para corregir el fraude annona. Es suficiente para corregir
-su forma más visible, que es también la más inestable: el capturador que sabe
+un repertorio de corrección que solo puede atacar la primera forma —la que
+produce el acto atribuible más directamente a un agente identificable— no
+es suficiente para corregir el fraude annona. Es suficiente para corregir su
+forma más visible, que es también la más inestable: el capturador que sabe
 que la negación activa es atacable tiene los incentivos para trasladarse a la
 segunda o la tercera forma.
 El repertorio de corrección que el contrato fiscal requiere debe operar en las
@@ -2317,12 +2322,6 @@ identidad colectiva es el estado del ego soberano que ya no puede
 reconocerse como colectivo porque esa división ha sido interiorizada como
 diferencia natural.
 
-VII.
-Este capítulo ha extendido el concepto de fraude annona de Caelus hacia sus
-tres formas operativas y ha demostrado su identidad estructural. La
-negación activa, la omisión garantizadora y la captura selectiva producen el
-mismo estado en la partida doble del contrato fiscal aunque sean
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2332,11 +2331,16 @@ A.C.
 
 KRATOS
 
-fenomenológicamente distintas y aunque solo la primera sea eficientemente
-atacable por los mecanismos jurídicos ordinarios. La progresión desde la
-primera hacia la tercera es una progresión estratégica del capturador hacia
-formas más invisibles y más estables del fraude, no una reducción del daño
-que produce.
+VII.
+Este capítulo ha extendido el concepto de fraude annona de Caelus hacia sus
+tres formas operativas y ha demostrado su identidad estructural. La
+negación activa, la omisión garantizadora y la captura selectiva producen el
+mismo estado en la partida doble del contrato fiscal aunque sean
+fenomenológicamente distintas y aunque la primera suela ser más
+directamente atacable por los mecanismos jurídicos ordinarios. La
+progresión desde la primera hacia la tercera es una progresión estratégica del
+capturador hacia formas más invisibles y más estables del fraude, no una
+reducción del daño que produce.
 La tercera forma tiene además una función que las otras dos no tienen:
 produce la división del soberano colectivo que impide la formación del
 acreedor activo capaz de reconocer el patrón completo. Esa función conecta
@@ -2358,13 +2362,7 @@ ejercicio del derecho. La relación es conceptual: la tipología jurídica clasi
 obligaciones estatales; Kratos distingue formas de incumplimiento del
 contrato fiscal. Lo que Kratos añade es la descripción ontológica de por qué
 las tres formas producen el mismo estado en la partida doble y por qué ese
-estado —y no la forma que adopta el incumplimiento— es el objeto del
-análisis del contrato fiscal.
-2 El principio de que el daño ontológico del fraude annona es equivalente en
-las tres formas, independientemente de la visibilidad jurídica de cada una,
-tiene una consecuencia que Eris desarrollará en el plano de la imputación: la
-responsabilidad del Estado por el fraude annona no puede estar limitada a
-los casos en que produce un acto atribuible. Si lo estuviera, el Estado tendría
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2374,6 +2372,13 @@ A.C.
 
 KRATOS
 
+estado —y no la forma que adopta el incumplimiento— es el objeto del
+análisis del contrato fiscal.
+2 El principio de que el daño ontológico del fraude annona es equivalente en
+las tres formas, independientemente de la visibilidad jurídica de cada una,
+tiene una consecuencia que Eris desarrollará en el plano de la imputación: la
+responsabilidad del Estado por el fraude annona no puede estar limitada a
+los casos en que produce un acto atribuible. Si lo estuviera, el Estado tendría
 un incentivo estructural para trasladar el fraude annona hacia las formas
 menos visibles —exactamente lo que la historia de los sistemas políticos
 muestra que ocurre—. La imputación que Eris realiza no opera sobre el acto
@@ -4108,22 +4113,35 @@ su totalidad: requiere solo la distinción operativa entre el estado de duelo
 que puede producir movimiento cuando se completa y el estado de duelo que
 impide el movimiento porque ha sido integrado como la identidad
 constitutiva del colectivo.
-3 La cadena causal que produce la defraudación voluntaria —fraude annona
-→ disforia → monopolios → asimetría temporal → defraudación
-voluntaria— no es necesaria en el sentido de que cada eslabón produzca
-inevitablemente el siguiente. Es posible que el fraude annona no produzca
-disforia si el soberano mantiene el eje propio de su segunda mediación; es
-posible que la disforia no produzca defraudación voluntaria si hay
-mecanismos de recuperación del eje disponibles. Lo que la cadena describe es
-el proceso más frecuente en los sistemas donde todos los eslabones están
-presentes y operan en el tiempo suficiente. La Parte III examina
-exactamente qué eslabones de la cadena pueden ser interrumpidos y con qué
-instrumentos.
+3 El esquema fraude annona → disforia → monopolios → asimetría
+temporal → defraudación voluntaria resume un recorrido analítico, no una
+secuencia causal rígida en la que cada fenómeno produzca inevitablemente
+el siguiente. En el desarrollo, la captura selectiva y el monopolio narrativo
+contribuyen a producir y estabilizar la disforia; los monopolios se refuerzan
+entre sí y producen dimensiones de asimetría temporal, que a su vez
+sostienen las condiciones para que la defraudación voluntaria parezca viable
+desde el horizonte disponible al soberano. Son procesos acumulativos e
+interrelacionados, susceptibles de interrupción: el fraude annona no
+conduce necesariamente a la disforia si el soberano mantiene el eje propio de
+su segunda mediación, y la disforia no conduce necesariamente a la
+defraudación voluntaria si hay mecanismos de recuperación del eje
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
 93
+
+EL CONTRATO FISCAL · VOLUMEN I
+
+KRATOS
+
+disponibles. La Parte III examina cómo intervenir en esos procesos y con
+qué instrumentos.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
+
+94
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4149,7 +4167,7 @@ desde el estado en que el soberano realmente se encuentra.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-94
+95
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4183,7 +4201,7 @@ segundo vota porque ese candidato, evaluado desde el criterio de la eutaxia
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-95
+96
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4228,7 +4246,7 @@ reconocimiento de la propia condición de acreedor— es el umbral más bajo
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-96
+97
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4273,7 +4291,7 @@ abono, el Estado tiene el pasivo. Esa descripción, cuando es genuinamente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-97
+98
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4316,7 +4334,7 @@ ocurre, opere desde el eje correcto en lugar de desde el eje de la disforia.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-98
+99
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4359,7 +4377,7 @@ espacios en que los egos individuales que han comenzado la transición de la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-99
+100
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4403,7 +4421,7 @@ acreedor que sabe que tiene algo que exigir puede mantener la exigencia en
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-100
+101
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4445,7 +4463,7 @@ le asignó. Su corrección fue ontológica: recuperó el eje.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-101
+102
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4485,7 +4503,7 @@ hasta los que requieren el mayor.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-102
+103
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4527,7 +4545,7 @@ colectivo original— produce algo que no estaba en ninguno de los egos
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-103
+104
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4541,7 +4559,7 @@ reconocimiento individual.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-104
+105
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4575,7 +4593,7 @@ mediación colectiva del soberano que lo usa.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-105
+106
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4620,7 +4638,7 @@ estado de la segunda mediación colectiva —asunción, estrés normalizado,
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-106
+107
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4660,7 +4678,7 @@ escala del sistema.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-107
+108
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4700,7 +4718,7 @@ control constitucional, la formación de coaliciones que articulan la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-108
+109
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4742,7 +4760,7 @@ difícil de capturar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-109
+110
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4780,7 +4798,7 @@ posterior de reparación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-110
+111
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4820,7 +4838,7 @@ condición de la exigencia que corrige el contrato.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-111
+112
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4863,7 +4881,7 @@ incumplimientos que la justificó.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-112
+113
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4908,7 +4926,7 @@ cinco niveles —uso instrumental de canales institucionales, participación
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-113
+114
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4950,7 +4968,7 @@ y Selma, en J. Mills Thornton III, Dividing Lines: Municipal Politics and
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-114
+115
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -4973,7 +4991,7 @@ teórico puede dar el vocabulario; la experiencia del resultado da el eje.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-115
+116
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5005,7 +5023,7 @@ obediencia a una norma específica y acepta las consecuencias legales de esa
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-116
+117
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5050,7 +5068,7 @@ segunda mediación del ego soberano. Y la formalización política añade tres
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-117
+118
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5093,7 +5111,7 @@ disponibles y apropiados para el tipo de incumplimiento específico hayan
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-118
+119
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5134,7 +5152,7 @@ lo que la declaración de default produce.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-119
+120
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5176,7 +5194,7 @@ reconstruirlo. La declaración de default que no produce la corrección
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-120
+121
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5218,7 +5236,7 @@ corrección del incumplimiento original habría tenido.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-121
+122
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5262,7 +5280,7 @@ ocultación del incumplimiento a su corrección.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-122
+123
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5307,7 +5325,7 @@ con anterioridad suficiente al acto y puede asumir públicamente las
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-123
+124
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5350,7 +5368,7 @@ capturador en la posición del que debe demostrar que cumplió.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-124
+125
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5393,7 +5411,7 @@ capturador más dif ícilmente puede capturar.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-125
+126
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5414,7 +5432,7 @@ la posición del acreedor que constata la deuda.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-126
+127
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5445,7 +5463,7 @@ presupuestalmente. El proceso electoral más transparente puede ser
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-127
+128
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5488,7 +5506,7 @@ la restauración del eje propio de la segunda mediación colectiva. No el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-128
+129
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5531,7 +5549,7 @@ ese fue, porque el ego que tiene en su fue la experiencia de operar desde el eje
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-129
+130
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5575,7 +5593,7 @@ segunda mediación que la disforia suprimió. No el eje mismo —ese ya estaba
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-130
+131
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5617,7 +5635,7 @@ perceptible. El ego que nunca experimentó el cumplimiento no puede
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-131
+132
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5659,7 +5677,7 @@ reforma más difícil de revertir: cada generación que crece dentro del eje del
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-132
+133
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5704,7 +5722,7 @@ para reconocerlo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-133
+134
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5748,7 +5766,7 @@ normalización.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-134
+135
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5790,7 +5808,7 @@ Realities of Civil Society», Journal of Democracy 25, n.º 1 (2014), pp. 46–5
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-135
+136
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5832,7 +5850,7 @@ eje del acreedor del contrato fiscal.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-136
+137
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5872,7 +5890,7 @@ opinión.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-137
+138
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5914,7 +5932,7 @@ analizar los sistemas que se sostuvieron durante décadas sin colapso aparente.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-138
+139
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5957,7 +5975,7 @@ dejaron residuos de segunda mediación recuperada que hicieron la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-139
+140
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -5997,7 +6015,7 @@ al soberano que tendría que corregirlo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-140
+141
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6039,7 +6057,7 @@ fundamentó ontológicamente— y opera con el mismo criterio: la eutaxia
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-141
+142
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6082,7 +6100,7 @@ que el sistema entendió que sin esa segunda mediación no había sistema.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-142
+143
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6107,7 +6125,7 @@ causalmente responsables de ese fallo.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-143
+144
 
 EL CONTRATO FISCAL · VOLUMEN I
 
@@ -6128,6 +6146,6 @@ contratos que funcionan o que fallan. Eris aplica la imputación.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-144
+145
 
 

@@ -1,6 +1,6 @@
 {
   "pdf": "kratos.pdf",
-  "total_pages": 155,
+  "total_pages": 156,
   "contents": [
     {
       "key": "prologo",
@@ -76,36 +76,36 @@
       "key": "cap-10",
       "label": "Capítulo 10 · El soberano activo como ego que reclama su segunda mediación",
       "kind": "chapter",
-      "physical_page": 105,
-      "printed_page": "94"
+      "physical_page": 106,
+      "printed_page": "95"
     },
     {
       "key": "cap-11",
       "label": "Capítulo 11 · El gradiente de la exigencia",
       "kind": "chapter",
-      "physical_page": 115,
-      "printed_page": "104"
+      "physical_page": 116,
+      "printed_page": "105"
     },
     {
       "key": "cap-12",
       "label": "Capítulo 12 · La desobediencia civil como declaración de default",
       "kind": "chapter",
-      "physical_page": 126,
-      "printed_page": "115"
+      "physical_page": 127,
+      "printed_page": "116"
     },
     {
       "key": "cap-13",
       "label": "Capítulo 13 · El cambio de idiosincrasia como restauración de la segunda mediación colectiva",
       "kind": "chapter",
-      "physical_page": 137,
-      "printed_page": "126"
+      "physical_page": 138,
+      "printed_page": "127"
     },
     {
       "key": "epilogo",
       "label": "Epílogo · Lo que Kratos entrega a Eris",
       "kind": "chapter",
-      "physical_page": 147,
-      "printed_page": "136"
+      "physical_page": 148,
+      "printed_page": "137"
     }
   ]
 }
