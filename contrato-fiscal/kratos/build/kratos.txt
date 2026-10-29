@@ -2570,11 +2570,11 @@ reproducción de la disforia en lugar de hacia su superación.
 disforia paga un costo personal que, por grande que sea, es un costo que
 puede decidir asumir. El soberano colectivo que emerge de la disforia
 enfrenta un costo que ningún ego individual puede asumir solo: la ruptura
-del marco compartido que estructura la vida colectiva del colectivo. Eso
-produce una asimetría profunda entre el costo de mantener la disforia —que
-se paga distribuido entre todos los egos del colectivo, de manera que
-ninguno lo siente completamente— y el costo de romperla —que se
-concentra en quien lidera la ruptura—. Esa asimetría produce la trampa del
+del marco compartido que estructura la vida del colectivo. Eso produce una
+asimetría profunda entre el costo de mantener la disforia —que se paga
+distribuido entre todos los egos del colectivo, de manera que ninguno lo
+siente completamente— y el costo de romperla —que se concentra en quien
+lidera la ruptura—. Esa asimetría produce la trampa del prisionero colectiva:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2584,9 +2584,8 @@ A.C.
 
 KRATOS
 
-prisionero colectiva: cada ego puede calcular que la ruptura sería buena para
-el colectivo pero que el costo de liderar esa ruptura es mayor que el costo de
-mantener la disforia.
+cada ego puede calcular que la ruptura sería buena para el colectivo pero que
+el costo de liderar esa ruptura es mayor que el costo de mantener la disforia.
 
 IV.
 La disforia de identidad colectiva adopta tres manifestaciones recurrentes
@@ -2616,6 +2615,8 @@ o «pueden» ocuparla. La interiorización de la posición subalterna como
 identidad elimina la posibilidad de que el soberano se reconozca como
 acreedor del contrato fiscal porque esa posición está, desde el marco
 capturado, por encima de lo que el soberano puede ser.
+La identificación con el enemigo construido del capturador. El soberano que
+ha sido hecho identificar sus intereses con los del capturador contra un
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2626,8 +2627,6 @@ A.C.
 
 KRATOS
 
-La identificación con el enemigo construido del capturador. El soberano que
-ha sido hecho identificar sus intereses con los del capturador contra un
 enemigo construido que es presentado como la amenaza real a los intereses
 del soberano. La estructura es siempre la misma: el capturador construye un
 enemigo —externo o interno, real o imaginado— que el soberano percibe
@@ -2659,6 +2658,8 @@ razones materiales para no reconocer el fraude annona que afecta a otros. El
 soberano dividido no puede reconocerse como colectivo acreedor porque
 parte de él recibe un retorno que le permite identificarse con el sistema en
 lugar de contra él.
+La tercera capa es el monopolio narrativo: la construcción activa de un
+marco desde el que el soberano interpreta su propia situación en términos
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2669,8 +2670,6 @@ A.C.
 
 KRATOS
 
-La tercera capa es el monopolio narrativo: la construcción activa de un
-marco desde el que el soberano interpreta su propia situación en términos
 que no incluyen la posición del acreedor. Esa construcción no requiere que
 todas las narrativas del espacio público sean producidas por el capturador —
 eso sería políticamente costoso y técnicamente dif ícil—. Requiere solo que
@@ -2705,6 +2704,8 @@ corresponden a su posición como acreedor del contrato fiscal. El soberano
 pide cosas que no tienen relación con el retorno de su inversión —orden,
 identidad, protección frente al enemigo construido— o pide versiones
 empobrecidas del retorno que debería pedir —no el servicio de salud
+universal que el contrato prometía, sino la reparación del hospital más
+cercano—. La reducción de las demandas del soberano a lo que el marco
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2714,8 +2715,6 @@ A.C.
 
 KRATOS
 
-universal que el contrato prometía, sino la reparación del hospital más
-cercano—. La reducción de las demandas del soberano a lo que el marco
 capturado le permite pedir es uno de los indicadores más precisos de la
 disforia.
 Desde afuera, tercer indicador: el lenguaje del acreedor produce en el
@@ -2747,6 +2746,8 @@ otros egos: la ruptura colectiva de la disforia es necesariamente un proceso
 social, no un proceso de iluminación individual multiplicado.
 Eso tiene consecuencias sobre el diseño de los mecanismos de corrección que
 la Parte III de este libro examina. Los mecanismos que operan sobre el ego
+individual —la educación, la información, la experiencia directa del
+cumplimiento del contrato— son condiciones necesarias pero no suficientes
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2757,8 +2758,6 @@ A.C.
 
 KRATOS
 
-individual —la educación, la información, la experiencia directa del
-cumplimiento del contrato— son condiciones necesarias pero no suficientes
 para la ruptura de la disforia colectiva. Lo que la ruptura colectiva requiere
 adicionalmente es la formación de espacios en que el soberano pueda operar
 su segunda mediación desde el eje del acreedor antes de que ese eje sea el eje
@@ -2793,6 +2792,8 @@ de los cuales ese estado es producido: los tres monopolios como captura de la
 segunda mediación (Capítulo 7) y la asimetría temporal como el diseño del
 campo que hace posible la acumulación de los monopolios sin que el
 soberano lo perciba hasta que la disforia ya se ha estabilizado (Capítulo 8).
+Esos dos capítulos completan el diagnóstico de la degradación; la Parte III
+examinará qué puede hacerse desde el estado que ese diagnóstico describe.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2803,18 +2804,15 @@ A.C.
 
 KRATOS
 
-Esos dos capítulos completan el diagnóstico de la degradación; la Parte III
-examinará qué puede hacerse desde el estado que ese diagnóstico describe.
 ***
 
 Notas
-24 Caelus, Damasén, Cap. 3: «La segunda mediación bajo captura». La
-formulación de la disforia de identidad en Caelus opera en el nivel del ego
-individual y de la relación erótica como el campo de captura paradigmático.
-La extensión a la escala política que Kratos realiza preserva la estructura
-ontológica de la disforia —el ego que opera desde el eje del campo
-capturador como si fuera el eje propio— y examina los mecanismos de
-estabilización adicionales que la escala colectiva produce.
+24 El juego de las máscaras o la disforia de la identidad, Capítulo II, «La
+disforia de la identidad». Allí se desarrolla la disforia en el nivel del ego
+individual. La extensión a la escala política que Kratos realiza preserva su
+estructura ontológica —el ego que opera desde el eje del campo capturador
+como si fuera el eje propio— y examina los mecanismos de estabilización
+adicionales que produce la escala colectiva.
 25 El monopolio narrativo como mecanismo de producción de disforia
 tiene un antecedente en el análisis gramsciano de la hegemonía cultural: el
 poder que obtiene consentimiento y no depende únicamente de la coerción.
@@ -3506,7 +3504,7 @@ A.C.
 KRATOS
 
 Economía → El monopolio económico produce la dimensión de la
-asimetría que opera sobre los recursos disponibles para el soberano para
+asimetría que opera sobre los recursos de que dispone el soberano para
 invertir en el análisis del largo plazo. El soberano en precariedad económica
 no tiene la capacidad de dedicar su segunda mediación a los procesos de
 largo plazo cuando la supervivencia inmediata es la demanda dominante.
@@ -4831,6 +4829,9 @@ contrato en estado de default no implica necesariamente que la segunda
 mediación esté en disforia; un contrato sano no implica que la segunda
 mediación esté en asunción. Y es exactamente esa independencia la que hace
 al mapa necesario.
+Los siguientes cuadrantes son escenarios de referencia, no un inventario
+exhaustivo de las nueve combinaciones posibles entre los tres estados del
+contrato y los tres estados de la segunda mediación colectiva.
 Contrato sano · Segunda mediación en asunción: Los niveles 1 y 2 son los
 instrumentos ordinarios del monitoreo permanente. Los niveles 3, 4 y 5
 están disponibles si algún elemento específico del contrato se deteriora, pero
@@ -4850,8 +4851,6 @@ Contrato en default · Segunda mediación en disforia: Solo el nivel 1 es
 accesible desde la disforia sin riesgo de que el mecanismo sea capturado. El
 objetivo prioritario en este cuadrante no es la corrección inmediata del
 contrato sino la recuperación del eje de la segunda mediación que haría
-accesibles los niveles superiores. La exigencia que restaura el eje es la
-condición de la exigencia que corrige el contrato.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4861,6 +4860,9 @@ A.C.
 EL CONTRATO FISCAL · VOLUMEN I
 
 KRATOS
+
+accesibles los niveles superiores. La exigencia que restaura el eje es la
+condición de la exigencia que corrige el contrato.
 
 V.
 El mapa del gradiente no es lineal. El soberano que ha usado el nivel 1
