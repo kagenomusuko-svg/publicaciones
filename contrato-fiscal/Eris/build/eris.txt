@@ -277,7 +277,7 @@ jurisdicción que sus instrumentos permiten y no más.
 
 III.
 Los ocho instrumentos de la auditoría:
-**1. *El fraude annona en sus tres formas.**La distinción operativa entre la
+1. El fraude annona en sus tres formas. La distinción operativa entre la
 negación activa del derecho reconocido, la omisión garantizadora y la
 captura selectiva del retorno. Permite a la auditoría preguntar no solo si un
 sistema produce fraude annona sino cuál de las tres formas tiende a producir
@@ -294,36 +294,37 @@ ERIS
 
 producen el mismo desequilibrio en la partida doble— es lo que impide que
 la auditoría se limite a las formas más visibles.
-**2. *La eutaxia utópica como criterio de dirección.**No un destino
-normativo —lo que la sociedad debería ser— sino un vector: la tendencia
-constitutiva del ego soberano hacia las condiciones que amplían su segunda
-mediación. El criterio permite preguntar si el sistema auditado se mueve en
-esa dirección o en la contraria, sin necesitar que el auditor defienda una
-utopía específica. La eutaxia utópica no cruza la guillotina de Hume: es una
+2. La eutaxia utópica como criterio de dirección. No un destino normativo
+—lo que la sociedad debería ser— sino un vector: la tendencia constitutiva
+del ego soberano hacia las condiciones que amplían su segunda mediación.
+El criterio permite preguntar si el sistema auditado se mueve en esa
+dirección o en la contraria, sin necesitar que el auditor defienda una utopía
+3
+
+específica. La eutaxia utópica no cruza la guillotina de Hume: es una
 descripción ontológica del comportamiento constitutivo del ego, no una
 prescripción normativa añadida desde afuera.
-**3. *Los tres estados del contrato como categorías diagnósticas.**El
-contrato sano, el estrés normalizado y el default como los tres estados
-posibles de la segunda mediación colectiva bajo un sistema dado. Permiten
-preguntar no solo si un sistema falló sino en qué modo tendió
-estructuralmente a fallar, y qué mecanismos usó para mantener ese modo de
-fallo estable.
-**4. *Los tres monopolios como puntos de captura.**Violencia, narrativa y
+3. Los tres estados del contrato como categorías diagnósticas. El contrato
+sano, el estrés normalizado y el default como los tres estados posibles de la
+segunda mediación colectiva bajo un sistema dado. Permiten preguntar no
+solo si un sistema falló sino en qué modo tendió estructuralmente a fallar, y
+qué mecanismos usó para mantener ese modo de fallo estable.
+4. Los tres monopolios como puntos de captura. Violencia, narrativa y
 economía como los nodos del sistema social a través de los cuales el
 capturador puede redirigir la segunda mediación del soberano desde su eje
 propio hacia el eje que el capturador prefiere. Permiten preguntar no solo
 qué resultados produjo el sistema sino qué monopolios consolidó, en qué
 secuencia, y qué diseño institucional hizo posible esa consolidación.
-**5. *La asimetría temporal como diseño del campo.**El campo capturado
-no simplemente se aprovecha de que el soberano vive en ciclos cortos: está
+5. La asimetría temporal como diseño del campo. El campo capturado no
+simplemente se aprovecha de que el soberano vive en ciclos cortos: está
 diseñado para que el soberano no pueda ver el arco completo de su propio
 desplazamiento. Permite a la auditoría identificar en cada sistema qué
 características del campo produjeron activamente esa asimetría, y a quién
 puede atribuirse causalmente la responsabilidad de ese diseño.
-**6. *La defraudación voluntaria y sus tres mecanismos.**La respuesta
-racional al fraude acumulado, la disforia inducida y la segunda mediación
-orientada hacia la rendición o el duelo. Permite a la auditoría responder la
-objeción más efectiva disponible contra cualquier crítica de un sistema: «el
+6. La defraudación voluntaria y sus tres mecanismos. La respuesta racional
+al fraude acumulado, la disforia inducida y la segunda mediación orientada
+hacia la rendición o el duelo. Permite a la auditoría responder la objeción
+más efectiva disponible contra cualquier crítica de un sistema: «el soberano
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -334,15 +335,15 @@ X
 
 ERIS
 
-soberano eligió esto.» La pregunta no es si eligió, sino desde qué eje eligió, y
-qué produjo ese eje, y qué condiciones del sistema lo produjeron.
-**7. *El cambio de idiosincrasia como criterio de viabilidad de la
-corrección.**La única reforma que ningún ciclo de captura puede revertir
-completamente. Permite a la auditoría evaluar no solo qué fraude annona
-produjo el sistema sino qué dejó en el residuo de la segunda mediación del
-soberano que lo sostuvo: qué condiciones legó para la corrección o para la
-reproducción de la captura.
-**8. *El límite de la predicación.**Ninguna determinación localizada del ser
+eligió esto.» La pregunta no es si eligió, sino desde qué eje eligió, y qué
+produjo ese eje, y qué condiciones del sistema lo produjeron.
+7. El cambio de idiosincrasia como criterio de viabilidad de la corrección. La
+única reforma que ningún ciclo de captura puede revertir completamente.
+Permite a la auditoría evaluar no solo qué fraude annona produjo el sistema
+sino qué dejó en el residuo de la segunda mediación del soberano que lo
+sostuvo: qué condiciones legó para la corrección o para la reproducción de la
+captura.
+8. El límite de la predicación. Ninguna determinación localizada del ser
 obtiene jurisdicción exhaustiva sobre el ser qua ser. Aplicado a los sistemas
 políticos: la auditoría de Eris es una predicación desde instrumentos
 declarados a una escala declarada. Puede decir que un sistema tiende a
@@ -485,15 +486,15 @@ nombra.
 
 Notas
 1 El mito de Eris y la manzana de la discordia pertenece a la tradición griega
-conocida como el Juicio de Paris y es referido en múltiples fuentes antiguas,
-incluyendo la Ilíada de Homero (Canto XXIV), los Cantos Ciprios
-atribuidos a Estasino de Chipre (fragmentos) y el poema tardío
-Descripciones de Nono de Panópolis (siglo V d.C.). Lo que resulta notable
-para los propósitos de este libro es que la versión más popular del mito —en
-la que Eris es la causante de la guerra— es también la versión que más
-claramente ilustra la confusión entre el nombre del revelador y el nombre
-de la causa. Los estudiosos de la mitología griega han señalado que Eris es en
-realidad una figura más compleja: la misma diosa que en la Teogonía de
+conocida como el Juicio de Paris. La Ilíada de Homero (XXIV, 25–30) alude
+al juicio, pero no narra el episodio de la manzana; los Cantos Ciprios,
+conocidos por resúmenes y fragmentos, relacionan a Eris con la disputa.
+Apolodoro relata la manzana y el juicio en la Epitome 3.2. Lo que resulta
+notable para los propósitos de este libro es que la versión más popular del
+mito —en la que Eris es la causante de la guerra— es también la versión que
+más claramente ilustra la confusión entre el nombre del revelador y el
+nombre de la causa. Hesíodo presenta a Eris como hija de Noche en la
+Teogonía (225–232); la distinción entre dos Erides, una destructiva y otra que
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -503,12 +504,11 @@ XIV
 
 ERIS
 
-Hesíodo (verso 225 y ss.) distingue entre la Eris «buena» —la que produce la
-competencia productiva— y la Eris «mala» —la que produce la rivalidad
-destructiva. Esta ambivalencia es relevante: el instrumento que nombra
-puede producir tanto el reconocimiento del problema como su
-agravamiento, según la operación que el que lo arroja realiza con él. Fuentes:
-Apolodoro, Epitome 3.3 y Nono de Panópolis, Dionysiaca.
+impulsa la competencia y el trabajo, aparece en Trabajos y días (11–26). Esta
+ambivalencia es relevante: el instrumento que nombra puede producir tanto
+el reconocimiento del problema como su agravamiento, según la operación
+que el que lo arroja realiza con él. Fuentes: Apolodoro, Epitome 3.2 y
+Hesíodo, Trabajos y días.
 2 La distinción entre el límite de la predicación de Νικόμαχος y el
 escepticismo filosófico convencional es necesaria para evitar un
 malentendido frecuente. El libro no sostiene que no puede predicarse nada
@@ -527,18 +527,16 @@ desarrollará con más extensión. La guillotina establece que no se puede
 derivar un 'deber ser' de un 'ser'. La eutaxia utópica no pretende derivar lo
 que los sistemas políticos deberían producir de lo que el ego soberano tiende
 constitutivamente a buscar. Pretende describir esa tendencia constitutiva —
-que es un 'ser' — y medir si los sistemas auditados se mueven en esa
-dirección o en la contraria — que es también un 'ser', una descripción de la
-dirección del movimiento. La evaluación que Eris produce es una
-comparación entre dos 'seres' — la tendencia del ego y la dirección del
-sistema — no un salto al 'deber ser'. En ese sentido, la eutaxia utópica hace
-exactamente lo que Hume requiere que se haga: permanecer en la
-descripción sin pretender derivar la prescripción de ella.
+que es un 'ser'— y medir si los sistemas auditados se mueven en esa dirección
+o en la contraria —que es también un 'ser', una descripción de la dirección
+del movimiento. La evaluación que Eris produce es una comparación entre
+dos 'seres'— la tendencia del ego y la dirección del sistema — no un salto al
+'deber ser'. En ese sentido, la eutaxia utópica hace exactamente lo que Hume
+requiere que se haga: permanecer en la descripción sin pretender derivar la
+prescripción de ella.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
-
-3
 
 XV
 
@@ -577,8 +575,8 @@ no tiene instrumento para reclamar la deuda.»
 
 El 30 de enero de 1649, Carlos I de Inglaterra fue decapitado en Whitehall.
 Thomas Hobbes lo observó desde el exilio en París. No era un hombre que
-necesitara que los hechos le confirmaran sus intuiciones — llevaba años
-elaborando las premisas que harían necesario el Leviathan —, pero la
+necesitara que los hechos le confirmaran sus intuiciones —llevaba años
+elaborando las premisas que harían necesario el Leviathan—, pero la
 ejecución del rey consolidó en su pensamiento lo que la guerra civil había
 iniciado: la certeza de que el problema político fundamental no era quién
 debería gobernar sino qué ocurre cuando el gobierno colapsa. Cuando el
@@ -617,8 +615,8 @@ I.
 Antes de aplicar los instrumentos de la auditoría, conviene registrar lo que
 Hobbes vio con una claridad que muchos de sus contemporáneos no
 tuvieron. Ese registro no es una concesión al sistema auditado: es la
-condición de que la auditoría sea honesta. El octavo instrumento — el
-límite de la predicación — impide tanto la condena sin matices como la
+condición de que la auditoría sea honesta. El octavo instrumento —el
+límite de la predicación— impide tanto la condena sin matices como la
 apología sin examen.
 Hobbes entendió que el problema político es estructural, no moral. La
 pregunta no es «¿quién es más virtuoso para gobernar?» sino «¿qué diseño
@@ -637,8 +635,8 @@ sus actores?» Eso es exactamente el argumento que Kratos desarrolló para el
 contrato fiscal: no necesitamos que el soberano sea bueno ni que el
 gobernante sea virtuoso; necesitamos diseños que hagan costoso el
 incumplimiento independientemente de la virtud de los actores. Hobbes
-llegó a ese argumento dos siglos antes de Madison y con mayor rigor lógico
-que la mayoría de los que vinieron después.
+llegó a ese argumento más de un siglo antes de Madison y con mayor rigor
+lógico que la mayoría de los que vinieron después.
 
 1
 
@@ -657,20 +655,19 @@ una decisión de diseño que se sigue directamente de las premisas.
 El cargo que el soberano individual deposita en el Leviathan no es parcial —
 como en el contrato fiscal de Caelus, donde la segunda mediación se cede
 con el derecho implícito de reclamar—. Es total. Hobbes es explícito: en el
+estado civil, el individuo cede amplios derechos naturales, aunque conserva
 2
 
-estado civil, el individuo cede todos sus derechos naturales excepto uno.
-Cede el derecho a gobernar su propia vida en todos los dominios que el
-Leviathan determine relevantes. Cede el derecho a juzgar qué es seguro y
-qué no. Cede el derecho a resistir la autoridad del soberano. El cargo de la
-partida doble hobbesiana es el cargo de la segunda mediación completa.
-
+ciertos derechos de autopreservación que no puede enajenar. Cede el
+derecho a gobernar su propia vida en todos los dominios que el Leviathan
+determine relevantes. Cede el derecho a juzgar qué es seguro y qué no. Cede
+el derecho a resistir la autoridad del soberano. El cargo de la partida doble
+hobbesiana es el cargo de la segunda mediación completa.
 El abono que el Leviathan debe retornar es el más mínimo que cualquier
 sistema político ha podido prometer con coherencia: la seguridad. No el
 florecimiento. No la eutaxia utópica en ninguno de sus sentidos. No las
 condiciones materiales para el ejercicio de los derechos. Solo la ausencia de
 lo peor: la ausencia de la guerra de todos contra todos. El abono del contrato
-hobbesiano es la no-realización del estado de naturaleza. Es una promesa
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -681,6 +678,7 @@ A.C.
 
 ERIS
 
+hobbesiano es la no-realización del estado de naturaleza. Es una promesa
 negativa —que algo no ocurrirá— no una promesa positiva —que algo sí
 ocurrirá.
 El pasivo —la obligación del Leviathan de retornar lo que le fue cedido—
@@ -713,7 +711,6 @@ de ejercicio de ningún derecho más allá de la seguridad f ísica básica.
 Cuando el Estado no produce escuelas, no garantiza acceso a la salud, no
 crea condiciones para el ejercicio de la libertad de expresión: no está
 incumpliendo el contrato hobbesiano porque ninguna de esas garantías está
-en el abono. El contrato prometió seguridad, no condiciones para la eutaxia.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -724,6 +721,7 @@ A.C.
 
 ERIS
 
+en el abono. El contrato prometió seguridad, no condiciones para la eutaxia.
 La omisión garantizadora no es una falla del sistema; es parte de su diseño.
 El soberano que exige más del abono que la seguridad f ísica no tiene
 fundamento contractual para hacerlo dentro del marco hobbesiano.
@@ -757,7 +755,6 @@ diseñado como la única alternativa. El gradiente de la exigencia de Kratos
 inaplicable dentro del sistema hobbesiano porque ninguno de los cinco
 niveles existe en él. El soberano hobbesiano que ha sido defraudado por el
 Leviathan tiene solo la opción que Kratos identificó como la más extrema y
-la más costosa: el retiro total del reconocimiento, que en el sistema
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -767,6 +764,7 @@ A.C.
 
 ERIS
 
+la más costosa: el retiro total del reconocimiento, que en el sistema
 hobbesiano se llama revolución y se produce cuando el Leviathan ya no
 puede proteger al soberano de sí mismo.
 
@@ -813,6 +811,8 @@ V.
 Hobbes predica el Leviathan desde una posición que puede describirse con
 precisión: la del hombre culto y racional que observó el colapso del orden
 político en primera persona y que extrajo de esa observación las premisas de
+3
+
 su sistema. Esa posición tiene instrumentos específicos, una escala específica
 y límites específicos que el octavo instrumento de la auditoría puede
 identificar.
@@ -839,7 +839,6 @@ imposibilidad de un proyecto de vida sostenido—. Pero desde su posición
 predicante, el Leviathan es la solución; no puede ser simultáneamente el
 problema. La experiencia que habría permitido a Hobbes ver el Leviathan
 como fuente de fraude annona —la experiencia de vivir bajo un Estado que
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -915,8 +914,8 @@ VIII.
 Lo que la auditoría produce y lo que no puede producir, en los términos del
 prólogo:
 Puede concluir que el sistema hobbesiano tiende estructuralmente a
-producir fraude annona en su cuarta forma — la ausencia de mecanismo de
-exigencia — como condición de su propio funcionamiento. Puede concluir
+producir fraude annona en su cuarta forma —la ausencia de mecanismo de
+exigencia— como condición de su propio funcionamiento. Puede concluir
 que los tres monopolios están instalados desde el acto fundacional, no como
 resultado de un proceso de captura posterior. Puede concluir que la omisión
 garantizadora es el modo estructural del abono hobbesiano, no una falla
@@ -936,23 +935,23 @@ A.C.
 ERIS
 
 No puede concluir que el sistema hobbesiano sea ontológicamente
-defectuoso — esa sería una predicación exhaustiva que excede la jurisdicción
+defectuoso —esa sería una predicación exhaustiva que excede la jurisdicción
 del instrumento. No puede concluir que Hobbes era una mala persona ni
-que tenía intenciones maliciosas — la posición predicante que produce el
+que tenía intenciones maliciosas— la posición predicante que produce el
 punto ciego no requiere ni evidencia malicia. No puede concluir que el
 Leviathan es necesariamente peor que las alternativas disponibles en todos
-los contextos históricos — Hobbes identificó un problema real y su solución
+los contextos históricos —Hobbes identificó un problema real y su solución
 puede haber sido la mejor disponible para la experiencia específica de la
 guerra civil inglesa. Y no puede concluir que algún sistema específico es la
-corrección correcta del fraude annona que el Leviathan produce — eso
-requeriría el audit de ese sistema alternativo, que es el objeto de los capítulos
-siguientes.
+corrección correcta del fraude annona que el Leviathan produce— eso
+requeriría la auditoría de ese sistema alternativo, que es el objeto de los
+capítulos siguientes.
 ***
 
 Notas
 1 La convergencia entre el argumento de Hobbes —el diseño institucional
 debe funcionar sin suponer virtud en los actores— y el argumento
-madisoneano que Kratos cita en sus primeros capítulos no es accidental.
+madisoniano que Kratos cita en sus primeros capítulos no es accidental.
 Madison leyó a Hobbes y, aunque el marco normativo de los Federalist
 Papers es muy distinto del del Leviathan, la premisa estructural es la misma:
 si los hombres fueran ángeles, no necesitarían gobierno. Hobbes y Madison
@@ -961,14 +960,14 @@ contrato fiscal hace suyo: el diseño es lo que importa, no la virtud. La
 diferencia es que Madison diseñó la separación de poderes para impedir que
 cualquier actor —incluido el Estado— acumulara los tres monopolios;
 Hobbes diseñó el Leviathan para que los acumulara todos desde el inicio.
-2 Hobbes, Thomas. Leviathan, 1651, Capítulo XIV: el único derecho que el
-individuo retiene en el estado civil es el de resistir cuando el Leviathan
-directamente amenaza su vida — lo que Hobbes llama el derecho de
-autodefensa. Ese derecho no es un mecanismo de exigencia del contrato sino
-un límite de la coacción f ísica: el soberano político puede hacer casi
-cualquier cosa con el individuo, pero no puede hacer que el individuo
-facilite su propia muerte, porque eso contradiría el propósito mismo del
-contrato. Es el umbral más bajo posible de protección del individuo frente al
+2 Hobbes, Thomas. Leviathan (1651), caps. XIV y XXI. El individuo no puede
+enajenar el derecho a resistir aquello que amenaza directamente su vida,
+pero Hobbes también enumera otras libertades inalienables vinculadas con
+la autopreservación: negarse a matarse, herirse o privarse de lo necesario para
+vivir, resistir un ataque y no acusarse a sí mismo sin garantía de perdón.
+Estas excepciones no equivalen a un mecanismo general de exigencia frente
+al soberano. Texto primario: Leviathan, cap. XIV y cap. XXI.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -978,10 +977,6 @@ A.C.
 
 ERIS
 
-Estado: el derecho de no ser asesinado activamente por el propio Leviathan.
-Todo lo que está entre ese umbral y el florecimiento humano es, desde el
-punto de vista contractual hobbesiano, dominio discrecional del soberano.
-Fuente primaria: Leviathan, capítulo XIV.
 3 La descripción del estado de naturaleza de Hobbes como una posición
 predicante específica —producida por la experiencia del colapso político—
 en lugar de como una descripción universal de la condición humana prepolítica fue argumentada con rigor por Quentin Skinner en Hobbes and
@@ -994,8 +989,6 @@ mecanismos de corrección para ese tipo de fraude.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
-
-3
 
 12
 
@@ -1155,7 +1148,7 @@ debe realizar el ciudadano, cumple con el abono de la libertad en términos
 lockeanos. Pero la libertad sin las condiciones materiales para su ejercicio —
 la educación que hace posible la deliberación real, la seguridad económica
 que hace posible la elección sin coacción de necesidad, el acceso a la
-información que hace posible el consentimiento genuino — es libertad
+información que hace posible el consentimiento genuino— es libertad
 formal, no libertad efectiva. El soberano que es libre en el sentido lockeano
 pero que debe aceptar cualquier condición laboral porque la alternativa es la
 inanición no está ejerciendo la libertad que el contrato reconoce: está
@@ -1174,8 +1167,8 @@ libertad. Y el contrato lockeano no tiene ningún instrumento para
 distinguir esas dos situaciones porque su abono solo opera sobre la coerción
 directa del Estado, no sobre la coerción estructural del campo.
 Segunda: la protección diferencial del derecho según la capacidad de
-exigirlo. El mecanismo de exigencia que Locke diseñó — el derecho de
-resistencia y, en última instancia, el de revolución — requiere para operar
+exigirlo. El mecanismo de exigencia que Locke diseñó —el derecho de
+resistencia y, en última instancia, el de revolución— requiere para operar
 efectivamente que el soberano tenga los recursos para activarlo. El soberano
 que es despojado de su propiedad y tiene los recursos para litigar ante los
 tribunales que Locke diseñó puede exigir el cumplimiento del abono. El
@@ -1196,9 +1189,9 @@ naturaleza disponible: es el resultado de siglos de conquista, exclusión,
 desplazamiento y acumulación por la fuerza. El contrato que protege esa
 distribución como si fuera natural no está devolviendo a cada quien lo que
 su trabajo produjo; está protegiendo lo que el poder acumuló con el
-vocabulario de lo que el trabajo merece. Esa operación — invisibilizar el
+vocabulario de lo que el trabajo merece. Esa operación —invisibilizar el
 origen de la distribución y luego proteger el estado resultante como si fuera
-la distribución que el derecho natural produce — es la forma más elegante
+la distribución que el derecho natural produce— es la forma más elegante
 del fraude annona en la tradición contractualista.
 
 IV.
@@ -1217,8 +1210,8 @@ diferencia tiene implicaciones sobre el tipo de corrección disponible dentro
 del sistema lockeano.
 El derecho de resistencia lockeano se activa cuando el Estado viola los
 derechos fundamentales que justifican su existencia. Eso opera como el nivel
-5 del gradiente — la desobediencia civil como declaración de default —
-pero sin los cuatro niveles previos. No hay un nivel 1 (uso instrumental de los
+5 del gradiente —la desobediencia civil como declaración de default— pero
+sin los cuatro niveles previos. No hay un nivel 1 (uso instrumental de los
 canales institucionales), ni nivel 2 (participación monitora), ni nivel 3
 (demanda colectiva organizada), ni nivel 4 (suspensión de la cooperación).
 El mecanismo de corrección que Locke diseñó es el mecanismo de máximo
@@ -1259,21 +1252,23 @@ Segundo movimiento · Auditoría de la posición predicante
 V.
 La posición predicante de Locke puede describirse con mayor precisión que
 la de Hobbes precisamente porque está más documentada. John Locke
-escribió el Segundo Tratado en parte como justificación filosófica de la
-conspiración contra Jacobo II en la que participó —la conspiración de Rye
-House— y en parte como la teoría del gobierno que la Revolución Gloriosa
-había realizado en la práctica. No es un pensador que desarrolla su sistema
-en el vacío abstracto de la filosof ía pura: es un teórico-político que
-reflexiona desde la posición del whig ilustrado que participó en la
-transformación política que su teoría justifica.
+escribió el Segundo Tratado en el contexto de la crisis de exclusión y de las
+disputas sobre la resistencia al poder real. La obra se ha relacionado con la
+conspiración de Rye House, pero la participación directa de Locke no está
+establecida; el tratado fue publicado en 1689, después de la Revolución
+3
+
+Gloriosa, cuya justificación llegó a asociarse con él. No es un pensador que
+desarrolla su sistema en el vacío abstracto de la filosof ía pura: es un teóricopolítico que reflexiona desde la posición del whig ilustrado que participó en
+la transformación política que su teoría justifica.
 Esa posición tiene instrumentos precisos: el conocimiento del derecho
 inglés, la experiencia de la persecución política y del exilio, la familiaridad
-con el comercio y la economía política de su tiempo, y — crucial para
-entender el punto ciego — la perspectiva del hombre de propiedad que
+con el comercio y la economía política de su tiempo, y —crucial para
+entender el punto ciego— la perspectiva del hombre de propiedad que
 entiende el mundo desde la posición del propietario que quiere proteger lo
 que tiene de la arbitrariedad del Estado y del desorden de la plebe.
 
-3
+4
 
 Desde esa posición, el problema político fundamental no es el mismo que el
 de Hobbes. No es «¿cómo salir del estado de guerra?» sino «¿cómo proteger
@@ -1287,8 +1282,7 @@ El punto ciego de la posición predicante de Locke es simétricamente
 opuesto al de Hobbes. Hobbes no podía ver el Leviathan como fuente de
 fraude annona porque su experiencia era del Estado que colapsa, no del
 Estado que funciona mal. Locke no puede ver la omisión garantizadora
-como fraude annona porque su experiencia es del propietario que quiere
-proteger lo que tiene, no del que necesita las condiciones para adquirirlo.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1298,6 +1292,8 @@ A.C.
 
 ERIS
 
+como fraude annona porque su experiencia es del propietario que quiere
+proteger lo que tiene, no del que necesita las condiciones para adquirirlo.
 La teoría de la propiedad por el trabajo es el lugar donde el punto ciego es
 más nítidamente visible. Locke desarrolla esa teoría desde la posición del
 individuo que ya está en condiciones de mezclar su trabajo con la naturaleza
@@ -1309,12 +1305,12 @@ acceso a ningún recurso sobre el que pueda actuar — para quien la tierra
 disponible ya está ocupada, las herramientas de producción ya son de otro, y
 el único «trabajo» que puede ofrecer es la venta de su fuerza laboral en las
 condiciones que el propietario establezca.
-Desde esa otra posición — que Locke no puede ver porque no es la suya — el
+Desde esa otra posición —que Locke no puede ver porque no es la suya— el
 contrato lockeano no devuelve los derechos al soberano: devuelve los
 derechos al propietario. El soberano que llega al estado civil sin propiedad
 recibe el mismo reconocimiento formal de los mismos derechos que el
-propietario, pero el contenido material de esos derechos — lo que
-efectivamente puede hacer con ellos — es radicalmente diferente. Y el
+propietario, pero el contenido material de esos derechos —lo que
+efectivamente puede hacer con ellos— es radicalmente diferente. Y el
 contrato lockeano no puede ver esa diferencia porque el instrumento con el
 que Locke la mide —la teoría del trabajo como fuente de propiedad—
 asume que el trabajo es igualmente accesible para todos, cuando en realidad
@@ -1329,8 +1325,6 @@ mezcló (OUGHT: le pertenece). El puente es la ley natural — la voluntad de
 Dios de que el trabajo humano sea premiado con la propiedad del producto.
 Esa ley natural es una premisa teológica que Locke no puede demostrar
 desde sus propias premisas sin circularidad: la ley natural existe porque Dios
-la ordenó, y sabemos que Dios la ordenó porque la razón la descubre, y la
-razón la descubre porque el sistema la presupone.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1341,6 +1335,8 @@ A.C.
 
 ERIS
 
+la ordenó, y sabemos que Dios la ordenó porque la razón la descubre, y la
+razón la descubre porque el sistema la presupone.
 Pero hay una travesía de la guillotina más importante que esa para los
 propósitos de la auditoría. Locke deriva la obligación del Estado de proteger
 la propiedad tal como existe (OUGHT: el Estado debe proteger esta
@@ -1370,11 +1366,9 @@ ejercicio. Puede concluir que esa omisión no es una falla contingente sino
 una consecuencia estructural de la posición predicante desde la que Locke
 diseña el sistema: la perspectiva del propietario que quiere proteger lo que
 tiene. Puede concluir que el mecanismo de exigencia del sistema lockeano
-— el derecho de resistencia — opera en el nivel máximo del gradiente sin
-los niveles previos, lo que produce un umbral de corrección muy alto y
-vulnerable al estrés normalizado. Puede concluir que la travesía de la
-guillotina de Hume en la teoría de la propiedad produce un fraude annona
-específico: el contrato protege la distribución de la propiedad como si fuera
+—el derecho de resistencia— opera en el nivel máximo del gradiente sin los
+niveles previos, lo que produce un umbral de corrección muy alto y
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1384,12 +1378,14 @@ A.C.
 
 ERIS
 
+vulnerable al estrés normalizado. Puede concluir que la travesía de la
+guillotina de Hume en la teoría de la propiedad produce un fraude annona
+específico: el contrato protege la distribución de la propiedad como si fuera
 el producto del trabajo cuando es en gran parte el producto del poder,
 favoreciendo estructuralmente a quienes se beneficiaron de ese poder. Y
-puede concluir que el punto ciego de la posición predicante — la
-incapacidad de ver la situación de quien no tiene propiedad que proteger —
-correlaciona directamente con la ausencia de garantías positivas en el diseño
-del sistema.
+puede concluir que el punto ciego de la posición predicante —la incapacidad
+de ver la situación de quien no tiene propiedad que proteger— correlaciona
+directamente con la ausencia de garantías positivas en el diseño del sistema.
 No puede concluir que el sistema lockeano sea peor que el hobbesiano. Los
 dos producen fraude annona de tipo diferente: el de Hobbes por ausencia de
 mecanismo de exigencia; el de Locke por omisión de las condiciones para el
@@ -1401,8 +1397,8 @@ problema es visible de cierta manera y no de otra. Y no puede concluir que el
 reconocimiento formal de los derechos es inútil o que la omisión
 garantizadora cancela el valor de ese reconocimiento: el reconocimiento
 formal es una condición necesaria aunque no suficiente del abono real, y la
-primera forma del fraude annona — la negación activa del derecho
-reconocido — es peor que la omisión garantizadora, aunque ambas sean
+primera forma del fraude annona —la negación activa del derecho
+reconocido— es peor que la omisión garantizadora, aunque ambas sean
 formas del mismo fraude.
 Lo que el sistema lockeano lega a los capítulos siguientes de esta auditoría es
 preciso: la omisión garantizadora como el modo estructural de fraude
@@ -1415,8 +1411,6 @@ producirá un fraude annona diferente.
 Notas
 1 Locke, John. Two Treatises of Government, 1689, Segundo Tratado, Cap.
 II, §6: «El estado de naturaleza tiene una ley de naturaleza que lo gobierna,
-que obliga a todos; y la razón, que es esa ley, enseña a toda la humanidad,
-con solo consultarla, que siendo todos iguales e independientes, nadie debe
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1427,6 +1421,8 @@ A.C.
 
 ERIS
 
+que obliga a todos; y la razón, que es esa ley, enseña a toda la humanidad,
+con solo consultarla, que siendo todos iguales e independientes, nadie debe
 dañar a otro en su vida, salud, libertad o posesiones.» La diferencia con
 Hobbes es constitutiva del sistema: si el estado de naturaleza tiene una ley
 moral que lo gobierna, la carga que justificaría la cesión total al Leviathan
@@ -1441,7 +1437,14 @@ erosión por los cercamientos (enclosures). Locke inserta una cláusula de
 suficiencia —se puede apropiar lo que quede «suficiente y tan bueno» para
 los demás— que resulta inaplicable en cualquier contexto de escasez real de
 los recursos apropiables.
-3 El vínculo entre la posición de clase de Locke y el contenido de su teoría
+3 La cronología y el alcance de la relación entre Locke y Rye House son
+discutidos. Philip Milton revisa la evidencia y concluye que Locke
+probablemente conocía los planes de insurrección, pero que hay poco
+indicio de participación directa; distingue además el plan contra Carlos II
+de otras disputas sobre Jacobo, entonces duque de York. Véase Philip Milton,
+“John Locke and the Rye House Plot”, The Historical Journal 43, n.º 3
+(2000), pp. 647–668, doi:10.1017/S0018246X99001144.
+4 El vínculo entre la posición de clase de Locke y el contenido de su teoría
 política fue desarrollado sistemáticamente por Macpherson (op. cit.) y
 cuestionado parcialmente por John Dunn en The Political Thought of John
 Locke (1969), que enfatizó el componente teológico —el mundo como
@@ -1588,11 +1591,11 @@ comunidad delibera sobre el bien común, la mayoría expresa la voluntad
 general y esa expresión obliga a todos. Quien vota contra la mayoría no está
 expresando la voluntad general —está expresando su interés particular o su
 error de juicio. La corrección del incumplimiento del contrato es la
-alineación de las voluntades particulares con la voluntad general —que
+alineación de las voluntades particulares con la voluntad general— que
 puede implicar, como Rousseau acepta, que quien se niega a obedecer la
 voluntad general sea «forzado a ser libre».
 
-4
+3
 
 III.
 Las cuatro formas en que la voluntad general produce fraude annona de
@@ -1679,12 +1682,12 @@ asamblea no puede invocar su segunda mediación como fundamento de su
 voto —eso sería invocar su interés particular contra la voluntad general.
 Rousseau lo formula con una lógica que parece perfectamente razonable: si
 la voluntad general es el resultado de la deliberación correcta y yo me
-opongo a ella, uno de dos: o la asamblea cometió un error —en cuyo caso el
-resultado no es la voluntad general—, o yo estoy en error —en cuyo caso
+opongo a ella, uno de dos: o la asamblea cometió un error— en cuyo caso el
+resultado no es la voluntad general —, o yo estoy en error— en cuyo caso
 mis objeciones no reflejan la voluntad general sino mis pasiones particulares.
 El individuo que persiste en el disenso se pone a sí mismo en la posición de
 decir que él tiene acceso a la voluntad general que el colectivo no tiene —lo
-cual es exactamente la pretención del legislador, que Rousseau reserva para
+cual es exactamente la pretensión del legislador, que Rousseau reserva para
 los fundadores extraordinarios.
 Esa estructura hace que el disenso sea estructuralmente dif ícil de sostener sin
 cometer la pretensión que el sistema desacredita. El ciudadano
@@ -1755,7 +1758,7 @@ ERIS
 que el soberano lo audite requeriría que el soberano tuviera ya el acceso a la
 voluntad general que el intérprete le está proveyendo.
 
-3
+4
 
 ***
 
@@ -1865,10 +1868,10 @@ natural —un «ES» histórico— y deriva la legitimidad de un contrato
 social que restauraría esa libertad —un «DEBE» político. El puente es el
 concepto de la voluntad general como la expresión de la libertad que los
 seres humanos tendrían si no hubieran sido corrompidos. Pero ese puente
-presupone que el estado anterior a la corrupción es un «ES» descriptible —
+presupone que el estado anterior a la corrupción es un «ES» descriptible—
 que hay una naturaleza humana previa a la sociedad que puede ser
 recuperada—, cuando es en realidad una construcción del pensamiento
-rousseauniano. El límite de la predicación que Nikomájos establece aplica
+rousseauniano. El límite de la predicación que Nikómachos establece aplica
 aquí con precisión: la voluntad general como descripción de lo que el pueblo
 «sería» es una predicación desde la posición del excluido que imagina la
 igualdad que el orden existente le negó. Esa predicación puede ser correcta;
@@ -1937,26 +1940,26 @@ de Caelus: el ego que cede su segunda mediación al colectivo del que es parte
 no pierde su segunda mediación; la ejerce a través del colectivo. El problema
 surge cuando el colectivo es representado por alguien que no es el colectivo
 mismo.
-3 La conexión entre el legislador rousseauniano y la vanguardia marxista fue
-señalada tempranamente por Talmon, Jacob L. The Origins of Totalitarian
-Democracy, 1952. La auditoría de Eris no adopta la tesis de Talmon —que
-hay una línea causal directa de Rousseau al totalitarismo— sino una tesis
-más precisa: que el concepto de la voluntad general produce una estructura
-de captura de la segunda mediación que puede ser usada por tradiciones
-políticas muy distintas. El jacobinismo que invocó la voluntad general, el
-leninismo que invocó la conciencia de clase como la forma en que el
-proletariado expresaría su voluntad si no estuviera ideológicamente
-capturado, y el populismo que invoca la voluntad del pueblo contra la élite:
-los tres comparten la estructura del intérprete privilegiado de la voluntad
-auténtica cuya interpretación no puede ser auditada por el sujeto cuya
-voluntad interpreta.
-4 La frase «forzado a ser libre» (forcé d'être libre) aparece en Rousseau,
+3 La frase «forzado a ser libre» (forcé d'être libre) aparece en Rousseau,
 Jean-Jacques. Du Contrat Social, 1762, Libro I, Capítulo 7. Dentro de los
 términos del sistema rousseauniano, la frase tiene una coherencia interna
 que la auditoría reconoce: si la libertad es la obediencia a la ley que uno se da
 a sí mismo, y si la voluntad general es la ley que el ciudadano se da a sí
 mismo como ciudadano, entonces el ciudadano que se niega a obedecer la
 voluntad general está eligiendo su interés particular sobre su libertad como
+ciudadano. Lo que la auditoría señala no es que la frase sea ilógica dentro del
+sistema; es que la lógica del sistema produce esa conclusión, y que esa
+conclusión es el instrumento más eficiente de captura de la segunda
+mediación colectiva que el contractualismo produjo.
+4 La conexión entre el legislador rousseauniano y la vanguardia marxista
+fue señalada tempranamente por Talmon, Jacob L. The Origins of
+Totalitarian Democracy, 1952. La auditoría de Eris no adopta la tesis de
+Talmon —que hay una línea causal directa de Rousseau al totalitarismo—
+sino una tesis más precisa: que el concepto de la voluntad general produce
+una estructura de captura de la segunda mediación que puede ser usada por
+tradiciones políticas muy distintas. El jacobinismo que invocó la voluntad
+general, el leninismo que invocó la conciencia de clase como la forma en
+que el proletariado expresaría su voluntad si no estuviera ideológicamente
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -1966,10 +1969,10 @@ A.C.
 
 ERIS
 
-ciudadano. Lo que la auditoría señala no es que la frase sea ilógica dentro del
-sistema; es que la lógica del sistema produce esa conclusión, y que esa
-conclusión es el instrumento más eficiente de captura de la segunda
-mediación colectiva que el contractualismo produjo.
+capturado, y el populismo que invoca la voluntad del pueblo contra la élite:
+los tres comparten la estructura del intérprete privilegiado de la voluntad
+auténtica cuya interpretación no puede ser auditada por el sujeto cuya
+voluntad interpreta.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2026,7 +2029,7 @@ Esos dos libros están en tensión. La primera Crítica estableció que ningún
 predicado puede obtener jurisdicción sobre el ser en sí mismo. La
 Fundamentación predica algo que pretende aplicarse al ser racional en
 cuanto tal. Ese es el objeto de este capítulo: no si el imperativo categórico es
-ºtil o válido como guía moral —que puede serlo— sino qué estructura de
+útil o válido como guía moral —que puede serlo— sino qué estructura de
 fraude annona produce cuando se aplica como marco político, y qué ocurre
 ontológicamente cuando la razón práctica reclama un acceso que la razón
 pura del mismo Kant había declarado imposible.
@@ -2039,7 +2042,7 @@ Parte I, porque Kant es el único de los contractualistas clásicos que explicit
 el problema que el instrumento del límite de la predicación de Nikómachos
 le plantea. Hobbes, Locke y Rousseau cruzaron la guillotina de Hume y el
 límite de la predicación sin saberlo; Kant estableció el límite con más
-cuidado que ninguno de ellos y luego lo cruzó con piena consciencia de lo
+cuidado que ninguno de ellos y luego lo cruzó con plena conciencia de lo
 que estaba haciendo y con argumentos específicos para justificar ese cruce.
 Lo que Kant avanzó sobre todos sus predecesores es la distinción entre lo
 hipotético y lo categórico. Hobbes dijo: si quieres sobrevivir, cede tu segunda
@@ -2054,7 +2057,7 @@ A.C.
 
 ERIS
 
-celebra el contrato. Rousseau dijo: si quieres la libertad real, obeédece la
+celebra el contrato. Rousseau dijo: si quieres la libertad real, obedece la
 voluntad general. Los tres son imperativos hipotéticos: condicionados por
 un deseo o un fin. Kant estableció que los imperativos hipotéticos no pueden
 fundamentar ninguna obligación moral genuina, porque dependen de que
@@ -2200,7 +2203,7 @@ la voluntad por la razón misma. La ley moral es un «Faktum der Vernunft»
 obligación, y eso es evidencia de que tenemos un tipo de acceso al reino
 nouménico que la razón teórica no puede proveer. El imperativo categórico
 no describe al ser racional; lo obliga. Y esa obligación es la huella del
-nouménon en el mundo fenómenico.
+nouménon en el mundo fenoménico.
 Nikómachos respondería con precisión: que la ley moral sea un hecho de la
 razón no significa que sea una predicación con jurisdicción exhaustiva sobre
 el ser racional qua ser. Es una predicación desde la posición de la razón
@@ -2299,6 +2302,8 @@ del imperativo categórico produce una jerarquía material entre las formas de
 vida que las predicaciones localizadas del ser racional no pueden ver desde
 adentro.
 
+3
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -2363,7 +2368,7 @@ del filósofo que experimenta la obligación moral— que pretende
 jurisdicción universal sin que esa pretensión pueda ser justificada dentro de
 los propios términos de la filosof ía crítica kantiana.
 No puede concluir que el imperativo categórico es inválido o que la filosof ía
-moral de Kant no tiene valor. La auditoría de Eris no evalua la verdad de los
+moral de Kant no tiene valor. La auditoría de Eris no evalúa la verdad de los
 sistemas morales; evalúa la estructura de fraude annona que producen
 cuando se aplican como marco político. El imperativo categórico puede ser
 la mejor guía moral disponible para el agente que tiene las condiciones
@@ -2421,8 +2426,6 @@ independientemente de las intenciones del predicador. Que ese sistema
 pueda ser usado para justificar la dominación colonial es una de las
 consecuencias de esas invisibilidades estructurales, pero no es la única ni
 necesariamente la más importante.
-
-3
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -2525,13 +2528,13 @@ acercó más que cualquiera de sus predecesores al reconocer que los más
 desaventajados tienen un reclamo especial sobre el diseño de las
 instituciones sociales.
 Y la concepción del «equilibrio reflexivo» como método —la idea de que
-los principios de justicia deben ajustarse iterativamente hasta que coherén
-con los juicios morales considerados del agente— es la única admisión
-explícita en la tradición contractualista de que los principios de justicia no
-pueden ser derivados de manera puramente deductiva sino que deben pasar
-por la prueba de la interacción con los juicios morales reales de personas
-reales. Eso es más cercano al octavo instrumento de este análisis que
-cualquier otro meótodo producido por el contractualismo.
+los principios de justicia deben ajustarse iterativamente hasta que
+concuerden con los juicios morales considerados del agente— es la única
+admisión explícita en la tradición contractualista de que los principios de
+justicia no pueden ser derivados de manera puramente deductiva sino que
+deben pasar por la prueba de la interacción con los juicios morales reales de
+personas reales. Eso es más cercano al octavo instrumento de este análisis que
+cualquier otro método producido por el contractualismo.
 
 II.
 El dispositivo central de la filosof ía política de Rawls —la posición original
@@ -2605,18 +2608,20 @@ detrás del Velo puedan elegir principios, Rawls tiene que darles algún
 criterio de evaluación. Ese criterio son los «bienes primarios»: libertades,
 oportunidades, renta, riqueza, bases sociales del autorrespeto. Rawls presenta
 esta lista como los bienes que cualquier persona racional quiere, sea cual sea
-su concepción del bien. Pero esa lista no es neutral: encarna una concepción
-específica del bien humano —la concepción del individuo liberal que valora
-las libertades formales y los recursos materiales. El agente que valora
-primariamente la cohesión comunitaria sobre la libertad individual, o el
-desarrollo espiritual sobre la riqueza material, o el honor familiar sobre el
-avance personal, no encuentra su concepción del bien en la lista de bienes
-primarios de Rawls. Ese agente no puede evaluar correctamente los
-principios de justicia desde detrás del Velo porque el marco de evaluación
-disponible ya no es el suyo. El Velo no eliminó la concepción del bien del
-agente; sustituyó su concepción del bien por la de Rawls, que no es visible
-como concepción particular porque se presenta como la lista neutral de lo
-que cualquier persona racional quiere.
+2
+
+su concepción del bien. Pero esa lista no es neutral: encarna una
+concepción específica del bien humano —la concepción del individuo
+liberal que valora las libertades formales y los recursos materiales. El agente
+que valora primariamente la cohesión comunitaria sobre la libertad
+individual, o el desarrollo espiritual sobre la riqueza material, o el honor
+familiar sobre el avance personal, no encuentra su concepción del bien en la
+lista de bienes primarios de Rawls. Ese agente no puede evaluar
+correctamente los principios de justicia desde detrás del Velo porque el
+marco de evaluación disponible ya no es el suyo. El Velo no eliminó la
+concepción del bien del agente; sustituyó su concepción del bien por la de
+Rawls, que no es visible como concepción particular porque se presenta
+como la lista neutral de lo que cualquier persona racional quiere.
 Tercera forma: la asimetría temporal del maximin. Rawls argumenta que
 los agentes detrás del Velo elegirían la estrategia del máximo del mínimo —
 maximin—: maximizar el bienestar del peor caso posible, porque no saben
@@ -2671,7 +2676,7 @@ exactamente lo que el límite de la predicación de Nikómachos predicó:
 ninguna operación, por sofisticada que sea, puede producir una predicación
 sin posición.
 
-2
+3
 
 ***
 
@@ -2746,7 +2751,7 @@ comunidades, tradiciones o formas de vida. Esa limitación no está visible
 desde detrás del Velo porque el Velo fue construido sobre el supuesto de que
 el individuo es la unidad relevante.
 La dimensión temporal: El Velo elimina el conocimiento de la generación a
-la que perteneces, pero no el horizonte temporal desde el que evaluas
+la que perteneces, pero no el horizonte temporal desde el que evalúas
 opciones. El agente rawlsiano detrás del Velo evalúa opciones con el
 horizonte temporal del que puede pensar en términos de instituciones
 duraderas. El ego en emergencia crónica —el que vive en presión económica
@@ -2775,20 +2780,20 @@ cuidadoso en tratar de evitarla.
 El método del equilibrio reflexivo intenta exactamente evitar la derivación
 directa del deber del ser: en lugar de derivar los principios de justicia de
 premisas puramente racionales, Rawls ajusta iterativamente los principios
-hasta que coherén con los juicios morales considerados del agente. Ese
+hasta que concuerden con los juicios morales considerados del agente. Ese
 método es más cercano a la honestidad epistemológica que el método de
 Kant. Pero produce su propio cruce de la guillotina: del hecho de que estos
-principios coheren con los juicios morales considerados de este grupo de
+principios concuerden con los juicios morales considerados de este grupo de
 agentes —un IS— al deber de implementarlos como los principios de una
 sociedad justa —un OUGHT.
 El puente que Rawls usa para esa travesía es la posición original: si cualquier
-persona racional elegiria esos principios detrás del Velo, entonces esos
+persona racional elegiría esos principios detrás del Velo, entonces esos
 principios tienen validez que trasciende la posición particular del agente que
 los formula. Pero como la auditoría del primer movimiento estableció, la
 posición original no produce un agente racional en general: produce el
 agente racional rawlsiano. Y el deber de implementar los principios que ese
 agente específico elegiría no puede derivarse del hecho de que ese agente
-específico los elegiria sin asumir que ese agente es representativo de todos los
+específico los elegiría sin asumir que ese agente es representativo de todos los
 agentes racionales posibles. Esa suposición es exactamente la travesía de la
 guillotina.
 Hay además una segunda travesía más profunda y menos visible: del hecho
@@ -2856,7 +2861,7 @@ mutuamente.
 ***
 
 Notas
-1 Rawls, John. A Theory of Justice, 1971, §24-25. La descripción completa de
+1 Rawls, John. A Theory of Justice, 1971, §§ 24–25. La descripción completa de
 la posición original y el Velo de Ignorancia. Rawls especifica que los agentes
 en la posición original sí tienen conocimiento de hechos generales sobre la
 economía, la psicología y los fundamentos de la organización social: solo se
@@ -2869,31 +2874,8 @@ motivación, sobre las bases de la organización social, sobre los principios de
 la economía: ese conocimiento no es igualmente accesible desde todas las
 posiciones, y el Velo no elimina la desigualdad en el acceso a ese
 conocimiento. Texto consultado: A Theory of Justice, §§24–25.
-2 La crítica de que el Velo de Ignorancia produce una posición específica
-disfrazada de neutralidad fue formulada por diversos filósofos desde ángulos
-distintos. Michael Sandel en Liberalism and the Limits of Justice, 1982,
-argumentó que el Velo presupone una concepción del yo como separado de
-sus compromisos y comunidades que es una concepción específica, no
-universal. Charles Taylor en Sources of the Self, 1989, argumentó que los
-bienes primarios de Rawls presuponen una concepción liberal del bien
-humano. Lo que la auditoría de Eris añade a esas críticas es la descripción del
-mecanismo ontológico: no que el Velo presupone una concepción específica
-del yo o del bien —aunque eso es correcto— sino que el Velo produce una
-posición fenoménica que se autodesigna como el acceso al noúmeno
-político, y que esa autodesignación es exactamente lo que el límite de la
-predicación prohíbe.
-3 La revisión de Rawls en Political Liberalism, 1993, reconoce
+2 La revisión de Rawls en Political Liberalism, 1993, reconoce
 implícitamente algunas de las limitaciones que la auditoría identifica: Rawls
-
-Centro Multidisciplinario Meriadock Formación y Asesoría
-A.C.
-
-58
-
-EL CONTRATO FISCAL
-
-ERIS
-
 restringe la ambición de A Theory of Justice y presenta la justicia como
 equidad no como una teoría moral comprehensiva sino como una
 «concepción política de la justicia» que puede ser objeto de un «consenso
@@ -2910,7 +2892,28 @@ restricción, entre quienes caben en el marco y quienes quedan fuera de él.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-3
+58
+
+EL CONTRATO FISCAL
+
+ERIS
+
+3 La crítica de que el Velo de Ignorancia produce una posición específica
+disfrazada de neutralidad fue formulada por diversos filósofos desde ángulos
+distintos. Michael Sandel en Liberalism and the Limits of Justice, 1982,
+argumentó que el Velo presupone una concepción del yo como separado de
+sus compromisos y comunidades que es una concepción específica, no
+universal. Charles Taylor en Sources of the Self, 1989, argumentó que los
+bienes primarios de Rawls presuponen una concepción liberal del bien
+humano. Lo que la auditoría de Eris añade a esas críticas es la descripción del
+mecanismo ontológico: no que el Velo presupone una concepción específica
+del yo o del bien —aunque eso es correcto— sino que el Velo produce una
+posición fenoménica que se autodesigna como el acceso al noúmeno
+político, y que esa autodesignación es exactamente lo que el límite de la
+predicación prohíbe.
+
+Centro Multidisciplinario Meriadock Formación y Asesoría
+A.C.
 
 59
 
@@ -2963,7 +2966,7 @@ ERIS
 Este capítulo examina lo que ocurre cuando el contractualismo abandona el
 papel y se convierte en el marco operativo de los sistemas políticos reales. La
 democracia representativa es la institución que más directamente intentó
-realizar las promesas del contractualismo: el soberanato popular, el gobierno
+realizar las promesas del contractualismo: la soberanía popular, el gobierno
 por consentimiento, el mecanismo de corrección de los incumplimientos
 del contrato. Y lo que la práctica agrega a la teoría no es simplemente la
 corrupción contingente de los actores —que también existe— sino una falla
@@ -2988,10 +2991,10 @@ porque la democracia representativa es, de entre los sistemas políticos que la
 historia ha producido a escala, el que más lejos llegó en la realización del
 contrato fiscal.
 La democracia representativa produjo lo que ninguno de sus predecesores
-historioó de manera consistente: la transferencia pacífica del poder como
-mecanismo ordinario. El gobernante que pierde una elección cede el poder
-sin que sea necesaria la revolución, la guerra civil o el golpe de Estado. Eso
-no es trivial: es la institucionalización del ajuste debitor que Kratos describió
+institucionalizó de manera consistente: la transferencia pacífica del poder
+como mecanismo ordinario. El gobernante que pierde una elección cede el
+poder sin que sea necesaria la revolución, la guerra civil o el golpe de Estado.
+Eso no es trivial: es la institucionalización del ajuste debitor que Kratos
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -3002,9 +3005,9 @@ A.C.
 
 ERIS
 
-como la renegociación sin disolución. El soberano puede cambiar las
-condiciones del contrato —quitar a quien gestiona el Estado y poner a otro
-— sin destruir el marco que hace posible esa negociación.
+describió como la renegociación sin disolución. El soberano puede cambiar
+las condiciones del contrato —quitar a quien gestiona el Estado y poner a
+otro— sin destruir el marco que hace posible esa negociación.
 La democracia representativa produjo también los mecanismos más
 efectivos que la historia ha generado para hacer visible el fraude annona: la
 libertad de prensa, la sociedad civil organizada, la oposición política
@@ -3050,13 +3053,13 @@ De Locke: el voto existe como derecho formal pero la capacidad de
 participar políticamente con influencia real requiere tiempo, educación,
 recursos y acceso a la información que no están igualmente distribuidos. El
 soberano que vota una vez cada cuatro años con la información que el
-ecosistema mediatico le proveyó no ejerce la misma influencia política que
+ecosistema mediático le proveyó no ejerce la misma influencia política que
 el soberano que tiene los recursos para contratar abogados, cabilderos y
 consultores de comunicación que operen todos los días del ciclo. El derecho
 al voto es formal y real; el poder político que ese voto produce es
 profundamente desigual.
 De Rousseau: el partido o la coalición que gana la elección invoca la
-voluntad del pueblo con la misma estructura lógica que Rousseau ateorizo
+voluntad del pueblo con la misma estructura lógica que Rousseau teorizó
 para la voluntad general: somos el resultado de la voluntad del soberano; los
 que se oponen a nosotros se oponen al soberano que nos eligió. Esa
 invocación no requiere que el partido ganador represente más que una
@@ -3370,7 +3373,7 @@ no puede concluir que los problemas de la democracia representativa son
 irresolubles: son problemas de diseño que tienen en el gradiente de la
 exigencia de Kratos y en el cambio de idiosincrasia del soberano los
 instrumentos más accesibles para su corrección.
-Con este capítulo, la Parte I ha completado el audit del contractualismo:
+Con este capítulo, la Parte I ha completado la auditoría del contractualismo:
 desde la teoría de sus cinco arquitectos hasta la práctica de la institución que
 intentó realizarlos. El argumento que emerge no es que el contractualismo
 falló —falló y avanzó, como cualquier proyecto intelectual de ese alcance—
@@ -3512,7 +3515,7 @@ ERIS
 sistemática de derechos civiles y políticos en el contexto nacional. La
 igualdad formal ante la ley, la libertad de expresión, la libertad de culto, la
 garantía del debido proceso: esos derechos no existían como categorías
-jurídicass antes de la reforma liberal, y su establecimiento formal fue una
+jurídicas antes de la reforma liberal, y su establecimiento formal fue una
 condición necesaria aunque insuficiente para el desarrollo posterior del
 estado de derecho.
 La modernización económica que el Porfiriato produjo fue real:
@@ -3535,7 +3538,7 @@ Estado la exclusividad del uso legítimo de la violencia, la obediencia a la
 legalidad civil, el pago de impuestos y el servicio militar cuando se les
 requiró. Las comunidades indígenas cedieron adicionalmente su forma de
 propiedad colectiva, que la ley liberal declaró incompatible con el régimen
-de propiedad individual que el contrato liberal requeria.
+de propiedad individual que el contrato liberal requería.
 El abono prometido era doble: formal y material. El abono formal era la
 igualdad ante la ley —el fin de los fueros y los privilegios estamentales
 heredados de la Colonia, el reconocimiento de los mismos derechos civiles
@@ -3624,7 +3627,7 @@ narrativa porfiriana convierte el fraude annona en una descripción del
 estado natural del mundo: hay los que están listos para el progreso y los que
 no lo están, y el Estado tiene la obligación de proteger el progreso.
 
-3
+2
 
 Cuarta forma: la asimetría temporal de treinta y cinco años. El Porfiriato
 duró treinta y cinco años porque el fraude annona que producía fue
@@ -3660,7 +3663,7 @@ materiales específicas del contexto.
 La omisión garantizadora lockeana —el Estado que reconoce derechos sin
 garantizar las condiciones para su ejercicio— opera en el contexto
 latinoamericano sobre poblaciones que en su mayoría no tenían las
-condiciones materiales que el ejercicio de los derechos reconocidos requeria.
+condiciones materiales que el ejercicio de los derechos reconocidos requería.
 La igualdad formal ante la ley que Locke imaginó como el abono del
 contrato presupone una población de propietarios medios que puedan
 acceder al sistema jurídico para defender sus derechos. Aplicada sobre una
@@ -3668,7 +3671,7 @@ población cuya tierra ha sido desamortizada y que no puede costear la
 representación legal, esa igualdad formal produce el resultado consistente
 que la auditoría describe: el abono nominal sin las condiciones para el
 abono real.
-La diferencia entre el contexto europeo donde Locke teoirizó y el contexto
+La diferencia entre el contexto europeo donde Locke teorizó y el contexto
 latinoamericano donde se aplicó también amplifica el fraude annona.
 Locke imaginó un contexto donde había tierra no reclamada que los
 trabajadores podían apropiarse (la cláusula de suficiencia de su teoría de la
@@ -3700,18 +3703,18 @@ característica específica en el contexto latinoamericano: es la posición del
 criollo o del mestizo educado que usa el liberalismo europeo para construir
 los estados nacionales poscoloniales, frecuentemente con el objetivo sincero
 de superar la injusticia del régimen colonial.
-El caso de Benigno Juárez es el más ilustrativo de la posición predicante
-clásica del liberalismo latinoamericano y de su punto ciego específico. Juárez
-era de origen zapoteca, había nacido en la pobreza y había accedido a la
-educación y la profesión jurídica a través de un proceso que era precisamente
-el que el liberalismo prometía: el talento individual más la oportunidad de
+El caso de Benito Juárez es el más ilustrativo de la posición predicante clásica
+del liberalismo latinoamericano y de su punto ciego específico. Juárez era de
+origen zapoteca, había nacido en la pobreza y había accedido a la educación
+y la profesión jurídica a través de un proceso que era precisamente el que el
+liberalismo prometía: el talento individual más la oportunidad de
 educación. Desde esa posición, el liberalismo era la gramática de su propia
 movilidad: la ideología que había hecho posible que un zapoteca pobre
 llegara a ser el presidente de la república. Que esa misma ideología produjera
 la disolución de las tierras comunales de las comunidades zapotecas era
 invisible desde esa posición predicante.
 
-2
+3
 
 El punto ciego de la posición predicante de Juárez era exactamente el punto
 ciego de Locke: la propiedad comunal como forma legítima de propiedad
@@ -3744,7 +3747,7 @@ modernización: el Estado que sabe mejor que el soberano lo que el soberano
 necesita para prosperar, y que por lo tanto puede justificar la supresión
 temporal de los mecanismos de exigencia del contrato —la prensa libre, la
 oposición política, el voto efectivo— porque esos mecanismos ralentizarían
-el progreso que eventualmente benificiaría a todos. Esa posición produce el
+el progreso que eventualmente beneficiaría a todos. Esa posición produce el
 punto ciego más característico del Porfiriato: el futuro que el progreso
 promete invisibiliza el presente en que el cargo se paga. El soberano que
 paga el cargo hoy está financiando el abono que llegará mañana. El mañana
@@ -3865,17 +3868,7 @@ concentración de la propiedad que el Porfiriato llevó a su expresión máxima.
 Bibliograf ía sobre la desamortización: Neri Guarneros, “Sociedades
 agrícolas y propiedad de la tierra...” y Marino, “La abolición de las
 comunidades indígenas...”.
-2 La paradoja de Juárez —el indio zapoteca que aplicó la ley que
-desamortizó las tierras indígenas— ha sido objeto de un debate histórico
-sostenido. Historiadores como Enrique Krauze (Siglo de caudillos, 1994) han
-argumentado que Juárez era plenamente consciente de los riesgos de la
-desamortización para las comunidades indígenas pero la consideró necesaria
-para modernizar el país. La auditoría de Eris no evalúa esa intención;
-describe la estructura del fraude annona que el marco liberal producía
-independientemente de la intención de quien lo aplicaba. La posición
-predicante del intelectual liberal que ascendió individualmente no era
-maliciosa; era ciego a lo que el instrumento no podía ver.
-3 El lema positivista de Augusto Comte —Orden y Progreso— que el
+2 El lema positivista de Augusto Comte —Orden y Progreso— que el
 Porfiriato adoptó captura con precisión la posición predicante del
 liberalismo tecnocrático del siglo XIX. El positivismo como filosof ía
 política —que el conocimiento científico del desarrollo social debe guiar la
@@ -3885,6 +3878,14 @@ posición predicante del Porfiriato encarna: el Estado que sabe lo que el
 pueblo necesita mejor que el pueblo, y que por lo tanto puede justificar la
 supresión de los mecanismos de exigencia del contrato en nombre del
 progreso que eventualmente cumplirá el abono que hoy suspende.
+3 La paradoja de Juárez —el dirigente liberal de origen zapoteca que aplicó
+leyes de desamortización— ha sido objeto de debate histórico. Enrique
+Krauze aborda la relación entre Juárez, el liberalismo y las comunidades
+indígenas en Siglo de caudillos. Biografía política de México (1810–1910)
+(Tusquets, 1994) y en “Profesión juarista”. La caracterización de la decisión
+juarista como una prioridad de la modernización pese a sus efectos sobre la
+propiedad comunal es la lectura que propone Eris; no se presenta como cita
+literal ni como formulación atribuida a Krauze.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4086,14 +4087,14 @@ por el Estado como la corrección, pero no la integra como obligación
 estructural del sistema: la propone como recomendación de política pública
 que el Estado podría o no adoptar.
 
-3
+2
 
 Tercera forma: la tendencia monopolista como corrupción permanente del
 mercado. Smith es notablemente preciso sobre la tendencia de los
 capitalistas a corromper el mercado que produce su riqueza: las personas que
 trabajan en el mismo sector de la economía rara vez se reúnen, incluso para
 fiestas o diversión, sin que la conversación termine en una conspiración
-contra el pública, o en alguna maniobra para elevar los precios. Esa
+contra el público, o en alguna maniobra para elevar los precios. Esa
 descripción no es una crítica del capitalismo que viene de afuera del sistema
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -4154,7 +4155,7 @@ negociarlo desde una posición de poder comparable.
 Pero Smith también avanza sobre Locke en un sentido que el capítulo
 anterior no pudo articular: identifica el mecanismo concreto por el que el
 cargo del contrato liberal —la participación en el mercado bajo las
-condiciones del mercado— tiende a producir asimetrias de poder que el
+condiciones del mercado— tiende a producir asimetrías de poder que el
 mercado mismo no corrige. La asimetría de poder entre empleadores y
 trabajadores que Smith describe no es el resultado de las malas intenciones
 de nadie; es la consecuencia estructural de la diferencia en las condiciones
@@ -4173,7 +4174,7 @@ le dio acceso a algo que ningún teórico anterior había podido observar: la
 economía capitalista en sus primeras fases de desarrollo.
 Desde esa posición, Smith podía ver con claridad la diferencia entre el
 sistema mercantilista existente —con sus monopolios, sus aranceles, sus
-concesiones exclusivas— y el sistema de libre mercado que propugó como
+concesiones exclusivas— y el sistema de libre mercado que propugnó como
 alternativa. Esa comparación fue la fuente de la mayor parte de sus
 argumentos: el libre mercado funciona mejor que el mercantilismo porque
 el mercantilismo beneficia a los mercaderes a costa de los consumidores y los
@@ -4206,12 +4207,12 @@ producido— sino estructural: la distancia entre el mercado perfectamente
 competitivo que su teoría requiere para funcionar y los mercados reales que
 los capitalistas producen sistemáticamente.
 Smith vio esa distancia con claridad: los capitalistas conspiran contra el
-pública, los empleadores se benefician de la asimetría de poder con los
+público, los empleadores se benefician de la asimetría de poder con los
 trabajadores, los comerciantes usan su influencia política para obtener
 concesiones que los protegen de la competencia. Pero no trató esa tendencia
 como una falla del sistema smithiano sino como una perversión del sistema
 que los buenos arreglos institucionales podrían corregir. El mercado
-competitivo era la norma y el monopolio era la desviacón; la política
+competitivo era la norma y el monopolio era la desviación; la política
 pública debía mantener la competencia para que el mercado funcionara.
 Lo que la posición predicante de Smith no podía ver es que la tendencia
 monopolista no es la desviación del capitalismo sino una de sus tendencias
@@ -4225,7 +4226,7 @@ Smith tenía la coherencia de reconocer como necesarias.
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
-2
+3
 
 91
 
@@ -4252,7 +4253,7 @@ Esa lectura selectiva es el mecanismo que convierte el argumento de Smith
 —que es complejo, matizado y no exento de tensiones internas— en el
 eslogan de la desregulación total que el neoliberalismo tardío empleó para
 justificar políticas que el propio Smith habría reconocido como
-favorecedoras de los intereses de los monopolios sobre el interés pública. El
+favorecedoras de los intereses de los monopolios sobre el interés público. El
 capítulo siguiente examina esa lectura selectiva y sus consecuencias.
 
 VIII.
@@ -4260,7 +4261,7 @@ La guillotina de Hume en Smith adopta la forma más clásica del
 pensamiento económico: del IS de que los mercados competitivos tienden a
 producir resultados eficientes al OUGHT de que los mercados deben ser
 dejados operar sin interferencia del Estado.
-El puente que Smith usa —implicítamente— para esa travesía es la
+El puente que Smith usa —implícitamente— para esa travesía es la
 comparación con el mercantilismo de su tiempo: si los mercados no
 regulados producen resultados mejores que los mercados regulados por el
 mercantilismo, entonces los mercados deben ser más libres. Pero esa
@@ -4290,22 +4291,22 @@ estructural: el sistema promete que la acumulación de capital elevará los
 salarios, pero no garantiza las condiciones para que esa tendencia opere sin
 ser cancelada por la asimetría de poder entre empleadores y trabajadores que
 el propio sistema produce. Puede concluir que la tendencia monopolista es
-constitutiva del capitalismo —no su desviacón— y que el propio Smith la
+constitutiva del capitalismo —no su desviación— y que el propio Smith la
 observó sin incorporar un mecanismo estructural para corregirla. Puede
 concluir que la lectura selectiva que el neoliberalismo produjo de Smith
 retiene los elementos que apoyan la desregulación y descarta los que la
 limitan, produciendo un argumento que Smith habría reconocido como
 favorable a los intereses de los mercaderes y fabricantes que él
-sistematicamente desconfiaba.
+sistemáticamente desconfiaba.
 No puede concluir que el capitalismo smithiano no avanzó sobre el sistema
 mercantilista que reemplazó: el argumento de Smith contra el
 mercantilismo era correcto, y los mercados competitivos producen en
 muchas condiciones resultados mejores que el mercantilismo. No puede
 concluir que el propio Smith fue insincero o que sus motivaciones eran
 proteger los intereses de los capitalistas —la Riqueza de las Naciones
-contiene las críticas más acidas a esos intereses que un texto fundacional del
+contiene las críticas más ácidas a esos intereses que un texto fundacional del
 pensamiento económico haya producido. Y no puede concluir que el sistema
-smithiano, aplicado con todos sus matices —incluida la educación pública,
+smithiano, aplicado con todos sus matices— incluida la educación pública,
 la desconfianza de los monopolios, el reconocimiento de la asimetría de
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -4323,7 +4324,7 @@ produjo bajo la invocación selectiva de su nombre.
 
 Notas
 1 La descripción de Smith de la conspiración de los comerciantes contra el
-pública aparece en la Riqueza de las Naciones, Libro I, Capítulo 10: «People
+público aparece en la Riqueza de las Naciones, Libro I, Capítulo 10: «People
 of the same trade seldom meet together, even for merriment and diversion,
 but the conversation ends in a conspiracy against the publick, or in some
 contrivance to raise prices.» Esa frase es una de las más citadas fuera de
@@ -4333,23 +4334,23 @@ realidad es exactamente lo contrario —es el reconocimiento del propio
 fundador del sistema de que el sistema tiene una tendencia constitutiva a la
 corrupción monopolista que requiere vigilancia pública permanente. Texto
 consultado: The Wealth of Nations.
-2 El argumento de que la tendencia monopolista es constitutiva del
-capitalismo y no su desviación fue desarrollado formalmente por Thorstein
-Veblen a finales del siglo XIX y por John Maynard Keynes en el siglo XX. La
-formulación más precisa en términos modernos está en Schumpeter, Joseph
-A. Capitalism, Socialism and Democracy, 1942: el capitalismo es un proceso
-de «destrucción creativa» en que la competencia produce innovación, pero
-la innovación produce posiciones de monopolio temporal, y las posiciones
-de monopolio temporal tienden a consolidarse cuando los ganadores tienen
-los recursos para comprar el sistema político que los protege. Smith vio el
-primer paso de esa secuencia; Schumpeter describió el ciclo completo.
-3 La discusión de Smith sobre los efectos de la división del trabajo en las
+2 La discusión de Smith sobre los efectos de la división del trabajo en las
 capacidades del trabajador aparece en la Riqueza de las Naciones, Libro V,
 Capítulo 1, Parte III, Artículo II. La propuesta de educación pública
 financiada por el Estado aparece en el mismo capítulo. Es notable que la
 propuesta educativa de Smith —que el Estado financie la educación
 elemental de los trabajadores como corrección del daño que la división del
 trabajo produce sobre sus capacidades— sea uno de los elementos del
+argumento smithiano que la lectura neoliberal más sistemáticamente
+ignora. Smith fundamenta la educación pública desde los mismos
+argumentos que usa para defender el libre mercado. Texto consultado: The
+Wealth of Nations, libro V, capítulo I.
+3 Thorstein Veblen analiza la empresa y la propiedad ausente en The Theory
+of Business Enterprise (1904); Joseph A. Schumpeter desarrolla la noción de
+«destrucción creativa» en Capitalism, Socialism and Democracy (1942). La
+idea de que las posiciones económicas pueden traducirse en influencia
+regulatoria se desarrolla, entre otros trabajos, en George J. Stigler, “The
+Theory of Economic Regulation”, The Bell Journal of Economics and
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4360,10 +4361,10 @@ A.C.
 
 ERIS
 
-argumento smithiano que la lectura neoliberal más sistemáticamente
-ignora. Smith fundamenta la educación pública desde los mismos
-argumentos que usa para defender el libre mercado. Texto consultado: The
-Wealth of Nations, libro V, capítulo I.
+Management Science 2, n.º 1 (1971), pp. 3–21, doi:10.2307/3003160. La secuencia
+que conecta estos aportes con el argumento de este capítulo es la síntesis
+propuesta por Eris; no se atribuye como formulación literal a un solo autor.
+Texto consultado: The Wealth of Nations, libro V, capítulo I.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4470,13 +4471,13 @@ sobre el consumo tienden a mantenerse o aumentar; las regulaciones que
 protegían a los trabajadores son eliminadas; y los programas de asistencia se
 recortan junto con los impuestos que los financiaban. El cargo del soberano
 que no tenía activos de capital no se redujo necesariamente; el cargo del que
-sí los tenía se redujo signíficativamente.
+sí los tenía se redujo significativamente.
 El abono prometido ya no es el retorno directo del Estado sino el retorno
 del mercado: el crecimiento económico que la desregulación y la
 privatización producirían «gotearía» (trickle down) hacia todos los
 miembros del soberano. La salud, la educación, las pensiones, el agua: esos
 abonos serían entregados por el mercado con mayor eficiencia que el Estado.
-La obligación del Estado de entregar el abono fue explicitamente
+La obligación del Estado de entregar el abono fue explícitamente
 transferida al mercado.
 El pasivo transferido es la innovación estructural más importante del
 neoliberalismo en términos del contrato fiscal. En todos los sistemas
@@ -4514,7 +4515,7 @@ y sin un deudor identificable a quien exigir el abono.
 Segunda forma: el goteo como asimetría temporal de la promesa. La teoría
 del goteo —que los beneficios del crecimiento económico producido por la
 desregulación y las reducciones de impuestos a los ricos eventualmente
-llegaráan a todos— es la asimetría temporal más ambiciosa que el
+llegarían a todos— es la asimetría temporal más ambiciosa que el
 liberalismo ha producido como justificación del cargo sin abono inmediato.
 El soberano paga el cargo ahora —acepta la privatización de los servicios, la
 reducción de los programas de asistencia, el debilitamiento de los
@@ -4546,10 +4547,10 @@ soberano que internalizara TINA no podría imaginar alternativas al
 neoliberalismo como alternativas válidas: su segunda mediación operaría
 desde un marco que las descarta antes de evaluarlas. La disforia de identidad
 colectiva que el capítulo 6 de Kratos describió como el resultado del
-monopolio narrativo sostenido és exactamente lo que TINA pretende
+monopolio narrativo sostenido es exactamente lo que TINA pretende
 producir.
 
-3
+1
 
 Cuarta forma: el Consenso de Washington como defraudación voluntaria
 inducida por la emergencia. Las políticas del Consenso de Washington —las
@@ -4641,7 +4642,7 @@ planificación centralizada autoritaria. Tiene el punto ciego simultáneo de
 no poder ver el Estado de bienestar democrático como algo diferente del
 totalitarismo en sus etapas iniciales.
 
-1
+2
 
 Milton Friedman predicó desde la posición del economista de Chicago que
 construyó su argumento sobre modelos matemáticos de mercados que
@@ -4669,7 +4670,7 @@ A.C.
 ERIS
 
 Smith identificaba como el riesgo de ciertas formas de asistencia: la crítica
-tiene una genealogía intellectualmente respetable. El punto ciego es la
+tiene una genealogía intelectualmente respetable. El punto ciego es la
 experiencia del soberano para quien el Estado de bienestar no es una muleta
 de la dependencia sino la única condición disponible para que el contrato
 fiscal produzca algún abono.
@@ -4679,13 +4680,13 @@ La posición predicante del Consenso de Washington es la más importante
 para el público al que este libro está más cercano: la economía
 latinoamericana. El economista del FMI o del Banco Mundial que diseñó los
 programas de ajuste estructural predicó desde la posición del experto en
-Washing que miraba las economías en desarrollo con el instrumento de las
-estadísticas macroeconómicas y el marco teórico neoclásico.
+Washington que miraba las economías en desarrollo con el instrumento de
+las estadísticas macroeconómicas y el marco teórico neoclásico.
 Desde esa posición, las políticas de ajuste estructural eran racionalmente
-justificables: los países en desarrollo tenían deficit fiscales insostenibles,
+justificables: los países en desarrollo tenían déficit fiscales insostenibles,
 inflación crónica, mercados distorsionados por la intervención estatal y
-empresas públicas ineficientes. El ajuste estructural que reducía el deficit,
-privatizaba las empresas, desregulaba los mercados y abreca la economía al
+empresas públicas ineficientes. El ajuste estructural que reducía el déficit,
+privatizaba las empresas, desregulaba los mercados y abría la economía al
 comercio internacional producía resultados medibles en los indicadores
 macroeconómicos que la posición predicante del experto de Washington
 usaba como criterio.
@@ -4700,7 +4701,7 @@ instrumento de medición de la posición predicante del Consenso de
 Washington era el instrumento que hacía invisible exactamente el fraude
 annona que producía.
 
-2
+3
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4777,15 +4778,15 @@ suficientemente distinta para merecer su propio examen.
 ***
 
 Notas
-1 Hayek, Friedrich. The Road to Serfdom, 1944. El argumento central:
-cualquier planificación económica centralizada requiere coerción para ser
-implementada y produce inevitablemente la expansión del poder estatal
-hacia el totalitarismo. La posición predicante de Hayek fue formada por la
-observación del nazismo y el estalinismo; eso le da acceso preciso a los
-peligros de la planificación autoritaria y produce el punto ciego de no poder
-ver el Estado de bienestar demócratico como un sistema cualitativamente
-diferente. La auditoría no niega que el argumento de Hayek sobre el
-totalitarismo sea correcto; señala que predicar desde esa posición específica
+1 La frase «There Is No Alternative» fue usada por Thatcher repetidamente
+desde finales de los años setenta. La lectura que Kratos hace de TINA como
+instrumento de producción de disforia tiene una precisión que otros análisis
+del thatcherismo no tienen: no describe TINA como propaganda sino como
+la formulación explícita del monopolio narrativo como mecanismo de
+captura de la eutaxia utópica del soberano. TINA no sólo dice que el
+neoliberalismo es la mejor opción; dice que la búsqueda de alternativas es en
+sí misma un ejercicio irracional. Eso es la captura de la eutaxia utópica:
+orientar la tendencia constitutiva del ego hacia condiciones mejores hacia la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -4795,10 +4796,21 @@ A.C.
 
 ERIS
 
+aceptación de las condiciones que el capturador prefiere, presentada como la
+única racionalidad posible.
+2 Hayek, Friedrich. The Road to Serfdom, 1944. El argumento central:
+cualquier planificación económica centralizada requiere coerción para ser
+implementada y produce inevitablemente la expansión del poder estatal
+hacia el totalitarismo. La posición predicante de Hayek fue formada por la
+observación del nazismo y el estalinismo; eso le da acceso preciso a los
+peligros de la planificación autoritaria y produce el punto ciego de no poder
+ver el Estado de bienestar democrático como un sistema cualitativamente
+diferente. La auditoría no niega que el argumento de Hayek sobre el
+totalitarismo sea correcto; señala que predicar desde esa posición específica
 produce invisibilidades sobre las formas de intervención estatal que no
 tienen la estructura del totalitarismo. Referencia editorial: The Road to
 Serfdom.
-2 La crítica al Consenso de Washington desde adentro de la economía del
+3 La crítica al Consenso de Washington desde adentro de la economía del
 desarrollo está bien documentada. Stiglitz, Joseph E. Globalization and Its
 Discontents, 2002 —Stiglitz fue economista jefe del Banco Mundial—
 describe el mecanismo que la auditoría identifica como el punto ciego del
@@ -4809,17 +4821,6 @@ fiscal del soberano no aparece en esos indicadores. La evidencia acumulada
 sobre los resultados de los programas de ajuste estructural en América Latina
 está revisada en Rodrik, Dani. The Globalization Paradox, 2011. Referencia
 editorial: Globalization and Its Discontents.
-3 La frase «There Is No Alternative» fue usada por Thatcher repetidamente
-desde finales de los años setenta. La lectura que Kratos hace de TINA como
-instrumento de producción de disforia tiene una precisión que otros análisis
-del thatcherismo no tienen: no describe TINA como propaganda sino como
-la formulación explícita del monopolio narrativo como mecanismo de
-captura de la eutaxia utópica del soberano. TINA no sólo dice que el
-neoliberalismo es la mejor opción; dice que la búsqueda de alternativas es en
-sí misma un ejercicio irracional. Eso es la captura de la eutaxia utópica:
-orientar la tendencia constitutiva del ego hacia condiciones mejores hacia la
-aceptación de las condiciones que el capturador prefiere, presentada como la
-única racionalidad posible.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4894,7 +4895,7 @@ La incoherencia que el libertarismo resuelve es la incoherencia que el
 liberalismo clásico nunca pudo resolver: si los derechos individuales son
 anteriores al Estado, ¿cómo puede el Estado imponer obligaciones positivas
 sobre los individuos para financiar los servicios que otros necesitan? El
-libertarismo responde con consistência: no puede. La redistribución forzada
+libertarismo responde con consistencia: no puede. La redistribución forzada
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4925,14 +4926,14 @@ predecesores había producido de manera consistente.
 El cargo en el libertarismo puro —el anarcocapitalismo de Rothbard— es
 cero: no hay impuestos, no hay Estado, no hay obligaciones colectivas. En el
 libertarismo de Estado mínimo de Nozick, el cargo es minimal: los
-individuos pagan solo por la protección que el Estado «match» (el Estado
-minimal) ofrece contra la violencia y el fraude. Lo que el cargo paga se
-limita estrictamente a la protección de los derechos negativos —el derecho
-a no ser coercionado— y no incluye ningún derecho positivo.
+individuos pagan solo por la protección contra la violencia y el fraude que
+ofrece el Estado mínimo. Lo que el cargo paga se limita estrictamente a la
+protección de los derechos negativos —el derecho a no ser coercionado— y
+no incluye ningún derecho positivo.
 El abono es la protección de los derechos negativos: el Estado no lo matará,
 no le robará, hará cumplir los contratos que libremente celebró. No hay
 abono positivo: no hay salud garantizada, no hay educación garantizada, no
-hay agua garantizada, no hay pensón garantizada. El libertarismo elimina
+hay agua garantizada, no hay pensión garantizada. El libertarismo elimina
 esos abonos explícitamente: no son obligaciones del Estado, son servicios
 que el individuo debe conseguir en el mercado si puede y quiere. La
 eliminación de la categoría de abono positivo es lo que distingue al
@@ -4958,7 +4959,7 @@ soberano de que la deuda que el contrato fiscal establece no existe.
 III.
 Las cuatro formas en que el libertarismo produce fraude annona de manera
 estructural:
-Primera forma: la negación activa del abono como categoria del contrato
+Primera forma: la negación activa del abono como categoría del contrato
 fiscal. La conclusión más importante del libertarismo para el análisis del
 contrato fiscal es que el sistema niega activamente que el contrato fiscal
 contiene un abono positivo. Esa negación no es la omisión lockeana —que
@@ -5086,7 +5087,7 @@ rechaza ese acuerdo hipotético como fundamento de la obligación política:
 los acuerdos hipotéticos no crean obligaciones reales. Si yo no habría
 aceptado venderle a ti mi casa, el hecho de que yo habría aceptado hacerlo si
 hubiera estado en una posición diferente no te da derecho a quedarte con mi
-casa. El argumento es préciso.
+casa. El argumento es preciso.
 El punto ciego de la posición predicante de Nozick es el que el capítulo sobre
 Smith ya mencionó como el punto ciego de la familia liberal: la coerción
 del mercado. Nozick puede ver con gran claridad la coerción del Estado —el
@@ -5127,6 +5128,8 @@ Kratos describió como el primer mecanismo de la defraudación voluntaria
 opera aquí con precisión. El soberano argentino que eligió a Milei no votó
 irracionalmente: votó coherentemente desde el eje del acreedor que ha sido
 defraudado y que calcula que el sistema que defrauda es peor que la ausencia
+2
+
 del sistema. Lo que ese cálculo no puede ver —desde el horizonte temporal
 corto disponible— es que la eliminación del abono afecta principalmente a
 los sectores del soberano que más dependían de los mecanismos de exigencia
@@ -5135,12 +5138,11 @@ El libertarismo latinoamericano del siglo XXI es también un fenómeno que
 el libro tendrá oportunidad de examinar con mayor profundidad en la Parte
 III, cuando examine el populismo hispanoamericano: ambos son respuestas
 al mismo fraude annona del Estado latinoamericano, desde posiciones
-predicantes simtétricamente opuestas. El populismo dice: el Estado
-defraudó; necesitamos un Estado mejor que cumpla el abono. El
-libertarismo dice: el Estado defraudó; necesitamos eliminar el abono del
-contrato. Ambos tienen en común la correcta identificación del fraude
-annona del Estado latinoamericano; las diferencias son sobre la conclusión
-correcta.
+predicantes simétricamente opuestas. El populismo dice: el Estado defraudó;
+necesitamos un Estado mejor que cumpla el abono. El libertarismo dice: el
+Estado defraudó; necesitamos eliminar el abono del contrato. Ambos tienen
+en común la correcta identificación del fraude annona del Estado
+latinoamericano; las diferencias son sobre la conclusión correcta.
 
 VII.
 La guillotina de Hume en el libertarismo adopta la forma más lógicamente
@@ -5151,7 +5153,7 @@ El puente que Nozick usa es la teoría de la propiedad como extensión de la
 persona: así como nadie puede usar tu cuerpo para sus propios fines sin tu
 consentimiento, nadie puede usar el fruto de tu trabajo —que es una
 extensión de tu cuerpo— para sus propios fines sin tu consentimiento. La
-
+redistribución forzada equivale al trabajo forzado: si el Estado te quita el
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5161,12 +5163,11 @@ A.C.
 
 ERIS
 
-redistribución forzada equivale al trabajo forzado: si el Estado te quita el
 30% de tu trabajo para darlo a otros, está haciendo que trabajes el 30% de tu
 tiempo para esos otros sin tu consentimiento. Ese argumento es
 lógicamente impecable dentro del marco que Nozick establece.
 
-2
+3
 
 El cruce de la guillotina está en el paso previo: el IS de que los individuos
 tienen derechos a la propiedad no puede ser derivado sin el OUGHT de que
@@ -5187,7 +5188,7 @@ del liberalismo y la más honesta sobre lo que propone: la eliminación de la
 categoría de abono positivo del contrato fiscal. Puede concluir que esa
 honestidad revela la estructura de fraude annona que toda la familia liberal
 producía con el lenguaje del abono: el libertarismo hace visible que lo que el
-liberalismo clásico, el capitalismo y el neoliberalismo ofrecian como abono
+liberalismo clásico, el capitalismo y el neoliberalismo ofrecían como abono
 era siempre un abono contingente, sin mecanismo de garantía, transferible
 al mercado o simplemente diferido indefinidamente. Puede concluir que la
 coerción del mercado que el libertarismo no puede ver es tan real como la
@@ -5252,17 +5253,7 @@ ERIS
 
 dentro del marco liberal es exactamente lo que la auditoría reconoce como
 el avance de Nozick sobre sus predecesores.
-2 El argumento de Nozick sobre el impuesto como trabajo forzado aparece
-en el Capítulo 7 de Anarchy, State, and Utopia. La formulación: gravar las
-ganancias del trabajo es paría con el trabajo forzado; la diferencia es que en
-el trabajo forzado el Estado decide cómo usar tu tiempo, mientras que en el
-impuesto el Estado decide cómo usar el fruto de tu tiempo. En ambos casos,
-alguien distinto a ti dispone de parte de tu trabajo sin tu consentimiento. La
-respuesta rawlsiana —que el acuerdo hipotético detrás del Velo justifica la
-redistribución— es la que Nozick rechaza al inicio: los acuerdos hipotéticos
-no crean obligaciones reales. Texto citado: Nozick, Anarchy, State, and
-Utopia, capítulo sobre tributación.
-3 La conexión entre el libertarismo argentino de Milei y la posición
+2 La conexión entre el libertarismo argentino de Milei y la posición
 predicante del acreedor que fue sistemáticamente defraudado tiene un
 antecedente en la literatura sobre los orígenes del apoyo popular a los
 programas de ajuste estructural en América Latina. Stokes, Susan. Mandates
@@ -5273,8 +5264,16 @@ cualquier cosa parece mejor que la hiperinflación o la crisis fiscal. Ese mismo
 mecanismo —la respuesta racional al fraude acumulado desde un horizonte
 temporal corto— opera en la elección del libertarismo en contextos de crisis
 fiscal crónica.
-
-3
+3 El argumento de Nozick sobre el impuesto como trabajo forzado aparece
+en el Capítulo 7 de Anarchy, State, and Utopia. La formulación: gravar las
+ganancias del trabajo es análogo al trabajo forzado; la diferencia es que en el
+trabajo forzado el Estado decide cómo usar tu tiempo, mientras que en el
+impuesto el Estado decide cómo usar el fruto de tu tiempo. En ambos casos,
+alguien distinto a ti dispone de parte de tu trabajo sin tu consentimiento. La
+respuesta rawlsiana —que el acuerdo hipotético detrás del Velo justifica la
+redistribución— es la que Nozick rechaza al inicio: los acuerdos hipotéticos
+no crean obligaciones reales. Texto citado: Nozick, Anarchy, State, and
+Utopia, capítulo sobre tributación.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5320,9 +5319,9 @@ Museo Británico leyendo los informes de los inspectores de fábricas ingleses.
 No las teorías sobre el capitalismo: los registros de las condiciones reales de
 trabajo en las industrias textiles, mineras y manufactureras de la economía
 más avanzada del mundo. Niños de cinco años trabajando doce horas
-diarias. Adultos que murían de enfermedades pulmonares antes de los
-cuarenta. Accidentes maquinaria que dejaban lisiados a los trabajadores sin
-compensación. Mientras Marx leía esos informes, Friedrich Engels
+diarias. Adultos que morían de enfermedades pulmonares antes de los
+cuarenta. Accidentes de maquinaria que dejaban lisiados a los trabajadores
+sin compensación. Mientras Marx leía esos informes, Friedrich Engels
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -5362,7 +5361,7 @@ examinó.
 La crítica de Marx al liberalismo es la contribución más importante al
 análisis del contrato fiscal que el siglo XIX produjo: la identificación de que
 los derechos liberales —la libertad, la igualdad, la propiedad— no son
-derechos universales sino derechos que sistemaáticamente protegen los
+derechos universales sino derechos que sistemáticamente protegen los
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5407,7 +5406,7 @@ El cargo del contrato materialista histórico es exigido al ego individual: la
 cesión de su segunda mediación a la organización de la clase, la disciplina
 que la pertenencia al partido o al movimiento requiere, el riesgo personal de
 la actividad política revolucionaria o clandestina, y —en los contextos de
-realización— la sujección al Estado de la dictadura del proletariado durante
+realización— la sujeción al Estado de la dictadura del proletariado durante
 la fase de transición. El ego individual que paga ese cargo no tiene ningún
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5435,7 +5434,7 @@ el partido o el movimiento que interpreta lo que la clase necesita. Esa
 mediación no es accidental; es estructuralmente necesaria porque la clase
 como sujeto histórico no puede hablar por sí misma —el ego individual que
 la compone puede estar en falsa conciencia. Alguien tiene que interpretar la
-voluntad auténtica de la clase. Y ese intérprete —el partido, el vanguardia, el
+voluntad auténtica de la clase. Y ese intérprete —el partido, la vanguardia, el
 teórico que comprende el sentido de la historia— tiene el poder de definir
 en qué consiste el abono sin que la clase pueda auditarlo, porque la
 posibilidad de que la clase lo audite requiere que la clase haya alcanzado la
@@ -5480,7 +5479,7 @@ proyecto de la clase. El ego individual que se niega —que prefiere el
 sindicalismo reformista al comunismo revolucionario, o que defiende su
 identidad nacional sobre la solidaridad de clase, o que simplemente quiere
 trabajar sin comprometerse políticamente— no está ejerciendo su segunda
-mediación; está víctima de la falsa conciencia que la ideología burguesa le
+mediación; es víctima de la falsa conciencia que la ideología burguesa le
 impuso. Ese mecanismo hace imposible que el ego individual que disiente
 sea reconocido como acreedor auténtico del contrato de la clase: su
 disidencia es el síntoma de que todavía no ha pagado completamente el
@@ -5514,10 +5513,10 @@ dictadura del proletariado es la fase de transición entre el capitalismo y el
 comunismo. Durante esa fase, el Estado proletario centraliza los medios de
 producción, suprime la resistencia burguesa y crea las condiciones para que
 el Estado «se marchite» cuando las clases hayan desaparecido. Esa fase —
-que Marx describio como transitoria sin especificar cuánto duraría—
+que Marx describió como transitoria sin especificar cuánto duraría—
 produce la asimetría temporal más extrema del materialismo histórico: el
 ego individual que vive durante la dictadura del proletariado paga el cargo
-de la sujección al Estado en el presente; el abono llegará cuando el Estado se
+de la sujeción al Estado en el presente; el abono llegará cuando el Estado se
 marchite y la sociedad sin clases sea alcanzada. La duración de la espera es
 indeterminada. Quien determina si la dictadura del proletariado todavía es
 necesaria es el partido que la ejerce.
@@ -5590,13 +5589,13 @@ A.C.
 
 ERIS
 
-revolucionaria que el proyecto comunista requeria. Esa predicción fue
+revolucionaria que el proyecto comunista requería. Esa predicción fue
 falsificada por la historia: el proletariado de los países capitalistas más
 avanzados —Inglaterra, Alemania, Francia, los Estados Unidos— no
 produjo la revolución que la teoría predecía. Se integró gradualmente al
 capitalismo a través del sindicalismo reformista y la social democracia. Las
 revoluciones que se produjeron ocurrieron en países preindustriales o
-semiperifEricos —Rusia, China, Cuba, Vietnam— donde el proletariado
+semiperiféricos —Rusia, China, Cuba, Vietnam— donde el proletariado
 industrial era una minoría pequeña.
 
 2
@@ -5686,7 +5685,7 @@ de la voluntad de la clase es la consecuencia lógica de la combinación de las
 premisas del materialismo histórico, no una distorsión del marxismo que el
 leninismo introdujo. Y puede concluir que la inevitabilidad histórica que
 Marx usa para evitar la guillotina de Hume produce una obligación
-normativa tan fuerte como cualquier deber deontólogico.
+normativa tan fuerte como cualquier deber deontológico.
 No puede concluir que el diagnóstico del capitalismo que el materialismo
 histórico produce es incorrecto: la identificación del fraude annona liberal
 como estructural, el análisis de la alienación, la descripción de la
@@ -5851,7 +5850,7 @@ opción de la disidencia, el derecho a expresar preferencias políticas distinta
 de las del partido, la posibilidad de organizarse fuera de las estructuras del
 Estado. El cargo que el soberano soviético pagó fue más completo que el
 cargo que el soberano hobbesiano pagó al Leviathan, porque el Leviathan al
-menos reconocía el derecho de autodefensa cuando el Estado amenzaba
+menos reconocía el derecho de autodefensa cuando el Estado amenazaba
 directamente la vida. El Estado soviético no reconoció ese límite.
 El abono prometido era la liberación de la humanidad: la sociedad sin
 clases, el «de cada quien según sus capacidades, a cada quien según sus
@@ -5878,7 +5877,7 @@ nomenklatura —la lista de posiciones cuyo nombramiento requiría la
 aprobación del partido— constituyó una clase de facto que disfrutaba de
 privilegios inaccesibles para la mayoría del soberano: acceso a bienes escasos,
 vivienda de calidad superior, atención médica especializada, educación
-preferencial para sus hijos. Milovan Djilas, vice presidente de la Yugoslavia
+preferencial para sus hijos. Milovan Djilas, vicepresidente de la Yugoslavia
 comunista, lo llamó la «nueva clase» en 1957. El análisis de Djilas es
 exactamente la descripción del fraude annona de la captura selectiva del
 retorno: el monopolio económico fue administrado por la nomenklatura en
@@ -5931,9 +5930,9 @@ El monopolio de la economía —nacionalización, colectivización, Holodomor
 —. La nacionalización de los bancos y la industria comenzó en las semanas
 siguientes a la Revolución. El Consejo Económico Supremo (VSNKh) fue
 establecido en diciembre de 1917. La colectivización forzada de la
-agricultura (1929-1933) representó la extensión del monopolio económico al
+agricultura (1929–1933) representó la extensión del monopolio económico al
 sector que había escapado de la nacionalización inmediata. El Holodomor
-—la hambruna ucraniana de 1932-33, en la que murieron entre 3,5 y 7
+—la hambruna ucraniana de 1932–1933, en la que murieron entre 3,5 y 7
 millones de personas— es la expresión más extrema del fraude annona en el
 monopolio económico: el Estado continuó exportando grano mientras la
 población campesina ucraniana moría de hambre. Los campesinos que
@@ -5942,11 +5941,11 @@ alimentación— porque el Estado interceptó el producto entre el cargo y el
 abono. El Holodomor no fue el resultado de la incompetencia del sistema:
 fue el resultado del monopolio económico operando con la lógica que ese
 monopolio produce cuando está combinado con el monopolio de la
-violencia —para impedir la huida— y el monopolio de la narrativa —para
+violencia —para impedir la huida— y el monopolio de la narrativa— para
 hacer invisible la hambruna en el marco de referencia del soberano
 externo.
 
-3
+2
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -5964,12 +5963,12 @@ captura del contrato fiscal.
 El monopolio de la violencia producía el arresto y el encarcelamiento: la
 Cheka y sus sucesoras tenían el poder de detener sin orden judicial y de
 condenar a campos de trabajo a través de procedimientos administrativos
-que no requerían proceso judicial. En la cima del Gran Terror (1937-38), las
+que no requerían proceso judicial. En la cima del Gran Terror (1937–1938), las
 «troikas» —paneles de tres funcionarios— procesaban cientos de casos por
 día.
 El monopolio de la narrativa producía las categorías jurídicas bajo las que el
 arresto era posible: la actividad «contrarrevolucionaria», el «sabotaje», la
-«agitación antisovidtica». Esas categorías eran lo suficientemente amplias
+«agitación antisoviética». Esas categorías eran lo suficientemente amplias
 para incluir cualquier expresión de disidencia, cualquier asociación con
 personas ya detenidas, o simplemente el hecho de pertenecer a una categoría
 social que el partido hubiera decidido que era peligrosa —los kulaks, los
@@ -5982,7 +5981,7 @@ el soberano que pasaba por el Gulag pagaba era literalmente su trabajo,
 extraído bajo condiciones que producían tasas de mortalidad elevadas. El
 abono era la supervivencia, si se producía.
 
-2
+3
 
 V.
 La disforia de identidad colectiva que el socialismo soviético produjo fue la
@@ -6008,16 +6007,16 @@ alternativa —la identidad nacional ucraniana, báltica, georgiana, chechena
 —; el monopolio de la economía hacía que la supervivencia material
 requiriera integración en las estructuras del Estado soviético.
 La evidencia más importante sobre el alcance de esa operación no está en lo
-que logró sino en lo que no logró. La re-emergencia rápida de las
-identidades nacionales, religiosas y comunitarias después de 1991 —que fue
-en muchos casos inmediata y masiva— es la evidencia de que la disforia de
-identidad colectiva soviética no había borrado las identidades que había
-suprimido. Las había empujado al fue colectivo —al pasado que persiste en la
-segunda mediación aunque no pueda expresarse en el presente— donde
+que logró sino en lo que no logró. La reemergencia rápida de las identidades
+nacionales, religiosas y comunitarias después de 1991 —que fue en muchos
+casos inmediata y masiva— es la evidencia de que la disforia de identidad
+colectiva soviética no había borrado las identidades que había suprimido.
+Las había empujado al fue colectivo —al pasado que persiste en la segunda
+mediación aunque no pueda expresarse en el presente— donde
 permanecieron durante setenta años esperando las condiciones para volver a
-la superficie. La velocidad con que esas identidades re-emergieron después de
+la superficie. La velocidad con que esas identidades reemergieron después de
 1991 es inversamente proporcional a la eficacia del monopolio de la
-narrativa: lo que el Estado soviético no pudo errasar en setenta años con los
+narrativa: lo que el Estado soviético no pudo borrar en setenta años con los
 tres monopolios combinados.
 ***
 
@@ -6106,13 +6105,13 @@ soberano que lo pagó y el soberano que debía recibirlo como abono. Puede
 concluir que la nomenklatura fue la nueva clase que capturó selectivamente
 el retorno del monopolio económico, reproduciendo en el socialismo
 soviético la captura selectiva del retorno que el capitalismo que el socialismo
-reemplazó había producido. Y puede concluir que la rápida re-emergencia
-de las identidades suprimidas después de 1991 es la evidencia del fue colectivo
+reemplazó había producido. Y puede concluir que la rápida reemergencia de
+las identidades suprimidas después de 1991 es la evidencia del fue colectivo
 que los setenta años del régimen no pudieron borrar.
-No puede concluir que el socialismo soviético no produjo ningun avance
+No puede concluir que el socialismo soviético no produjo ningún avance
 real para el soberano: la alfabetización masiva, la industrialización, la
 derrota del fascismo y ciertos niveles de igualdad material son avances reales
-que la auditoría registeró. Tampoco puede concluir que el socialismo
+que la auditoría registró. Tampoco puede concluir que el socialismo
 soviético fue la única forma posible de realizar el marxismo: hay debates
 históricos sólidos sobre ese punto que la auditoría no puede resolver. Y no
 puede concluir que el fraude annona del socialismo soviético es de la misma
@@ -6136,7 +6135,7 @@ quienes administraban los monopolios.
 Notas
 1 Djilas, Milovan. The New Class: An Analysis of the Communist System,
 1957. Djilas fue uno de los fundadores del Partido Comunista de Yugoslavia y
-vice presidente del gobierno de Tito. Su análisis de la nomenklatura como
+vicepresidente del gobierno de Tito. Su análisis de la nomenklatura como
 una nueva clase propietaria —que no posee formalmente los medios de
 producción pero los controla y extrae beneficios de ellos de manera
 equivalente a la clase propietaria capitalista— es uno de los análisis críticos
@@ -6144,20 +6143,20 @@ del marxismo realizados desde adentro más importantes del siglo XX. Fue
 condenado a prisión por publicarlo. El análisis de Djilas anticipa con
 precisión lo que la auditoría de Eris llama la captura selectiva del retorno
 por parte del administrador del monopolio económico.
-2 El Gulag fue formalmente establecido como Dirección Principal de
+2 El Holodomor —hambre en ucraniano— sigue siendo objeto de debate
+histórico y político sobre su clasificación como genocidio. La auditoría de
+Eris no toma posición en ese debate; describe el mecanismo que el episodio
+ilustra: el Estado mantuvo las requisas y las restricciones de movimiento
+mientras la población padecía hambre. La documentación sobre las
+decisiones de abastecimiento, los informes del OGPU y las exportaciones
+puede consultarse en R. W. Davies y S. G. Wheatcroft, The Years of Hunger:
+Soviet Agriculture, 1931–1933 (Palgrave Macmillan, 2004), y en el
+documento del OGPU “Спецсообщение … о порче экспортного зерна”, 23
+de septiembre de 1933, catálogo de documentos históricos rusos. La
+interpretación de esa evidencia como diseño estructural es la lectura de Eris.
+3 El Gulag fue formalmente establecido como Dirección Principal de
 Campos de Trabajo Correctivo y Colonias en 1930. Las estimaciones sobre el
 número de personas que pasaron por el sistema varían entre 14 y 18 millones
-durante todo su período de operación. La obra de referencia sobre el sistema
-es Applebaum, Anne. Gulag: A History, 2003 (Premio Pulitzer). Los
-registros que se abrieron parcialmente después de 1991 permiten una
-documentación más precisa que la que estaba disponible anteriormente. La
-mortalidad en el sistema fue alta y variable: en períodos de mayor represión
-y durante la Segunda Guerra Mundial, las tasas de mortalidad anual
-superaron el 20%. Referencia editorial: Applebaum, Gulag: A History.
-3 El Holodomor —hambre en ucraniano— sigue siendo objeto de debate
-histórico y político sobre si debe ser clasificado como genocidio o como
-crimen de masa. La auditoría de Eris no toma posición en ese debate;
-describe el mecanismo del fraude annona que el evento ilustra: el Estado con
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6168,13 +6167,13 @@ A.C.
 
 ERIS
 
-el monopolio de la economía y el monopolio de la violencia exportó grano e
-impidió la huida de la población mientras ésta moría de hambre. La prueba
-de que fue el monopolio operando como diseño y no la incompetencia del
-sistema es que el Estado era perfectamente consciente de las tasas de
-mortalidad y no modificó su política de exportación: los informes internos
-del OGPU documentan la hambruna con precisión mientras los
-funcionarios continuaban ejecutando las cuotas de exportación.
+durante todo su período de operación. La obra de referencia sobre el sistema
+es Applebaum, Anne. Gulag: A History, 2003 (Premio Pulitzer). Los
+registros que se abrieron parcialmente después de 1991 permiten una
+documentación más precisa que la que estaba disponible anteriormente. La
+mortalidad en el sistema fue alta y variable: en períodos de mayor represión
+y durante la Segunda Guerra Mundial, las tasas de mortalidad anual
+superaron el 20%. Referencia editorial: Applebaum, Gulag: A History.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6264,7 +6263,7 @@ que sus condiciones materiales producirían eventualmente. Esa innovación
 hizo al marxismo relevante para las tres cuartas partes de la población
 mundial que vivía en sociedades agrarias en 1950.
 Mao también identificó correctamente el fraude annona que el socialismo
-soviético producía: la captura del retorno por la nueva clase burocrAtica. Su
+soviético producía: la captura del retorno por la nueva clase burocrática. Su
 crítica al «revisionismo soviético» —que el partido comunista de la URSS
 se había convertido en una nueva clase explotadora bajo cobertura socialista
 — era en sus términos un análisis del fraude annona de la nomenklatura
@@ -6310,10 +6309,10 @@ las cadenas del pasado incorrecto. Ese abono es simultáneamente colectivo
 ego que ya no está capturado por los Cuatro Viejos.
 La línea de masas (qunzhong luxian) como el mecanismo de mediación
 entre el partido y las masas merece descripción específica porque es la
-formulación teórica más sofisticada de la relación entre el vanguardia y el
+formulación teórica más sofisticada de la relación entre la vanguardia y el
 soberano que el materialismo histórico ha producido. La línea de masas
 describe un proceso en que el partido recoge las ideas dispersas y
-asistematicas de las masas, las concentra y sistematiza desde el punto de vista
+asistemáticas de las masas, las concentra y sistematiza desde el punto de vista
 del marxismo-leninismo, y las devuelve a las masas como ideas correctas.
 Ese proceso se repite hasta que las masas tienen la conciencia necesaria. La
 línea de masas parece democrática —el partido escucha a las masas— pero
@@ -6328,7 +6327,7 @@ Las cuatro formas en que el maoísmo produce fraude annona de manera
 estructural:
 Primera forma: la línea de masas como sistematización que impone su
 marco. La doctrina maoísta de la línea de masas establece que el partido
-debe recoger las ideas de las masas, concentrarlas y devolveiónarlas
+debe recoger las ideas de las masas, concentrarlas y devolverlas
 sistematizadas. Pero la sistematización no es neutral: el partido que organiza
 las ideas de las masas las organiza desde el marco teórico del marxismoleninismo-maoísmo. No hay sistematización sin un principio organizador,
 y el principio organizador es el del partido. Las ideas de las masas que no
@@ -6349,7 +6348,7 @@ general: el partido que recoge las ideas de las masas y las sistematiza es el
 equivalente del legislador que recoge la voluntad de todos y la purifica hasta
 que se convierte en la voluntad general.
 Segunda forma: la Revolución Cultural como intento de transformar el fue
-colectivo. La Revolución Cultural Proletaria (1966-1976) fue el experimento
+colectivo. La Revolución Cultural Proletaria (1966–1976) fue el experimento
 más explícito de la historia política moderna de usar el poder del Estado
 para transformar el fue colectivo: el sedimento del pasado que vive en la
 segunda mediación colectiva como la fuente de la que emergen los valores,
@@ -6360,23 +6359,23 @@ identifica como la segunda mediación colectiva sedimentada. La
 destrucción de los templos, el cierre de las universidades, la persecución de
 los intelectuales, el envío de los jóvenes educados al campo: esos no eran
 actos de violencia irracionales. Eran los instrumentos de una operación
-teóricamente coherente de errasar el fue incorrecto para que la segunda
+teóricamente coherente de borrar el fue incorrecto para que la segunda
 mediación del soberano pudiera ser reescrita desde el Pensamiento Mao
 Zedong.
 Tercera forma: el Gran Salto Adelante como monopolio económico sin
-retroalimentación. El Gran Salto Adelante (1958-1962) es el caso más extremo
-de lo que el monopolio económico produce cuando se combina con el
-monopolio de la narrativa de manera que ninguna información negativa
-pueda llegar al núcleo del poder. Mao ordenó la colectivización acelerada de
-la agricultura y la industrialización a través de los hornos de acero en los
-patios traseros. Los cuadros del partido informaban de éxitos que no
-existían; los campesinos que se quedaban sin herramientas agrícolas porque
-habían sido fundidas para producir acero de baja calidad no tenían ningún
-mecanismo de exigencia del contrato disponible. La hambruna que siguió
-mató entre 30 y 45 millones de personas. Es la hambruna más grande de la
-historia en números absolutos. El monopolio de la narrativa que impedía
-que la información sobre la hambruna llegara al centro del poder no fue
-una falla del sistema: fue el sistema funcionando según su diseño.
+retroalimentación. El Gran Salto Adelante (1958–1962) es el caso más
+extremo de lo que el monopolio económico produce cuando se combina
+con el monopolio de la narrativa de manera que ninguna información
+negativa pueda llegar al núcleo del poder. Mao ordenó la colectivización
+acelerada de la agricultura y la industrialización a través de los hornos de
+acero en los patios traseros. Los cuadros del partido informaban de éxitos
+que no existían; los campesinos que se quedaban sin herramientas agrícolas
+porque habían sido fundidas para producir acero de baja calidad no tenían
+ningún mecanismo de exigencia del contrato disponible. La hambruna que
+siguió mató entre 30 y 45 millones de personas. Es la hambruna más grande
+de la historia en números absolutos. El monopolio de la narrativa que
+impedía que la información sobre la hambruna llegara al centro del poder
+no fue una falla del sistema: fue el sistema funcionando según su diseño.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6389,20 +6388,20 @@ A.C.
 
 ERIS
 
-Cuarta forma: las variantes como reductio ad absurdum del principio del
+Cuarta forma: las variantes como reductio ad absurdum del principio de la
 vanguardia. Sendero Luminoso en Perú y los Jemeres Rojos en Camboya
 son las realizaciones más extremas del principio maoísta fuera de China.
 Sendero Luminoso, fundado por el profesor de filosof ía universitaria
 Abimael Guzmán («Presidente Gonzalo»), aplicó el maoísmo a las
 comunidades campesinas andinas con resultados que ilustran con precisión
-el fraude annona del vanguardia: el partido que entiende el sentido de la
+el fraude annona de la vanguardia: el partido que entiende el sentido de la
 historia mejor que las comunidades que supuestamente representaba
 masacró a esas comunidades cuando no se alinearon con su proyecto. Los
 Jemeres Rojos llevaron el principio del «Año Cero» —la destrucción total
 del fue colectivo y el comienzo desde cero— a su conclusión más extrema: la
 despoblación de las ciudades, la destrucción de toda la infraestructura
 intelectual, y el genocidio de aproximadamente una cuarta parte de la
-población de Camboya. El fraude annona del vanguardia en su forma más
+población de Camboya. El fraude annona de la vanguardia en su forma más
 pura: el cargo pagado fue la vida; el abono prometido fue la sociedad sin
 clases que no se produjo.
 
@@ -6445,8 +6444,8 @@ segunda mediación del soberano que no corresponde a la historia correcta.
 Segundo movimiento · Auditoría de la posición predicante
 V.
 Mao Zedong predicó el maoísmo desde la posición del hijo de un campesino
-próspero de Hunin que vivió la humillación de China por las potencias
-occidentales y japonés y que construyó el Partido Comunista Chino desde la
+próspero de Hunan que vivió la humillación de China por las potencias
+occidentales y Japón y que construyó el Partido Comunista Chino desde la
 base hasta el poder en un proceso que duró veintiocho años. Esa posición le
 dio acceso a dos dimensiones que sus predecesores marxistas no tenían: la
 especificidad del campesinado chino como sujeto político y la especificidad
@@ -6455,7 +6454,7 @@ Desde esa posición, la innovación del campesino como sujeto revolucionario
 era correcta y necesaria: sin incluir al campesinado en el proyecto
 revolucionario, ninguna transformación era posible en China. Y la
 identificación del «revisionismo soviético» como una nueva forma de
-captura por una clase burocrática era agiuda y, en sus términos generales,
+captura por una clase burocrática era aguda y, en sus términos generales,
 correcta.
 El punto ciego de la posición predicante de Mao fue el que produce todos los
 fraudes annona del materialismo histórico en sus realizaciones: la
@@ -6539,7 +6538,7 @@ partido que entiende el sentido de la historia. Esa es exactamente la
 predicación con jurisdicción exhaustiva que Nikómachos declara imposible:
 ninguna predicación localizada obtiene jurisdicción sobre el ser del
 soberano en su totalidad. El fracaso de la Revolución Cultural en borrar el
-fue colectivo chino —que re-emergïo en distintas formas después de 1976 y
+fue colectivo chino —que reemergió en distintas formas después de 1976 y
 cuya huella es visible en la China contemporánea— es la evidencia empírica
 de ese límite.
 
@@ -6592,11 +6591,11 @@ teórica más elaborada del rol del intérprete inauditable: el partido que
 en la fase de sistematización, sin que las masas puedan verificar si la
 sistematización representó fielmente lo que expresó. Texto consultado: Mao,
 “Some Questions Concerning Methods of Leadership”.
-2 Las estimaciones de la mortalidad del Gran Salto Adelante varían
-significativamente según la fuente. Los historiadores que han tenido acceso
-más amplio a los archivos chinos, como Frank Dikkoter (Mao's Great
-Famine, 2010), estiman entre 45 y 55 millones de muertos. Otros
-historiadores, como Jasper Becker (Hungry Ghosts, 1996), dan estimaciones
+2 Las estimaciones de la mortalidad del Gran Salto Adelante varían según la
+fuente y el método. Frank Dikötter, Mao’s Great Famine (2010), estima al
+menos 45 millones de muertes; otras investigaciones ofrecen cifras menores
+o intervalos distintos, por lo que no hay base suficiente para llamar «más
+ampliamente aceptado» a un rango único de 30 a 45 millones. Véanse la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6607,22 +6606,22 @@ A.C.
 
 ERIS
 
-similares. Las fuentes chinas oficiales han reconocido la hambruna pero han
-minimizado la cifra. El rango más ampliamente aceptado en la literatura
-académica es entre 30 y 45 millones. La enorme incertidumbre en las
-estimaciones es en sí misma una consecuencia del monopolio de la
-narrativa: los registros del período fueron manipulados sistemáticamente
-para ocultar la escala de la catástrofe. Para la discusión de cifras: The China
-Quarterly, “Dealing with Responsibility for the Great Leap Famine”.
-3 La teoría maoísta de las contradicciones —On Contradiction, 1937— es el
-texto teórico central del maoísmo. La distinción entre contradicciones
-antagonistas —entre el pueblo y sus enemigos, que deben ser resueltas por la
-fuerza— y contradicciones no antagonistas —dentro del pueblo, que
-pueden ser resueltas por la crítica y autocrítica— es el marco que la
-Revolución Cultural usó para justificar la violencia contra los intelectuales,
-los cuadros del partido y los campesinos que no se alinearon con la línea
-correcta: fueron reclasificados como contradicciones antagonistas, lo que
-autorizó la fuerza.
+discusión de cifras en The China Quarterly, “Dealing with Responsibility
+for the Great Leap Famine” y las estimaciones comparadas allí citadas. La
+incertidumbre de los registros es relevante para la auditoría del monopolio
+narrativo; la afirmación de manipulación sistemática se refiere a la
+interpretación de Eris.
+3 On Contradiction (1937) desarrolla la teoría maoísta de las contradicciones
+y el lugar del antagonismo. La distinción política específica entre
+contradicciones «entre nosotros y el enemigo» y contradicciones «en el
+seno del pueblo» se formula en On the Correct Handling of Contradictions
+Among the People (discurso del 27 de febrero de 1957, publicado ese año). La
+Revolución Cultural recurrió a esa distinción para justificar la violencia
+contra intelectuales, cuadros del partido y campesinos que no se alineaban
+con la línea correcta: al reclasificarlos como enemigos, autorizaba el uso de
+la fuerza. La atribución de esa operación a la Revolución Cultural es la
+interpretación de este capítulo. Textos: On Contradiction y On the Correct
+Handling of Contradictions Among the People.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -6658,7 +6657,7 @@ El 18 de marzo de 1938, Lázaro Cárdenas transmitió por radio su discurso de
 expropiación petrolera. No era un decreto técnico sobre la transferencia de
 activos: era el acto que canalizaba la energía acumulada de una generación
 entera en un gesto que el soberano mexicano podía ver, tocar y sentir como
-suyo. Al día siguiente, mujeres de todo el país se formó en fila frente a las
+suyo. Al día siguiente, mujeres de todo el país se formaron en fila frente a las
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -6841,7 +6840,7 @@ ERIS
 Cuarta tendencia: la asimetría temporal de la transformación prometida. El
 populismo promete la transformación de las condiciones estructurales del
 contrato: la redistribución del abono, el fin del privilegio de la oligarquía, la
-construccion de un Estado que sirva al pueblo. Esa promesa tiene un
+construcción de un Estado que sirva al pueblo. Esa promesa tiene un
 horizonte temporal largo. En el ínterin, el soberano acepta condiciones que
 pueden incluir el debilitamiento de las instituciones que protegerían su
 capacidad de exigencia del contrato —los tribunales independientes, los
@@ -6860,7 +6859,7 @@ las tendencias estructurales con grados diferentes de intensidad y con
 resultados distintos en términos del contrato fiscal. El análisis distingue
 entre ellos porque el instrumento del contrato fiscal no produce monolitos
 sino gradientes.
-Cárdenas (México, 1934-1940): La matriz. La expropiación petrolera y la
+Cárdenas (México, 1934–1940): La matriz. La expropiación petrolera y la
 distribución de tierra entregaron abonos reales al soberano campesino y
 obrero que la Revolución había prometido. El cardenismo también creó las
 estructuras corporativas —CTM, CNC, CNOP— que capturaron la segunda
@@ -6869,7 +6868,7 @@ que gobernó México setenta años fue construido sobre esas estructuras. El
 abono real del cardenismo fue el cargo del priismo: la energía del soberano
 que declaró el default del Porfiriato se convirtió en el sustrato del que el PRI
 extrajo su legitimidad durante tres generaciones.
-Chávez (Venezuela, 1999-2013): La intensificación. El Caracazo de 1989 —la
+Chávez (Venezuela, 1999–2013): La intensificación. El Caracazo de 1989 —la
 represión de la protesta popular contra el ajuste neoliberal de Carlos Andrés
 Pérez, que dejó cientos de muertos— produjo al soberano venezolano que
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -6896,8 +6895,8 @@ proceso de consolidación.
 
 2
 
-El kirchnerismo (Argentina, 2003-2015, 2019-2023): La variante más
-institucional. Nestor Kirchner llegó al poder después del colapso de 2001 —
+El kirchnerismo (Argentina, 2003–2015, 2019–2023): La variante más
+institucional. Néstor Kirchner llegó al poder después del colapso de 2001 —
 el default soberano, los corralitos, los piquetes, los cacerolazos— y usó el
 crecimiento económico del ciclo de precios altos para pagar una parte del
 abono que el soberano argentino llevaba décadas esperando: la reducción de
@@ -6908,7 +6907,7 @@ debilitamiento de los instrumentos de corrección del contrato —el control
 del INDEC, la presión sobre el poder judicial, la polarización como
 instrumento de gobierno— reproduce la misma tendencia estructural con
 menor intensidad.
-El humanismo mexicano (2018-2024): La variante democrática. La Cuarta
+El humanismo mexicano (2018–2024): La variante democrática. La Cuarta
 Transformación que propuso Andrés Manuel López Obrador llegó al poder
 con la energía acumulada de dos décadas de oposición y con la promesa de
 transformar el contrato que el PRI y el PAN habían administrado con
@@ -6944,21 +6943,23 @@ Cárdenas predicó desde la posición del militar michoacano que conoció la
 guerra civil desde adentro y que entendía el campesinado como la clase
 social que había hecho la Revolución sin recibir sus frutos. Desde esa
 posición, el ejido era la solución correcta: la forma de propiedad que
-devolveria a las comunidades lo que el Porfiriato les había quitado. El punto
+devolvería a las comunidades lo que el Porfiriato les había quitado. El punto
 ciego era el largo plazo institucional: las estructuras corporativas que
 Cárdenas construyó para movilizar a ese campesinado se convertirían en los
 instrumentos del PRI para capturar su segunda mediación durante tres
 generaciones.
-Chávez predicó desde la posición del oficial del ejército que había visto el
-Caracazo desde adentro —presentó su renuncia al gobierno que ordenó la
-represión— y que había intentado el golpe de 1992 como declaración de
-default. Esa posición le daba acceso directo a la energía del soberano que
-había declarado el default del puntofijismo, y le daba el instrumento del
-petróleo como mecanismo de entrega del abono. El punto ciego de esa
-posición fue la dependencia estructural del abono en el precio del petróleo:
-cuando ese precio bajó, el sistema que había construido el abono sobre esa
-renta no tenía alternativa porque los mecanismos de corrección ya habían
-sido debilitados.
+Chávez predicó desde la posición del oficial del ejército. Según su testimonio
+de 1998, durante el Caracazo estaba de reposo en su casa y observó desde allí
+2
+
+los hechos. Después intentó el golpe de 1992 como declaración de default.
+Esa posición le daba acceso directo a la energía del soberano que había
+declarado el default del puntofijismo, y le daba el instrumento del petróleo
+como mecanismo de entrega del abono. El punto ciego de esa posición fue la
+dependencia estructural del abono en el precio del petróleo: cuando ese
+precio bajó, el sistema que había construido el abono sobre esa renta no
+tenía alternativa porque los mecanismos de corrección ya habían sido
+debilitados.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7072,9 +7073,9 @@ default legítimo en nuevo fraude annona. Y puede concluir que la familia
 del populismo hispanoamericano no es un monolito: produce resultados
 muy diferentes según la intensidad de la consolidación de los tres
 monopolios.
-No puede concluir que el populismo hispanoamericano no entrego abonos
+No puede concluir que el populismo hispanoamericano no entregó abonos
 reales al soberano que había sido excluido de los contratos anteriores: los
-entrego, y esa entrega fue en muchos casos la primera vez que esos soberanos
+entregó, y esa entrega fue en muchos casos la primera vez que esos soberanos
 recibieron algo del contrato que hasta entonces solo les había cobrado el
 cargo. Tampoco puede concluir que Cárdenas, Chávez, los Kirchner y López
 Obrador son el mismo sistema: las diferencias en la intensidad de los
@@ -7113,22 +7114,22 @@ en algo distinto de un cargo: sigue siendo la transferencia de la segunda
 mediación al proyecto del líder. Fuente institucional: Archivo General de la
 Nación, expropiación petrolera y Fomento Cívico, donativos para la
 indemnización.
-2 El Caracazo (27-28 de febrero de 1989) fue la respuesta de la población
-venezolana al paquete de ajuste económico que Carlos Andrés Pérez
-implementó dos semanas después de ser electo en una campaña que lo había
-opuesto al FMI. La represión dejó entre 300 y 3,000 muertos (las cifras varían
-según la fuente). Hugo Chávez, que era teniente coronel en ese momento, se
-negó a participar en la represión. El Caracazo es el momento que produce la
-energía del default que el chavismo capturaría nueve años después. La
-conexión entre el default del puntofijismo y la elección de Chávez en 1998 es
-el ejemplo más claro de la dinámica que el epígrafe de este capítulo describe.
-Fuente institucional: Corte Interamericana de Derechos Humanos, caso
-Caracazo.
+2 El Caracazo ocurrió el 27 y 28 de febrero de 1989, casi tres meses después de
+la elección de Carlos Andrés Pérez y unas tres semanas después de que
+asumiera la presidencia. La represión estatal dejó muertos y desaparecidos; la
+sentencia de la Corte Interamericana documenta la responsabilidad estatal y
+las violaciones, pero no respalda por sí sola una cifra única ni la situación
+individual de Chávez. En una entrevista de 1998, Chávez dijo que estaba
+asignado a Miraflores, pero que durante esas dos semanas estaba de reposo en
+su casa y observó los hechos desde allí; por eso la nota afirma que, según ese
+testimonio, no participó, sin describirlo como una negativa a cumplir una
+orden. Fuentes: Corte Interamericana, El Caracazo vs. Venezuela y César
+Miguel Rondón, entrevista a Hugo Chávez (1998), especialmente la
+respuesta sobre el 27 de febrero.
 3 El caso del TIPNIS (Territorio Indígena y Parque Nacional Isidoro Sécure)
 en Bolivia es paradigmático: el gobierno de Evo Morales —el primer
 presidente indígena de Bolivia, elegido con la energía del soberano indígena
 que había declarado el default del neoliberalismo boliviano— reprimió en
-2011 la marcha indígena que se opuso a la construcción de una carretera a
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7139,6 +7140,7 @@ A.C.
 
 ERIS
 
+2011 la marcha indígena que se opuso a la construcción de una carretera a
 través del TIPNIS. Las comunidades que se opusieron fueron acusadas de ser
 instrumentos del imperialismo y la derecha, reproduciendo exactamente la
 gramática rousseauniana: el pueblo auténtico apoya el proyecto del líder; el
@@ -7308,13 +7310,12 @@ Ese abono no puede ser entregado dentro del marco del contrato fiscal —
 por definición, porque el contrato fiscal es exactamente la institución que el
 anarquismo quiere destruir. El problema que ese abono produce para la
 auditoría de Eris es su inoperabilidad histórica: en ninguna realización
-histórica del proyecto anarquista —ni en Cataluña en 1936, ni en la Ucrania
-de Majnó, ni en ninguna otra— la destrucción del Estado produjo las
-comunidades de ayuda mutua que la teoría prometió como reemplazo.
+2
 
-III.
-Las cuatro formas en que el anarquismo produce fraude annona de manera
-estructural —no desde la teoría, que es la más coherente de las tradiciones
+histórica del proyecto anarquista— ni en Cataluña en 1936 , ni en la
+Ucrania de Majnó, ni en ninguna otra— la destrucción del Estado produjo
+las comunidades de ayuda mutua que la teoría prometió como reemplazo.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7324,6 +7325,9 @@ A.C.
 
 ERIS
 
+III.
+Las cuatro formas en que el anarquismo produce fraude annona de manera
+estructural —no desde la teoría, que es la más coherente de las tradiciones
 examinadas, sino desde sus realizaciones y desde sus consecuencias
 estructurales:
 Primera forma: el vacío de poder como recurso de los más organizados. La
@@ -7333,8 +7337,8 @@ actor con mayor capacidad organizativa y mayor disposición a usar la
 violencia en el espacio que el Estado ocupó. En cada realización histórica
 donde el anarquismo logró destruir o debilitar significativamente las
 instituciones del Estado, el resultado fue la ocupación de ese espacio por
-actores que no compartian los principios del anarquismo: el ejército rojo en
-Ucrania en 1921, el franquismo y el estalinismo en Cataluña en 1936-1939. La
+actores que no compartían los principios del anarquismo: el ejército rojo en
+Ucrania en 1921, el franquismo y el estalinismo en Cataluña en 1936–1939. La
 razón es estructural: la organización jerárquica permite la coordinación a
 escalas que la asociación libre voluntaria no puede igualar en el corto plazo
 que la crisis del poder estatal produce. El anarquismo que destruye el Estado
@@ -7353,11 +7357,7 @@ jerarquías que rechaza. La ayuda mutua de Kropotkin es un principio valioso
 para las comunidades pequeñas; no es un principio de organización
 suficiente para la producción de energía, comunicaciones, o defensa a la
 escala de una nación moderna.
-Tercera forma: la contradicción interna de la organización revolucionaria.
-El movimiento anarquista, para ser efectivo, requiere organización.
-Bakunin mismo lideró sociedades secretas —la Alianza de la Democracia
-Socialista— que operaban con una estructura jerárquica que contradecía
-explícitamente los principios que la alianza declaraba defender. La
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7367,6 +7367,11 @@ A.C.
 
 ERIS
 
+Tercera forma: la contradicción interna de la organización revolucionaria.
+El movimiento anarquista, para ser efectivo, requiere organización.
+Bakunin mismo lideró sociedades secretas —la Alianza de la Democracia
+Socialista— que operaban con una estructura jerárquica que contradecía
+explícitamente los principios que la alianza declaraba defender. La
 fraternidad secreta de los revolucionarios que debían destruir las jerarquías
 era ella misma una jerarquía, con Bakunin como su jefe no electivo. Esa
 contradicción —que el movimiento para destruir la jerarquía requiere
@@ -7385,22 +7390,17 @@ porque son jerárquicos priva al trabajador del único instrumento que en la
 historia ha demostrado ser capaz de negociar con el empleador desde una
 posición de poder comparable. El anarquista que rechaza el voto priva al
 soberano del único mecanismo disponible para influir en el Estado sin uso
-de la violencia. Esa prívación beneficia siempre al actor que no rechazó esos
+de la violencia. Esa privación beneficia siempre al actor que no rechazó esos
 instrumentos: el empleador que mantiene su organización, el partido que
 mantiene su estructura electoral, el Estado que mantiene su monopolio de la
 violencia.
 
 IV.
-La controversia entre Bakunin y Marx en la Primera Internacional
-(1864-1872) es el debate más importante del pensamiento político del siglo
-XIX porque puso en conflicto las dos respuestas posibles al fraude annona del
+La controversia entre Bakunin y Marx en la Primera Internacional (1864–
+1872) es el debate más importante del pensamiento político del siglo XIX
+porque puso en conflicto las dos respuestas posibles al fraude annona del
 capitalismo: tomar el Estado o destruirlo. La victoria de Marx —Bakunin
-fue expulsado de la Internacional en 1872— tuvo consecuencias que el siglo
-XX ilustró con la precisión que solo la historia puede producir.
-Bakunin argumentó que si los socialistas tomaban el Estado, el Estado los
-corrompería: los instrumentos del poder son más fuertes que las intenciones
-de quien los usa. Cualquier grupo que controle el monopolio de la violencia,
-el monopolio de la narrativa y el monopolio de la economía usará esos
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7410,13 +7410,19 @@ A.C.
 
 ERIS
 
+fue expulsado de la Internacional en 1872— tuvo consecuencias que el siglo
+XX ilustró con la precisión que solo la historia puede producir.
+Bakunin argumentó que si los socialistas tomaban el Estado, el Estado los
+corrompería: los instrumentos del poder son más fuertes que las intenciones
+de quien los usa. Cualquier grupo que controle el monopolio de la violencia,
+el monopolio de la narrativa y el monopolio de la economía usará esos
 instrumentos para perpetuarse, independientemente de la ideología que
 declare. La «dictadura del proletariado» sería la dictadura del partido que
 hablara en nombre del proletariado, y ese partido usaría el Estado para
 dominar al proletariado con la misma eficiencia con que la burguesía lo
 había usado antes.
 
-2
+3
 
 Marx argumentó que sin tomar el Estado, la revolución no tendría
 instrumentos para defender sus logros contra la reacción burguesa. La
@@ -7438,12 +7444,6 @@ Segundo movimiento · Auditoría de la posición predicante
 V.
 Bakunin predicó desde la posición del aristocórata ruso que experimentó las
 revoluciones europeas de 1848 desde adentro, que fue prisionero del zarismo
-y que dedicó el resto de su vida a la revolución después de haber
-experimentado directamente lo que el Estado hace cuando quiere mantener
-el orden.
-Desde esa posición —el que experimentó el poder del Estado en su forma
-más coercitiva y sobrevivió para contar cómo funciona—, la conclusión
-anarquista era inevitable: el Estado es siempre y en toda circunstancia el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7454,6 +7454,12 @@ A.C.
 
 ERIS
 
+y que dedicó el resto de su vida a la revolución después de haber
+experimentado directamente lo que el Estado hace cuando quiere mantener
+el orden.
+Desde esa posición —el que experimentó el poder del Estado en su forma
+más coercitiva y sobrevivió para contar cómo funciona—, la conclusión
+anarquista era inevitable: el Estado es siempre y en toda circunstancia el
 instrumento de la dominación. No hay reforma que lo corrija porque el
 problema no está en quién lo usa sino en el instrumento mismo. La posición
 predicante de Bakunin le daba un acceso que pocos teóricos políticos del
@@ -7481,12 +7487,6 @@ entre empleadores y trabajadores, entre propietarios e inquilinos, entre
 acreedores y deudores— produce sus propias formas de coerción que no
 pasan por el monopolio formal de la violencia del Estado. El trabajador que
 «libremente» acepta condiciones de trabajo miserables porque las
-alternativas son peores no está siendo coercionado por el Estado: está siendo
-coercionado por la estructura del mercado. La destrucción del Estado sin
-transformación simultánea de las relaciones de mercado produce el
-reemplazo de la coerción estatal por la coerción del mercado, que opera sin
-los límites legales —imperfectos pero existentes— que los estados
-democráticos con movimiento obrero organizado habían producido.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7497,6 +7497,12 @@ A.C.
 
 ERIS
 
+alternativas son peores no está siendo coercionado por el Estado: está siendo
+coercionado por la estructura del mercado. La destrucción del Estado sin
+transformación simultánea de las relaciones de mercado produce el
+reemplazo de la coerción estatal por la coerción del mercado, que opera sin
+los límites legales —imperfectos pero existentes— que los estados
+democráticos con movimiento obrero organizado habían producido.
 Bakunin era consciente de esa tensión —su anarcocomunismo incluyó la
 abolición de la propiedad privada junto con la abolición del Estado— pero
 el punto ciego persiste en la pregunta de cómo se produce esa doble
@@ -7523,14 +7529,7 @@ real no produce el OUGHT de que la eliminación inmediata del Estado
 produce algo mejor sin el argumento adicional de que lo que llena el vacío es
 menos dominador que el Estado —y ese argumento adicional es
 exactamente lo que la historia no apoya.
-Nikómachos aplica con precisión: Bakunin predica desde la posición del que
-experimentó el zarismo y del que leyó la filosof ía del anarquismo. La
-predicación de que toda autoridad política debe ser destruida tiene la
-claridad y la consistencia de una predicación que sabe exactamente desde
-dónde predica. Lo que no puede ver desde esa posición —y lo que
-Nikómachos no le puede dar— es la perspectiva del soberano que en la
-ausencia del Estado no experimenta la libertad que el anarquismo prometió
-sino la dominación del actor más organizado y más violento disponible.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7539,6 +7538,15 @@ A.C.
 EL CONTRATO FISCAL
 
 ERIS
+
+Nikómachos aplica con precisión: Bakunin predica desde la posición del que
+experimentó el zarismo y del que leyó la filosof ía del anarquismo. La
+predicación de que toda autoridad política debe ser destruida tiene la
+claridad y la consistencia de una predicación que sabe exactamente desde
+dónde predica. Lo que no puede ver desde esa posición —y lo que
+Nikómachos no le puede dar— es la perspectiva del soberano que en la
+ausencia del Estado no experimenta la libertad que el anarquismo prometió
+sino la dominación del actor más organizado y más violento disponible.
 
 VIII.
 Lo que la auditoría puede y no puede concluir sobre el anarquismo de
@@ -7565,12 +7573,6 @@ organización colectiva. Tampoco puede concluir que las alternativas al
 anarquismo —tomar el Estado, reformarlo, democratizarlo— resuelven el
 fraude annona que Bakunin identificó: los capítulos anteriores han
 documentado que tampoco lo hacen. Y no puede concluir que la solución de
-Bakunin es «peor» en algún sentido absoluto que las alternativas: es más
-peligrosa en el corto plazo del vacío de poder; puede ser más liberadora en
-las escalas donde la coordinación voluntaria funciona; y es teóricamente la
-más coherente con el diagnóstico correcto del problema.
-***
-
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7579,6 +7581,12 @@ A.C.
 EL CONTRATO FISCAL
 
 ERIS
+
+Bakunin es «peor» en algún sentido absoluto que las alternativas: es más
+peligrosa en el corto plazo del vacío de poder; puede ser más liberadora en
+las escalas donde la coordinación voluntaria funciona; y es teóricamente la
+más coherente con el diagnóstico correcto del problema.
+***
 
 Notas
 1 La predicción de Bakunin sobre el marxismo en el poder está en su texto
@@ -7590,20 +7598,7 @@ corrompe absolutamente —aunque la segunda frase es de Lord Acton, no de
 Bakunin, la idea subyacente es la misma. La previsión fue confirmada con
 una precisión que el siglo XIX no podía probar pero que el XX demostró en
 detalle.
-2 El conflicto entre Bakunin y Marx en la Primera Internacional es uno de
-los debates más estudiados en la historia del pensamiento socialista. Los
-documentos centrales están en el archivo de la Internacional. El punto de
-mayor tensión fue la cuestión de la herencia: la Internacional de Bakunin,
-que promovía la abolición inmediata del derecho de herencia como parte de
-la abolición de la propiedad privada; Marx argumentó que eso era prematuro
-y contrario a la lógica del desarrollo histórico. La diferencia de fondo era
-sobre el rol del Estado en la transición: Bakunin lo rechazaba como
-instrumento de la transición; Marx lo requeria. Los dos estaban predicando
-desde posiciones distintas con accesos distintos y puntos ciegos distintos, y
-los dos tenían razones para el argumento que hacían. Referencias sobre la
-disputa de la herencia: historia de la Primera Internacional y informe de
-Bakunin sobre la herencia.
-3 La experiencia del anarquismo en Cataluña (1936-1939) es el caso histórico
+2 La experiencia del anarquismo en Cataluña (1936–1939) es el caso histórico
 más estudiado de una realización significativa del proyecto anarquista a
 mediana escala. Las colectivizaciones de las industrias y la agricultura en
 Cataluña produjeron resultados económicos que algunos historiadores —
@@ -7613,6 +7608,14 @@ franquismo y los comunistas estalinistas, que es exactamente el escenario
 que el primer hallazgo del primer movimiento de este capítulo describe: el
 vacío de poder producido por la destrucción de la autoridad estatal es
 aprovechado por los actores más organizados disponibles. La Cataluña
+anarquista no fue derrotada principalmente porque fallara
+económicamente; fue derrotada porque los actores que la rodeaban tenían
+mejor organización militar.
+3 El conflicto entre Bakunin y Marx en la Primera Internacional es uno de
+los debates más estudiados en la historia del pensamiento socialista. Los
+documentos centrales están en el archivo de la Internacional. El punto de
+mayor tensión fue la cuestión de la herencia: la Internacional de Bakunin,
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7622,11 +7625,15 @@ A.C.
 
 ERIS
 
-anarquista no fue derrotada principalmente porque fallara
-económicamente; fue derrotada porque los actores que la rodeaban tenían
-mejor organización militar.
-
-3
+que promovía la abolición inmediata del derecho de herencia como parte de
+la abolición de la propiedad privada; Marx argumentó que eso era prematuro
+y contrario a la lógica del desarrollo histórico. La diferencia de fondo era
+sobre el rol del Estado en la transición: Bakunin lo rechazaba como
+instrumento de la transición; Marx lo requería. Los dos estaban predicando
+desde posiciones distintas con accesos distintos y puntos ciegos distintos, y
+los dos tenían razones para el argumento que hacían. Referencias sobre la
+disputa de la herencia: historia de la Primera Internacional y informe de
+Bakunin sobre la herencia.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7675,7 +7682,7 @@ revoluciones distintas, separados por más de un siglo: el revolucionario que
 declaró el default del contrato anterior es eliminado por los que tomaron la
 energía de ese default para construir el contrato nuevo.
 
-3
+1
 
 Esos tres momentos no son traiciones individuales: son la expresión del
 patrón estructural que la Revolución Francesa, la Revolución Mexicana y la
@@ -7762,7 +7769,7 @@ reconocimiento de que lo que la Revolución produjo no es lo que prometió.
 
 Los tres casos · El patrón en las realizaciones
 II.
-La Revolución Francesa (1789-1799) es el caso que produce el patrón con
+La Revolución Francesa (1789–1799) es el caso que produce el patrón con
 mayor claridad teórica porque en ella los actores de cada operación están
 suficientemente diferenciados para que la secuencia sea visible sin
 superposición.
@@ -7783,11 +7790,11 @@ Terror, en que los jacobinos de ayer eran guillotinados por los jacobinos de
 hoy por no ser suficientemente puros. La segunda fase fue la captura
 termidoriana y napoleónica: el agotamiento del Terror produjo la reacción
 de quienes querían estabilidad, y Napoleón capturó la energía residual de la
-Revolución y la convertó en el motor del Imperio.
+Revolución y la convirtió en el motor del Imperio.
 
-1
+2
 
-El nuevo contrato napoeoníco entregó algunos de los abonos de la
+El nuevo contrato napoleónico entregó algunos de los abonos de la
 Revolución: el Código Napoleón codificó la igualdad ante la ley y la
 abolición de los privilegios feudales. Y produjo su propio fraude annona: la
 
@@ -7808,17 +7815,17 @@ prometido y el Imperio que la Revolución produjo quedó atrapado en la
 narrativa de que la Revolución había continuado en sus conquistas.
 
 III.
-La Revolución Mexicana (1910-1920s) es el caso más claro del patrón desde la
+La Revolución Mexicana (1910–1920s) es el caso más claro del patrón desde la
 perspectiva del soberano que declaró el default con mayor legitimidad y
 recibió el menor abono del nuevo contrato.
 La declaración de default del Porfiriato fue múltiple y simultánea: el Plan de
-San Luis Potosmí de Madero declaró el default político —el fraude electoral
+San Luis Potosí de Madero declaró el default político —el fraude electoral
 que reeligió a Díaz en 1910—; el Plan de Ayala de Zapata declaró el default
 agrario —la tierra que el Porfiriato había quitado a las comunidades
 campesinas—; el Plan de Guadalupe de Carranza declaró el default
 institucional —el golpe de Huerta contra el gobierno de Madero. Esas tres
 declaraciones correspondían a tres soberanos distintos con intereses
-distintos, y esa heterogeneidad fue tanto la fuerza de la Revolución —
+distintos, y esa heterogeneidad fue tanto la fuerza de la Revolución—
 movilizó a sectores muy distintos del soberano— como su talón de Aquiles
 para la captura.
 La captura de la energía revolucionaria fue una victoria del
@@ -7833,7 +7840,7 @@ para declarar el default del Porfiriato —el campesinado que había perdido la
 tierra— fue el que menos pudo capturar la energía que su declaración
 liberó.
 
-2
+3
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7876,8 +7883,8 @@ La captura bolchevique fue la más organizada y la más rápida de las tres
 revoluciones. Lenin y Trotsky habían pasado décadas preparando
 exactamente ese momento; el partido de cuadros profesionales que habían
 construido era el instrumento específico para capturar ese tipo de
-oportunidad. La disolucin de la Asamblea Constituyente en enero de 1918 —
-documentada en el Capítulo 12— fue la declaración explícita de que la
+oportunidad. La disolución de la Asamblea Constituyente en enero de 1918
+—documentada en el Capítulo 12— fue la declaración explícita de que la
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -7899,7 +7906,7 @@ revoluciones en algunos dominios: la alfabetización masiva, la
 industrialización, la victoria sobre el fascismo. Y produjo el fraude annona
 más completo en otros: la Cheka, el Gulag, el Holodomor, la
 nomenklatura. El duelo por la diferencia fue producido sistemáticamente
-por el monopolio de la narrativa durante setenta años y re-emergí de
+por el monopolio de la narrativa durante setenta años y reemergió de
 manera explosiva después de 1991, como el Capítulo 12 documentó.
 
 V.
@@ -7918,7 +7925,7 @@ actor que capturó la energía revolucionaria. El zapatismo tenía la
 declaración de default más legítima de la Revolución Mexicana y fue el que
 menos pudo determinar los términos del nuevo contrato. Los bolcheviques
 tenían la organización más efectiva y fueron los que más completamente
-definieron los términos del nuevo contrato ruso. Esa desconexion entre
+definieron los términos del nuevo contrato ruso. Esa desconexión entre
 legitimidad e influencia sobre el nuevo contrato es el fraude annona más
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -7935,7 +7942,7 @@ nuevo contrato son frecuentemente los que menos poder tienen para
 definirlo.
 La tercera consecuencia: el duelo por la diferencia entre lo que la
 Revolución prometió y lo que el nuevo contrato entrega es el mecanismo
-que perpetua el fraude annona del contrato revolucionario. El soberano que
+que perpetúa el fraude annona del contrato revolucionario. El soberano que
 no puede declarar el default del contrato que la propia Revolución instaló
 sin traicionar la Revolución queda atrapado en la stasis de la eutaxia que
 Kratos describió: la tendencia constitutiva hacia condiciones mejores no
@@ -7943,8 +7950,8 @@ puede convertirse en exigencia del nuevo contrato porque el nuevo contrato
 tiene la legitimidad de la Revolución. El default del contrato zarista produjo
 la Revolución de Octubre. El default del Gobierno Provisional produjo el
 mismo mes. Pero el default del contrato soviético no pudo producir nada sin
-producir la Controrrevolucin, que es exactamente lo que el monopolio de la
-narrativa había construido como el peor de los males. Ese bloqueo es el
+producir la Contrarrevolución, que es exactamente lo que el monopolio de
+la narrativa había construido como el peor de los males. Ese bloqueo es el
 duelo colectivo institucionalizado: la energía que la diferencia produce no
 puede convertirse en exigencia.
 ***
@@ -7956,11 +7963,11 @@ Los actores que capturaron la energía revolucionaria en los tres casos
 predicaron desde posiciones que les daban la ventaja organizativa sobre los
 que declararon el default con mayor legitimidad.
 Robespierre era un abogado que conocía el sistema legal del Antiguo
-Régimen y podía usarlo al revés. Carraneza era un hacendado norteño con
+Régimen y podía usarlo al revés. Carranza era un hacendado norteño con
 acceso a los recursos económicos y a la diplomacia norteamericana. Lenin
 había dedicado toda su vida adulta al estudio de cómo producir una
 revolución. Esas posiciones predicantes les daban algo que Zapata, los
-Girondinos y los marineros de Kronstadt no tenían: la compresión de los
+Girondinos y los marineros de Kronstadt no tenían: la comprensión de los
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -7973,7 +7980,7 @@ ERIS
 
 mecanismos del poder suficiente para capturar la energía revolucionaria y
 convertirla en un nuevo Estado.
-El punto ciego que esas posiciones predicantes compartian es simétrico: la
+El punto ciego que esas posiciones predicantes compartían es simétrico: la
 capacidad de ver cómo construir el nuevo poder cedía la visibilidad de lo que
 el nuevo poder hacía al soberano que lo legitimaba con su energía.
 Robespierre no podía ver —o no quería ver— que el Terror estaba
@@ -8028,25 +8035,25 @@ instrumento puede examinar, no con los que podría imaginar.
 ***
 
 Notas
-1 La guillotina de Danton en abril de 1794 y la ejecución de Robespierre en
-julio del mismo año en el Thermidor son los momentos que la
-historiografía clásica de la Revolución Francesa identifica como el
-agotamiento del Terror y la transición al Directorio. El análisis de Schama,
-Simon. Citizens: A Chronicle of the French Revolution, 1989, ofrece la
-descripción más vivida de la dinámica de la captura jacobina y el Thermidor.
-Para los propósitos de la auditoría de Eris, lo más importante es la precisión
-del patrón: Robespierre capturó la energía de la Revolución girondina; el
-Thermidor capturó la energía del agotamiento del Terror; Napoleón
-capturó la energía de la inestabilidad del Directorio. Cada captura es el
-default de la captura anterior, y el patrón se repite hasta que el actor final
-tiene suficiente organización para estabilizarlo.
-2 La muerte de Zapata en Chinameca el 10 de abril de 1919 fue una
-emboscada tendida por Carranza: el coronel Jesús Guajardo fingió haber
-desertado del ejército constitucionalista para unirse a Zapata, y Zapata fue a
-recibirlo. La traición es el término que la historiograf ía usa; el análisis del
-contrato fiscal lo describe de manera más precisa: el actor que había
-capturado la energía revolucionaria eliminaba al actor cuya declaración de
-default tenía mayor legitimidad porque ese actor era el que más claramente
+1 La apertura reúne tres momentos revolucionarios y remite a procesos
+distintos. Para la Revolución Francesa, véase Simon Schama, Citizens: A
+Chronicle of the French Revolution (1989), sobre el Terror, Thermidor y la
+transición al Directorio. El caso de Zapata se desarrolla en la nota 3. En
+Kronstadt, los marineros exigieron soviets libres, libertad de prensa para los
+partidos socialistas, el fin de los destacamentos de alimentos y la liberación
+de presos políticos socialistas. Trotsky los llamó «guardias blancos
+disfrazados»; la resolución de Petropávlovsk y su “A Last Warning”
+documentan, respectivamente, las demandas y la respuesta bolchevique:
+resolución de Petropávlovsk, 28 de febrero de 1921 y Trotsky, “A Last
+Warning”, 5 de marzo de 1921. La expresión «gloria y orgullo de la
+Revolución» se recoge en Alexander Berkman, The Kronstadt Rebellion,
+cap. V.
+2 La guillotina de Danton en abril de 1794 y la ejecución de Robespierre en
+julio del mismo año —el Thermidor— son momentos que la historiograf ía
+de la Revolución Francesa identifica con el agotamiento del Terror y la
+transición al Directorio. Simon Schama, Citizens: A Chronicle of the
+French Revolution (1989), ofrece un relato de la dinámica de la captura
+jacobina y el Thermidor. Para la auditoría de Eris, el foco está en el patrón
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8056,23 +8063,17 @@ A.C.
 
 ERIS
 
-podía haber declarado el default del nuevo contrato que Carranza estaba
-instalando. La resurrección de la energía zapatista en el EZLN el 1 de enero
-de 1994 es el retorno del duelo colectivo que el asesinato de Zapata encapsuló
-setenta y cinco años antes.
-3 La rebelión de Kronstadt en marzo de 1921 es el caso más documentado y
-debatido de la declaración de default del contrato soviético por parte del
-soberano que hizo la Revolución. Los marineros exigían soviets libres,
-libertad de prensa para todos los partidos socialistas, fin de los
-destacamentos de alimentos que saqueaban el campo, y la liberación de los
-presos políticos socialistas. Trotsky los llamó «guardias blancos
-disfrazados» —la operación del monopolio de la narrativa desacreditando
-la declaración de default como si viniera del enemigo. El aplastamiento de
-Kronstadt fue la decisión más reveladora del proceso revolucionario ruso: el
-Ejército Rojo, bajo el mando del hombre que había llamado a los marineros
-de Kronstadt la gloria de la Revolución, los aplastó cuando declararon el
-default del contrato que la Revolución había instalo. Fuente primaria
-relacionada: Trotsky, “A Last Warning”, 5 de marzo de 1921.
+interpretativo: cada captura transforma la energía del default anterior hasta
+que un actor logra estabilizarla.
+3 La muerte de Zapata en Chinameca, el 10 de abril de 1919, fue una
+emboscada tendida por Carranza: el coronel Jesús Guajardo fingió haber
+desertado del ejército constitucionalista para unirse a Zapata, y Zapata fue a
+recibirlo. La historiograf ía describe el episodio como una traición; el
+análisis del contrato fiscal lo interpreta como la eliminación, por parte del
+actor que capturó la energía revolucionaria, del actor cuya declaración de
+default tenía mayor legitimidad. La resurrección de la energía zapatista en
+el EZLN, el 1 de enero de 1994, es leída aquí como el retorno del duelo
+colectivo que el asesinato encapsuló setenta y cinco años antes.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8142,11 +8143,11 @@ El registro honesto de lo que el anarcocapitalismo avanzó sobre el
 libertarismo que el Capítulo 10 examinó es breve pero genuino.
 El anarcocapitalismo de Rothbard es más coherente que el libertarismo de
 Nozick porque lleva la premisa del Estado mínimo a su conclusión lógica: si
-el Estado que cobra impuestos para financiar la defensa es coerción, también
-lo es el Estado que cobra impuestos para financiar la defensa, por más
-mínimo que sea. El minarchismo de Nozick —el Estado mínimo—
-requiere una justificación de por qué la coerción mínima es aceptable
-cuando la coerción mayor no lo es. Rothbard señaló que esa justificación no
+cobrar impuestos para financiar la defensa constituye coerción, también la
+constituye el Estado mínimo, por limitada que sea esa función. El
+minarchismo de Nozick —el Estado mínimo— requiere una justificación
+de por qué la coerción mínima es aceptable cuando la coerción mayor no lo
+es. Rothbard señaló que esa justificación no puede sostenerse dentro de los
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8157,9 +8158,8 @@ A.C.
 
 ERIS
 
-puede sostenerse dentro de los propios términos del libertarismo: o la
-coerción es ilídima o no lo es. Si no lo es, el Estado mínimo es tan ilegítimo
-como cualquier otro Estado.
+propios términos del libertarismo: o la coerción es ilícita o no lo es. Si no lo
+es, el Estado mínimo es tan ilegítimo como cualquier otro Estado.
 El anarcocapitalismo también avanzó en la articulación del principio de noagresión (NAP) como el fundamento de todo el edificio moral: ninguna
 acción es legítima si implica la iniciación del uso de la fuerza contra otro
 individuo. Ese principio es, dentro de su sistema, la respuesta a la guillotina
@@ -8173,7 +8173,7 @@ La partida doble del anarcocapitalismo tiene una estructura que ninguno de
 los sistemas anteriores produjo con esa inversión específica.
 El cargo no es el impuesto ni la obediencia al Estado: el anarcocapitalismo
 elimina esos cargos formales. El cargo del contrato anarcocapitalista es la
-sujección al mercado sin la protección que el Estado —imperfectamente—
+sujeción al mercado sin la protección que el Estado —imperfectamente—
 proveyó. El soberano que vive en el anarcocapitalismo paga el cargo de la
 asimetría de poder del mercado sin el contrapeso institucional que el Estado
 de bienestar, los sindicatos legalmente protegidos y las regulaciones de
@@ -8189,6 +8189,7 @@ libertad del anarcocapitalismo tiene el mismo valor que la igualdad formal
 de Locke: existe como categoría y no como condición.
 La asimetría fundacional es lo que distingue al anarcocapitalismo de todos
 los sistemas anteriores como forma de captura selectiva del retorno. En los
+sistemas anteriores, el soberano podría identificar al capturador del retorno:
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8198,7 +8199,6 @@ A.C.
 
 ERIS
 
-sistemas anteriores, el soberano podria identificar al capturador del retorno:
 el Estado, el partido, la nomenklatura, la oligarquía. En el
 anarcocapitalismo, el capturador del retorno es el mercado, que es un
 mecanismo sin cara y sin responsabilidad. El soberano que no recibe el
@@ -8232,6 +8232,7 @@ el mercado. Pero el mercado no es el espacio neutral de la coordinación
 voluntaria que el anarcocapitalismo presenta: es el espacio en que los actores
 con mayor poder económico determinan los términos de los intercambios.
 Cuando el Estado deja de proporcionar salud, el mercado de la salud es
+llenado por los actores con mayor capacidad de operar en ese mercado: las
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8241,7 +8242,6 @@ A.C.
 
 ERIS
 
-llenado por los actores con mayor capacidad de operar en ese mercado: las
 aseguradoras, los hospitales privados, las farmacéuticas. Cuando el Estado
 deja de regular los precios del agua, el mercado del agua es llenado por los
 actores con mayor capacidad de controlar la infraestructura. La destrucción
@@ -8249,9 +8249,9 @@ del Estado no produce un vacío que la comunidad libre llena; produce un
 vacío que los actores ya organizados y ya poderosos llenan con sus propias
 lógicas de captura.
 Tercera forma: el principio de no-agresión como guillotina de Hume
-operativa. El NAP es la travestía más elegante de la guillotina de Hume que
-el pensamiento político ha producido: del IS de que la agresión —el inicio
-del uso de la fuerza— viola los derechos individuales al OUGHT de que
+operativa. El NAP es la travesía más elegante de la guillotina de Hume que el
+pensamiento político ha producido: del IS de que la agresión —el inicio del
+uso de la fuerza— viola los derechos individuales al OUGHT de que
 ninguna acción que no implique el inicio de la fuerza puede ser
 legítimamente prohibida. El puente es preciso: si los derechos son anteriores
 a cualquier acuerdo social, entonces la única violación de derechos es el
@@ -8275,6 +8275,7 @@ liberación. El soberano que ya no tiene acceso gratuito a la universidad
 pública es más «libre» que antes —el Estado ya no le impone sus
 instituciones—. El soberano que ya no tiene protección laboral es más
 «libre» para negociar sus condiciones de trabajo. Ese vocabulario es el
+monopolio de la narrativa más eficiente que el pensamiento político
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8285,7 +8286,6 @@ A.C.
 
 ERIS
 
-monopolio de la narrativa más eficiente que el pensamiento político
 moderno ha producido: no suprime las narrativas alternativas, las recodifica dentro de su propio sistema de referencia.
 
 IV.
@@ -8316,6 +8316,8 @@ que exigir: el deudor era el Estado y el Estado ya no existe. No tiene
 mecanismo colectivo de exigencia: los sindicatos fueron debilitados, los
 partidos reformistas carecen de instrumentos, los tribunales protegen la
 propiedad que el mercado distribuyó. La segunda mediación del soberano
+que quiere reclamar el abono que el antiguo contrato prometía —y que el
+anarcocapitalismo eliminó— no tiene a dónde dirigirse.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8326,8 +8328,6 @@ A.C.
 
 ERIS
 
-que quiere reclamar el abono que el antiguo contrato prometía —y que el
-anarcocapitalismo eliminó— no tiene a dónde dirigirse.
 ***
 
 Segundo movimiento · Auditoría de la posición predicante
@@ -8359,6 +8359,10 @@ una forma genuina de coerción. Pero produce el punto ciego de hacer
 invisible la otra forma: la coerción que opera a través de la estructura del
 campo económico sin necesitar amenazas explícitas.
 
+VI.
+Javier Milei predica desde una posición que tiene un acceso específico a algo
+que ningún economista acomodado de ningún país desarrollado puede ver
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8368,9 +8372,6 @@ A.C.
 
 ERIS
 
-VI.
-Javier Milei predica desde una posición que tiene un acceso específico a algo
-que ningún economista acomodado de ningún país desarrollado puede ver
 con la misma claridad: el fraude annona masivo y documentado del Estado
 argentino durante décadas.
 La inflación crónica, el cepo cambiario, la corrupción institucionalizada, la
@@ -8403,6 +8404,9 @@ estructura del anarcocapitalismo en el poder, que requiere exactamente los
 instrumentos que dice querer eliminar para producir la condición en que
 esos instrumentos ya no sean necesarios. El resultado más probable de esa
 contradicción —según el patrón documentado en el capítulo anterior— no
+es el anarcocapitalismo sino el Estado debilitado en sus funciones
+redistributivas y fortalecido en sus funciones de protección de la propiedad.
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8412,14 +8416,13 @@ A.C.
 
 ERIS
 
-es el anarcocapitalismo sino el Estado debilitado en sus funciones
-redistributivas y fortalecido en sus funciones de protección de la propiedad.
-
 VII.
 La conexión entre el anarcocapitalismo y los dos capítulos anteriores de la
 Parte IV completa el argumento de la parte y aporta la perspectiva que el
 capítulo requiere.
 El anarcocapitalismo resuelve el problema que Bakunin no pudo resolver:
+3
+
 quién llena el vacío. Bakunin no tenía respuesta porque no quería que
 ninguna jerarquía lo llenara. El anarcocapitalismo tiene la respuesta: el
 mercado. Pero el mercado no es la comunidad de ayuda mutua que Bakunin
@@ -8445,6 +8448,8 @@ Lo que la auditoría puede y no puede concluir sobre el anarcocapitalismo:
 Puede concluir que el anarcocapitalismo es la forma más sofisticada de
 captura selectiva del retorno que la historia política moderna ha producido:
 captura el retorno del contrato en favor del actor con mayor poder de
+mercado, sin deudor identificable, sin mecanismo de exigencia disponible
+
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
 
@@ -8454,7 +8459,6 @@ A.C.
 
 ERIS
 
-mercado, sin deudor identificable, sin mecanismo de exigencia disponible
 para el soberano que no recibe el abono, y bajo el vocabulario de la libertad
 que impide narrar la pérdida como pérdida. Puede concluir que la secuencia
 temporal de lo que se destruye primero en cualquier implementación real
@@ -8487,6 +8491,7 @@ visión permite exigir.
 Notas
 1 Rothbard, Murray N. Man, Economy, and State, 1962; The Ethics of
 Liberty, 1982. La formulación más precisa del argumento de Rothbard
+contra el Estado mínimo: si la violación de derechos es necesariamente el
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8497,7 +8502,6 @@ A.C.
 
 ERIS
 
-contra el Estado mínimo: si la violación de derechos es necesariamente el
 inicio de la fuerza, y si el Estado necesariamente cobra impuestos —que son
 cobros bajo amenaza de fuerza—, entonces el Estado mínimo es tan
 ilegítimo como cualquier otro Estado. El paso que Rothbard da sobre
@@ -8505,16 +8509,16 @@ Nozick es exactamente ese: llevar la premisa compartida a su conclusión
 lógica. La auditoría de Eris reconoce esa coherencia interna y señala el
 punto ciego que esa coherencia produce: la definición de la coerción como
 inicio de la fuerza hace invisible la coerción estructural del mercado.
-2 El experimento económico de Milei en Argentina (2023-) es el más
-ambicioso intento de aplicar principios anarcocapitalistas en el gobierno de
-un país grande en la historia. Sus resultados al momento de escritura de este
-libro son parciales y controversiales: la inflación descendió
-significativamente, el déficit fiscal fue eliminado, pero el costo social de las
-medidas de ajuste fue considerable para los segmentos de la población con
-menor poder de mercado. La auditoría de Eris no predice el resultado final
-del experimento: documenta el mecanismo estructural —la secuencia
-temporal de lo que se destruye primero— y lo sitúa en el mapa del contrato
-fiscal. Datos para la fecha de corte: INDEC y resultado fiscal oficial.
+2 El experimento económico del gobierno de Javier Milei en Argentina
+(iniciado en diciembre de 2023) se encontraba en curso al corte de esta nota,
+16 de enero de 2026. Para ese corte, el Ministerio de Economía informó para
+2025 un superávit financiero de 0,2% del PIB y un resultado primario de
+1,4%; el INDEC había informado para el primer semestre de 2025 una
+pobreza de 31,6% de las personas en los 31 aglomerados urbanos relevados.
+Son indicadores de dimensiones y períodos distintos, no una medida única
+del «costo social». Fuentes: resultado fiscal 2025, INDEC, pobreza del
+primer semestre de 2025 e índice de precios al consumidor. La auditoría de
+Eris no predice el resultado final del experimento.
 3 La conexión entre el anarcocapitalismo y el anarquismo de Bakunin es
 frecuentemente negada por ambas tradiciones: los anarquistas de izquierda
 consideran al anarcocapitalismo una contradicción en términos, porque el
@@ -8529,8 +8533,6 @@ disponible. Bakunin no sabía quién llenaría ese vacío. Rothbard lo sabía: e
 mercado. Y esa diferencia es la diferencia entre el fracaso anarquista y la
 efectividad anarcocapitalista como mecanismo de captura selectiva del
 retorno.
-
-3
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -8563,7 +8565,7 @@ bella». Ese es el problema que los diecisiete capítulos de este libro han
 examinado: el problema de quién tiene autoridad para decidir cuál sistema
 político es el más bello —el más correcto, el más justo, el que más fielmente
 cumple el contrato fiscal— y de qué produce esa autoridad. Hobbes dijo que
-la autoridad vienía del miedo al estado de naturaleza. Locke dijo que venía
+la autoridad venía del miedo al estado de naturaleza. Locke dijo que venía
 de los derechos naturales. Rousseau dijo que venía de la voluntad general.
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
@@ -8625,7 +8627,7 @@ los juicios morales considerados de Rawls, las leyes de la historia de Marx, el
 principio de no-agresión de Rothbard— y de esa descripción derivaron una
 obligación que el soberano no podía rechazar sin ser colocado fuera del
 campo político legítimo. Esa operación —del IS al OUGHT, con un puente
-que la posición predicante hacía invisible— es la travestía que Nikómachos
+que la posición predicante hacía invisible— es la travesía que Nikómachos
 prohíbe: ninguna predicación obtiene jurisdicción exhaustiva sobre el ser
 del soberano. La que lo reclama produce el marco dentro del cual el
 soberano ya no puede ver el fraude annona de ese sistema como fraude
@@ -8744,7 +8746,7 @@ A.C.
 
 ERIS
 
-requeria una decisión que nadie queria tomar abiertamente. La decisión la
+requería una decisión que nadie quería tomar abiertamente. La decisión la
 tomaron Afrodita, Hera y Atenea. El resultado fue la Guerra de Troya.
 La auditoría de Eris deja la misma manzana en el centro de la mesa y hace el
 mismo gesto de retiro. La pregunta que deja es la única que el análisis del
