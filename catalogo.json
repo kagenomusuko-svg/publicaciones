@@ -151,13 +151,13 @@
     "volume": "Volumen V",
     "author": "Miguel Hilario Olvera Aguilar",
     "year": 2026,
+    "doi": "10.5281/zenodo.19601228",
     "description": "Una teoría de escalas sobre el Estado, la soberanía, el contrato fiscal y la emergencia de la voluntad colectiva.",
     "cover": "reivindicacion-ontologica-del-ego/afrodita-areia/caelus/Portada.png",
     "pdf": "reivindicacion-ontologica-del-ego/afrodita-areia/caelus/build/afrodita-areia-vol-v-caelus.pdf",
     "format": "PDF",
     "sortOrder": 140,
     "slug": "afrodita-areia/vol-v",
-    "doi": "10.5281/zenodo.19601228",
     "_manifest": "reivindicacion-ontologica-del-ego/afrodita-areia/caelus/publicacion.json"
   },
   {
