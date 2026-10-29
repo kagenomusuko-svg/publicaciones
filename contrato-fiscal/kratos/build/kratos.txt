@@ -2808,11 +2808,11 @@ KRATOS
 
 Notas
 24 El juego de las máscaras o la disforia de la identidad, Capítulo II, «La
-disforia de la identidad». Allí se desarrolla la disforia en el nivel del ego
-individual. La extensión a la escala política que Kratos realiza preserva su
-estructura ontológica —el ego que opera desde el eje del campo capturador
-como si fuera el eje propio— y examina los mecanismos de estabilización
-adicionales que produce la escala colectiva.
+disforia de la identidad», desarrolla la disforia en el nivel del ego individual.
+Caelus la aplica a la escala estatal; véase Vol. V, Cap. 10, § V, «El Aego estatal:
+cuando el ego colectivo deja de crecer desde su eje», y nota 117. Kratos
+retoma esa aplicación y examina la disforia de identidad colectiva y sus
+mecanismos de estabilización específicos.
 25 El monopolio narrativo como mecanismo de producción de disforia
 tiene un antecedente en el análisis gramsciano de la hegemonía cultural: el
 poder que obtiene consentimiento y no depende únicamente de la coerción.
@@ -4829,14 +4829,14 @@ contrato en estado de default no implica necesariamente que la segunda
 mediación esté en disforia; un contrato sano no implica que la segunda
 mediación esté en asunción. Y es exactamente esa independencia la que hace
 al mapa necesario.
-Los siguientes cuadrantes son escenarios de referencia, no un inventario
+Los siguientes casos son escenarios de referencia, no un inventario
 exhaustivo de las nueve combinaciones posibles entre los tres estados del
 contrato y los tres estados de la segunda mediación colectiva.
 Contrato sano · Segunda mediación en asunción: Los niveles 1 y 2 son los
 instrumentos ordinarios del monitoreo permanente. Los niveles 3, 4 y 5
 están disponibles si algún elemento específico del contrato se deteriora, pero
-raramente son necesarios en el conjunto. La exigencia en este cuadrante es la
-más eficiente porque opera con el menor costo.
+raramente son necesarios en el conjunto. La exigencia en este caso es la más
+eficiente porque opera con el menor costo.
 Contrato estresado · Segunda mediación en estrés normalizado: Los niveles 1
 y 2 producen documentación del estrés. El nivel 3 es el mecanismo
 prioritario: la demanda colectiva específica tiene más posibilidades de
@@ -4849,8 +4849,8 @@ elección entre ellos depende de qué mecanismos de corrección han sido
 capturados y cuáles permanecen operativos.
 Contrato en default · Segunda mediación en disforia: Solo el nivel 1 es
 accesible desde la disforia sin riesgo de que el mecanismo sea capturado. El
-objetivo prioritario en este cuadrante no es la corrección inmediata del
-contrato sino la recuperación del eje de la segunda mediación que haría
+objetivo prioritario en este caso no es la corrección inmediata del contrato
+sino la recuperación del eje de la segunda mediación que haría accesibles los
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -4861,8 +4861,8 @@ A.C.
 
 KRATOS
 
-accesibles los niveles superiores. La exigencia que restaura el eje es la
-condición de la exigencia que corrige el contrato.
+niveles superiores. La exigencia que restaura el eje es la condición de la
+exigencia que corrige el contrato.
 
 V.
 El mapa del gradiente no es lineal. El soberano que ha usado el nivel 1
