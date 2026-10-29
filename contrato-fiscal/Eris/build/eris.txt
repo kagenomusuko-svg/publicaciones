@@ -530,7 +530,7 @@ constitutivamente a buscar. Pretende describir esa tendencia constitutiva —
 que es un 'ser'— y medir si los sistemas auditados se mueven en esa dirección
 o en la contraria —que es también un 'ser', una descripción de la dirección
 del movimiento. La evaluación que Eris produce es una comparación entre
-dos 'seres'— la tendencia del ego y la dirección del sistema — no un salto al
+dos 'seres' —la tendencia del ego y la dirección del sistema—, no un salto al
 'deber ser'. En ese sentido, la eutaxia utópica hace exactamente lo que Hume
 requiere que se haga: permanecer en la descripción sin pretender derivar la
 prescripción de ella.
@@ -937,8 +937,8 @@ ERIS
 No puede concluir que el sistema hobbesiano sea ontológicamente
 defectuoso —esa sería una predicación exhaustiva que excede la jurisdicción
 del instrumento. No puede concluir que Hobbes era una mala persona ni
-que tenía intenciones maliciosas— la posición predicante que produce el
-punto ciego no requiere ni evidencia malicia. No puede concluir que el
+que tenía intenciones maliciosas: la posición predicante que produce el
+punto ciego no requiere ni presupone malicia. No puede concluir que el
 Leviathan es necesariamente peor que las alternativas disponibles en todos
 los contextos históricos —Hobbes identificó un problema real y su solución
 puede haber sido la mejor disponible para la experiencia específica de la
@@ -1040,8 +1040,8 @@ Leviathan nació del miedo al estado de naturaleza; el Segundo Tratado
 nació de la experiencia de que el Estado puede ser corregido sin ser
 destruido.
 Esa diferencia de posición predicante produce diferencias enormes en el
-sistema resultante. También produce un fraude annona diferente — no el de
-la ausencia de mecanismo de exigencia, sino su complementario: el
+sistema resultante. También produce un fraude annona diferente: no el de la
+ausencia de mecanismo de exigencia, sino su complementario: el
 mecanismo de exigencia existe, pero solo opera sobre los derechos que el
 contrato reconoce, y el contrato reconoce los derechos sin garantizar las
 condiciones materiales para su ejercicio.
@@ -1220,7 +1220,7 @@ que el contrato llegue al default.
 Eso tiene dos consecuencias estructurales. La primera: el umbral para la
 corrección es muy alto. El soberano lockeano puede resistir solo cuando la
 violación del mandato es tan evidente que activa el consenso colectivo
-necesario para hacer efectiva la resistencia — y ese consenso requiere que la
+necesario para hacer efectiva la resistencia, y ese consenso requiere que la
 mayoría concuerde en que el Estado violó el mandato. El fraude annona que
 opera de manera gradual, que deteriora las condiciones del ejercicio de los
 derechos sin violarlos formalmente, que produce el estrés normalizado que
@@ -1230,7 +1230,7 @@ las condiciones.
 La segunda: el mecanismo de corrección disponible es todo o nada. O el
 Estado cumple el mandato y el contrato está vigente, o lo viola y el soberano
 puede resistir. No existe la opción de exigir la corrección de un
-incumplimiento específico dentro del marco del contrato — la opción que
+incumplimiento específico dentro del marco del contrato, la opción que
 Kratos llamó el nivel 3 del gradiente. El soberano lockeano que no está en
 condiciones de declarar la disolución del contrato no tiene mecanismo
 institucional para exigir la corrección gradual del fraude annona que vive.
@@ -1321,7 +1321,7 @@ VII.
 Locke cruza la guillotina de Hume en el punto más importante de su
 sistema: la teoría de la propiedad. El argumento es: el individuo mezcla su
 trabajo con la naturaleza (IS: esto ocurre) → adquiere el derecho a lo que
-mezcló (OUGHT: le pertenece). El puente es la ley natural — la voluntad de
+mezcló (OUGHT: le pertenece). El puente es la ley natural: la voluntad de
 Dios de que el trabajo humano sea premiado con la propiedad del producto.
 Esa ley natural es una premisa teológica que Locke no puede demostrar
 desde sus propias premisas sin circularidad: la ley natural existe porque Dios
@@ -1348,14 +1348,13 @@ distribución de la propiedad en cualquier Estado real no es el resultado de la
 teoría lockeana del trabajo. El puente que hace la travesía de la guillotina
 presupone exactamente lo que la travesía debería demostrar.
 Ese problema fue señalado con precisión por los críticos que vinieron
-después — desde Rousseau en el Discurso sobre la desigualdad hasta los
-análisis marxistas de la acumulación primitiva del capital. Lo que la
-auditoría de Eris añade a esas críticas es la descripción estructural del fraude
-annona que produce esa travesía: el contrato que protege la distribución
-como si fuera el resultado del trabajo cuando es el resultado del poder
-produce un abono que favorece sistemáticamente a quienes se beneficiaron
-del poder acumulado, y lo hace con el vocabulario que debería justificar lo
-contrario.
+después, desde Rousseau en el Discurso sobre la desigualdad hasta los análisis
+marxistas de la acumulación primitiva del capital. Lo que la auditoría de
+Eris añade a esas críticas es la descripción estructural del fraude annona que
+produce esa travesía: el contrato que protege la distribución como si fuera el
+resultado del trabajo cuando es el resultado del poder produce un abono que
+favorece sistemáticamente a quienes se beneficiaron del poder acumulado, y
+lo hace con el vocabulario que debería justificar lo contrario.
 
 VIII.
 Lo que la auditoría produce y lo que no puede producir:
@@ -1368,6 +1367,7 @@ diseña el sistema: la perspectiva del propietario que quiere proteger lo que
 tiene. Puede concluir que el mecanismo de exigencia del sistema lockeano
 —el derecho de resistencia— opera en el nivel máximo del gradiente sin los
 niveles previos, lo que produce un umbral de corrección muy alto y
+vulnerable al estrés normalizado. Puede concluir que la travesía de la
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1378,7 +1378,6 @@ A.C.
 
 ERIS
 
-vulnerable al estrés normalizado. Puede concluir que la travesía de la
 guillotina de Hume en la teoría de la propiedad produce un fraude annona
 específico: el contrato protege la distribución de la propiedad como si fuera
 el producto del trabajo cuando es en gran parte el producto del poder,
@@ -1411,6 +1410,7 @@ producirá un fraude annona diferente.
 Notas
 1 Locke, John. Two Treatises of Government, 1689, Segundo Tratado, Cap.
 II, §6: «El estado de naturaleza tiene una ley de naturaleza que lo gobierna,
+que obliga a todos; y la razón, que es esa ley, enseña a toda la humanidad,
 
 Centro Multidisciplinario Meriadock Formación y Asesoría
 A.C.
@@ -1421,7 +1421,6 @@ A.C.
 
 ERIS
 
-que obliga a todos; y la razón, que es esa ley, enseña a toda la humanidad,
 con solo consultarla, que siendo todos iguales e independientes, nadie debe
 dañar a otro en su vida, salud, libertad o posesiones.» La diferencia con
 Hobbes es constitutiva del sistema: si el estado de naturaleza tiene una ley
@@ -5891,7 +5890,7 @@ Las tres formas principales del fraude annona del socialismo soviético,
 examinadas a través del instrumento de los tres monopolios:
 El monopolio de la violencia —Cheka, diciembre de 1917—. La Comisión
 Extraordinaria Panrusa para Combatir la Contrarrevolución y el Sabotaje
-—la Cheka— fue creada el 20 de diciembre de 1917. Antes del inicio de la
+—la Cheka— fue creada el 20 de diciembre de 1917, antes del inicio de la
 guerra civil, que se data convencionalmente en 1918. Eso es lo que distingue
 la instalación del monopolio de la violencia soviético de la justificación que
 todos los Estados dan para sus aparatos de seguridad: la Cheka no fue creada
@@ -5941,9 +5940,9 @@ alimentación— porque el Estado interceptó el producto entre el cargo y el
 abono. El Holodomor no fue el resultado de la incompetencia del sistema:
 fue el resultado del monopolio económico operando con la lógica que ese
 monopolio produce cuando está combinado con el monopolio de la
-violencia —para impedir la huida— y el monopolio de la narrativa— para
-hacer invisible la hambruna en el marco de referencia del soberano
-externo.
+violencia —para impedir la huida— y con el monopolio de la narrativa —
+para hacer invisible la hambruna en el marco de referencia del soberano
+externo—.
 
 2
 
